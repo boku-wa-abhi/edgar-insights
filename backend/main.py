@@ -8,7 +8,7 @@ from xhtml2pdf import pisa  # For PDF generation
 
 app = FastAPI()
 
-DATA_DIR = '../data'
+DATA_DIR = '../data/processed'  # Use processed data for the application
 
 @app.get("/filings/{ticker}")
 def get_filings(ticker: str):

@@ -25,7 +25,7 @@ SECChronicle is a full-stack web application that allows users to explore SEC fi
 
 1. Navigate to the project root.
 2. Activate the virtual environment: `source venv/bin/activate`
-3. Install dependencies if needed: `pip install -r requirements.txt` (create this if not present)
+3. Install dependencies: `pip install -r requirements.txt`
 4. Run the server: `python backend/main.py`
 
 ### Frontend
@@ -43,7 +43,58 @@ SECChronicle is a full-stack web application that allows users to explore SEC fi
 
 ## Data Preparation
 
-Populate the `data/` directory with folders for each ticker, containing subfolders with `filing.json` (metadata) and `summary.json` (DeepSeek API summary).
+### Option 1: Quick Start with Sample Data (Recommended for Testing)
+
+1. **Create sample data**:
+   ```bash
+   python create_sample_data.py
+   ```
+
+   This will create sample SEC filing data for AAPL, DVLT, and RANI with realistic filing information and summaries.
+
+### Option 2: Automated Data Download
+
+1. **Configure tickers**: Edit `tickers.json` to specify which stock tickers you want to download data for:
+   ```json
+   ["AAPL", "DVLT", "RANI", "MSFT", "GOOGL"]
+   ```
+
+2. **Set up DeepSeek API** (optional, for AI summaries):
+   - Get an API key from [DeepSeek](https://platform.deepseek.com/)
+   - Set the environment variable: `export DEEPSEEK_API_KEY="your-api-key"`
+   - Or edit the `DEEPSEEK_API_KEY` variable in `download_data.py`
+
+3. **Run the download script**:
+   ```bash
+   python download_data.py
+   ```
+
+   This will:
+   - Download SEC filings for the last 6 months for each ticker
+   - Save filing metadata and documents in the `data/` directory
+   - Generate AI summaries (if DeepSeek API key is provided)
+   - Create the proper directory structure for the application
+
+   *Note: The download script may encounter compatibility issues with some versions of edgartools. Use the sample data option for immediate testing.*
+
+### Option 3: Manual Data Population
+
+Create the following directory structure in the project root:
+
+```
+data/
+├── AAPL/
+│   ├── filing1/
+│   │   ├── filing.json
+│   │   └── summary.json
+│   └── filing2/
+│       ├── filing.json
+│       └── summary.json
+└── MSFT/
+    └── filing1/
+        ├── filing.json
+        └── summary.json
+```
 
 ## Bonus Features (To Implement)
 

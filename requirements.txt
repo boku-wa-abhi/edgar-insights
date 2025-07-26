@@ -1,0 +1,7 @@
+fastapi==0.116.1
+uvicorn==0.35.0
+markdown==3.8.2
+xhtml2pdf==0.2.17
+edgartools==4.4.5
+requests==2.32.4
+python-dotenv==1.0.0
