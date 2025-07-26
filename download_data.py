@@ -1,358 +1,400 @@
 #!/usr/bin/env python3
 """
-SEC Filing Data Download Script for SECChronicle
-Downloads SEC filings and organizes them into folder structure
+SEC Filing Downloader using sec-edgar-downloader library
+Downloads SEC filings for specified tickers and organizes them in data/raw directory.
 """
 
-import json
 import os
-from datetime import datetime, timedelta
+import json
+import time
 from pathlib import Path
-from typing import List, Dict, Any
+from datetime import datetime, timedelta
+from sec_edgar_downloader import Downloader
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
 
-# Configuration
-DATA_DIR = "data"
-RAW_DATA_DIR = "data/raw"
-TICKERS_FILE = "tickers.json"
-USER_AGENT_EMAIL = os.getenv("USER_AGENT_EMAIL", "contact@example.com")
-USER_AGENT_NAME = os.getenv("USER_AGENT_NAME", "SECChronicle Data Scraper")
-
-class SECDataDownloader:
-    """Handles SEC data downloading and processing"""
-    
+class SECDownloader:
     def __init__(self):
-        self.setup_directories()
-        self.setup_edgar_identity()
+        # Get configuration from environment variables
+        self.company_name = os.getenv('COMPANY_NAME', 'Your Company Name')
+        self.email = os.getenv('EMAIL', 'your.email@example.com')
+        
+        # Set up directories
+        self.base_dir = Path(__file__).parent
+        self.raw_data_dir = self.base_dir / 'data' / 'raw'
+        self.raw_data_dir.mkdir(parents=True, exist_ok=True)
+        
+        # Initialize downloader
+        self.downloader = Downloader(self.company_name, self.email)
+        
+        # Date range for filings (last 6 months)
+        self.end_date = datetime.now().date()
+        self.start_date = self.end_date - timedelta(days=180)
+        
+        print(f"📊 SEC Filing Downloader initialized")
+        print(f"📅 Date range: {self.start_date} to {self.end_date}")
+        print(f"📁 Raw data directory: {self.raw_data_dir}")
     
-    def setup_directories(self):
-        """Create necessary directories"""
-        Path(DATA_DIR).mkdir(exist_ok=True)
-        Path(RAW_DATA_DIR).mkdir(exist_ok=True)
-    
-    def setup_edgar_identity(self):
-        """Set up EDGAR identity for API access"""
+    def load_tickers(self):
+        """Load ticker symbols from tickers.json"""
+        tickers_file = self.base_dir / 'tickers.json'
         try:
-            from edgar import set_identity
-            set_identity(f"{USER_AGENT_NAME} {USER_AGENT_EMAIL}")
-            print(f"✓ EDGAR identity set: {USER_AGENT_NAME} {USER_AGENT_EMAIL}")
-        except ImportError:
-            print("⚠ Warning: edgartools not available. Install with: pip install edgartools")
-            return False
-        return True
-    
-    def load_tickers(self) -> List[str]:
-        """Load tickers from JSON file"""
-        try:
-            with open(TICKERS_FILE, 'r') as f:
+            with open(tickers_file, 'r') as f:
                 tickers = json.load(f)
-            print(f"✓ Loaded {len(tickers)} tickers: {', '.join(tickers)}")
+            print(f"✅ Loaded {len(tickers)} tickers: {', '.join(tickers)}")
             return tickers
         except FileNotFoundError:
-            print(f"⚠ {TICKERS_FILE} not found. Creating default file...")
-            default_tickers = ["AAPL", "DVLT", "RANI"]
-            with open(TICKERS_FILE, 'w') as f:
-                json.dump(default_tickers, f, indent=2)
-            return default_tickers
+            print(f"❌ Error: {tickers_file} not found")
+            return []
+        except json.JSONDecodeError as e:
+            print(f"❌ Error parsing {tickers_file}: {e}")
+            return []
     
-    def download_filings_for_ticker(self, ticker: str) -> bool:
+    def download_filings_for_ticker(self, ticker):
         """Download filings for a specific ticker"""
-        try:
-            from edgar import Company
-            
-            print(f"\nProcessing ticker: {ticker}")
-            
-            # Get company
-            company = Company(ticker)
-            print(f"Company: {company.name}")
-            
-            # Calculate date range (last 6 months)
-            end_date = datetime.now()
-            start_date = end_date - timedelta(days=180)
-            
-            print(f"Fetching filings from {start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}")
-            
-            # Get filings with enhanced error handling for pyarrow
-            try:
-                # Try to get filings without date filter first to avoid pyarrow issues
-                all_filings = company.get_filings(form=['10-K', '10-Q', '8-K', 'DEF 14A'])
-                
-                # Convert to list safely
-                filings_list = []
-                try:
-                    # Try to iterate through filings safely
-                    for i, filing in enumerate(all_filings):
-                        if i >= 20:  # Limit to first 20 to avoid memory issues
-                            break
-                        filings_list.append(filing)
-                except Exception as iter_error:
-                    print(f"  ⚠ Error iterating filings: {iter_error}")
-                    # Try alternative access method
-                    try:
-                        if hasattr(all_filings, 'to_pandas'):
-                            df = all_filings.to_pandas()
-                            filings_list = df.head(20).to_dict('records')
-                        elif hasattr(all_filings, '__len__') and len(all_filings) > 0:
-                            # Try direct indexing
-                            for i in range(min(20, len(all_filings))):
-                                try:
-                                    filings_list.append(all_filings[i])
-                                except:
-                                    break
-                    except Exception as alt_error:
-                        print(f"  ⚠ Alternative access failed: {alt_error}")
-                        filings_list = []
-                
-                # Filter by date manually if we have filings
-                filtered_filings = []
-                for filing in filings_list:
-                    try:
-                        # Try to extract date safely
-                        filing_date = None
-                        if hasattr(filing, 'filing_date'):
-                            date_val = filing.filing_date
-                            if hasattr(date_val, 'to_pylist'):
-                                date_list = date_val.to_pylist()
-                                filing_date = date_list[0] if date_list else None
-                            else:
-                                filing_date = date_val
-                        
-                        if filing_date:
-                            if isinstance(filing_date, str):
-                                filing_date = datetime.strptime(filing_date, '%Y-%m-%d')
-                            if filing_date >= start_date:
-                                filtered_filings.append(filing)
-                                if len(filtered_filings) >= 10:
-                                    break
-                    except Exception as date_error:
-                        print(f"    ⚠ Error processing filing date: {date_error}")
-                        # Include filing anyway if we can't check date
-                        filtered_filings.append(filing)
-                        if len(filtered_filings) >= 10:
-                            break
-                
-                filings = filtered_filings[:10]  # Limit to 10 most recent
-                
-            except Exception as e:
-                print(f"  ⚠ Error getting filings: {e}")
-                filings = []
-            
-            print(f"Found {len(filings)} filings for {ticker}")
-            
-            if not filings:
-                print(f"  ⚠ No filings found for {ticker}")
-                return False
-            
-            # Create ticker directory in raw data
-            ticker_raw_dir = Path(RAW_DATA_DIR) / ticker
-            ticker_raw_dir.mkdir(exist_ok=True)
-            
-            # Process each filing
-            processed_filings = []
-            for i, filing in enumerate(filings[:10]):  # Limit to 10 filings
-                try:
-                    filing_data = self.process_filing(filing, company, ticker)
-                    if filing_data:
-                        processed_filings.append(filing_data)
-                        
-                        # Save individual filing to raw directory
-                        filing_filename = f"{filing_data['form']}_{filing_data['date']}_{filing_data['accession_number']}.json"
-                        filing_path = ticker_raw_dir / filing_filename
-                        
-                        with open(filing_path, 'w') as f:
-                            json.dump(filing_data, f, indent=2)
-                        
-                        print(f"  ✓ Saved {filing_data['form']} filing from {filing_data['date']}")
-                        
-                except Exception as e:
-                    print(f"  ⚠ Error processing filing {i+1}: {e}")
-                    continue
-            
-            if processed_filings:
-                # Generate basic timeline
-                self.create_basic_timeline(ticker, processed_filings)
-                print(f"✓ Completed {ticker} ({len(processed_filings)} filings processed)")
-                return True
-            else:
-                print(f"✗ No filings could be processed for {ticker}")
-                return False
-                
-        except Exception as e:
-            print(f"✗ Error processing ticker {ticker}: {e}")
-            return False
-    
-    def process_filing(self, filing, company, ticker: str) -> Dict[str, Any]:
-        """Process individual filing and extract metadata with pyarrow compatibility"""
-        try:
-            # Use safer attribute extraction to avoid pyarrow issues
-            filing_data = {
-                "ticker": ticker,
-                "form": "Unknown",
-                "date": "",
-                "type": "Unknown",
-                "accession_number": "",
-                "company_name": ticker,
-                "filing_url": "",
-                "processed_at": datetime.now().isoformat(),
-                "text_preview": "Text extraction not available"
-            }
-            
-            # Try multiple methods to extract filing information
-            try:
-                # Method 1: Direct string conversion
-                if hasattr(filing, 'form'):
-                    form_val = filing.form
-                    if hasattr(form_val, 'to_pylist'):
-                        # Handle pyarrow array
-                        form_list = form_val.to_pylist()
-                        filing_data["form"] = str(form_list[0]) if form_list else "Unknown"
-                    else:
-                        filing_data["form"] = str(form_val)
-                    filing_data["type"] = filing_data["form"]
-            except Exception as e:
-                print(f"    ⚠ Error extracting form: {e}")
-            
-            try:
-                if hasattr(filing, 'filing_date'):
-                    date_val = filing.filing_date
-                    if hasattr(date_val, 'to_pylist'):
-                        # Handle pyarrow array
-                        date_list = date_val.to_pylist()
-                        filing_data["date"] = str(date_list[0]) if date_list else ""
-                    else:
-                        filing_data["date"] = str(date_val)
-            except Exception as e:
-                print(f"    ⚠ Error extracting date: {e}")
-            
-            try:
-                if hasattr(filing, 'accession_number'):
-                    acc_val = filing.accession_number
-                    if hasattr(acc_val, 'to_pylist'):
-                        # Handle pyarrow array
-                        acc_list = acc_val.to_pylist()
-                        filing_data["accession_number"] = str(acc_list[0]) if acc_list else ""
-                    else:
-                        filing_data["accession_number"] = str(acc_val)
-            except Exception as e:
-                print(f"    ⚠ Error extracting accession: {e}")
-            
-            try:
-                if hasattr(company, 'name'):
-                    name_val = company.name
-                    if hasattr(name_val, 'to_pylist'):
-                        # Handle pyarrow array
-                        name_list = name_val.to_pylist()
-                        filing_data["company_name"] = str(name_list[0]) if name_list else ticker
-                    else:
-                        filing_data["company_name"] = str(name_val)
-            except Exception as e:
-                print(f"    ⚠ Error extracting company name: {e}")
-            
-            try:
-                if hasattr(filing, 'filing_details_url'):
-                    url_val = filing.filing_details_url
-                    if hasattr(url_val, 'to_pylist'):
-                        # Handle pyarrow array
-                        url_list = url_val.to_pylist()
-                        filing_data["filing_url"] = str(url_list[0]) if url_list else ""
-                    else:
-                        filing_data["filing_url"] = str(url_val)
-            except Exception as e:
-                print(f"    ⚠ Error extracting URL: {e}")
-            
-            # Alternative method: Try to convert filing to dict if available
-            try:
-                if hasattr(filing, 'to_dict'):
-                    filing_dict = filing.to_dict()
-                    filing_data.update({
-                        "form": str(filing_dict.get('form', filing_data["form"])),
-                        "date": str(filing_dict.get('filing_date', filing_data["date"])),
-                        "accession_number": str(filing_dict.get('accession_number', filing_data["accession_number"])),
-                        "company_name": str(filing_dict.get('company_name', filing_data["company_name"]))
-                    })
-                    filing_data["type"] = filing_data["form"]
-            except Exception as e:
-                print(f"    ⚠ Error with to_dict method: {e}")
-            
-            # Skip text extraction to avoid additional pyarrow issues
-            
-            return filing_data
-            
-        except Exception as e:
-            print(f"    ⚠ Error extracting filing data: {e}")
-            return None
-    
-    def create_basic_timeline(self, ticker: str, filings: List[Dict[str, Any]]):
-        """Create basic timeline without AI"""
-        # Sort filings by date
-        sorted_filings = sorted(filings, key=lambda x: x["date"], reverse=True)
+        print(f"\nProcessing ticker: {ticker}")
         
-        timeline_events = []
-        for filing in sorted_filings:
-            timeline_events.append(f"• {filing['date']}: Filed {filing['form']} - {filing['company_name']}")
-        
-        basic_analysis = {
-            "ticker": ticker,
-            "generated_at": datetime.now().isoformat(),
-            "filings_analyzed": len(filings),
-            "basic_timeline": timeline_events,
-            "summary": f"Analysis of {len(filings)} recent SEC filings for {ticker}.",
-            "filings_metadata": [{
-                "form": f["form"],
-                "date": f["date"],
-                "accession": f["accession_number"]
-            } for f in filings]
-        }
-        
-        # Save to raw data directory instead of processed
-        ticker_dir = Path(RAW_DATA_DIR) / ticker
+        ticker_dir = self.raw_data_dir / ticker
         ticker_dir.mkdir(exist_ok=True)
         
-        with open(ticker_dir / "timeline_summary.json", 'w') as f:
-            json.dump(basic_analysis, f, indent=2)
+        # Download different types of filings - comprehensive list
+        filing_types = [
+            '10-K',      # Annual Report
+            '10-Q',      # Quarterly Report
+            '8-K',       # Current Report
+            'DEF 14A',   # Proxy Statement
+            '10-K/A',    # Annual Report Amendment
+            '10-Q/A',    # Quarterly Report Amendment
+            '8-K/A',     # Current Report Amendment
+            'S-1',       # Registration Statement
+            'S-3',       # Registration Statement
+            'S-4',       # Registration Statement
+            'S-8',       # Registration Statement for Employee Stock Plans
+            'F-1',       # Registration Statement (Foreign)
+            'F-3',       # Registration Statement (Foreign)
+            'F-4',       # Registration Statement (Foreign)
+            '20-F',      # Annual Report (Foreign)
+            '40-F',      # Annual Report (Foreign)
+            '6-K',       # Report of Foreign Private Issuer
+            'SC 13D',    # Beneficial Ownership Report
+            'SC 13G',    # Beneficial Ownership Report
+            'SC 13D/A',  # Beneficial Ownership Report Amendment
+            'SC 13G/A',  # Beneficial Ownership Report Amendment
+            '3',         # Initial Statement of Beneficial Ownership
+            '4',         # Statement of Changes in Beneficial Ownership
+            '5',         # Annual Statement of Changes in Beneficial Ownership
+            '11-K',      # Annual Report of Employee Stock Purchase Plans
+            'NT 10-K',   # Notification of Late Filing
+            'NT 10-Q',   # Notification of Late Filing
+            'NT 20-F',   # Notification of Late Filing
+            'DEFA14A',   # Additional Proxy Soliciting Materials
+            'PRER14A',   # Preliminary Proxy Statement
+            'DEFR14A',   # Definitive Proxy Statement
+            'PREC14A',   # Preliminary Proxy Statement
+            'DEFC14A',   # Definitive Proxy Statement
+            'PRE 14A',   # Preliminary Proxy Statement
+            'DEFM14A',   # Definitive Proxy Statement
+            'PREM14A',   # Preliminary Proxy Statement
+            'DEFN14A',   # Definitive Proxy Statement
+            'PREN14A',   # Preliminary Proxy Statement
+            'DEFR14C',   # Definitive Information Statement
+            'PRER14C',   # Preliminary Information Statement
+            'DEF 14C',   # Definitive Information Statement
+            'PRE 14C',   # Preliminary Information Statement
+            'DFRN14A',   # Definitive Additional Materials
+            'DFAN14A',   # Definitive Additional Materials
+            'PRRN14A',   # Preliminary Additional Materials
+            'PRFN14A',   # Preliminary Additional Materials
+            'PRAN14A',   # Preliminary Additional Materials
+            'PRFN14A',   # Preliminary Additional Materials
+            'UPLOAD',    # Correspondence
+            'CORRESP',   # Correspondence
+            'COVER',     # Cover Page
+            'EX-99',     # Additional Exhibits
+            'EX-101',    # XBRL Instance Document
+            'EX-32',     # Section 302 Certification
+            'EX-31',     # Section 302 Certification
+            'EFFECT',    # Notice of Effectiveness
+            'POS AM',    # Post-Effective Amendment
+            'POS 462B',  # Post-Effective Amendment
+            'POS 462C',  # Post-Effective Amendment
+            'POSAM',     # Post-Effective Amendment
+            'RW',        # Registration Withdrawal
+            'RW WD',     # Registration Withdrawal
+            'SUPPL',     # Supplement to Prospectus
+            '424B1',     # Prospectus
+            '424B2',     # Prospectus
+            '424B3',     # Prospectus
+            '424B4',     # Prospectus
+            '424B5',     # Prospectus
+            '424B7',     # Prospectus
+            '424B8',     # Prospectus
+            '497',       # Definitive Materials
+            '497AD',     # Definitive Materials
+            '497J',      # Certification of No Change
+            '497K',      # Summary Prospectus
+            'N-1A',      # Registration Statement (Investment Company)
+            'N-2',       # Registration Statement (Closed-End Investment Company)
+            'N-3',       # Registration Statement (Separate Account)
+            'N-4',       # Registration Statement (Variable Annuity)
+            'N-5',       # Registration Statement (Small Business Investment Company)
+            'N-6',       # Registration Statement (Unit Investment Trust)
+            'N-8A',      # Notification of Registration
+            'N-8B-2',    # Registration Statement (Unit Investment Trust)
+            'N-14',      # Registration Statement (Investment Company)
+            'N-18F1',    # Notification of Election
+            'N-23C3A',   # Notification of Periodic Repurchase Offer
+            'N-23C3B',   # Notification of Periodic Repurchase Offer
+            'N-23C3C',   # Notification of Periodic Repurchase Offer
+            'N-27D-1',   # Accounting for Deferred Charges
+            'N-30B-2',   # Periodic Report
+            'N-30D',     # Annual Report
+            'N-CSR',     # Certified Shareholder Report
+            'N-CSRS',    # Semi-Annual Report
+            'N-Q',       # Quarterly Schedule of Portfolio Holdings
+            'N-PX',      # Annual Report of Proxy Voting Record
+            'N-CEN',     # Annual Report for Registered Investment Companies
+            'ADV',       # Investment Adviser Registration
+            'ADV-E',     # Investment Adviser Registration
+            'ADV-H',     # Investment Adviser Registration
+            'ADV-NR',    # Investment Adviser Registration
+            'ADV-W',     # Investment Adviser Registration
+            'PF',        # Private Fund Report
+            'ABS-EE',    # Asset-Backed Securities
+            'ABS-15G',   # Asset-Backed Securities
+            'CFPORTAL',  # Funding Portal Report
+            'CRS',       # Customer Relationship Summary
+            'CUSTODY',   # Custody Report
+            'MSD',       # Municipal Securities Dealer Report
+            'MSDW',      # Municipal Securities Dealer Withdrawal
+            'X-17A-5',   # Financial and Operational Combined Uniform Single Report
+            'ATS',       # Alternative Trading System
+            'ATS-N',     # Alternative Trading System
+            'ATS-R',     # Alternative Trading System
+            'BD',        # Broker-Dealer Registration
+            'BD-N',      # Broker-Dealer Registration
+            'BDW',       # Broker-Dealer Withdrawal
+            'SBS',       # Security-Based Swap
+            'SBSE',      # Security-Based Swap Execution Facility
+            'SBSE-A',    # Security-Based Swap Execution Facility
+            'SBSE-BD',   # Security-Based Swap Execution Facility
+            'SBSE-C',    # Security-Based Swap Execution Facility
+            'SDR',       # Security-Based Swap Data Repository
+            'TA-1',      # Transfer Agent Registration
+            'TA-2',      # Transfer Agent Registration
+            'TA-W',      # Transfer Agent Withdrawal
+            'ID',        # Information Document
+            'MA',        # Municipal Advisor Registration
+            'MA-I',      # Municipal Advisor Registration
+            'MA-NR',     # Municipal Advisor Registration
+            'MA-W',      # Municipal Advisor Withdrawal
+            'NRSRO',     # Nationally Recognized Statistical Rating Organization
+            'PILOT',     # Pilot Program Report
+            'REP',       # Regulatory Report
+            'SCI',       # Systems Compliance and Integrity
+            'TCR',       # Tip, Complaint or Referral
+            'TH',        # Temporary Hardship Exemption
+            'WB-APP',    # Whistleblower Application
+            'WB-DEC',    # Whistleblower Declaration
+        ]
+        total_filings = 0
         
-        print(f"  ✓ Generated basic timeline for {ticker}")
+        for filing_type in filing_types:
+            try:
+                print(f"  📄 Downloading {filing_type} filings...")
+                
+                # Create a downloader instance for this specific download location
+                temp_dir = ticker_dir / 'temp'
+                temp_dir.mkdir(exist_ok=True)
+                
+                # Create downloader with specific download folder
+                downloader = Downloader(self.company_name, self.email, str(temp_dir))
+                
+                # Use sec-edgar-downloader to get filings
+                filings_count = downloader.get(
+                    filing_type,
+                    ticker,
+                    after=self.start_date.strftime('%Y-%m-%d'),
+                    before=self.end_date.strftime('%Y-%m-%d'),
+                    limit=10  # Limit to 10 most recent filings
+                )
+                
+                if filings_count > 0:
+                    # Process downloaded files
+                    self.process_downloaded_files(temp_dir, ticker_dir, filing_type)
+                    total_filings += filings_count
+                    print(f"    ✅ Downloaded {filings_count} {filing_type} filings")
+                else:
+                    print(f"    ℹ️  No {filing_type} filings found")
+                
+                # Clean up temp directory
+                import shutil
+                if temp_dir.exists():
+                    shutil.rmtree(temp_dir)
+                
+                # Add 1 second sleep between filing type extractions
+                time.sleep(1)
+                    
+            except Exception as e:
+                print(f"    ⚠️  Error downloading {filing_type}: {e}")
+                # Add sleep even on error to avoid overwhelming the server
+                time.sleep(1)
+        
+        if total_filings > 0:
+            # Create timeline summary
+            self.create_timeline_summary(ticker_dir, ticker)
+            print(f"✅ Completed {ticker} ({total_filings} filings processed)")
+        else:
+            print(f"⚠️  No filings found for {ticker}")
+        
+        return total_filings
     
-
+    def process_downloaded_files(self, temp_dir, ticker_dir, filing_type):
+        """Process files downloaded by sec-edgar-downloader"""
+        # sec-edgar-downloader creates a structure like: temp_dir/sec-edgar-filings/TICKER/FILING_TYPE/
+        edgar_dir = temp_dir / 'sec-edgar-filings'
+        if not edgar_dir.exists():
+            return
+        
+        # Find the ticker directory
+        for ticker_folder in edgar_dir.iterdir():
+            if ticker_folder.is_dir():
+                filing_type_dir = ticker_folder / filing_type
+                if filing_type_dir.exists():
+                    # Process each filing
+                    for filing_dir in filing_type_dir.iterdir():
+                        if filing_dir.is_dir():
+                            self.convert_filing_to_json(filing_dir, ticker_dir, filing_type)
+    
+    def convert_filing_to_json(self, filing_dir, ticker_dir, filing_type):
+        """Convert downloaded filing to our JSON format"""
+        try:
+            # Get filing metadata from directory name
+            # Format is usually: ACCESSION-NUMBER
+            accession_number = filing_dir.name
+            
+            # Look for the main filing file (usually .txt or .htm)
+            filing_files = list(filing_dir.glob('*.txt')) + list(filing_dir.glob('*.htm'))
+            if not filing_files:
+                return
+            
+            main_file = filing_files[0]
+            
+            # Extract date from accession number or use current date
+            try:
+                # Accession format: XXXXXXXXXX-XX-XXXXXX
+                date_part = accession_number.split('-')[1]
+                filing_date = f"20{date_part[:2]}-{date_part[2:4]}-{date_part[4:6]}"
+            except:
+                filing_date = datetime.now().strftime('%Y-%m-%d')
+            
+            # Read filing content
+            try:
+                with open(main_file, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
+            except:
+                content = "Content could not be read"
+            
+            # Create our JSON structure
+            filing_data = {
+                "form": filing_type,
+                "filing_date": filing_date,
+                "accession_number": accession_number,
+                "company_name": "Company Name",  # Will be updated if available
+                "filing_url": f"https://www.sec.gov/Archives/edgar/data/{accession_number}",
+                "content": content[:10000] if len(content) > 10000 else content  # Limit content size
+            }
+            
+            # Save as JSON file
+            json_filename = f"{filing_type}_{filing_date}_{accession_number}.json"
+            json_path = ticker_dir / json_filename
+            
+            with open(json_path, 'w', encoding='utf-8') as f:
+                json.dump(filing_data, f, indent=2, ensure_ascii=False)
+            
+            print(f"    ✅ Saved {filing_type} filing from {filing_date}")
+            
+        except Exception as e:
+            print(f"    ⚠️  Error processing filing {filing_dir.name}: {e}")
+    
+    def create_timeline_summary(self, ticker_dir, ticker):
+        """Create timeline_summary.json file"""
+        try:
+            # Get all JSON files in the ticker directory
+            json_files = list(ticker_dir.glob('*.json'))
+            
+            filings = []
+            for json_file in json_files:
+                if json_file.name == 'timeline_summary.json':
+                    continue
+                
+                try:
+                    with open(json_file, 'r', encoding='utf-8') as f:
+                        filing_data = json.load(f)
+                    
+                    filings.append({
+                        "form": filing_data.get("form", "Unknown"),
+                        "filing_date": filing_data.get("filing_date", "Unknown"),
+                        "accession_number": filing_data.get("accession_number", "Unknown"),
+                        "company_name": filing_data.get("company_name", ticker),
+                        "filing_url": filing_data.get("filing_url", ""),
+                        "summary": f"SEC {filing_data.get('form', 'Filing')} filed on {filing_data.get('filing_date', 'Unknown date')}",
+                        "ai_timeline": f"{filing_data.get('filing_date', 'Unknown')}: {filing_data.get('form', 'Filing')} submitted"
+                    })
+                except Exception as e:
+                    print(f"    ⚠️  Error reading {json_file.name}: {e}")
+            
+            # Sort by filing date
+            filings.sort(key=lambda x: x.get('filing_date', ''), reverse=True)
+            
+            # Create timeline summary
+            timeline_summary = {
+                "ticker": ticker,
+                "filings": filings,
+                "timeline": [f["ai_timeline"] for f in filings],
+                "summary": f"Downloaded {len(filings)} SEC filings for {ticker}"
+            }
+            
+            # Save timeline summary
+            timeline_path = ticker_dir / 'timeline_summary.json'
+            with open(timeline_path, 'w', encoding='utf-8') as f:
+                json.dump(timeline_summary, f, indent=2, ensure_ascii=False)
+            
+            print(f"  ✅ Generated timeline summary for {ticker}")
+            
+        except Exception as e:
+            print(f"  ⚠️  Error creating timeline summary: {e}")
     
     def run(self):
         """Main execution method"""
-        print("SEC Filing Data Download Script")
-        print("=" * 40)
-        
-        # Check if edgartools is available
-        if not self.setup_edgar_identity():
-            print("\n⚠ Cannot proceed without edgartools. Please install it first.")
-            return
+        print("🚀 Starting SEC filing download...\n")
         
         # Load tickers
         tickers = self.load_tickers()
-        
         if not tickers:
-            print("⚠ No tickers to process")
+            print("❌ No tickers to process")
             return
         
         # Process each ticker
-        successful = 0
+        successful_tickers = 0
         for ticker in tickers:
-            if self.download_filings_for_ticker(ticker):
-                successful += 1
+            try:
+                filings_count = self.download_filings_for_ticker(ticker)
+                if filings_count > 0:
+                    successful_tickers += 1
+            except Exception as e:
+                print(f"❌ Error processing {ticker}: {e}")
         
-        print("\n" + "=" * 40)
-        print(f"Download completed! {successful}/{len(tickers)} tickers processed successfully")
-        print(f"Raw data saved in '{RAW_DATA_DIR}' directory")
+        print("\n" + "="*50)
+        print(f"Download completed! {successful_tickers}/{len(tickers)} tickers processed successfully")
+        print(f"Raw data saved in '{self.raw_data_dir}' directory")
         print("\nTo use with SECChronicle app:")
         print("1. Start the backend: python backend/main.py")
         print("2. Start the frontend: cd frontend && npm run dev")
         print("3. Open http://localhost:5173")
 
-def main():
-    """Main function"""
-    downloader = SECDataDownloader()
-    downloader.run()
-
 if __name__ == "__main__":
-    main()
+    downloader = SECDownloader()
+    downloader.run()

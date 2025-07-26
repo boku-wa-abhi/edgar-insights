@@ -1,0 +1,88 @@
+{
+  "ticker": "AAPL",
+  "filings": [
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0001140361-25-018400",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0001140361-25-018400",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    },
+    {
+      "form": "10-Q",
+      "filing_date": "2025--",
+      "accession_number": "0000320193-25-000008",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0000320193-25-000008",
+      "summary": "SEC 10-Q filed on 2025--",
+      "ai_timeline": "2025--: 10-Q submitted"
+    },
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0000320193-25-000055",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0000320193-25-000055",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    },
+    {
+      "form": "10-Q",
+      "filing_date": "2025--",
+      "accession_number": "0000320193-25-000057",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0000320193-25-000057",
+      "summary": "SEC 10-Q filed on 2025--",
+      "ai_timeline": "2025--: 10-Q submitted"
+    },
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0000320193-25-000007",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0000320193-25-000007",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    },
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0001140361-25-025275",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0001140361-25-025275",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    },
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0001140361-25-005876",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0001140361-25-005876",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    },
+    {
+      "form": "8-K",
+      "filing_date": "2025--",
+      "accession_number": "0001140361-25-027340",
+      "company_name": "Company Name",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/0001140361-25-027340",
+      "summary": "SEC 8-K filed on 2025--",
+      "ai_timeline": "2025--: 8-K submitted"
+    }
+  ],
+  "timeline": [
+    "2025--: 8-K submitted",
+    "2025--: 10-Q submitted",
+    "2025--: 8-K submitted",
+    "2025--: 10-Q submitted",
+    "2025--: 8-K submitted",
+    "2025--: 8-K submitted",
+    "2025--: 8-K submitted",
+    "2025--: 8-K submitted"
+  ],
+  "summary": "Downloaded 8 SEC filings for AAPL"
+}
