@@ -7,6 +7,7 @@ Downloads SEC filings for specified tickers and organizes them in data/raw direc
 import os
 import json
 import time
+import sys
 from pathlib import Path
 from datetime import datetime, timedelta
 from sec_edgar_downloader import Downloader
@@ -21,8 +22,8 @@ class SECDownloader:
         self.company_name = os.getenv('COMPANY_NAME', 'Your Company Name')
         self.email = os.getenv('EMAIL', 'your.email@example.com')
         
-        # Set up directories
-        self.base_dir = Path(__file__).parent
+        # Set up directories (adjust path since script is now in scripts/python/)
+        self.base_dir = Path(__file__).parent.parent.parent
         self.raw_data_dir = self.base_dir / 'data' / 'raw'
         self.raw_data_dir.mkdir(parents=True, exist_ok=True)
         
@@ -52,9 +53,28 @@ class SECDownloader:
             print(f"❌ Error parsing {tickers_file}: {e}")
             return []
     
-    def download_filings_for_ticker(self, ticker):
+    def check_existing_data(self, ticker):
+        """Check if data already exists for a ticker"""
+        ticker_dir = self.raw_data_dir / ticker
+        if not ticker_dir.exists():
+            return False
+        
+        # Check if there are any JSON files (excluding timeline_summary.json)
+        json_files = [f for f in ticker_dir.glob('*.json') if f.name != 'timeline_summary.json']
+        
+        if json_files:
+            print(f"📁 Data already exists for {ticker} ({len(json_files)} filings found)")
+            return True
+        return False
+    
+    def download_filings_for_ticker(self, ticker, force_download=False):
         """Download filings for a specific ticker"""
         print(f"\nProcessing ticker: {ticker}")
+        
+        # Check if data already exists
+        if not force_download and self.check_existing_data(ticker):
+            print(f"⏭️  Skipping {ticker} - data already downloaded")
+            return 0
         
         ticker_dir = self.raw_data_dir / ticker
         ticker_dir.mkdir(exist_ok=True)
@@ -377,11 +397,16 @@ class SECDownloader:
             print("❌ No tickers to process")
             return
         
+        # Check for force download flag
+        force_download = '--force' in sys.argv or '-f' in sys.argv
+        if force_download:
+            print("⚠️  Force download mode enabled - will re-download existing data\n")
+        
         # Process each ticker
         successful_tickers = 0
         for ticker in tickers:
             try:
-                filings_count = self.download_filings_for_ticker(ticker)
+                filings_count = self.download_filings_for_ticker(ticker, force_download)
                 if filings_count > 0:
                     successful_tickers += 1
             except Exception as e:
