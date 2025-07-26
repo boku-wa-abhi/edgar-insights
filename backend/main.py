@@ -5,36 +5,89 @@ import json
 from typing import List
 import markdown
 from xhtml2pdf import pisa  # For PDF generation
+from pathlib import Path
 
 app = FastAPI()
 
-DATA_DIR = '../data/processed'  # Use processed data for the application
+DATA_DIR = '../data/raw'  # Use raw data for the application
 
 @app.get("/filings/{ticker}")
-def get_filings(ticker: str):
-    ticker_dir = os.path.join(DATA_DIR, ticker)
-    if not os.path.exists(ticker_dir):
-        raise HTTPException(status_code=404, detail="No filings found for this ticker")
+async def get_filings(ticker: str):
+    """Get SEC filings for a specific ticker"""
+    ticker_dir = Path(DATA_DIR) / ticker.upper()
     
+    if not ticker_dir.exists():
+        raise HTTPException(status_code=404, detail=f"No data found for ticker {ticker}")
+    
+    # Check for timeline_summary.json first
+    timeline_file = ticker_dir / "timeline_summary.json"
+    
+    if timeline_file.exists():
+        try:
+            with open(timeline_file, 'r') as f:
+                timeline_data = json.load(f)
+            
+            # Extract filings metadata and create filing objects
+            filings = []
+            for filing_meta in timeline_data.get("filings_metadata", []):
+                filing_data = {
+                    "ticker": ticker.upper(),
+                    "form": filing_meta.get("form", "Unknown"),
+                    "date": filing_meta.get("date", ""),
+                    "type": filing_meta.get("form", "Unknown"),
+                    "accession_number": filing_meta.get("accession", ""),
+                    "company_name": timeline_data.get("ticker", ticker.upper()),
+                    "filing_url": "",
+                    "summary": timeline_data.get("ai_timeline", timeline_data.get("summary", "No summary available"))
+                }
+                filings.append(filing_data)
+            
+            # Sort by date (newest first)
+            filings.sort(key=lambda x: x.get("date", ""), reverse=True)
+            
+            return {
+                "ticker": ticker.upper(), 
+                "filings": filings,
+                "timeline": timeline_data.get("ai_timeline", timeline_data.get("basic_timeline", [])),
+                "summary": timeline_data.get("summary", "No summary available"),
+                "generated_at": timeline_data.get("generated_at", "")
+            }
+            
+        except json.JSONDecodeError:
+            pass
+    
+    # Fallback to old structure if timeline_summary.json doesn't exist
     filings = []
-    for filing_folder in os.listdir(ticker_dir):
-        folder_path = os.path.join(ticker_dir, filing_folder)
-        if os.path.isdir(folder_path):
-            try:
-                with open(os.path.join(folder_path, 'filing.json'), 'r') as f:
-                    metadata = json.load(f)
-                with open(os.path.join(folder_path, 'summary.json'), 'r') as f:
-                    summary = json.load(f)
-                filings.append({
-                    'date': metadata.get('date'),
-                    'type': metadata.get('type'),
-                    'summary': summary.get('summary')
-                })
-            except Exception as e:
-                continue
     
-    filings.sort(key=lambda x: x['date'], reverse=True)  # Sort by date descending
-    return filings
+    # Iterate through filing directories (old structure)
+    for filing_dir in ticker_dir.iterdir():
+        if filing_dir.is_dir():
+            filing_json = filing_dir / "filing.json"
+            summary_json = filing_dir / "summary.json"
+            
+            if filing_json.exists():
+                try:
+                    # Load filing metadata
+                    with open(filing_json, 'r') as f:
+                        filing_data = json.load(f)
+                    
+                    # Load summary if available
+                    if summary_json.exists():
+                        with open(summary_json, 'r') as f:
+                            summary_data = json.load(f)
+                        filing_data["summary"] = summary_data.get("summary", "No summary available")
+                    else:
+                        filing_data["summary"] = "No summary available"
+                    
+                    filings.append(filing_data)
+                    
+                except json.JSONDecodeError:
+                    continue
+    
+    # Sort by date (newest first)
+    filings.sort(key=lambda x: x.get("date", ""), reverse=True)
+    
+    return {"ticker": ticker.upper(), "filings": filings}
 
 @app.get("/download/{ticker}")
 def download_report(ticker: str, format: str = 'markdown'):

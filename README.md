@@ -43,26 +43,33 @@ SECChronicle is a full-stack web application that allows users to explore SEC fi
 
 ## Data Preparation
 
-### Option 1: Quick Start with Sample Data (Recommended for Testing)
+### Environment Setup
 
-1. **Create sample data**:
+1. **Configure environment variables**: Create a `.env` file in the project root:
    ```bash
-   python create_sample_data.py
+   # DeepSeek API Configuration
+   DEEPSEEK_API_KEY=your_deepseek_api_key_here
+   
+   # SEC Data Configuration
+   USER_AGENT_EMAIL=your_email@example.com
+   USER_AGENT_NAME=Your App Name
    ```
 
-   This will create sample SEC filing data for AAPL, DVLT, and RANI with realistic filing information and summaries.
+2. **Install python-dotenv** (if not already installed):
+   ```bash
+   pip install python-dotenv
+   ```
 
-### Option 2: Automated Data Download
+### Automated Data Download (Recommended)
 
 1. **Configure tickers**: Edit `tickers.json` to specify which stock tickers you want to download data for:
    ```json
    ["AAPL", "DVLT", "RANI", "MSFT", "GOOGL"]
    ```
 
-2. **Set up DeepSeek API** (optional, for AI summaries):
+2. **Set up DeepSeek API** (optional, for AI-powered timelines and summaries):
    - Get an API key from [DeepSeek](https://platform.deepseek.com/)
-   - Set the environment variable: `export DEEPSEEK_API_KEY="your-api-key"`
-   - Or edit the `DEEPSEEK_API_KEY` variable in `download_data.py`
+   - Add it to your `.env` file: `DEEPSEEK_API_KEY=your-api-key`
 
 3. **Run the download script**:
    ```bash
@@ -71,29 +78,50 @@ SECChronicle is a full-stack web application that allows users to explore SEC fi
 
    This will:
    - Download SEC filings for the last 6 months for each ticker
-   - Save filing metadata and documents in the `data/` directory
-   - Generate AI summaries (if DeepSeek API key is provided)
-   - Create the proper directory structure for the application
+   - Save raw filing data in `data/raw/{ticker}/` directory
+   - Generate AI-powered timelines and summaries in `data/processed/{ticker}/`
+   - Create bullet-point timelines and comprehensive summaries
+   - Handle API errors gracefully with fallback basic timelines
 
-   *Note: The download script may encounter compatibility issues with some versions of edgartools. Use the sample data option for immediate testing.*
+### Data Structure
 
-### Option 3: Manual Data Population
-
-Create the following directory structure in the project root:
+The script creates an organized data structure:
 
 ```
 data/
-├── AAPL/
-│   ├── filing1/
-│   │   ├── filing.json
-│   │   └── summary.json
-│   └── filing2/
-│       ├── filing.json
-│       └── summary.json
-└── MSFT/
-    └── filing1/
-        ├── filing.json
-        └── summary.json
+├── raw/
+│   ├── AAPL/
+│   │   ├── 10-Q_2024-05-02_0000320193-24-000052.json
+│   │   ├── 8-K_2024-04-15_0000320193-24-000045.json
+│   │   └── 10-K_2024-02-01_0000320193-24-000010.json
+│   └── DVLT/
+│       └── ...
+└── processed/
+    ├── AAPL/
+    │   └── timeline_summary.json  # AI-generated timeline and summary
+    └── DVLT/
+        └── timeline_summary.json
+```
+
+### Manual Data Population (Advanced)
+
+If you prefer to create your own data structure, follow the processed data format:
+
+```json
+{
+  "ticker": "AAPL",
+  "generated_at": "2024-01-27T10:00:00",
+  "filings_analyzed": 3,
+  "ai_timeline": "• 2024-05-02: Filed 10-Q...",
+  "summary": "Company analysis summary...",
+  "filings_metadata": [
+    {
+      "form": "10-Q",
+      "date": "2024-05-02",
+      "accession": "0000320193-24-000052"
+    }
+  ]
+}
 ```
 
 ## Bonus Features (To Implement)
