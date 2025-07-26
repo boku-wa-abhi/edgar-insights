@@ -1,0 +1,15 @@
+{
+  "report_date": "2025-07-26T23:34:12.341731",
+  "analyzed_tickers": [
+    "AAPL",
+    "DVLT",
+    "RANI"
+  ],
+  "total_companies": 3,
+  "analysis_files": [
+    "AAPL_timeline_analysis.json",
+    "DVLT_timeline_analysis.json",
+    "RANI_timeline_analysis.json"
+  ],
+  "summary": "Timeline analysis completed for 3 companies using DeepSeek AI"
+}
