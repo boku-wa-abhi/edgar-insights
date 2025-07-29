@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001567619-18-000074.txt : 20180808
+<SEC-HEADER>0001567619-18-000074.hdr.sgml : 20180808
+<ACCEPTANCE-DATETIME>20180808135058
+ACCESSION NUMBER:		0001567619-18-000074
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20180331
+FILED AS OF DATE:		20180808
+DATE AS OF CHANGE:		20180808
+EFFECTIVENESS DATE:		20180808
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridgewater Associates, LP
+		CENTRAL INDEX KEY:			0001350694
+		IRS NUMBER:				132871809
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11794
+		FILM NUMBER:		181000751
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE GLENDINNING PLACE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		203-226-3030
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GLENDINNING PLACE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Bridgewater Associates, Inc.
+		DATE OF NAME CHANGE:	20060123
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR/A</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001350694</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>03-31-2018</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>03-31-2018</reportCalendarOrQuarter>
+      <isAmendment>true</isAmendment>
+      <amendmentNo>1</amendmentNo>
+      <amendmentInfo>
+        <amendmentType>NEW HOLDINGS</amendmentType>
+      </amendmentInfo>
+      <filingManager>
+        <name>Bridgewater Associates, LP</name>
+        <address>
+          <com:street1>ONE GLENDINNING PLACE</com:street1>
+          <com:city>WESTPORT</com:city>
+          <com:stateOrCountry>CT</com:stateOrCountry>
+          <com:zipCode>06880</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-11794</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Rick Sharma</name>
+      <title>Legal Advisor - Core Management</title>
+      <phone>203-226-3030</phone>
+      <signature>/s/ Rick Sharma</signature>
+      <city>Westport</city>
+      <stateOrCountry>CT</stateOrCountry>
+      <signatureDate>08-07-2018</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>0</otherIncludedManagersCount>
+      <tableEntryTotal>2</tableEntryTotal>
+      <tableValueTotal>512</tableValueTotal>
+      <isConfidentialOmitted>false</isConfidentialOmitted>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>form13fInfoTable.xml
+<TEXT>
+<XML>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">		<infoTable>
+			<nameOfIssuer>AXIS CAPITAL HOLDINGS LTD</nameOfIssuer>
+			<titleOfClass>SHS</titleOfClass>
+			<cusip>G0692U109</cusip>
+			<value>255</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>4438</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>N/A</otherManager>
+			<votingAuthority>
+				<Sole>4438</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+		<infoTable>
+			<nameOfIssuer>RENAISSANCERE HOLDINGS LTD</nameOfIssuer>
+			<titleOfClass>COM</titleOfClass>
+			<cusip>G7496G103</cusip>
+			<value>257</value>
+			<shrsOrPrnAmt>
+				<sshPrnamt>1857</sshPrnamt>
+				<sshPrnamtType>SH</sshPrnamtType>
+			</shrsOrPrnAmt>
+			<investmentDiscretion>SOLE</investmentDiscretion>
+			<otherManager>N/A</otherManager>
+			<votingAuthority>
+				<Sole>1857</Sole>
+				<Shared>0</Shared>
+				<None>0</None>
+			</votingAuthority>
+		</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

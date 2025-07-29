@@ -5,3 +5,5 @@ xhtml2pdf==0.2.17
 edgartools==4.4.5
 requests==2.32.4
 python-dotenv==1.0.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0

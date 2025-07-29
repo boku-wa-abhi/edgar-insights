@@ -1,0 +1,374 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LrEX5ADdOax99HEKHO4iLHlcT+m/RMUYC1AmIy5YVDjuFZP/pdmiI/y5jXNNpy6A
+ fC7GOaEkDKm5xwVdkLDUVw==
+
+<SEC-DOCUMENT>0000914121-06-001884.txt : 20060523
+<SEC-HEADER>0000914121-06-001884.hdr.sgml : 20060523
+<ACCEPTANCE-DATETIME>20060523125436
+ACCESSION NUMBER:		0000914121-06-001884
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060523
+DATE AS OF CHANGE:		20060523
+EFFECTIVENESS DATE:		20060523
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bridgewater Associates, Inc.
+		CENTRAL INDEX KEY:			0001350694
+		IRS NUMBER:				132871809
+		STATE OF INCORPORATION:			CT
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-11794
+		FILM NUMBER:		06860807
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE GLENDINNING PLACE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+		BUSINESS PHONE:		203-226-3030
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE GLENDINNING PLACE
+		CITY:			WESTPORT
+		STATE:			CT
+		ZIP:			06880
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>bd90871-13fa1.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+THIS FILING LISTS SECURITIES HOLDINGS REPORTED ON THE FORM 13F FILED ON FEBRUARY
+14, 2006 PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FOR WHICH THAT
+REQUEST WAS DENIED ON MAY 12, 2006
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 13F
+
+                               FORM 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: December 31, 2005
+
+Check here if Amendment                     [X]; Amendment Number: 1
+
+This Amendment (Check only one.):           [ ] is a restatement.
+                                            [X] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name: Bridgewater Associates, Inc.
+Address: One Glendinning Place
+Westport, CT 06880
+
+Form 13F File Number: 28-11794
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name: Peter R. LaTronica
+Title: Vice President, Chief Compliance Officer
+Phone: 203-226-3030
+
+Signature, Place, and Date of Signing:
+
+/s/  Peter LaTronica          Westport, CT                 May 22, 2006
+- ---------------------      ---------------------        -------------------
+[Signature]                [City, State]                [Date]
+
+Report Type (Check only one.):
+
+[X] 13F HOLDINGS REPORT. (Check here if all holdings of this reporting manager
+are reported in this report.)
+
+[ ] 13F NOTICE. (Check here if no holdings reported are in this report, and all
+holdings are reported by other reporting manager(s).)
+
+[ ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+reporting manager are reported in this report and a portion are reported by
+other reporting manager(s).)
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+Report Summary:
+
+Number of Other Included Managers: 0
+
+Form 13F Information Table Entry Total: 179
+
+Form 13F Information Table Value Total: $205,507 (thousands)
+
+List of Other Included Managers:
+
+NONE
+
+<PAGE>
+
+                           FORM 13F INFORMATION TABLE
+
+<TABLE>
+<CAPTION>
+
+COLUMN 1                        COLUMN 2   COLUMN 3     COLUMN 4         COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+- --------                        --------   --------     --------   ----------------------  --------   --------  --------------------
+                                TITLE OF                VALUE      SHRS OR           PUT/  SHRS OR    OTHER       VOTING AUTHORITY
+NAME OF ISSUER                  CLASS      CUSIP        (x$1000)   PRN AMT  SH/PRN   CALL  PRN AMT    MANAGERS   SOLE  SHARED   NONE
+- --------------                  -----      -----        --------   -------  ------   ----  -------    --------   ----  ------   ----
+<S>                              <C>       <C>            <C>      <C>      <C>      <C>   <C>        <C>        <C>   <C>      <C>
+3M CO                            COM       88579Y101      2,224     28,700  SH             SOLE                  28,700
+ABBOTT LABORATORIES              COM       002824100      3,375     85,600  SH             SOLE                  85,600
+ADOBE SYSTEMS INC                COM       00724F101        543     14,700  SH             SOLE                  14,700
+AES CORP                         COM       00130H105        687     43,400  SH             SOLE                  43,400
+AGL RESOURCES INC                COM       001204106        397     11,400  SH             SOLE                  11,400
+AIR PRODUCTS & CHEMICALS INC     COM       009158106        225      3,800  SH             SOLE                   3,800
+ALLEGHENY ENERGY INC             COM       017361106        348     11,000  SH             SOLE                  11,000
+ALLIANCE DATA SYSTEMS CORP       COM       018581108      1,129     31,700  SH             SOLE                  31,700
+ALLIANT ENERGY CORP              COM       018802108        224      8,000  SH             SOLE                   8,000
+ALLSTATE CORP                    COM       020002101        800     14,800  SH             SOLE                  14,800
+ALTRIA GROUP INC                 COM       02209S103      5,567     74,500  SH             SOLE                  74,500
+AMBAC FINANCIAL GROUP INC        COM       023139108        324      4,200  SH             SOLE                   4,200
+AMERADA HESS CORP                COM       023551104        520      4,100  SH             SOLE                   4,100
+AMEREN CORPORATION               COM       023608102        707     13,800  SH             SOLE                  13,800
+AMERICAN AXLE & MFG HOLDINGS     COM       024061103        346     18,900  SH             SOLE                  18,900
+AMERICAN ELECTRIC POWER          COM       025537101        931     25,100  SH             SOLE                  25,100
+AMERICAN EXPRESS CO              COM       025816109      7,215    140,200  SH             SOLE                  40,200
+AMERICAN FINANCIAL GROUP INC     COM       025932104        230      6,000  SH             SOLE                   6,000
+AMERICAN INTERNATIONAL GROUP     COM       026874107      3,084     45,200  SH             SOLE                  45,200
+AMERICREDIT CORP                 COM       03060R101        543     21,200  SH             SOLE                  21,200
+ANADARKO PETROLEUM CORP          COM       032511107        398      4,200  SH             SOLE                   4,200
+ANHEUSER-BUSCH COS INC.          COM       035229103      1,409     32,800  SH             SOLE                  32,800
+APACHE CORP                      COM       037411105        397      5,800  SH             SOLE                   5,800
+APOLLO GROUP INC-CL A            COM       037604105        683     11,300  SH             SOLE                  11,300
+APPLE COMPUTER INC               COM       037833100        676      9,400  SH             SOLE                   9,400
+AUTODESK INC                     COM       052769106        288      6,700  SH             SOLE                   6,700
+BAUSCH & LOMB INC                COM       071707103        340      5,000  SH             SOLE                   5,000
+BEA SYSTEMS INC                  COM       073325102        121     12,900  SH             SOLE                  12,900
+BECTON DICKINSON & CO            COM       075887109        210      3,500  SH             SOLE                   3,500
+BED BATH & BEYOND INC            COM       075896100        607     16,800  SH             SOLE                  16,800
+BEST BUY CO INC                  COM       086516101        322      7,400  SH             SOLE                   7,400
+BORGWARNER INC                   COM       099724106      1,128     18,600  SH             SOLE                  18,600
+BRISTOL-MYERS SQUIBB CO          COM       110122108      1,533     66,700  SH             SOLE                  66,700
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+COLUMN 1                        COLUMN 2   COLUMN 3     COLUMN 4         COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+- --------                        --------   --------     --------   ----------------------  --------   --------  --------------------
+                                TITLE OF                VALUE      SHRS OR           PUT/  SHRS OR    OTHER       VOTING AUTHORITY
+NAME OF ISSUER                  CLASS      CUSIP        (x$1000)   PRN AMT  SH/PRN   CALL  PRN AMT    MANAGERS   SOLE  SHARED   NONE
+- --------------                  -----      -----        --------   -------  ------   ----  -------    --------   ----  ------   ----
+<S>                              <C>       <C>            <C>      <C>      <C>      <C>   <C>        <C>        <C>   <C>      <C>
+CAPITAL ONE FINANCIAL CORP       COM       14040H105      3,119     36,100  SH             SOLE                  36,100
+CENDANT CORP                     COM       151313103        392     22,700  SH             SOLE                  22,700
+CENTERPOINT ENERGY INC           COM       15189T107        287     22,300  SH             SOLE                  22,300
+CHEVRONTEXACO CORP               COM       166764100      1,993     35,100  SH             SOLE                  35,100
+CHICAGO MERCANTILE EXCHANGE      COM       167760107      1,433      3,900  SH             SOLE                   3,900
+CHUBB CORP                       COM       171232101        264      2,700  SH             SOLE                   2,700
+CHURCH & DWIGHT CO INC           COM       171340102        685     20,750  SH             SOLE                  20,750
+CIT GROUP INC                    COM       125581108      1,383     26,700  SH             SOLE                  26,700
+COCA-COLA CO/THE                 COM       191216100      5,720    141,900  SH             SOLE                 141,900
+COCA-COLA ENTERPRISES            COM       191219104        504     26,300  SH             SOLE                  26,300
+CONAGRA FOODS INC                COM       205887102        262     12,900  SH             SOLE                  12,900
+CONOCOPHILLIPS                   COM       20825C104      1,495     25,700  SH             SOLE                  25,700
+CONSOLIDATED EDISON INC          COM       209115104        760     16,400  SH             SOLE                  16,400
+CONSTELLATION BRANDS INC-A       COM       21036P108        601     22,900  SH             SOLE                  22,900
+COSTCO WHOLESALE CORP            COM       22160K105        282      5,700  SH             SOLE                   5,700
+DELUXE CORP                      COM       248019101        244      8,100  SH             SOLE                   8,100
+DEVON ENERGY CORPORATION         COM       25179M103        550      8,800  SH             SOLE                   8,800
+DOMINION RESOURCES INC/VA        COM       25746U109      1,722     22,300  SH             SOLE                  22,300
+DORAL FINANCIAL CORP             COM       25811P100        142     13,400  SH             SOLE                  13,400
+DOW CHEMICAL                     COM       260543103      1,599     36,500  SH             SOLE                  36,500
+DR HORTON INC                    COM       23331A109        410     11,466  SH             SOLE                  11,466
+DTE ENERGY COMPANY               COM       233331107        592     13,700  SH             SOLE                  13,700
+DU PONT (E.I.) DE NEMOURS        COM       263534109        782     18,400  SH             SOLE                  18,400
+DUKE ENERGY CORP                 COM       264399106      1,834     66,800  SH             SOLE                  66,800
+EASTMAN CHEMICAL COMPANY         COM       277432100        841     16,300  SH             SOLE                  16,300
+EDISON INTERNATIONAL             COM       281020107        959     22,000  SH             SOLE                  22,000
+ELECTRONIC ARTS INC              COM       285512109        460      8,800  SH             SOLE                   8,800
+ELI LILLY & CO                   COM       532457108      2,411     42,600  SH             SOLE                  42,600
+EMDEON CORP                      COM       290849108        128     15,116  SH             SOLE                  15,116
+ENERGIZER HOLDINGS INC           COM       29266R108        423      8,500  SH             SOLE                   8,500
+ENERGY EAST CORPORATION          COM       29266M109        253     11,100  SH             SOLE                  11,100
+ENTERGY CORP                     COM       29364G103        968     14,100  SH             SOLE                  14,100
+EOG RESOURCES INC                COM       26875P101        220      3,000  SH             SOLE                   3,000
+EXXON MOBIL CORP                 COM       30231G102      4,022     71,600  SH             SOLE                  71,600
+FAIRMONT HOTELS & RESORTS        COM       305204109      4,345    102,450  SH             SOLE                 102,450
+FEDERATED DEPARTMENT STORES      COM       31410H101        292      4,400  SH             SOLE                   4,400
+FIRST DATA CORP                  COM       319963104        232      5,400  SH             SOLE                   5,400
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+COLUMN 1                        COLUMN 2   COLUMN 3     COLUMN 4         COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+- --------                        --------   --------     --------   ----------------------  --------   --------  --------------------
+                                TITLE OF                VALUE      SHRS OR           PUT/  SHRS OR    OTHER       VOTING AUTHORITY
+NAME OF ISSUER                  CLASS      CUSIP        (x$1000)   PRN AMT  SH/PRN   CALL  PRN AMT    MANAGERS   SOLE  SHARED   NONE
+- --------------                  -----      -----        --------   -------  ------   ----  -------    --------   ----  ------   ----
+<S>                              <C>       <C>            <C>      <C>      <C>      <C>   <C>        <C>        <C>   <C>      <C>
+FIRSTENERGY CORP                 COM       337932107      1,083     22,100  SH             SOLE                 22,100
+FISERV INC                       COM       337738108        381      8,800  SH             SOLE                  8,800
+FORD MOTOR CO                    COM       345370860      4,330    560,900  SH             SOLE                560,900
+FOREST LABORATORIES INC          COM       345838106        614     15,100  SH             SOLE                 15,100
+FPL GROUP INC                    COM       302571104      1,002     24,100  SH             SOLE                 24,100
+GANNETT CO                       COM       364730101        909     15,000  SH             SOLE                 15,000
+GEMSTAR-TV GUIDE INTL INC        COM       36866W106      1,053    403,500  SH             SOLE                403,500
+GENERAL ELECTRIC CO              COM       369604103      3,536    386,200  SH             SOLE                386,200
+GENERAL GROWTH PROPERTIES        COM       370021107        244      5,200  SH             SOLE                  5,200
+GENERAL MOTORS CORP              COM       370442105      4,208    216,700  SH             SOLE                216,700
+GENTEX CORP                      COM       371901109      1,008     51,700  SH             SOLE                 51,700
+GOLDMAN SACHS GROUP INC          COM       38141G104        243      1,900  SH             SOLE                  1,900
+H&R BLOCK INC                    COM       093671105        248     10,100  SH             SOLE                 10,100
+HARLEY-DAVIDSON INC              COM       412822108      4,814     93,500  SH             SOLE                 93,500
+HARTFORD FINANCIAL SVCS GRP      COM       416515104        515      6,000  SH             SOLE                  6,000
+HERSHEY FOODS CORP               COM       427866108        359      6,500  SH             SOLE                  6,500
+HEWLETT-PACKARD CO               COM       428236103        587     20,500  SH             SOLE                 20,500
+HOME DEPOT INC                   COM       437076102      1,567     38,700  SH             SOLE                 38,700
+HOVNANIAN ENTERPRISES-A          COM       442487203        541     10,900  SH             SOLE                 10,900
+HRPT PROPERTIES TRUST            COM       40426W101        474     45,800  SH             SOLE                 45,800
+INTRAWEST CORPORATION            COM       460915200      1,445     49,900  SH             SOLE                 49,900
+J.C. PENNEY CO INC (HLDG CO)     COM       708160106        206      3,700  SH             SOLE                  3,700
+JDS UNIPHASE CORP                COM       46612J101        180     76,300  SH             SOLE                 76,300
+JOHNSON & JOHNSON                COM       478160104      7,452    124,000  SH             SOLE                124,000
+JOHNSON CONTROLS INC             COM       478366107      4,732     64,900  SH             SOLE                 64,900
+KB HOME                          COM       48666K109        487      6,700  SH             SOLE                  6,700
+KEYSPAN CORP                     COM       49337W100        457     12,800  SH             SOLE                 12,800
+KOHLS CORP                       COM       500255104        719     14,800  SH             SOLE                 14,800
+LEAR CORP                        COM       521865105        643     22,600  SH             SOLE                 22,600
+LENNAR CORP-CL A                 COM       526057104        439      7,200  SH             SOLE                  7,200
+LOEWS CORP                       COM       540424108        370      3,900  SH             SOLE                  3,900
+LOWE'S COS INC                   COM       548661107        847     12,700  SH             SOLE                 12,700
+LYONDELL CHEMICAL COMPANY        COM       552078107        815     34,200  SH             SOLE                 34,200
+MARATHON OIL CORP                COM       565849106        878     14,394  SH             SOLE                 14,394
+MASSEY ENERGY CO                 COM       576206106        405     10,700  SH             SOLE                 10,700
+MBIA INC                         COM       55262C100        217      3,600  SH             SOLE                  3,600
+MDC HOLDINGS INC                 COM       552676108      1,476     23,810  SH             SOLE                 23,810
+MDU RESOURCES GROUP INC          COM       552690109        262      8,000  SH             SOLE                  8,000
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+COLUMN 1                        COLUMN 2   COLUMN 3     COLUMN 4         COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+- --------                        --------   --------     --------   ----------------------  --------   --------  --------------------
+                                TITLE OF                VALUE      SHRS OR           PUT/  SHRS OR    OTHER       VOTING AUTHORITY
+NAME OF ISSUER                  CLASS      CUSIP        (x$1000)   PRN AMT  SH/PRN   CALL  PRN AMT    MANAGERS   SOLE  SHARED   NONE
+- --------------                  -----      -----        --------   -------  ------   ----  -------    --------   ----  ------   ----
+<S>                              <C>       <C>            <C>      <C>      <C>      <C>   <C>        <C>        <C>   <C>      <C>
+MEDTRONIC INC                    COM       585055106        599     10,400  SH             SOLE                  10,400
+MERCK & CO. INC.                 COM       589331107      1,113     35,000  SH             SOLE                  35,000
+MERCURY INTERACTIVE CORP         COM       589405109      1,212     43,600  SH             SOLE                  43,600
+MICROSOFT CORP.                  COM       594918104      7,806    298,500  SH             SOLE                 298,500
+MILLENNIUM PHARMACEUTICALS       COM       599902103         99     10,200  SH             SOLE                  10,200
+MILLS CORP/THE                   COM       601148109        617     14,700  SH             SOLE                  14,700
+MOODY'S CORP                     COM       615369105      2,260     36,800  SH             SOLE                  36,800
+MORGAN STANLEY                   COM       617446448        278      4,900  SH             SOLE                   4,900
+MURPHY OIL CORP                  COM       626717102        216      4,000  SH             SOLE                   4,000
+NATIONAL FUEL GAS CO             COM       636180101        262      8,400  SH             SOLE                   8,400
+NCR CORPORATION                  COM       62886E108        428     12,600  SH             SOLE                  12,600
+NEWFIELD EXPLORATION CO          COM       651290108        200      4,000  SH             SOLE                   4,000
+NISOURCE INC                     COM       65473P105        392     18,800  SH             SOLE                  18,800
+NOBLE ENERGY INC                 COM       655044105        246      6,100  SH             SOLE                   6,100
+NOVELL INC                       COM       670006105         96     10,900  SH             SOLE                  10,900
+NSTAR                            COM       67019E107        227      7,900  SH             SOLE                   7,900
+OCCIDENTAL PETROLEUM CORP        COM       674599105        519      6,500  SH             SOLE                   6,500
+OGE ENERGY CORP                  COM       670837103        230      8,600  SH             SOLE                   8,600
+ORACLE CORP                      COM       68389X105      2,438    199,700  SH             SOLE                  99,700
+OSI PHARMACEUTICALS INC          COM       671040103        423     15,100  SH             SOLE                  15,100
+OUTBACK STEAKHOUSE INC           COM       689899102        208      5,000  SH             SOLE                   5,000
+P G & E CORP                     COM       69331C108        935     25,200  SH             SOLE                  25,200
+PATTERSON COS INC                COM       703395103        428     12,800  SH             SOLE                  12,800
+PEPCO HOLDINGS INC               COM       713291102        289     12,900  SH             SOLE                  12,900
+PEPSI BOTTLING GROUP INC         COM       713409100        403     14,100  SH             SOLE                  14,100
+PEPSIAMERICAS INC                COM       71343P200        212      9,100  SH             SOLE                   9,100
+PEPSICO INC                      COM       713448108      4,502     76,200  SH             SOLE                  76,200
+PFIZER INC                       COM       717081103      6,457    276,900  SH             SOLE                  76,900
+PINNACLE WEST CAPITAL            COM       723484101        281      6,800  SH             SOLE                   6,800
+PMC - SIERRA INC                 COM       69344F106        423     54,800  SH             SOLE                  54,800
+POGO PRODUCING CO                COM       730448107        657     13,200  SH             SOLE                  13,200
+PPL CORPORATION                  COM       69351T106        732     24,900  SH             SOLE                  24,900
+PROGRESS ENERGY INC              COM       743263105        408      9,300  SH             SOLE                   9,300
+PROLOGIS                         COM       743410102        248      5,300  SH             SOLE                   5,300
+QUESTAR CORP                     COM       748356102        341      4,500  SH             SOLE                   4,500
+RELIANT ENERGY INC               COM       75952B105        209     20,300  SH             SOLE                  20,300
+REYNOLDS AMERICAN INC            COM       761713106        562      5,900  SH             SOLE                   5,900
+SCANA CORP                       COM       80589M102        303      7,700  SH             SOLE                   7,700
+</TABLE>
+
+<PAGE>
+<TABLE>
+<CAPTION>
+
+COLUMN 1                        COLUMN 2   COLUMN 3     COLUMN 4         COLUMN 5          COLUMN 6   COLUMN 7        COLUMN 8
+- --------                        --------   --------     --------   ----------------------  --------   --------  --------------------
+                                TITLE OF                VALUE      SHRS OR           PUT/  SHRS OR    OTHER       VOTING AUTHORITY
+NAME OF ISSUER                  CLASS      CUSIP        (x$1000)   PRN AMT  SH/PRN   CALL  PRN AMT    MANAGERS   SOLE  SHARED   NONE
+- --------------                  -----      -----        --------   -------  ------   ----  -------    --------   ----  ------   ----
+<S>                              <C>       <C>            <C>      <C>      <C>      <C>   <C>        <C>        <C>   <C>      <C>
+SCHERING-PLOUGH CORP             COM       806605101      1,380     66,200  SH             SOLE                 66,200
+SEMPRA ENERGY                    COM       816851109        659     14,700  SH             SOLE                 14,700
+SERVICEMASTER COMPANY            COM       81760N109        163     13,600  SH             SOLE                 13,600
+SIMON PROPERTY GROUP INC         COM       828806109        368      4,800  SH             SOLE                  4,800
+SLM CORP                         COM       78442P106      2,925     53,100  SH             SOLE                 53,100
+SONOCO PRODUCTS CO               COM       835495102        303     10,300  SH             SOLE                 10,300
+SOUTHERN CO                      COM       842587107      1,709     49,500  SH             SOLE                 49,500
+STAPLES INC                      COM       855030102        280     12,350  SH             SOLE                 12,350
+STRYKER CORP                     COM       863667101        444     10,000  SH             SOLE                 10,000
+SUNOCO INC                       COM       86764P109        243      3,100  SH             SOLE                  3,100
+SYMANTEC CORP                    COM       871503108        786     44,900  SH             SOLE                 44,900
+SYNOVUS FINANCIAL CORP           COM       87161C105        262      9,700  SH             SOLE                  9,700
+TARGET CORP                      COM       87612E106        967     17,600  SH             SOLE                 17,600
+THE WALT DISNEY CO.              COM       254687106        604     25,200  SH             SOLE                 25,200
+THOR INDUSTRIES INC              COM       885160101        753     18,800  SH             SOLE                 18,800
+TOLL BROTHERS INC                COM       889478103        949     27,400  SH             SOLE                 27,400
+TOTAL SYSTEM SERVICES INC        COM       891906109      1,449     73,200  SH             SOLE                 73,200
+TRANSOCEAN INC                   ORD       G90078109        279      4,000  SH             SOLE                  4,000
+TRIAD HOSPITALS INC              COM       89579K109        341      8,700  SH             SOLE                  8,700
+TXU CORP                         COM       873168108      2,123     42,300  SH             SOLE                 42,300
+TYCO INTERNATIONAL LTD           COM       902124106      2,257     78,200  SH             SOLE                 78,200
+UST INC                          COM       902911106        404      9,900  SH             SOLE                  9,900
+VALERO ENERGY CORP               COM       91913Y100        753     14,600  SH             SOLE                 14,600
+VORNADO REALTY TRUST             COM       929042109        200      2,400  SH             SOLE                  2,400
+W HOLDING COMPANY INC            COM       929251106        113     13,700  SH             SOLE                 13,700
+WAL-MART STORES INC              COM       931142103      3,599     76,900  SH             SOLE                 76,900
+WISCONSIN ENERGY CORP            COM       976657106        234      6,000  SH             SOLE                  6,000
+WYETH                            COM       983024100      2,285     49,600  SH             SOLE                 49,600
+XCEL ENERGY INC                  COM       98389B100        508     27,500  SH             SOLE                 27,500
+YRC Worldwide INC                COM       984249102        205      4,600  SH             SOLE                  4,600
+ZIMMER HOLDINGS INC              COM       98956P102        330      4,900  SH             SOLE                  4,900
+ESTEE LAUDER COMPANIES-CL A      COM       518439104        251      7,500  SH             SOLE                   7500
+MCCORMICK & CO-NON VTG SHRS      COM       579780206        235       7600  SH             SOLE                   7600
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,73 @@
+{
+  "filing_info": {
+    "filer_name": "Bridgewater Associates, LP",
+    "cik": "0001350694",
+    "period_of_report": "03-31-2025",
+    "report_type": "13F HOLDINGS REPORT",
+    "form_13f_file_number": "028-11794",
+    "address": {
+      "street": "One Nyala Farms Road",
+      "city": "Westport",
+      "state": "CT",
+      "zip_code": "06880"
+    },
+    "signature": {
+      "name": "Michael Kitson",
+      "title": "Chief Compliance Officer and Counsel",
+      "phone": "203-226-3030",
+      "date": "05-14-2025"
+    }
+  },
+  "summary": {
+    "total_entries": 664,
+    "total_value": 21554169616,
+    "other_managers_count": 0
+  },
+  "holdings": [
+    {
+      "issuer_name": "APPLE INC",
+      "title_of_class": "COM",
+      "cusip": "037833100",
+      "value": 1234567890,
+      "shares": 5000000,
+      "share_type": "SH",
+      "investment_discretion": "SOLE",
+      "voting_authority": {
+        "sole": 5000000,
+        "shared": 0,
+        "none": 0
+      },
+      "price_per_share": 246.91
+    },
+    {
+      "issuer_name": "MICROSOFT CORP",
+      "title_of_class": "COM",
+      "cusip": "594918104",
+      "value": 987654321,
+      "shares": 2500000,
+      "share_type": "SH",
+      "investment_discretion": "SOLE",
+      "voting_authority": {
+        "sole": 2500000,
+        "shared": 0,
+        "none": 0
+      },
+      "price_per_share": 395.06
+    },
+    {
+      "issuer_name": "AMAZON.COM INC",
+      "title_of_class": "COM",
+      "cusip": "023135106",
+      "value": 876543210,
+      "shares": 500000,
+      "share_type": "SH",
+      "investment_discretion": "SOLE",
+      "voting_authority": {
+        "sole": 500000,
+        "shared": 0,
+        "none": 0
+      },
+      "price_per_share": 1753.09
+    }
+  ]
+}
