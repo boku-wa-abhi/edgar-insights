@@ -129,4 +129,5 @@ dmypy.json
 .pytype/
 
 # Cython debug symbols
-cython_debug/
+# Add this line to your existing .gitignore
+.venv/
