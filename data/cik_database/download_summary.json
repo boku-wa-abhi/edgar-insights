@@ -1,43 +1,43 @@
 {
-  "total_companies": 10078,
-  "companies_with_tickers": 10078,
+  "total_companies": 10089,
+  "companies_with_tickers": 10089,
   "companies_without_tickers": 0,
-  "download_timestamp": "2025-07-29T17:35:39.884657",
+  "download_timestamp": "2025-08-02T00:40:29.807847",
   "sample_companies": [
     {
       "ticker": "A",
       "company_name": "AGILENT TECHNOLOGIES, INC.",
       "cik": "0001090872",
       "cik_raw": 1090872,
-      "last_updated": "2025-07-29T17:35:39.830830"
+      "last_updated": "2025-08-02T00:40:29.757783"
     },
     {
       "ticker": "AA",
       "company_name": "Alcoa Corp",
       "cik": "0001675149",
       "cik_raw": 1675149,
-      "last_updated": "2025-07-29T17:35:39.831442"
+      "last_updated": "2025-08-02T00:40:29.758313"
     },
     {
       "ticker": "AAAU",
       "company_name": "Goldman Sachs Physical Gold ETF",
       "cik": "0001708646",
       "cik_raw": 1708646,
-      "last_updated": "2025-07-29T17:35:39.837153"
+      "last_updated": "2025-08-02T00:40:29.763403"
     },
     {
       "ticker": "AACB",
       "company_name": "Artius II Acquisition Inc.",
       "cik": "0002034334",
       "cik_raw": 2034334,
-      "last_updated": "2025-07-29T17:35:39.833946"
+      "last_updated": "2025-08-02T00:40:29.760490"
     },
     {
       "ticker": "AACBR",
       "company_name": "Artius II Acquisition Inc.",
       "cik": "0002034334",
       "cik_raw": 2034334,
-      "last_updated": "2025-07-29T17:35:39.838294"
+      "last_updated": "2025-08-02T00:40:29.764368"
     }
   ]
 }
