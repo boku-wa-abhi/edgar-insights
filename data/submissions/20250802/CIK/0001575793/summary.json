@@ -1,0 +1,32 @@
+{
+  "cik": "0001575793",
+  "name": "Energous Corp",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WATT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "461318953",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(408) 963-0200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DvineWave Inc.",
+      "from": "2013-05-22T04:00:00.000Z",
+      "to": "2013-12-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 758,
+  "download_timestamp": "2025-08-02 07:17:27 UTC"
+}

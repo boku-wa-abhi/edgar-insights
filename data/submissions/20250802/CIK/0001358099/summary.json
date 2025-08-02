@@ -1,0 +1,47 @@
+{
+  "cik": "0001358099",
+  "name": "Umbra Companies, Inc.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UCIX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "204076559",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "833-833-2913",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ocean Electric Inc.",
+      "from": "2012-02-29T00:00:00.000Z",
+      "to": "2015-07-21T00:00:00.000Z"
+    },
+    {
+      "name": "Gold Holding Corp.",
+      "from": "2011-08-16T00:00:00.000Z",
+      "to": "2012-01-25T00:00:00.000Z"
+    },
+    {
+      "name": "GOLD HOLDINGS Corp",
+      "from": "2010-05-17T00:00:00.000Z",
+      "to": "2011-06-22T00:00:00.000Z"
+    },
+    {
+      "name": "ROYAL EQUINE ALLIANCE CORP",
+      "from": "2006-03-14T00:00:00.000Z",
+      "to": "2010-03-24T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 126,
+  "download_timestamp": "2025-08-02 07:11:14 UTC"
+}

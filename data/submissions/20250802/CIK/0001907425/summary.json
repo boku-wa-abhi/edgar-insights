@@ -1,0 +1,26 @@
+{
+  "cik": "0001907425",
+  "name": "JOCOM HOLDINGS CORP.",
+  "entityType": "operating",
+  "sic": "7380",
+  "sicDescription": "Services-Miscellaneous Business Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JOCM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "384177722",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "60322416637",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 34,
+  "download_timestamp": "2025-08-02 07:29:18 UTC"
+}

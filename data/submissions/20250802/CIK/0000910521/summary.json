@@ -1,0 +1,26 @@
+{
+  "cik": "0000910521",
+  "name": "DECKERS OUTDOOR CORP",
+  "entityType": "operating",
+  "sic": "3021",
+  "sicDescription": "Rubber & Plastics Footwear",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "DECK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953015862",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8059677611",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:13 UTC"
+}

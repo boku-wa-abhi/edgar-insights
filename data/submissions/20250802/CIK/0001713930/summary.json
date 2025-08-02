@@ -1,0 +1,32 @@
+{
+  "cik": "0001713930",
+  "name": "Nexa Resources S.A.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "N4",
+  "stateOfIncorporationDescription": "Luxembourg",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEXA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "352 26 00 53 43",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VM Holding S.A.",
+      "from": "2017-08-14T04:00:00.000Z",
+      "to": "2017-09-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 340,
+  "download_timestamp": "2025-08-02 07:21:39 UTC"
+}

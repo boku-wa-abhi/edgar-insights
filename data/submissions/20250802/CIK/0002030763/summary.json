@@ -1,0 +1,32 @@
+{
+  "cik": "0002030763",
+  "name": "Wellgistics Health, Inc.",
+  "entityType": "operating",
+  "sic": "5122",
+  "sicDescription": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WGRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "933264234",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "1-843-302-1785",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Danam Health, Inc",
+      "from": "2024-07-22T04:00:00.000Z",
+      "to": "2024-09-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 69,
+  "download_timestamp": "2025-08-02 07:32:37 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001095981",
+  "name": "PLUS THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PSTV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330827593",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "737.255.7194",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CYTORI THERAPEUTICS, INC.",
+      "from": "2005-05-26T04:00:00.000Z",
+      "to": "2019-08-02T04:00:00.000Z"
+    },
+    {
+      "name": "MACROPORE INC",
+      "from": "2001-07-16T04:00:00.000Z",
+      "to": "2005-07-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:54 UTC"
+}

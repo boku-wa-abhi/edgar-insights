@@ -1,0 +1,38 @@
+{
+  "cik": "0001159508",
+  "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+  "entityType": "other",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DB",
+    "ADZCF",
+    "DEENF",
+    "DGP",
+    "DGZ",
+    "DZZ",
+    "OLOXF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-250-1306",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:12 UTC"
+}

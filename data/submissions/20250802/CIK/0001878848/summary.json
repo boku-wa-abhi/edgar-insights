@@ -1,0 +1,37 @@
+{
+  "cik": "0001878848",
+  "name": "IREN Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "IREN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "61279068301",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Iris Energy Ltd",
+      "from": "2021-09-23T04:00:00.000Z",
+      "to": "2024-11-29T05:00:00.000Z"
+    },
+    {
+      "name": "Iris Energy Pty Ltd",
+      "from": "2021-08-26T04:00:00.000Z",
+      "to": "2021-10-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 248,
+  "download_timestamp": "2025-08-02 07:28:30 UTC"
+}

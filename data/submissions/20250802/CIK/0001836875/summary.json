@@ -1,0 +1,34 @@
+{
+  "cik": "0001836875",
+  "name": "Nuvve Holding Corp.",
+  "entityType": "operating",
+  "sic": "3612",
+  "sicDescription": "Power, Distribution & Specialty Transformers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVVE",
+    "NVVEW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "861617000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "619-456-5161",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NB Merger Corp.",
+      "from": "2020-12-21T05:00:00.000Z",
+      "to": "2021-02-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 398,
+  "download_timestamp": "2025-08-02 07:26:21 UTC"
+}

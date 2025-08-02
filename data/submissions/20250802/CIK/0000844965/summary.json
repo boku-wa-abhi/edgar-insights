@@ -1,0 +1,26 @@
+{
+  "cik": "0000844965",
+  "name": "TETRA TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TTI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "742148293",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2813671983",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:24 UTC"
+}

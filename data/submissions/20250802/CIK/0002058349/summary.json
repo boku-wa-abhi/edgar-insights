@@ -1,0 +1,32 @@
+{
+  "cik": "0002058349",
+  "name": "ETOILES CAPITAL GROUP CO., LTD",
+  "entityType": "other",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "EFTY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852-2398-8699",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Thrive Capital Group Co., LTD",
+      "from": "2025-03-06T05:00:00.000Z",
+      "to": "2025-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:33:26 UTC"
+}

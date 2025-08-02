@@ -1,0 +1,26 @@
+{
+  "cik": "0001604950",
+  "name": "scPharmaceuticals Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCPH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465184075",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-517-0730",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 364,
+  "download_timestamp": "2025-08-02 07:18:26 UTC"
+}

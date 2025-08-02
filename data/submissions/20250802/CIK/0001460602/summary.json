@@ -1,0 +1,32 @@
+{
+  "cik": "0001460602",
+  "name": "Orgenesis Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ORGS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980583166",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(480) 659-6404",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Business Outsourcing Service, Inc.",
+      "from": "2009-04-02T04:00:00.000Z",
+      "to": "2011-08-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 521,
+  "download_timestamp": "2025-08-02 07:13:55 UTC"
+}

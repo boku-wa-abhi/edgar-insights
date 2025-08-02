@@ -1,0 +1,32 @@
+{
+  "cik": "0000033213",
+  "name": "EQT Corp",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EQT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "250464690",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4125535700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EQUITABLE RESOURCES INC /PA/",
+      "from": "1994-05-18T04:00:00.000Z",
+      "to": "2009-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:47 UTC"
+}

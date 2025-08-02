@@ -1,0 +1,57 @@
+{
+  "cik": "0001171326",
+  "name": "ENTREPRENEUR UNIVERSE BRIGHT GROUP",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EUBG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "753025152",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "86-400-6087979",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LONESTAR Group Holdings CO",
+      "from": "2007-04-02T04:00:00.000Z",
+      "to": "2007-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "U.S. ENERGY HOLDINGS INC.",
+      "from": "2006-03-31T05:00:00.000Z",
+      "to": "2007-02-09T05:00:00.000Z"
+    },
+    {
+      "name": "PITBOSS ENTERTAINMENT INC.",
+      "from": "2005-11-15T05:00:00.000Z",
+      "to": "2005-11-22T05:00:00.000Z"
+    },
+    {
+      "name": "KARMA MEDIA INC",
+      "from": "2003-10-14T04:00:00.000Z",
+      "to": "2005-08-19T04:00:00.000Z"
+    },
+    {
+      "name": "ESTELLE REYNA INC",
+      "from": "2003-04-09T04:00:00.000Z",
+      "to": "2003-09-30T04:00:00.000Z"
+    },
+    {
+      "name": "LE GOURMET CO INC",
+      "from": "2002-04-18T04:00:00.000Z",
+      "to": "2003-03-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:08:28 UTC"
+}

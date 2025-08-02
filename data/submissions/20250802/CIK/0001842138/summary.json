@@ -1,0 +1,26 @@
+{
+  "cik": "0001842138",
+  "name": "WARPSPEED TAXI INC.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "WRPT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "853978107",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "7028050632",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:26:41 UTC"
+}

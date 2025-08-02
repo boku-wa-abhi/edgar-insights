@@ -1,0 +1,26 @@
+{
+  "cik": "0001913838",
+  "name": "VWF Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "VWFB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "881256373",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "419-238-9662",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 103,
+  "download_timestamp": "2025-08-02 07:29:24 UTC"
+}

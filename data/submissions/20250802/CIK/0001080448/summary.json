@@ -1,0 +1,32 @@
+{
+  "cik": "0001080448",
+  "name": "PATRIOT GOLD CORP",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PGOL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "860947048",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-456-9565",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NORTHERN OSTRICH CORP",
+      "from": "2001-06-25T00:00:00.000Z",
+      "to": "2003-06-25T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 242,
+  "download_timestamp": "2025-08-02 07:06:29 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001131554",
+  "name": "SYNCHRONOSS TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNCR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "061594540",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "866-620-3940",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:43 UTC"
+}

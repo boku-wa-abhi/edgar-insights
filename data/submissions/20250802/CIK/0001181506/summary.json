@@ -1,0 +1,26 @@
+{
+  "cik": "0001181506",
+  "name": "PIMCO MUNICIPAL INCOME FUND III",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PMX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "556145593",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-739-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 518,
+  "download_timestamp": "2025-08-02 07:08:45 UTC"
+}

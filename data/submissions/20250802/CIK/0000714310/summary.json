@@ -1,0 +1,32 @@
+{
+  "cik": "0000714310",
+  "name": "VALLEY NATIONAL BANCORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VLY",
+    "VLYPP",
+    "VLYPO",
+    "VLYPN"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "222477875",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(973) 305-8800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:12 UTC"
+}

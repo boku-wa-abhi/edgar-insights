@@ -1,0 +1,194 @@
+{
+  "cik": "0002053115",
+  "entityType": "other",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Zi Yun Dong Fang Ltd",
+  "tickers": [
+    "YLY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0531",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "addresses": {
+    "mailing": {
+      "street1": "ROOM NO.809, 8/F, TSIM SHA TSUI CENTRE,",
+      "street2": "66 MODY ROAD",
+      "city": "KOWLOON",
+      "stateOrCountry": "K3",
+      "zipCode": "0000",
+      "stateOrCountryDescription": "Hong Kong",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "ROOM NO.809, 8/F, TSIM SHA TSUI CENTRE,",
+      "street2": "66 MODY ROAD",
+      "city": "KOWLOON",
+      "stateOrCountry": "K3",
+      "zipCode": "0000",
+      "stateOrCountryDescription": "Hong Kong",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "852 5958 8860",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-021712",
+        "0001641172-25-021202",
+        "0001641172-25-014867",
+        "0001641172-25-013290",
+        "0001641172-25-011292",
+        "0001641172-25-009091",
+        "0001493152-25-003407"
+      ],
+      "filingDate": [
+        "2025-07-31",
+        "2025-07-28",
+        "2025-06-12",
+        "2025-06-03",
+        "2025-05-16",
+        "2025-05-08",
+        "2025-01-23"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-31T19:08:58.000Z",
+        "2025-07-28T21:33:14.000Z",
+        "2025-06-12T20:33:09.000Z",
+        "2025-06-02T21:51:59.000Z",
+        "2025-05-16T21:26:24.000Z",
+        "2025-05-07T21:45:17.000Z",
+        "2025-01-23T21:38:07.000Z"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287376",
+        "333-287376",
+        "333-287376",
+        "333-287376",
+        "333-287376",
+        "377-07691",
+        "377-07691"
+      ],
+      "filmNumber": [
+        "251171244",
+        "251156814",
+        "251043328",
+        "251016379",
+        "25960699",
+        "25923081",
+        "25550628"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        21120087,
+        49536780,
+        48711121,
+        49474652,
+        36450985,
+        4159852,
+        34581192
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "formfwp.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

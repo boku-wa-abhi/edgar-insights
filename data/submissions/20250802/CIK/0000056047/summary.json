@@ -1,0 +1,26 @@
+{
+  "cik": "0000056047",
+  "name": "KIRBY CORP",
+  "entityType": "operating",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KEX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741884980",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7134351000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:57:14 UTC"
+}

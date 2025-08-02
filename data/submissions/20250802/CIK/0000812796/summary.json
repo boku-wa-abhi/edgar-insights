@@ -1,0 +1,47 @@
+{
+  "cik": "0000812796",
+  "name": "SOLIGENIX, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNGX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411505029",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "609-538-8200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SOLIGENIX, INC.",
+      "from": "2009-09-30T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "DOR BIOPHARMA INC",
+      "from": "2002-04-01T05:00:00.000Z",
+      "to": "2009-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "ENDOREX CORP",
+      "from": "1996-09-16T04:00:00.000Z",
+      "to": "2001-10-24T04:00:00.000Z"
+    },
+    {
+      "name": "IMMUNOTHERAPEUTICS INC",
+      "from": "1995-08-08T04:00:00.000Z",
+      "to": "1996-04-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:46 UTC"
+}

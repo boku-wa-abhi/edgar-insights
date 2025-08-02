@@ -1,0 +1,32 @@
+{
+  "cik": "0000885462",
+  "name": "GULF RESOURCES, INC.",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GURE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133637458",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "86 (536) 567-0008",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIVERSIFAX INC",
+      "from": "1996-10-15T04:00:00.000Z",
+      "to": "2007-02-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 679,
+  "download_timestamp": "2025-08-02 07:02:23 UTC"
+}

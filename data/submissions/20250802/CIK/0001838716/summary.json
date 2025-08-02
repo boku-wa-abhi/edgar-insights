@@ -1,0 +1,32 @@
+{
+  "cik": "0001838716",
+  "name": "Genenta Science S.p.A.",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "L6",
+  "stateOfIncorporationDescription": "Italy",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GNTA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "39-02-2643-6639",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Genenta Science S.r.l.",
+      "from": "2021-03-01T05:00:00.000Z",
+      "to": "2021-05-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:26:27 UTC"
+}

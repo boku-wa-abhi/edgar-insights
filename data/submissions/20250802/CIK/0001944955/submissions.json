@@ -1,0 +1,121 @@
+{
+  "cik": "0001944955",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "FIRST NORDIC METALS CORP.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "SUITE 300 - 1055 W. HASTINGS STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2E9",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "SUITE 300 - 1055 W. HASTINGS STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2E9",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "604-687-8566",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Barsele Minerals Corp.",
+      "from": "2022-09-06T04:00:00.000Z",
+      "to": "2022-09-06T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001727689-24-000149",
+        "0001944955-22-000002"
+      ],
+      "filingDate": [
+        "2024-12-11",
+        "2022-09-06"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-12-11T18:52:35.000Z",
+        "2022-09-06T21:20:50.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-531752",
+        "021-458093"
+      ],
+      "filmNumber": [
+        "241541130",
+        "221229105"
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "size": [
+        11963,
+        10889
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cik": "0001487918",
+  "name": "OFS Capital Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OFS",
+    "OFSSH",
+    "OFSSO"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "461339639",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "847-734-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OFS Capital, LLC",
+      "from": "2010-04-29T04:00:00.000Z",
+      "to": "2012-11-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 503,
+  "download_timestamp": "2025-08-02 07:14:41 UTC"
+}

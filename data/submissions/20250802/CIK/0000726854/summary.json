@@ -1,0 +1,26 @@
+{
+  "cik": "0000726854",
+  "name": "CITY HOLDING CO",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "WV",
+  "stateOfIncorporationDescription": "WV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "550619957",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3047691100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:30 UTC"
+}

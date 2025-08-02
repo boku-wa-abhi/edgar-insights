@@ -1,0 +1,32 @@
+{
+  "cik": "0001837014",
+  "name": "SmartRent, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMRT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "844.479.1555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Fifth Wall Acquisition Corp. I",
+      "from": "2020-12-18T05:00:00.000Z",
+      "to": "2021-08-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 636,
+  "download_timestamp": "2025-08-02 07:26:22 UTC"
+}

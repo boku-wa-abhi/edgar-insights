@@ -1,0 +1,32 @@
+{
+  "cik": "0000879585",
+  "name": "ATN International, Inc.",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATNI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "470728886",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "9786191300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ATLANTIC TELE NETWORK INC /DE",
+      "from": "1994-02-11T05:00:00.000Z",
+      "to": "2016-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:08 UTC"
+}

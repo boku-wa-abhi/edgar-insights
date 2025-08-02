@@ -1,0 +1,26 @@
+{
+  "cik": "0002047148",
+  "name": "CTW Cayman",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "CTW"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "050-1748-6333",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:33:12 UTC"
+}

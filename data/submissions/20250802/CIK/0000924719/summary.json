@@ -1,0 +1,26 @@
+{
+  "cik": "0000924719",
+  "name": "SMITH MIDLAND CORP",
+  "entityType": "operating",
+  "sic": "3272",
+  "sicDescription": "Concrete Products, Except Block & Brick",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMID"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541727060",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5404393266",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 562,
+  "download_timestamp": "2025-08-02 07:03:46 UTC"
+}

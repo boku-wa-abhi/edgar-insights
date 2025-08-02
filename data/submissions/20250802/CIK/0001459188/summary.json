@@ -1,0 +1,37 @@
+{
+  "cik": "0001459188",
+  "name": "Charging Robotics Inc.",
+  "entityType": "operating",
+  "sic": "5013",
+  "sicDescription": "Wholesale-Motor Vehicle Supplies & New Parts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHEV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "262274999",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "972 54 642 0352",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FUEL DOCTOR HOLDINGS, INC.",
+      "from": "2011-09-22T04:00:00.000Z",
+      "to": "2024-03-12T04:00:00.000Z"
+    },
+    {
+      "name": "Silverhill Management Services Inc",
+      "from": "2009-03-23T04:00:00.000Z",
+      "to": "2011-08-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:13:52 UTC"
+}

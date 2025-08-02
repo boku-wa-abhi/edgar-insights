@@ -1,0 +1,28 @@
+{
+  "cik": "0001679920",
+  "name": "Start Today Co., Ltd./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SRTTY",
+    "SATLF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-336-2301",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:20:32 UTC"
+}

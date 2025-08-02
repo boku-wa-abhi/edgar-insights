@@ -1,0 +1,26 @@
+{
+  "cik": "0001527383",
+  "name": "BankGuam Holding Co",
+  "entityType": "operating",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "GU",
+  "stateOfIncorporationDescription": "GU",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BKGM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "660770448",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "671-472-5271",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 639,
+  "download_timestamp": "2025-08-02 07:16:00 UTC"
+}

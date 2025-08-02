@@ -1,0 +1,26 @@
+{
+  "cik": "0002031069",
+  "name": "Hashdex Nasdaq Crypto Index US ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NCIQ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "55 21 2399-0100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:32:40 UTC"
+}

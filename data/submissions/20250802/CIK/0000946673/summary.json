@@ -1,0 +1,37 @@
+{
+  "cik": "0000946673",
+  "name": "BANNER CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BANR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911691604",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "509-344-5342",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST WASHINGTON BANCORP INC /WA/",
+      "from": "1998-08-14T04:00:00.000Z",
+      "to": "2000-03-30T05:00:00.000Z"
+    },
+    {
+      "name": "FIRST SAVINGS BANK OF WASHINGTON BANCORP INC",
+      "from": "1996-10-15T04:00:00.000Z",
+      "to": "1998-05-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:13 UTC"
+}

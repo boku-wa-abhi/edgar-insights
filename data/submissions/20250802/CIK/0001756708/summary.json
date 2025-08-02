@@ -1,0 +1,32 @@
+{
+  "cik": "0001756708",
+  "name": "Jumia Technologies AG",
+  "entityType": "other",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JMIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "49-30-398-20-34-54",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Africa Internet Holding GmbH",
+      "from": "2018-11-19T05:00:00.000Z",
+      "to": "2019-01-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:23:01 UTC"
+}

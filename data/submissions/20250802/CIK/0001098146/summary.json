@@ -1,0 +1,26 @@
+{
+  "cik": "0001098146",
+  "name": "PATRIOT NATIONAL BANCORP INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "CT",
+  "stateOfIncorporationDescription": "CT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNBK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "061559137",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2033247500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 883,
+  "download_timestamp": "2025-08-02 07:06:57 UTC"
+}

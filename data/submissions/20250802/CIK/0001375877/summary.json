@@ -1,0 +1,26 @@
+{
+  "cik": "0001375877",
+  "name": "Canadian Solar Inc.",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CSIQ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "519-837-1881",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 466,
+  "download_timestamp": "2025-08-02 07:11:37 UTC"
+}

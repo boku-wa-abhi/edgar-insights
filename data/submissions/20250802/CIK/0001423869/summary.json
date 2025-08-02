@@ -1,0 +1,32 @@
+{
+  "cik": "0001423869",
+  "name": "PCB BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208856755",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "213-210-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PACIFIC CITY FINANCIAL CORP",
+      "from": "2008-01-11T05:00:00.000Z",
+      "to": "2019-07-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 408,
+  "download_timestamp": "2025-08-02 07:12:58 UTC"
+}

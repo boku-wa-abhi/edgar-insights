@@ -1,0 +1,26 @@
+{
+  "cik": "0001854640",
+  "name": "Centerra Gold Inc.",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CGAU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-204-1953",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 169,
+  "download_timestamp": "2025-08-02 07:27:28 UTC"
+}

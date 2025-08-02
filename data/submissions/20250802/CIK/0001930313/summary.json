@@ -1,0 +1,34 @@
+{
+  "cik": "0001930313",
+  "name": "SBC Medical Group Holdings Inc",
+  "entityType": "operating",
+  "sic": "8011",
+  "sicDescription": "Services-Offices & Clinics of  Doctors of  Medicine",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBC",
+    "SBCWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "881263511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "9495930250",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Pono Capital Two, Inc.",
+      "from": "2022-06-14T04:00:00.000Z",
+      "to": "2024-08-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 193,
+  "download_timestamp": "2025-08-02 07:29:42 UTC"
+}

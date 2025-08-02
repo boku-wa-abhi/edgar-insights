@@ -1,0 +1,32 @@
+{
+  "cik": "0001496919",
+  "name": "MARFRIG GLOBAL FOODS S.A.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MRRTY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "55 11 3728 8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARFRIG ALIMENTOS S.A.",
+      "from": "2010-08-26T04:00:00.000Z",
+      "to": "2022-03-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:15:00 UTC"
+}

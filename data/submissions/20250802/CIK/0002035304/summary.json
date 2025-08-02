@@ -1,0 +1,26 @@
+{
+  "cik": "0002035304",
+  "name": "Titan America SA",
+  "entityType": "other",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "C9",
+  "stateOfIncorporationDescription": "Belgium",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TTAM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(757) 858-6500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 34,
+  "download_timestamp": "2025-08-02 07:32:51 UTC"
+}

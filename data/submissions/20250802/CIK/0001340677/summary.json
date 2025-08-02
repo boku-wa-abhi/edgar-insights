@@ -1,0 +1,26 @@
+{
+  "cik": "0001340677",
+  "name": "SILVERCORP METALS INC",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SVM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "6046699397",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 551,
+  "download_timestamp": "2025-08-02 07:10:53 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001895618",
+  "name": "GAXOS.AI INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GXAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "873288897",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "973-275-7428",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NFT Gaming Co Inc.",
+      "from": "2022-01-14T05:00:00.000Z",
+      "to": "2023-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 118,
+  "download_timestamp": "2025-08-02 07:29:00 UTC"
+}

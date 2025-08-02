@@ -1,0 +1,28 @@
+{
+  "cik": "0001595761",
+  "name": "WEIBO Corp",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WB",
+    "WEIBF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "86 10 6061-8000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 223,
+  "download_timestamp": "2025-08-02 07:18:07 UTC"
+}

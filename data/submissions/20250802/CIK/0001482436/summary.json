@@ -1,0 +1,37 @@
+{
+  "cik": "0001482436",
+  "name": "SILVER X MINING CORP.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "AGXPF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "778-726-3356",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ORO X MINING CORP.",
+      "from": "2020-10-22T00:00:00.000Z",
+      "to": "2020-10-22T00:00:00.000Z"
+    },
+    {
+      "name": "WESTERN PACIFIC RESOURCES CORP",
+      "from": "2010-02-10T00:00:00.000Z",
+      "to": "2015-12-07T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 18,
+  "download_timestamp": "2025-08-02 07:14:32 UTC"
+}

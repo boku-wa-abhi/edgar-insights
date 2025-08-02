@@ -1,0 +1,28 @@
+{
+  "cik": "0001437545",
+  "name": "Embla Medical HF/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3134",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ossur hf.",
+      "from": "2011-12-07T05:00:00.000Z",
+      "to": "2011-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:13:20 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001674632",
+  "name": "Beta Bionics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBNX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475386878",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "949-427-7785",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Beta Bionics, Inc",
+      "from": "2016-05-16T04:00:00.000Z",
+      "to": "2025-01-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 114,
+  "download_timestamp": "2025-08-02 07:20:24 UTC"
+}

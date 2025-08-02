@@ -1,0 +1,26 @@
+{
+  "cik": "0000003499",
+  "name": "ALEXANDERS INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "510100517",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "201-587-8541",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 556,
+  "download_timestamp": "2025-08-02 06:56:04 UTC"
+}

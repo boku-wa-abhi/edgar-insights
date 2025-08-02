@@ -1,0 +1,26 @@
+{
+  "cik": "0001612630",
+  "name": "JOINT Corp",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JYNT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "900544160",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "480 245 5960",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 566,
+  "download_timestamp": "2025-08-02 07:18:41 UTC"
+}

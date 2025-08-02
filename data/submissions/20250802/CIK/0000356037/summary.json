@@ -1,0 +1,26 @@
+{
+  "cik": "0000356037",
+  "name": "CSP INC /MA/",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "CSPI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042441294",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9789545038",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 925,
+  "download_timestamp": "2025-08-02 06:58:57 UTC"
+}

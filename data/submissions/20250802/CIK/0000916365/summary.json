@@ -1,0 +1,26 @@
+{
+  "cik": "0000916365",
+  "name": "TRACTOR SUPPLY CO /DE/",
+  "entityType": "operating",
+  "sic": "5200",
+  "sicDescription": "Retail-Building Materials, Hardware, Garden Supply",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "TSCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133139732",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6154404600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:03:28 UTC"
+}

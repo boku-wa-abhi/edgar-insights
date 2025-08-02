@@ -1,0 +1,32 @@
+{
+  "cik": "0000820318",
+  "name": "COHERENT CORP.",
+  "entityType": "operating",
+  "sic": "3827",
+  "sicDescription": "Optical Instruments & Lenses",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "COHR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251214948",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "724-352-4455",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "II-VI INC",
+      "from": "1995-10-04T04:00:00.000Z",
+      "to": "2022-09-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:55 UTC"
+}

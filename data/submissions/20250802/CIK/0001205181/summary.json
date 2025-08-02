@@ -1,0 +1,32 @@
+{
+  "cik": "0001205181",
+  "name": "Grapefruit USA, Inc",
+  "entityType": "operating",
+  "sic": "3844",
+  "sicDescription": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GPFT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "954451059",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310-205-1382",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IMAGING3 INC",
+      "from": "2002-11-19T00:00:00.000Z",
+      "to": "2020-01-23T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 393,
+  "download_timestamp": "2025-08-02 07:08:52 UTC"
+}

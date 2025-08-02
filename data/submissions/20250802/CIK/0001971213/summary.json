@@ -1,0 +1,26 @@
+{
+  "cik": "0001971213",
+  "name": "Sinclair, Inc.",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "921076143",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "410-568-1711",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 145,
+  "download_timestamp": "2025-08-02 07:30:46 UTC"
+}

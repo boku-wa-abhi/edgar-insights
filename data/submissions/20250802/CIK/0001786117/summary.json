@@ -1,0 +1,26 @@
+{
+  "cik": "0001786117",
+  "name": "Alpine Income Property Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PINE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "407-904-3324",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 350,
+  "download_timestamp": "2025-08-02 07:23:59 UTC"
+}

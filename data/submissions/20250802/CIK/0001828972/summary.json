@@ -1,0 +1,34 @@
+{
+  "cik": "0001828972",
+  "name": "BuzzFeed, Inc.",
+  "entityType": "operating",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BZFD",
+    "BZFDW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "853022075",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "646-397-2039",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "890 5th Avenue Partners, Inc.",
+      "from": "2020-10-26T04:00:00.000Z",
+      "to": "2021-12-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 459,
+  "download_timestamp": "2025-08-02 07:25:54 UTC"
+}

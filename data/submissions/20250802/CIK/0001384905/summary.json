@@ -1,0 +1,32 @@
+{
+  "cik": "0001384905",
+  "name": "RingCentral, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RNG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "943322844",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-472-4100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RingCentral Inc",
+      "from": "2006-12-20T05:00:00.000Z",
+      "to": "2019-07-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:54 UTC"
+}

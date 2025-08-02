@@ -1,0 +1,26 @@
+{
+  "cik": "0001499422",
+  "name": "RBB Bancorp",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RBB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "272776416",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "213-533-7918",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 720,
+  "download_timestamp": "2025-08-02 07:15:04 UTC"
+}

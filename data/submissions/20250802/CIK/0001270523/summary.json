@@ -1,0 +1,37 @@
+{
+  "cik": "0001270523",
+  "name": "Eaton Vance Tax-Advantaged Global Dividend Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "ETG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON VANCE TAX ADVANTAGED GLOBAL DIVIDEND INCOME FUND",
+      "from": "2003-11-20T05:00:00.000Z",
+      "to": "2024-11-13T05:00:00.000Z"
+    },
+    {
+      "name": "EATON VANCE TAX ADVANTAGED GLOBAL DIVIDEN INCOME FUND",
+      "from": "2003-11-19T05:00:00.000Z",
+      "to": "2003-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 404,
+  "download_timestamp": "2025-08-02 07:09:24 UTC"
+}

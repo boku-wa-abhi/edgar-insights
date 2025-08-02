@@ -1,0 +1,37 @@
+{
+  "cik": "0000915912",
+  "name": "AVALONBAY COMMUNITIES INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "770404318",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7033296300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AVALON BAY COMMUNITIES INC",
+      "from": "1998-08-03T04:00:00.000Z",
+      "to": "1998-10-06T04:00:00.000Z"
+    },
+    {
+      "name": "BAY APARTMENT COMMUNITIES INC",
+      "from": "1995-02-13T05:00:00.000Z",
+      "to": "1998-06-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:27 UTC"
+}

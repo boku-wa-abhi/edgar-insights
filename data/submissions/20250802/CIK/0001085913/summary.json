@@ -1,0 +1,26 @@
+{
+  "cik": "0001085913",
+  "name": "FARMERS & MERCHANTS BANCORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FMCB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "943327828",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2093672411",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:37 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001520262",
+  "name": "Alkermes plc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALKS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981007018",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "00-353-1-772-8000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANTLER SCIENCE TWO PLC",
+      "from": "2011-08-04T04:00:00.000Z",
+      "to": "2011-08-05T04:00:00.000Z"
+    },
+    {
+      "name": "Antler Science Two Ltd",
+      "from": "2011-05-09T04:00:00.000Z",
+      "to": "2011-08-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:15:51 UTC"
+}

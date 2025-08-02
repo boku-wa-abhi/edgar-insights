@@ -1,0 +1,42 @@
+{
+  "cik": "0001066923",
+  "name": "Future FinTech Group Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980222013",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-622-1218",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SkyPeople Fruit Juice, Inc",
+      "from": "2008-06-16T04:00:00.000Z",
+      "to": "2017-05-26T04:00:00.000Z"
+    },
+    {
+      "name": "ENTECH ENVIRONMENTAL TECHNOLOGIES INC",
+      "from": "2004-03-29T05:00:00.000Z",
+      "to": "2008-06-05T04:00:00.000Z"
+    },
+    {
+      "name": "CYBER PUBLIC RELATIONS INC",
+      "from": "2001-01-23T05:00:00.000Z",
+      "to": "2004-03-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 724,
+  "download_timestamp": "2025-08-02 07:06:08 UTC"
+}

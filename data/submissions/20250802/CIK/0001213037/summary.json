@@ -1,0 +1,47 @@
+{
+  "cik": "0001213037",
+  "name": "Cardiff Oncology, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRDF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "272004382",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-952-7570",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Trovagene, Inc.",
+      "from": "2013-03-27T04:00:00.000Z",
+      "to": "2020-05-07T04:00:00.000Z"
+    },
+    {
+      "name": "TrovaGene Inc.",
+      "from": "2011-11-25T05:00:00.000Z",
+      "to": "2013-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "XENOMICS INC",
+      "from": "2004-07-19T04:00:00.000Z",
+      "to": "2009-06-03T04:00:00.000Z"
+    },
+    {
+      "name": "USED KAR PARTS INC",
+      "from": "2003-01-07T05:00:00.000Z",
+      "to": "2004-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:08:55 UTC"
+}

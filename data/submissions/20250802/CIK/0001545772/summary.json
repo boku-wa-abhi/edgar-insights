@@ -1,0 +1,32 @@
+{
+  "cik": "0001545772",
+  "name": "Brookfield Property Partners L.P.",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BPYPP",
+    "BPYPM",
+    "BPYPN",
+    "BPYPO"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "212-417-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 534,
+  "download_timestamp": "2025-08-02 07:16:37 UTC"
+}

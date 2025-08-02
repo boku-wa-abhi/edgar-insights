@@ -1,0 +1,37 @@
+{
+  "cik": "0001508786",
+  "name": "SILVERTON ENERGY, INC.",
+  "entityType": "operating",
+  "sic": "3021",
+  "sicDescription": "Rubber & Plastics Footwear",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SLTN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "923197364",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "2148026777",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "META GOLD, INC.",
+      "from": "2013-07-19T00:00:00.000Z",
+      "to": "2014-11-06T00:00:00.000Z"
+    },
+    {
+      "name": "TIRELESS STEPS, INC.",
+      "from": "2011-01-13T00:00:00.000Z",
+      "to": "2013-05-23T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 65,
+  "download_timestamp": "2025-08-02 07:15:24 UTC"
+}

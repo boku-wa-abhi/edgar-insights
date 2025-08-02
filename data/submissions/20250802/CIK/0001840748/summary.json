@@ -1,0 +1,32 @@
+{
+  "cik": "0001840748",
+  "name": "LAVA Therapeutics NV",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LVTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "31 6 3000 3035",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LAVA Therapeutics BV",
+      "from": "2021-01-25T05:00:00.000Z",
+      "to": "2021-03-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 111,
+  "download_timestamp": "2025-08-02 07:26:35 UTC"
+}

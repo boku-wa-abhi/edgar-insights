@@ -1,0 +1,39 @@
+{
+  "cik": "0000932787",
+  "name": "STMicroelectronics N.V.",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STM",
+    "STMEF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "0031 20 654 3210",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STMICROELECTRONICS NV",
+      "from": "1998-06-29T04:00:00.000Z",
+      "to": "2020-02-11T05:00:00.000Z"
+    },
+    {
+      "name": "SGS THOMSON MICROELECTRONICS NV",
+      "from": "1996-07-05T04:00:00.000Z",
+      "to": "1997-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 916,
+  "download_timestamp": "2025-08-02 07:03:59 UTC"
+}

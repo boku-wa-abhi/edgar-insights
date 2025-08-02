@@ -1,0 +1,32 @@
+{
+  "cik": "0001634293",
+  "name": "Exceed World, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "EXDW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981339955",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "81-6-6339-4177",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Brilliant Acquisition,Inc.",
+      "from": "2015-02-19T05:00:00.000Z",
+      "to": "2015-10-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 110,
+  "download_timestamp": "2025-08-02 07:19:18 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0000937966",
+  "name": "ASML HOLDING NV",
+  "entityType": "other",
+  "sic": "3559",
+  "sicDescription": "Special Industry Machinery, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASML",
+    "ASMLF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "31402683000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ASM LITHOGRAPHY HOLDING NV",
+      "from": "1995-05-19T04:00:00.000Z",
+      "to": "2001-02-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 580,
+  "download_timestamp": "2025-08-02 07:04:04 UTC"
+}

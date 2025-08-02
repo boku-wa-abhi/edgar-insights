@@ -1,0 +1,26 @@
+{
+  "cik": "0000021665",
+  "name": "COLGATE PALMOLIVE CO",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "131815595",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2123102000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:33 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001881472",
+  "name": "Magic Empire Global Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MEGL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "852 3577 8770",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 90,
+  "download_timestamp": "2025-08-02 07:28:35 UTC"
+}

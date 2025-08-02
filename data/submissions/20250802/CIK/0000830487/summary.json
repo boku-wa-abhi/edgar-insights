@@ -1,0 +1,32 @@
+{
+  "cik": "0000830487",
+  "name": "WESTERN ASSET MUNICIPAL HIGH INCOME FUND INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "MHF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-777-0102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MUNICIPAL HIGH INCOME FUND INC",
+      "from": "1994-01-04T05:00:00.000Z",
+      "to": "2006-09-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 454,
+  "download_timestamp": "2025-08-02 07:01:06 UTC"
+}

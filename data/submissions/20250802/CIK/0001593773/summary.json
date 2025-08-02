@@ -1,0 +1,32 @@
+{
+  "cik": "0001593773",
+  "name": "AMJ Global Technology",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "AMJT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "331230169",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "213-709-4296",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KANGE CORP",
+      "from": "2014-02-21T05:00:00.000Z",
+      "to": "2023-04-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 76,
+  "download_timestamp": "2025-08-02 07:18:04 UTC"
+}

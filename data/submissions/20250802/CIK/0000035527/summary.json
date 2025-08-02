@@ -1,0 +1,32 @@
+{
+  "cik": "0000035527",
+  "name": "FIFTH THIRD BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FITBI",
+    "FITB",
+    "FITBO",
+    "FITBP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "310854434",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5135795300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:51 UTC"
+}

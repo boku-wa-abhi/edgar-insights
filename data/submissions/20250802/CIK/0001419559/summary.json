@@ -1,0 +1,32 @@
+{
+  "cik": "0001419559",
+  "name": "CAM GROUP, INC.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAMG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "372040523",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "3108951839",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RT Technologies, Inc.",
+      "from": "2008-01-09T00:00:00.000Z",
+      "to": "2012-09-25T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 158,
+  "download_timestamp": "2025-08-02 07:12:51 UTC"
+}

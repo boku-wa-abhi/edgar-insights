@@ -1,0 +1,32 @@
+{
+  "cik": "0000945394",
+  "name": "Service Properties Trust",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SVC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043262075",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(617) 964-8389",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HOSPITALITY PROPERTIES TRUST",
+      "from": "1995-09-01T04:00:00.000Z",
+      "to": "2019-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:11 UTC"
+}

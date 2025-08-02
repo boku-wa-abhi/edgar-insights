@@ -1,0 +1,32 @@
+{
+  "cik": "0001691445",
+  "name": "FinVolution Group",
+  "entityType": "other",
+  "sic": "6163",
+  "sicDescription": "Loan Brokers",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FINV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "86 21 80303200-8601",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PPDAI Group Inc.",
+      "from": "2017-01-20T05:00:00.000Z",
+      "to": "2019-11-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 191,
+  "download_timestamp": "2025-08-02 07:20:54 UTC"
+}

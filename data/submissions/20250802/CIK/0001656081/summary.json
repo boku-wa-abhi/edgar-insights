@@ -1,0 +1,32 @@
+{
+  "cik": "0001656081",
+  "name": "Endava plc",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DAVA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 20 7367 1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Endava Ltd",
+      "from": "2015-10-23T04:00:00.000Z",
+      "to": "2018-07-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 241,
+  "download_timestamp": "2025-08-02 07:19:57 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001414767",
+  "name": "Netcapital Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "NCPL",
+    "NCPLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "870409951",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(781) 925-1700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ValueSetters Inc.",
+      "from": "2013-09-30T04:00:00.000Z",
+      "to": "2020-11-05T05:00:00.000Z"
+    },
+    {
+      "name": "ValueSetters Corp",
+      "from": "2007-10-05T04:00:00.000Z",
+      "to": "2014-09-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 309,
+  "download_timestamp": "2025-08-02 07:12:42 UTC"
+}

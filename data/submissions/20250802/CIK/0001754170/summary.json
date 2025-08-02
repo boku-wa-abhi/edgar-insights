@@ -1,0 +1,32 @@
+{
+  "cik": "0001754170",
+  "name": "AerSale Corp",
+  "entityType": "operating",
+  "sic": "5080",
+  "sicDescription": "Wholesale-Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASLE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831751907",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(305) 764-3245",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Monocle Acquisition Corp",
+      "from": "2018-10-02T04:00:00.000Z",
+      "to": "2020-12-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 445,
+  "download_timestamp": "2025-08-02 07:22:55 UTC"
+}

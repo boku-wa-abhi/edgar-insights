@@ -1,0 +1,28 @@
+{
+  "cik": "0002063816",
+  "name": "Indigo Acquisition Corp.",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INAC",
+    "INACU"
+  ],
+  "exchanges": [
+    null,
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(305) 438-7700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 19,
+  "download_timestamp": "2025-08-02 07:33:36 UTC"
+}

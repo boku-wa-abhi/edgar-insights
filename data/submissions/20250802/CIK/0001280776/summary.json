@@ -1,0 +1,32 @@
+{
+  "cik": "0001280776",
+  "name": "IMMUNIC, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMUX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "562358443",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(332) 255-9818",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VITAL THERAPIES INC",
+      "from": "2004-02-18T05:00:00.000Z",
+      "to": "2019-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 730,
+  "download_timestamp": "2025-08-02 07:09:36 UTC"
+}

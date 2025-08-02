@@ -1,0 +1,37 @@
+{
+  "cik": "0001562733",
+  "name": "Synergy CHC Corp.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNYR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "990379440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "615-939-9004",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Synergy Strips Corp.",
+      "from": "2014-05-07T04:00:00.000Z",
+      "to": "2015-08-06T04:00:00.000Z"
+    },
+    {
+      "name": "Oro Capital Corporation, Inc.",
+      "from": "2012-11-21T05:00:00.000Z",
+      "to": "2014-04-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 200,
+  "download_timestamp": "2025-08-02 07:17:05 UTC"
+}

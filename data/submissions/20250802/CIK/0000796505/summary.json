@@ -1,0 +1,37 @@
+{
+  "cik": "0000796505",
+  "name": "Clearfield, Inc.",
+  "entityType": "operating",
+  "sic": "3661",
+  "sicDescription": "Telephone & Telegraph Apparatus",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "CLFD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411347235",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "763-476-6866",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "APA Enterprises, Inc.",
+      "from": "2004-11-30T05:00:00.000Z",
+      "to": "2007-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "APA OPTICS INC /MN/",
+      "from": "1995-10-30T05:00:00.000Z",
+      "to": "2004-11-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:24 UTC"
+}

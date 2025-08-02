@@ -1,0 +1,28 @@
+{
+  "cik": "0001816133",
+  "name": "Frequency Exchange Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1031",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "250-732-7170",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ISRAEL CAPITAL CANADA CORP.",
+      "from": "2020-07-01T04:00:00.000Z",
+      "to": "2022-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:25:08 UTC"
+}

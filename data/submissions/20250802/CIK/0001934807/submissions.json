@@ -1,0 +1,115 @@
+{
+  "cik": "0001934807",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Next Fifteen Communications Group plc/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0131",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10013",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "NEXT 15 COMMUNICATIONS GROUP PLC",
+      "street2": "75 BERMONDSEY STREET",
+      "city": "LONDON",
+      "stateOrCountry": "X0",
+      "zipCode": "SE1 3XF",
+      "stateOrCountryDescription": "United Kingdom",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-24-000028",
+        "0001193805-22-000998"
+      ],
+      "filingDate": [
+        "2024-01-08",
+        "2022-06-23"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-01-08T18:45:06.000Z",
+        "2022-06-23T20:00:33.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "424B3",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-265801",
+        "333-265801"
+      ],
+      "filmNumber": [
+        "24519481",
+        "221035402"
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "core_type": [
+        "424B3",
+        "F-6EF"
+      ],
+      "size": [
+        94366,
+        135324
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e619179_424b3-nfcg.htm",
+        "e621779_f6ef-nfcg.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

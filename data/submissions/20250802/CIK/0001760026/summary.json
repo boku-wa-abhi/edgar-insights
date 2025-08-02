@@ -1,0 +1,32 @@
+{
+  "cik": "0001760026",
+  "name": "Regenerative Medical Technology Group Inc.",
+  "entityType": "operating",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RMTG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "880492191",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-889-9509",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MESO NUMISMATICS, INC.",
+      "from": "2018-12-12T05:00:00.000Z",
+      "to": "2024-10-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 88,
+  "download_timestamp": "2025-08-02 07:23:10 UTC"
+}

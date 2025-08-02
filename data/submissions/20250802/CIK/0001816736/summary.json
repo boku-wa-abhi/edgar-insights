@@ -1,0 +1,37 @@
+{
+  "cik": "0001816736",
+  "name": "Disc Medicine, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IRON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851613057",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(617) 674-9274",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gemini Therapeutics, Inc. /DE",
+      "from": "2020-11-27T05:00:00.000Z",
+      "to": "2022-12-28T05:00:00.000Z"
+    },
+    {
+      "name": "FS Development Corp.",
+      "from": "2020-07-02T04:00:00.000Z",
+      "to": "2021-02-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 579,
+  "download_timestamp": "2025-08-02 07:25:11 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001740797",
+  "name": "AVANT TECHNOLOGIES INC.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AVAI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "384053064",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "866-533-0065",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TREND INNOVATIONS HOLDING INC.",
+      "from": "2020-06-29T04:00:00.000Z",
+      "to": "2023-07-19T04:00:00.000Z"
+    },
+    {
+      "name": "FREECOOK",
+      "from": "2018-06-05T04:00:00.000Z",
+      "to": "2020-06-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 106,
+  "download_timestamp": "2025-08-02 07:22:31 UTC"
+}

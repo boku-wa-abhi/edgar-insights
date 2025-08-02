@@ -1,0 +1,26 @@
+{
+  "cik": "0001580905",
+  "name": "Installed Building Products, Inc.",
+  "entityType": "operating",
+  "sic": "1520",
+  "sicDescription": "General Bldg Contractors - Residential Bldgs",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "453707650",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "614-221-3399",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 698,
+  "download_timestamp": "2025-08-02 07:17:41 UTC"
+}

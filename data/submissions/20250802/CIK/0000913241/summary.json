@@ -1,0 +1,32 @@
+{
+  "cik": "0000913241",
+  "name": "STEVEN MADDEN, LTD.",
+  "entityType": "operating",
+  "sic": "3140",
+  "sicDescription": "Footwear, (No Rubber)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHOO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133588231",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7184461800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MADDEN STEVEN LTD",
+      "from": "1996-11-04T05:00:00.000Z",
+      "to": "2004-07-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:22 UTC"
+}

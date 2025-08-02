@@ -1,0 +1,100 @@
+{
+  "cik": "0002074409",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Invesco Galaxy Solana ETF",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "addresses": {
+    "mailing": {
+      "street1": "3500 LACEY ROAD",
+      "street2": "SUITE 700",
+      "city": "DOWNERS GROVE",
+      "stateOrCountry": "IL",
+      "zipCode": "60515",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "3500 LACEY ROAD",
+      "street2": "SUITE 700",
+      "city": "DOWNERS GROVE",
+      "stateOrCountry": "IL",
+      "zipCode": "60515",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "800-983-0903",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0002061590-25-000093"
+      ],
+      "filingDate": [
+        "2025-06-25"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-25T20:23:55.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288318"
+      ],
+      "filmNumber": [
+        "251073901"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "S-1"
+      ],
+      "size": [
+        2522362
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "s1.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

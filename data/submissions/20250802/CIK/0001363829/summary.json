@@ -1,0 +1,36 @@
+{
+  "cik": "0001363829",
+  "name": "Enstar Group LTD",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESGRO",
+    "ESGOF",
+    "ESGRF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "999999999",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-292-3645",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Castlewood Holdings LTD",
+      "from": "2006-06-01T04:00:00.000Z",
+      "to": "2007-01-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:21 UTC"
+}

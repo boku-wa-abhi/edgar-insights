@@ -1,0 +1,39 @@
+{
+  "cik": "0001121404",
+  "name": "Sanofi",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNY",
+    "SNYNF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "133529324",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "33153774400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SANOFI-AVENTIS",
+      "from": "2004-08-30T04:00:00.000Z",
+      "to": "2011-05-09T04:00:00.000Z"
+    },
+    {
+      "name": "SANOFI SYNTHELABO SA",
+      "from": "2001-01-08T05:00:00.000Z",
+      "to": "2004-08-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:27 UTC"
+}

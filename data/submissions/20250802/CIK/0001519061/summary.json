@@ -1,0 +1,32 @@
+{
+  "cik": "0001519061",
+  "name": "Trinseo PLC",
+  "entityType": "operating",
+  "sic": "2821",
+  "sicDescription": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TSE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "610-240-3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Trinseo S.A.",
+      "from": "2011-06-27T04:00:00.000Z",
+      "to": "2021-10-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:15:48 UTC"
+}

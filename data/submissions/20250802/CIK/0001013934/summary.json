@@ -1,0 +1,32 @@
+{
+  "cik": "0001013934",
+  "name": "Strategic Education, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "521975978",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-561-1600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STRAYER EDUCATION INC",
+      "from": "1996-07-24T04:00:00.000Z",
+      "to": "2018-07-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:43 UTC"
+}

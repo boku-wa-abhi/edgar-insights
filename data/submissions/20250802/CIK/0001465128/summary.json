@@ -1,0 +1,26 @@
+{
+  "cik": "0001465128",
+  "name": "STARWOOD PROPERTY TRUST, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STWD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270247747",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "305.695.5500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 903,
+  "download_timestamp": "2025-08-02 07:14:01 UTC"
+}

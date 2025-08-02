@@ -1,0 +1,26 @@
+{
+  "cik": "0001652561",
+  "name": "DSwiss Inc",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DQWS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "474215595",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(603)2770-4032",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 71,
+  "download_timestamp": "2025-08-02 07:19:51 UTC"
+}

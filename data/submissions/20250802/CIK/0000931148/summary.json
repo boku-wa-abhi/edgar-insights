@@ -1,0 +1,32 @@
+{
+  "cik": "0000931148",
+  "name": "GRAFTECH INTERNATIONAL LTD",
+  "entityType": "operating",
+  "sic": "3620",
+  "sicDescription": "Electrical Industrial Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EAF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "272496053",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2166762000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UCAR INTERNATIONAL INC",
+      "from": "1996-04-10T04:00:00.000Z",
+      "to": "2002-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:03:56 UTC"
+}

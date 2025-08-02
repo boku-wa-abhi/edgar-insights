@@ -1,0 +1,26 @@
+{
+  "cik": "0001289419",
+  "name": "Morningstar, Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MORN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363297908",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(312) 696-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:09:51 UTC"
+}

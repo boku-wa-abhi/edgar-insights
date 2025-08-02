@@ -1,0 +1,34 @@
+{
+  "cik": "0001084267",
+  "name": "Mobiquity Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MOBQ",
+    "MOBQW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "113427886",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "516-256-7766",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ACE MARKETING & PROMOTIONS INC",
+      "from": "2003-11-24T05:00:00.000Z",
+      "to": "2013-09-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 700,
+  "download_timestamp": "2025-08-02 07:06:34 UTC"
+}

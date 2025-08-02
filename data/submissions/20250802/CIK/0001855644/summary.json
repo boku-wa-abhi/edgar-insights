@@ -1,0 +1,32 @@
+{
+  "cik": "0001855644",
+  "name": "Zura Bio Ltd",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZURA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "858-247-0520",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JATT Acquisition Corp",
+      "from": "2021-04-08T04:00:00.000Z",
+      "to": "2023-03-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 365,
+  "download_timestamp": "2025-08-02 07:27:33 UTC"
+}

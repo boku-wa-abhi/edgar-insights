@@ -1,0 +1,47 @@
+{
+  "cik": "0001445815",
+  "name": "BIOXYTRAN, INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIXT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "262797630",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-494-1199",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "U.S. RARE EARTH MINERALS, INC.",
+      "from": "2018-10-15T04:00:00.000Z",
+      "to": "2018-10-30T04:00:00.000Z"
+    },
+    {
+      "name": "U.S. RARE EARTH MINERALS, INC",
+      "from": "2011-05-13T04:00:00.000Z",
+      "to": "2018-10-03T04:00:00.000Z"
+    },
+    {
+      "name": "U.S. Natural Nutrients & Minerals, Inc.",
+      "from": "2009-09-03T04:00:00.000Z",
+      "to": "2011-04-14T04:00:00.000Z"
+    },
+    {
+      "name": "AMERICA'S DRIVING RANGES, INC.",
+      "from": "2008-10-31T04:00:00.000Z",
+      "to": "2009-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 448,
+  "download_timestamp": "2025-08-02 07:13:34 UTC"
+}

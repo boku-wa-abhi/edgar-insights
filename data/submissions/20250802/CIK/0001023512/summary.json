@@ -1,0 +1,34 @@
+{
+  "cik": "0001023512",
+  "name": "DRDGOLD LTD",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DRD",
+    "DRDGF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "27113817800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DURBAN ROODEPOORT DEEP LTD",
+      "from": "2002-03-15T05:00:00.000Z",
+      "to": "2004-12-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 717,
+  "download_timestamp": "2025-08-02 07:04:58 UTC"
+}

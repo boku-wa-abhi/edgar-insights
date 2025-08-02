@@ -1,0 +1,28 @@
+{
+  "cik": "0000715153",
+  "name": "HONDA MOTOR CO LTD",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "HMC",
+    "HNDAF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81334231111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 537,
+  "download_timestamp": "2025-08-02 06:59:13 UTC"
+}

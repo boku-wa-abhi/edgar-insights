@@ -1,0 +1,37 @@
+{
+  "cik": "0001725430",
+  "name": "INTELLIGENT BIO SOLUTIONS INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "INBS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821512711",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "646-790-5756",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GBS Inc.",
+      "from": "2019-06-07T04:00:00.000Z",
+      "to": "2022-10-18T04:00:00.000Z"
+    },
+    {
+      "name": "Glucose Biosensor Systems (Greater China) Holdings, Inc.",
+      "from": "2017-12-29T05:00:00.000Z",
+      "to": "2019-09-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 383,
+  "download_timestamp": "2025-08-02 07:22:03 UTC"
+}

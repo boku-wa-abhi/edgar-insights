@@ -1,0 +1,32 @@
+{
+  "cik": "0001881551",
+  "name": "Solidion Technology Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871993879",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(972) 918-5120",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nubia Brand International Corp.",
+      "from": "2021-09-27T04:00:00.000Z",
+      "to": "2024-02-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:28:36 UTC"
+}

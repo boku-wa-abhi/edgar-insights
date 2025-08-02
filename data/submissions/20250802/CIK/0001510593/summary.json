@@ -1,0 +1,26 @@
+{
+  "cik": "0001510593",
+  "name": "Xunlei Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "XNET"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86-755 6111-1571",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 191,
+  "download_timestamp": "2025-08-02 07:15:28 UTC"
+}

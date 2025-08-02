@@ -1,0 +1,26 @@
+{
+  "cik": "0000917470",
+  "name": "OLYMPIC STEEL INC",
+  "entityType": "operating",
+  "sic": "5051",
+  "sicDescription": "Wholesale-Metals Service Centers & of fices",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZEUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "341245650",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2162923800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 985,
+  "download_timestamp": "2025-08-02 07:03:31 UTC"
+}

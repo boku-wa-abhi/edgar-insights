@@ -1,0 +1,26 @@
+{
+  "cik": "0001626115",
+  "name": "PJT Partners Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PJT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364797143",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-364-7800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 741,
+  "download_timestamp": "2025-08-02 07:19:05 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001571776",
+  "name": "Cherry Hill Mortgage Investment Corp",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHMI",
+    "CHMI-PB",
+    "CHMI-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "461315605",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(856) 626-2663",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:17:21 UTC"
+}

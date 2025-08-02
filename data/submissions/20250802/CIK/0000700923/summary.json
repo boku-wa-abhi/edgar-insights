@@ -1,0 +1,42 @@
+{
+  "cik": "0000700923",
+  "name": "MYR GROUP INC.",
+  "entityType": "operating",
+  "sic": "1623",
+  "sicDescription": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MYRG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363158643",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3032868000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MYR GROUP INC.",
+      "from": "2009-02-10T05:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "MYR GROUP INC",
+      "from": "1996-11-05T05:00:00.000Z",
+      "to": "2009-01-09T05:00:00.000Z"
+    },
+    {
+      "name": "MYERS L E CO GROUP",
+      "from": "1995-10-24T04:00:00.000Z",
+      "to": "1996-03-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:00 UTC"
+}

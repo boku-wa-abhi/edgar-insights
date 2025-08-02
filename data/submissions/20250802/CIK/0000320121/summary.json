@@ -1,0 +1,32 @@
+{
+  "cik": "0000320121",
+  "name": "TELOS CORP",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "520880974",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "7034716000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "C3 INC",
+      "from": "1995-04-21T04:00:00.000Z",
+      "to": "1995-04-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 953,
+  "download_timestamp": "2025-08-02 06:58:49 UTC"
+}

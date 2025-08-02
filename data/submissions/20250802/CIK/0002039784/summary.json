@@ -1,0 +1,28 @@
+{
+  "cik": "0002039784",
+  "name": "Midea Group Co., Ltd./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGCLY",
+    "MGCOF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:32:57 UTC"
+}

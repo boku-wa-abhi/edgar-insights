@@ -1,0 +1,26 @@
+{
+  "cik": "0000080035",
+  "name": "PREFORMED LINE PRODUCTS CO",
+  "entityType": "operating",
+  "sic": "1623",
+  "sicDescription": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PLPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "340676895",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "440-461-5200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:57:48 UTC"
+}

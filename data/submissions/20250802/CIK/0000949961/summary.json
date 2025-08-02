@@ -1,0 +1,26 @@
+{
+  "cik": "0000949961",
+  "name": "INCOME OPPORTUNITY REALTY INVESTORS INC /TX/",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IOR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "752615944",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4685224200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 473,
+  "download_timestamp": "2025-08-02 07:04:16 UTC"
+}

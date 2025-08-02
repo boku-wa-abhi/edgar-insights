@@ -1,0 +1,26 @@
+{
+  "cik": "0000921557",
+  "name": "REPUBLIC BANCORP INC /KY/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "KY",
+  "stateOfIncorporationDescription": "KY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RBCAA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "610862051",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5025843600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:03:38 UTC"
+}

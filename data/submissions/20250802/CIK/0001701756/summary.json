@@ -1,0 +1,32 @@
+{
+  "cik": "0001701756",
+  "name": "Sadot Group Inc.",
+  "entityType": "operating",
+  "sic": "5810",
+  "sicDescription": "Retail-Eating & Drinking Places",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SDOT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472555533",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "682-708-8250",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Muscle Maker, Inc.",
+      "from": "2017-03-30T04:00:00.000Z",
+      "to": "2023-07-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 618,
+  "download_timestamp": "2025-08-02 07:21:11 UTC"
+}

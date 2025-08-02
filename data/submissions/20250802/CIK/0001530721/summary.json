@@ -1,0 +1,32 @@
+{
+  "cik": "0001530721",
+  "name": "Capri Holdings Ltd",
+  "entityType": "operating",
+  "sic": "3100",
+  "sicDescription": "Leather & Leather Products",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0329",
+  "tickers": [
+    "CPRI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 207 632 8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Michael Kors Holdings Ltd",
+      "from": "2011-12-02T05:00:00.000Z",
+      "to": "2018-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 754,
+  "download_timestamp": "2025-08-02 07:16:10 UTC"
+}

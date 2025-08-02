@@ -1,0 +1,26 @@
+{
+  "cik": "0001672572",
+  "name": "Landbay Inc",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "LNBY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "811260549",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "9172325799",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 140,
+  "download_timestamp": "2025-08-02 07:20:19 UTC"
+}

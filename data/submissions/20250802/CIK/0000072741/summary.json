@@ -1,0 +1,37 @@
+{
+  "cik": "0000072741",
+  "name": "EVERSOURCE ENERGY",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ES"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "042147929",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8606655000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NORTHEAST UTILITIES",
+      "from": "1994-07-28T04:00:00.000Z",
+      "to": "2015-04-29T04:00:00.000Z"
+    },
+    {
+      "name": "NORTHEAST UTILITIES SYSTEM",
+      "from": "1996-11-27T05:00:00.000Z",
+      "to": "2004-11-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:57:37 UTC"
+}

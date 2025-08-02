@@ -1,0 +1,26 @@
+{
+  "cik": "0000859737",
+  "name": "HOLOGIC INC",
+  "entityType": "operating",
+  "sic": "3844",
+  "sicDescription": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0928",
+  "tickers": [
+    "HOLX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042902449",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5082632900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:01:39 UTC"
+}

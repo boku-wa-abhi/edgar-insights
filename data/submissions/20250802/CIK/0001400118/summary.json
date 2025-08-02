@@ -1,0 +1,32 @@
+{
+  "cik": "0001400118",
+  "name": "Sagimet Biosciences Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SGMT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205991472",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(650) 561-8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "3-V Biosciences, Inc.",
+      "from": "2007-05-08T04:00:00.000Z",
+      "to": "2019-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 189,
+  "download_timestamp": "2025-08-02 07:12:18 UTC"
+}

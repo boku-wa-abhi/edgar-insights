@@ -1,0 +1,26 @@
+{
+  "cik": "0001865494",
+  "name": "IO Biotech, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IOBT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870909276",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "4570702980",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 244,
+  "download_timestamp": "2025-08-02 07:27:56 UTC"
+}

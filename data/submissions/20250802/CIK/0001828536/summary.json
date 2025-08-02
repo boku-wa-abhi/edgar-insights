@@ -1,0 +1,32 @@
+{
+  "cik": "0001828536",
+  "name": "Energy Vault Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NRGV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "853230987",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "805-852-0000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Novus Capital Corp II",
+      "from": "2020-10-16T04:00:00.000Z",
+      "to": "2022-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 685,
+  "download_timestamp": "2025-08-02 07:25:51 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000041091",
+  "name": "GEORGIA POWER CO",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GPJA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "580257110",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4045066526",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:00 UTC"
+}

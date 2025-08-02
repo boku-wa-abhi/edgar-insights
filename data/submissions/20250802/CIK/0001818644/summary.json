@@ -1,0 +1,34 @@
+{
+  "cik": "0001818644",
+  "name": "AEye, Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LIDR",
+    "LIDRW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "371827430",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "925-400-4366",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CF Finance Acquisition Corp. III",
+      "from": "2020-07-20T04:00:00.000Z",
+      "to": "2021-09-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 552,
+  "download_timestamp": "2025-08-02 07:25:17 UTC"
+}

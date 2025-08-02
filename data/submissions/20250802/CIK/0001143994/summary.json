@@ -1,0 +1,26 @@
+{
+  "cik": "0001143994",
+  "name": "MACREPORT NET INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "MRPT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "113584538",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "315-673-4169",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 45,
+  "download_timestamp": "2025-08-02 07:08:00 UTC"
+}

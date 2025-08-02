@@ -1,0 +1,32 @@
+{
+  "cik": "0001039684",
+  "name": "ONEOK INC /NEW/",
+  "entityType": "operating",
+  "sic": "4923",
+  "sicDescription": "Natural Gas Transmisison & Distribution",
+  "stateOfIncorporation": "OK",
+  "stateOfIncorporationDescription": "OK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OKE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731520922",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9185887000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WAI INC",
+      "from": "1997-11-21T05:00:00.000Z",
+      "to": "1997-11-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:05:20 UTC"
+}

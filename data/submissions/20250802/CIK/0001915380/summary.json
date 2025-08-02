@@ -1,0 +1,30 @@
+{
+  "cik": "0001915380",
+  "name": "dMY Squared Technology Group, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DMYY",
+    "DMYY-UN",
+    "DMYY-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "880748933",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "408-232-2139",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 123,
+  "download_timestamp": "2025-08-02 07:29:26 UTC"
+}

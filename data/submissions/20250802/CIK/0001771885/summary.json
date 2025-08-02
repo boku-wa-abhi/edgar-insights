@@ -1,0 +1,32 @@
+{
+  "cik": "0001771885",
+  "name": "Quantum Biopharma Ltd.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QNTM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(416) 854-8884",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FSD Pharma Inc.",
+      "from": "2019-10-15T04:00:00.000Z",
+      "to": "2024-08-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 286,
+  "download_timestamp": "2025-08-02 07:23:31 UTC"
+}

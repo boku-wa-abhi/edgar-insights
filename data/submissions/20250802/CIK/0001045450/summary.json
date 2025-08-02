@@ -1,0 +1,38 @@
+{
+  "cik": "0001045450",
+  "name": "EPR PROPERTIES",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EPR",
+    "EPR-PG",
+    "EPR-PC",
+    "EPR-PE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "431790877",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8164721700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ENTERTAINMENT PROPERTIES TRUST",
+      "from": "1997-11-05T05:00:00.000Z",
+      "to": "2012-11-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:05:32 UTC"
+}

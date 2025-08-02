@@ -1,0 +1,32 @@
+{
+  "cik": "0001649749",
+  "name": "FB Financial Corp",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FBK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "621216058",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-313-0080",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "First South Bancorp, Inc.",
+      "from": "2015-09-25T04:00:00.000Z",
+      "to": "2015-11-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 921,
+  "download_timestamp": "2025-08-02 07:19:44 UTC"
+}

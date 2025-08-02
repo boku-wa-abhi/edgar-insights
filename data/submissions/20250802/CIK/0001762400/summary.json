@@ -1,0 +1,32 @@
+{
+  "cik": "0001762400",
+  "name": "LiveCare, Inc.",
+  "entityType": "other",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LVCE"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "831151012",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "941-225-6699",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GULF CHRONIC CARE INC.",
+      "from": "2019-01-29T00:00:00.000Z",
+      "to": "2019-05-16T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:23:15 UTC"
+}

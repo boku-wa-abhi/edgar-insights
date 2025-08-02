@@ -1,0 +1,37 @@
+{
+  "cik": "0001083301",
+  "name": "TERAWULF INC.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WULF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871909475",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(410) 770-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IKONICS CORP",
+      "from": "2002-12-16T05:00:00.000Z",
+      "to": "2021-12-13T05:00:00.000Z"
+    },
+    {
+      "name": "CHROMALINE CORP",
+      "from": "1999-08-16T04:00:00.000Z",
+      "to": "2002-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:32 UTC"
+}

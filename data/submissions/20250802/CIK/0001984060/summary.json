@@ -1,0 +1,32 @@
+{
+  "cik": "0001984060",
+  "name": "Atlas Energy Solutions Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AESI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "932154509",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5122201200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Atlas HoldCo Inc.",
+      "from": "2023-08-01T04:00:00.000Z",
+      "to": "2023-10-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:31:05 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001442836",
+  "name": "Mersana Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRSN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-498-0020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MERSANA THERAPEUTICS INC",
+      "from": "2008-08-12T04:00:00.000Z",
+      "to": "2014-04-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 647,
+  "download_timestamp": "2025-08-02 07:13:30 UTC"
+}

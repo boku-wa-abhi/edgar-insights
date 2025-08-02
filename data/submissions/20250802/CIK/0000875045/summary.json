@@ -1,0 +1,47 @@
+{
+  "cik": "0000875045",
+  "name": "BIOGEN INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIIB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330112644",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7814642000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIOGEN IDEC INC.",
+      "from": "2007-01-17T05:00:00.000Z",
+      "to": "2015-03-20T04:00:00.000Z"
+    },
+    {
+      "name": "BIOGEN IDEC INC",
+      "from": "2003-11-12T05:00:00.000Z",
+      "to": "2007-04-25T04:00:00.000Z"
+    },
+    {
+      "name": "IDEC PHARMACEUTICALS CORP / DE",
+      "from": "1997-10-01T04:00:00.000Z",
+      "to": "2003-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "IDEC PHARMACEUTICALS CORP / CA",
+      "from": "1996-07-10T04:00:00.000Z",
+      "to": "1997-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:59 UTC"
+}

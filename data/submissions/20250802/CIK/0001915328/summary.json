@@ -1,0 +1,30 @@
+{
+  "cik": "0001915328",
+  "name": "Israel Acquisitions Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ISRL",
+    "ISRLU",
+    "ISRLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "873587394",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(512) 287-1871",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 91,
+  "download_timestamp": "2025-08-02 07:29:26 UTC"
+}

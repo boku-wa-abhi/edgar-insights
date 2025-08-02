@@ -1,0 +1,32 @@
+{
+  "cik": "0000918608",
+  "name": "ELDORADO GOLD CORP /FI",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EGO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 687-4018",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ELDORADO GOLD CORP                                      /FI",
+      "from": "2000-12-12T05:00:00.000Z",
+      "to": "2010-02-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:34 UTC"
+}

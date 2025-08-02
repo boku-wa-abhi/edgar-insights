@@ -1,0 +1,26 @@
+{
+  "cik": "0001875444",
+  "name": "Arhaus, Inc.",
+  "entityType": "operating",
+  "sic": "5712",
+  "sicDescription": "Retail-Furniture Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARHS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871729256",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "440-439-7700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 310,
+  "download_timestamp": "2025-08-02 07:28:24 UTC"
+}

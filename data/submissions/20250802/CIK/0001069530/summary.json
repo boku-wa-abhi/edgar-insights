@@ -1,0 +1,32 @@
+{
+  "cik": "0001069530",
+  "name": "CASSAVA SCIENCES INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SAVA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911911336",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "512-501-2444",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PAIN THERAPEUTICS INC",
+      "from": "2000-07-24T04:00:00.000Z",
+      "to": "2019-03-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:12 UTC"
+}

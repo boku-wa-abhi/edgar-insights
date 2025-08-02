@@ -1,0 +1,26 @@
+{
+  "cik": "0001756701",
+  "name": "LINKBANCORP, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LNKB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "825130531",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7177787243",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 296,
+  "download_timestamp": "2025-08-02 07:23:01 UTC"
+}

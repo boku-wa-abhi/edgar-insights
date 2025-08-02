@@ -1,0 +1,26 @@
+{
+  "cik": "0001633369",
+  "name": "FreeCast, Inc.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CAST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "452787251",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "407-374-1607",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 22,
+  "download_timestamp": "2025-08-02 07:19:15 UTC"
+}

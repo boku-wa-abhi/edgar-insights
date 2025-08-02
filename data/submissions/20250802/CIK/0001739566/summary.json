@@ -1,0 +1,32 @@
+{
+  "cik": "0001739566",
+  "name": "Utz Brands, Inc.",
+  "entityType": "operating",
+  "sic": "2090",
+  "sicDescription": "Miscellaneous Food Preparations & Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "UTZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981425274",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "717-637-6644",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Collier Creek Holdings",
+      "from": "2018-06-05T04:00:00.000Z",
+      "to": "2020-08-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 589,
+  "download_timestamp": "2025-08-02 07:22:31 UTC"
+}

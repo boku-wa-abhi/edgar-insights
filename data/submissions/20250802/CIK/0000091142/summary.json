@@ -1,0 +1,26 @@
+{
+  "cik": "0000091142",
+  "name": "SMITH A O CORP",
+  "entityType": "operating",
+  "sic": "3630",
+  "sicDescription": "Household Appliances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AOS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "390619790",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4143594000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:58 UTC"
+}

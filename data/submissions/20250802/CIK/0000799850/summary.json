@@ -1,0 +1,42 @@
+{
+  "cik": "0000799850",
+  "name": "AMERICAS CARMART INC",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "CRMT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "630851141",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(479) 464-9944",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICANS CARMART INC",
+      "from": "2002-07-19T04:00:00.000Z",
+      "to": "2002-07-19T04:00:00.000Z"
+    },
+    {
+      "name": "CROWN GROUP INC /TX/",
+      "from": "1997-10-22T04:00:00.000Z",
+      "to": "2002-03-14T05:00:00.000Z"
+    },
+    {
+      "name": "CROWN CASINO CORP",
+      "from": "1995-06-08T04:00:00.000Z",
+      "to": "1997-03-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:00:31 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001795815",
+  "name": "California BanCorp \\ CA",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCAL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "843288397",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "858-847-4787",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Southern California Bancorp \\ CA",
+      "from": "2020-06-02T04:00:00.000Z",
+      "to": "2024-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 230,
+  "download_timestamp": "2025-08-02 07:24:23 UTC"
+}

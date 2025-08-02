@@ -1,0 +1,26 @@
+{
+  "cik": "0000107687",
+  "name": "WINNEBAGO INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3716",
+  "sicDescription": "Motor Homes",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0830",
+  "tickers": [
+    "WGO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "420802678",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "952-829-8600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:24 UTC"
+}

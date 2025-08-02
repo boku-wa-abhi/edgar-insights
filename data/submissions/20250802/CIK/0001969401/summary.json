@@ -1,0 +1,26 @@
+{
+  "cik": "0001969401",
+  "name": "Linkage Global Inc",
+  "entityType": "other",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LGCB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "8618695783100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 75,
+  "download_timestamp": "2025-08-02 07:30:42 UTC"
+}

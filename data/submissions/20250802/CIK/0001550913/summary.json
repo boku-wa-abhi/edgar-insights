@@ -1,0 +1,26 @@
+{
+  "cik": "0001550913",
+  "name": "MacKenzie Realty Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MKZR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "454355424",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "925-631-9100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 535,
+  "download_timestamp": "2025-08-02 07:16:45 UTC"
+}

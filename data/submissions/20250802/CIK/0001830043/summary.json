@@ -1,0 +1,26 @@
+{
+  "cik": "0001830043",
+  "name": "Bumble Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BMBL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "853604367",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "512-696-1409",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 314,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

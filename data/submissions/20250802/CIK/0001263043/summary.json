@@ -1,0 +1,26 @@
+{
+  "cik": "0001263043",
+  "name": "SHINHAN FINANCIAL GROUP CO LTD",
+  "entityType": "other",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SHG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "82263603000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 972,
+  "download_timestamp": "2025-08-02 07:09:18 UTC"
+}

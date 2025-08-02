@@ -1,0 +1,26 @@
+{
+  "cik": "0001099160",
+  "name": "BEASLEY BROADCAST GROUP INC",
+  "entityType": "operating",
+  "sic": "4832",
+  "sicDescription": "Radio Broadcasting Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "650960915",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9412635000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:59 UTC"
+}

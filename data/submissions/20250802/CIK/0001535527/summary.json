@@ -1,0 +1,26 @@
+{
+  "cik": "0001535527",
+  "name": "CrowdStrike Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CRWD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453788918",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "888-512-8906",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:16:21 UTC"
+}

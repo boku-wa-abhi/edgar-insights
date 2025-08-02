@@ -1,0 +1,37 @@
+{
+  "cik": "0001705110",
+  "name": "Angi Inc.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821204801",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2123147230",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANGI Homeservices Inc.",
+      "from": "2017-05-05T04:00:00.000Z",
+      "to": "2021-03-17T04:00:00.000Z"
+    },
+    {
+      "name": "Halo TopCo, Inc.",
+      "from": "2017-05-02T04:00:00.000Z",
+      "to": "2017-05-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 801,
+  "download_timestamp": "2025-08-02 07:21:19 UTC"
+}

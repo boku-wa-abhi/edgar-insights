@@ -1,0 +1,34 @@
+{
+  "cik": "0001866816",
+  "name": "SYNTEC OPTICS HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "3827",
+  "sicDescription": "Optical Instruments & Lenses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPTX",
+    "OPTXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "870816957",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-894-5238",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OmniLit Acquisition Corp.",
+      "from": "2021-07-02T04:00:00.000Z",
+      "to": "2023-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 155,
+  "download_timestamp": "2025-08-02 07:28:02 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001944212",
+  "name": "DT Cloud Acquisition Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DYCQ",
+    "DYCQR",
+    "DYCQU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "44 7918725316",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:30:01 UTC"
+}

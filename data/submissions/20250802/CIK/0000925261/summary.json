@@ -1,0 +1,28 @@
+{
+  "cik": "0000925261",
+  "name": "ANDINA BOTTLING CO INC",
+  "entityType": "other",
+  "sic": "2086",
+  "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AKO-A",
+    "AKO-B"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5623380520",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 495,
+  "download_timestamp": "2025-08-02 07:03:47 UTC"
+}

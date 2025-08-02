@@ -1,0 +1,28 @@
+{
+  "cik": "0001737319",
+  "name": "C3 Metals Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0831",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(647) 953-5924",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Carube Copper Corp.",
+      "from": "2018-04-12T04:00:00.000Z",
+      "to": "2018-04-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 8,
+  "download_timestamp": "2025-08-02 07:22:25 UTC"
+}

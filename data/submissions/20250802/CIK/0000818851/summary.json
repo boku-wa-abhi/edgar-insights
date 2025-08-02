@@ -1,0 +1,32 @@
+{
+  "cik": "0000818851",
+  "name": "NUVEEN CALIFORNIA MUNICIPAL VALUE FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "NCA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN CALIFORNIA MUNICIPAL VALUE FUND INC",
+      "from": "1995-09-29T04:00:00.000Z",
+      "to": "2021-05-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 446,
+  "download_timestamp": "2025-08-02 07:00:54 UTC"
+}

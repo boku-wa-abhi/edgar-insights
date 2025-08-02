@@ -1,0 +1,28 @@
+{
+  "cik": "0000733099",
+  "name": "ROGERS COMMUNICATIONS INC",
+  "entityType": "other",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RCI",
+    "RCIAF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4160353532",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 822,
+  "download_timestamp": "2025-08-02 06:59:38 UTC"
+}

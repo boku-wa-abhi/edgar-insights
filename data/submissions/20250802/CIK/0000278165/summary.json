@@ -1,0 +1,57 @@
+{
+  "cik": "0000278165",
+  "name": "OMNIQ Corp.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OMQS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "020314487",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-242-7272",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Quest Solution, Inc.",
+      "from": "2014-08-14T04:00:00.000Z",
+      "to": "2019-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "AMERIGO ENERGY, INC.",
+      "from": "2008-11-14T05:00:00.000Z",
+      "to": "2014-05-22T04:00:00.000Z"
+    },
+    {
+      "name": "STRATEGIC GAMING INVESTMENTS, INC.",
+      "from": "2005-12-02T05:00:00.000Z",
+      "to": "2008-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "LEFT RIGHT MARKETING TECHNOLOGY INC",
+      "from": "2003-10-06T04:00:00.000Z",
+      "to": "2006-04-24T04:00:00.000Z"
+    },
+    {
+      "name": "LEFT RIGHT MAKETING TECHNOLOGY INC",
+      "from": "2003-08-18T04:00:00.000Z",
+      "to": "2003-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "GLOBAL GAMING & TECHNOLOGY INC",
+      "from": "1995-11-13T05:00:00.000Z",
+      "to": "2003-05-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 747,
+  "download_timestamp": "2025-08-02 06:58:33 UTC"
+}

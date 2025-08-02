@@ -1,0 +1,32 @@
+{
+  "cik": "0001275617",
+  "name": "COHEN & STEERS INFRASTRUCTURE FUND INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UTF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731696084",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-832-3232",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COHEN & STEERS SELECT UTILITY FUND INC",
+      "from": "2004-01-09T05:00:00.000Z",
+      "to": "2010-01-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 476,
+  "download_timestamp": "2025-08-02 07:09:28 UTC"
+}

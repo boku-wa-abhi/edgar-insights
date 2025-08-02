@@ -1,0 +1,34 @@
+{
+  "cik": "0001845123",
+  "name": "AleAnna, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANNA",
+    "ANNAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "469-398-2200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Swiftmerge Acquisition Corp.",
+      "from": "2021-02-22T05:00:00.000Z",
+      "to": "2024-12-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 189,
+  "download_timestamp": "2025-08-02 07:26:50 UTC"
+}

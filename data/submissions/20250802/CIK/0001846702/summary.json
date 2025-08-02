@@ -1,0 +1,32 @@
+{
+  "cik": "0001846702",
+  "name": "Forge Group, Inc.",
+  "entityType": "other",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FIGP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "854184821",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "202-547-8700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Amalgamated Specialty Group Holdings, Inc.",
+      "from": "2021-05-25T04:00:00.000Z",
+      "to": "2022-01-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

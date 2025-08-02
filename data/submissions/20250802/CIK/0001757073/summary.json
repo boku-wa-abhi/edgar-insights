@@ -1,0 +1,26 @@
+{
+  "cik": "0001757073",
+  "name": "Envista Holdings Corp",
+  "entityType": "operating",
+  "sic": "3843",
+  "sicDescription": "Dental Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVST"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "832206728",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "714-817-5418",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 484,
+  "download_timestamp": "2025-08-02 07:23:02 UTC"
+}

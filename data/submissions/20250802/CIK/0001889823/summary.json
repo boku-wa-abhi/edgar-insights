@@ -1,0 +1,34 @@
+{
+  "cik": "0001889823",
+  "name": "DEFSEC Technologies Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "DFSC",
+    "DFSCW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "613-319-0537",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KWESST Micro Systems Inc.",
+      "from": "2022-07-05T04:00:00.000Z",
+      "to": "2025-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 203,
+  "download_timestamp": "2025-08-02 07:28:52 UTC"
+}

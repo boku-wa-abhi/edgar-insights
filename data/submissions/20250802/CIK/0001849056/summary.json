@@ -1,0 +1,32 @@
+{
+  "cik": "0001849056",
+  "name": "Oklo Inc.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OKLO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-550-0127",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AltC Acquisition Corp.",
+      "from": "2021-03-15T04:00:00.000Z",
+      "to": "2024-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 274,
+  "download_timestamp": "2025-08-02 07:27:06 UTC"
+}

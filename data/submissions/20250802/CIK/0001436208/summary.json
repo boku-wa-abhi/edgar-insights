@@ -1,0 +1,32 @@
+{
+  "cik": "0001436208",
+  "name": "Legacy Housing Corp",
+  "entityType": "operating",
+  "sic": "2451",
+  "sicDescription": "Mobile Homes",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LEGH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "202897516",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(817) 799-4900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Legacy Housing, LTD.",
+      "from": "2009-02-03T05:00:00.000Z",
+      "to": "2018-11-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 547,
+  "download_timestamp": "2025-08-02 07:13:16 UTC"
+}

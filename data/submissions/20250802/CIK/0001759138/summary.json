@@ -1,0 +1,26 @@
+{
+  "cik": "0001759138",
+  "name": "Cabaletta Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "AZ",
+  "stateOfIncorporationDescription": "AZ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CABA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(267) 759-3100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 361,
+  "download_timestamp": "2025-08-02 07:23:08 UTC"
+}

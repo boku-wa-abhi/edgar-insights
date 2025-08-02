@@ -1,0 +1,37 @@
+{
+  "cik": "0001004530",
+  "name": "Mountain Province Diamonds Inc.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MPVDF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "416-361-3562",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MOUNTAIN PROVINCE DIAMONDS INC",
+      "from": "2000-11-22T00:00:00.000Z",
+      "to": "2006-11-15T00:00:00.000Z"
+    },
+    {
+      "name": "MOUNTAIN PROVINCE MINING INC",
+      "from": "1996-12-10T00:00:00.000Z",
+      "to": "2000-11-08T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 625,
+  "download_timestamp": "2025-08-02 07:04:28 UTC"
+}

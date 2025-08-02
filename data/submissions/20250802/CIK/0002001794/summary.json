@@ -1,0 +1,26 @@
+{
+  "cik": "0002001794",
+  "name": "Concorde International Group Ltd.",
+  "entityType": "other",
+  "sic": "7381",
+  "sicDescription": "Services-Detective, Guard & Armored Car Services",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIGL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 2960802",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 37,
+  "download_timestamp": "2025-08-02 07:31:40 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0000793040",
+  "name": "ELLSWORTH GROWTH & INCOME FUND LTD",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ECF",
+    "ECF-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "133345139",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(973) 631-1177",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ELLSWORTH FUND LTD",
+      "from": "2006-04-05T04:00:00.000Z",
+      "to": "2014-12-29T05:00:00.000Z"
+    },
+    {
+      "name": "ELLSWORTH CONVERTIBLE GROWTH & INCOME FUND INC",
+      "from": "1995-11-13T05:00:00.000Z",
+      "to": "2006-02-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 514,
+  "download_timestamp": "2025-08-02 07:00:19 UTC"
+}

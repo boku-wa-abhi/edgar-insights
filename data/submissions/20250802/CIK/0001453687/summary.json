@@ -1,0 +1,32 @@
+{
+  "cik": "0001453687",
+  "name": "Cartesian Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RNAC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "301-348-8698",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SELECTA BIOSCIENCES INC",
+      "from": "2009-01-05T05:00:00.000Z",
+      "to": "2023-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 812,
+  "download_timestamp": "2025-08-02 07:13:48 UTC"
+}

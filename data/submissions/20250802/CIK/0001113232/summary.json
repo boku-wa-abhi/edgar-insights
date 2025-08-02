@@ -1,0 +1,26 @@
+{
+  "cik": "0001113232",
+  "name": "AXCELIS TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3559",
+  "sicDescription": "Special Industry Machinery, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACLS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "341818596",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978-787-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:07:18 UTC"
+}

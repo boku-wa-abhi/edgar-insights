@@ -1,0 +1,40 @@
+{
+  "cik": "0001587987",
+  "name": "NewtekOne, Inc.",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEWT",
+    "NEWTI",
+    "NEWTG",
+    "NEWTH",
+    "NEWTZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "463755188",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212-356-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Newtek Business Services Corp.",
+      "from": "2013-10-01T04:00:00.000Z",
+      "to": "2023-01-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:17:53 UTC"
+}

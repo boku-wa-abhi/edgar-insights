@@ -1,0 +1,32 @@
+{
+  "cik": "0001525306",
+  "name": "First America Resources Corp",
+  "entityType": "operating",
+  "sic": "5065",
+  "sicDescription": "Wholesale-Electronic Parts & Equipment, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FSTJ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272563052",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "815-941-9888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOLDEN OASIS NEW ENERGY GROUP, INC.",
+      "from": "2011-07-12T04:00:00.000Z",
+      "to": "2013-07-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 95,
+  "download_timestamp": "2025-08-02 07:15:57 UTC"
+}

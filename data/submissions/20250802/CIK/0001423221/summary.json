@@ -1,0 +1,26 @@
+{
+  "cik": "0001423221",
+  "name": "Quanex Building Products CORP",
+  "entityType": "operating",
+  "sic": "3350",
+  "sicDescription": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "NX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "261561397",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7139614600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:12:58 UTC"
+}

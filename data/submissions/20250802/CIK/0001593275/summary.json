@@ -1,0 +1,26 @@
+{
+  "cik": "0001593275",
+  "name": "Hamilton Insurance Group, Ltd.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(441) 405-5200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:18:03 UTC"
+}

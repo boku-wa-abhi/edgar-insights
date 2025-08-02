@@ -1,0 +1,32 @@
+{
+  "cik": "0001769628",
+  "name": "CoreWeave, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRWV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "823060021",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(973) 270-9737",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Atlantic Crypto Corp",
+      "from": "2019-03-11T04:00:00.000Z",
+      "to": "2019-10-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 115,
+  "download_timestamp": "2025-08-02 07:23:26 UTC"
+}

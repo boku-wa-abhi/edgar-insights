@@ -1,0 +1,47 @@
+{
+  "cik": "0000908993",
+  "name": "Invesco Advantage Municipal Income Trust II",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "VKI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "367041986",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Van Kampen Advantage Municipal Income Trust II",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-19T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN ADVANTAGE MUNICIPAL INCOME TRUST II",
+      "from": "1998-12-29T05:00:00.000Z",
+      "to": "2010-05-10T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL ADVANTAGE MUNICIPAL INCOME TR II",
+      "from": "1996-06-28T04:00:00.000Z",
+      "to": "1998-06-17T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN MERRITT ADVANTAGE MUNICIPAL INCOME TRUST II",
+      "from": "1994-12-29T05:00:00.000Z",
+      "to": "1995-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 07:03:09 UTC"
+}

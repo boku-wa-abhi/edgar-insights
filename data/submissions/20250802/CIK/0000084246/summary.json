@@ -1,0 +1,26 @@
+{
+  "cik": "0000084246",
+  "name": "RLI CORP",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RLI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "370889946",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3096921000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:52 UTC"
+}

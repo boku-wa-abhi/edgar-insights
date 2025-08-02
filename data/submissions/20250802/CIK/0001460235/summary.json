@@ -1,0 +1,37 @@
+{
+  "cik": "0001460235",
+  "name": "abrdn Platinum ETF Trust",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PPLT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "215-405-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Aberdeen Standard Platinum ETF Trust",
+      "from": "2018-10-05T04:00:00.000Z",
+      "to": "2022-03-14T04:00:00.000Z"
+    },
+    {
+      "name": "ETFS Platinum Trust",
+      "from": "2009-04-02T04:00:00.000Z",
+      "to": "2018-09-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 161,
+  "download_timestamp": "2025-08-02 07:13:54 UTC"
+}

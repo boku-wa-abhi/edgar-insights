@@ -1,0 +1,26 @@
+{
+  "cik": "0001141284",
+  "name": "ACTELIS NETWORKS INC",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASNS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "522160309",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "510-545-1040",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 230,
+  "download_timestamp": "2025-08-02 07:07:58 UTC"
+}

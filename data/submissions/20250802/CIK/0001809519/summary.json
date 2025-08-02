@@ -1,0 +1,26 @@
+{
+  "cik": "0001809519",
+  "name": "GoodRx Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GDRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475104396",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(855) 268-2822",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 488,
+  "download_timestamp": "2025-08-02 07:24:52 UTC"
+}

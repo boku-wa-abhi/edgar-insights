@@ -1,0 +1,26 @@
+{
+  "cik": "0001689796",
+  "name": "JBG SMITH Properties",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JBGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "814307010",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "240-333-3600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 550,
+  "download_timestamp": "2025-08-02 07:20:49 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001295810",
+  "name": "Sunstone Hotel Investors, Inc.",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHO",
+    "SHO-PH",
+    "SHO-PI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "201296886",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(949) 330-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:57 UTC"
+}

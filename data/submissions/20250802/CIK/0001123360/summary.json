@@ -1,0 +1,26 @@
+{
+  "cik": "0001123360",
+  "name": "GLOBAL PAYMENTS INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GPN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "582567903",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7708298030",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:30 UTC"
+}

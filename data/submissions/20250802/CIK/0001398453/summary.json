@@ -1,0 +1,32 @@
+{
+  "cik": "0001398453",
+  "name": "Xinyuan Real Estate Co., Ltd.",
+  "entityType": "other",
+  "sic": "1520",
+  "sicDescription": "General Bldg Contractors - Residential Bldgs",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "XIN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "861085889200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Xinyuan Real Estate Co Ltd",
+      "from": "2007-04-23T04:00:00.000Z",
+      "to": "2008-04-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 412,
+  "download_timestamp": "2025-08-02 07:12:15 UTC"
+}

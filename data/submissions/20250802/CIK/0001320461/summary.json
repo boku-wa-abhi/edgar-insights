@@ -1,0 +1,26 @@
+{
+  "cik": "0001320461",
+  "name": "Cooper-Standard Holdings Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201945088",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "248-596-5900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:24 UTC"
+}

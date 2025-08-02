@@ -1,0 +1,32 @@
+{
+  "cik": "0001802883",
+  "name": "Agora, Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "API"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "1-408-879-5885",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Agora, Inc.",
+      "from": "2020-03-09T04:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:24:35 UTC"
+}

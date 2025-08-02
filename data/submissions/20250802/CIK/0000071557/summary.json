@@ -1,0 +1,32 @@
+{
+  "cik": "0000071557",
+  "name": "Nuvera Communications, Inc.",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NUVR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "410440990",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5073544111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEW ULM TELECOM INC",
+      "from": "1995-08-04T04:00:00.000Z",
+      "to": "2018-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 542,
+  "download_timestamp": "2025-08-02 06:57:34 UTC"
+}

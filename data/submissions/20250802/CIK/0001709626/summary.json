@@ -1,0 +1,32 @@
+{
+  "cik": "0001709626",
+  "name": "NuCana plc",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NCNA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "44-0-131-357-1111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NuCana BioMed Ltd",
+      "from": "2017-06-26T04:00:00.000Z",
+      "to": "2017-08-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:21:29 UTC"
+}

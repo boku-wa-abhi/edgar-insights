@@ -1,0 +1,28 @@
+{
+  "cik": "0001701963",
+  "name": "Versus Systems Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VS",
+    "VSSYW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "604-719-5614",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 214,
+  "download_timestamp": "2025-08-02 07:21:11 UTC"
+}

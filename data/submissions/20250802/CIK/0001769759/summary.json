@@ -1,0 +1,32 @@
+{
+  "cik": "0001769759",
+  "name": "Monogram Technologies Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGRM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812349540",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(718) 576-3205",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MONOGRAM ORTHOPAEDICS INC",
+      "from": "2019-03-13T04:00:00.000Z",
+      "to": "2024-05-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 161,
+  "download_timestamp": "2025-08-02 07:23:27 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001492422",
+  "name": "Apellis Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APLS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271537290",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-977-5700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:14:48 UTC"
+}

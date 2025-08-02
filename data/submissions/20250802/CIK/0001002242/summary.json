@@ -1,0 +1,28 @@
+{
+  "cik": "0001002242",
+  "name": "ENI SPA",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "L6",
+  "stateOfIncorporationDescription": "Italy",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "E",
+    "EIPAF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011390659824367",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 529,
+  "download_timestamp": "2025-08-02 07:04:25 UTC"
+}

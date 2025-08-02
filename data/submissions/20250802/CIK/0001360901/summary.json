@@ -1,0 +1,32 @@
+{
+  "cik": "0001360901",
+  "name": "Evercore Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EVR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "204748747",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-857-3100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Evercore Partners Inc.",
+      "from": "2006-05-12T04:00:00.000Z",
+      "to": "2017-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:18 UTC"
+}

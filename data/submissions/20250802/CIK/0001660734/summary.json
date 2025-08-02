@@ -1,0 +1,36 @@
+{
+  "cik": "0001660734",
+  "name": "Triton International Ltd",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRTN-PA",
+    "TRTN-PB",
+    "TRTN-PC",
+    "TRTN-PD",
+    "TRTN-PE",
+    "TRTN-PF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "981276572",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(914) 697-2900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 566,
+  "download_timestamp": "2025-08-02 07:20:05 UTC"
+}

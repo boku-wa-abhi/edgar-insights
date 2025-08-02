@@ -1,0 +1,28 @@
+{
+  "cik": "0001482512",
+  "name": "Hudson Pacific Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HPP",
+    "HPP-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "271430478",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(310) 445-5700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:14:32 UTC"
+}

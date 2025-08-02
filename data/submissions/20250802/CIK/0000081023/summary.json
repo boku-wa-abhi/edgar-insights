@@ -1,0 +1,26 @@
+{
+  "cik": "0000081023",
+  "name": "PUBLIC SERVICE CO OF NEW MEXICO",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "NM",
+  "stateOfIncorporationDescription": "NM",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNMXO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "850019030",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5058482700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 780,
+  "download_timestamp": "2025-08-02 06:57:49 UTC"
+}

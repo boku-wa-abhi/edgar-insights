@@ -1,0 +1,32 @@
+{
+  "cik": "0001854526",
+  "name": "brooqLy, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRQL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "862265420",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "224-789-6673",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MyTreat, Inc.",
+      "from": "2021-04-01T04:00:00.000Z",
+      "to": "2021-04-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 82,
+  "download_timestamp": "2025-08-02 07:27:28 UTC"
+}

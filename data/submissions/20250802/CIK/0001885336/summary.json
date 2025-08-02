@@ -1,0 +1,32 @@
+{
+  "cik": "0001885336",
+  "name": "FORMATION MINERALS, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "FOMI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "872406468",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(347) 325-4677",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SensaSure Technologies, Inc.",
+      "from": "2021-10-04T04:00:00.000Z",
+      "to": "2024-04-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 110,
+  "download_timestamp": "2025-08-02 07:28:43 UTC"
+}

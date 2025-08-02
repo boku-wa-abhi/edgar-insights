@@ -1,0 +1,32 @@
+{
+  "cik": "0001022408",
+  "name": "EPLUS INC",
+  "entityType": "operating",
+  "sic": "5045",
+  "sicDescription": "Wholesale-Computers & Peripheral Equipment & Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PLUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541817218",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7039848400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MLC HOLDINGS INC",
+      "from": "1996-11-08T05:00:00.000Z",
+      "to": "1999-10-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:54 UTC"
+}

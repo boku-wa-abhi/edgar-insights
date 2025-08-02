@@ -1,0 +1,26 @@
+{
+  "cik": "0001620533",
+  "name": "Shake Shack Inc.",
+  "entityType": "operating",
+  "sic": "5810",
+  "sicDescription": "Retail-Eating & Drinking Places",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHAK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "471941186",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(646) 747-7200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1017,
+  "download_timestamp": "2025-08-02 07:18:56 UTC"
+}

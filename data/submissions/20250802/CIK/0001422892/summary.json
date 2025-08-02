@@ -1,0 +1,32 @@
+{
+  "cik": "0001422892",
+  "name": "Singularity Future Technology Ltd.",
+  "entityType": "operating",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SGLY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "113588546",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "718-888-1814",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sino-Global Shipping America, Ltd.",
+      "from": "2008-01-11T05:00:00.000Z",
+      "to": "2021-12-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 489,
+  "download_timestamp": "2025-08-02 07:12:57 UTC"
+}

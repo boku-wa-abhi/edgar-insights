@@ -1,0 +1,145 @@
+{
+  "cik": "0001801729",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Nitori Holdings Co., Ltd.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-24-000993",
+        "0001193805-21-000806",
+        "0001193805-20-000119",
+        "0001019155-20-000030"
+      ],
+      "filingDate": [
+        "2024-08-05",
+        "2021-06-04",
+        "2020-02-10",
+        "2020-02-04"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-08-05T22:43:23.000Z",
+        "2021-06-04T20:18:54.000Z",
+        "2020-02-10T19:42:50.000Z",
+        "2020-02-04T19:36:16.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281263",
+        "333-256802",
+        "333-236346",
+        "333-236245"
+      ],
+      "filmNumber": [
+        "241176474",
+        "21996696",
+        "20591427",
+        "20572927"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        112427,
+        136256,
+        114162,
+        103462
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e663818_f6ef-nhc.htm",
+        "e620683_f6ef-nitori.htm",
+        "e619332_f6ef-nitori.htm",
+        "nitorif6ef.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "FORM F-6EF"
+      ]
+    },
+    "files": []
+  }
+}

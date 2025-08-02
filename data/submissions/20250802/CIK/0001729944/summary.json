@@ -1,0 +1,32 @@
+{
+  "cik": "0001729944",
+  "name": "IMAC Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "8093",
+  "sicDescription": "Services-Specialty Outpatient Facilities, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BACK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "473579961",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "844-266-4622",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IMAC HOLDINGS LLC",
+      "from": "2018-03-16T04:00:00.000Z",
+      "to": "2018-08-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 334,
+  "download_timestamp": "2025-08-02 07:22:12 UTC"
+}

@@ -1,0 +1,36 @@
+{
+  "cik": "0001858681",
+  "name": "Apollo Global Management, Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APO",
+    "APO-PA",
+    "APOS"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "863155788",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-515-3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tango Holdings, Inc.",
+      "from": "2021-05-07T04:00:00.000Z",
+      "to": "2021-11-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 609,
+  "download_timestamp": "2025-08-02 07:27:40 UTC"
+}

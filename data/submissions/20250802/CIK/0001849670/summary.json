@@ -1,0 +1,26 @@
+{
+  "cik": "0001849670",
+  "name": "PB Bankshares, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PBBK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(610) 384-8282",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 153,
+  "download_timestamp": "2025-08-02 07:27:07 UTC"
+}

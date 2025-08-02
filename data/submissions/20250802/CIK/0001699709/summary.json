@@ -1,0 +1,37 @@
+{
+  "cik": "0001699709",
+  "name": "YIJIA GROUP CORP.",
+  "entityType": "operating",
+  "sic": "5130",
+  "sicDescription": "Wholesale-Apparel, Piece Goods & Notions",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "YJGJ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "352583762",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "919-869-0279",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "YIJIA GROUP CORP",
+      "from": "2018-12-14T05:00:00.000Z",
+      "to": "2019-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "Soldino Group Corp",
+      "from": "2017-06-14T04:00:00.000Z",
+      "to": "2018-11-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 87,
+  "download_timestamp": "2025-08-02 07:21:05 UTC"
+}

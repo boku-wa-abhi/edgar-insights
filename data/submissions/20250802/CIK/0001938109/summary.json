@@ -1,0 +1,30 @@
+{
+  "cik": "0001938109",
+  "name": "Pineapple Financial Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PAPL",
+    "PAPLF",
+    "PAPLD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "416-371-0835",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 133,
+  "download_timestamp": "2025-08-02 07:29:52 UTC"
+}

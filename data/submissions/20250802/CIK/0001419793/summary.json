@@ -1,0 +1,32 @@
+{
+  "cik": "0001419793",
+  "name": "ORIGINCLEAR, INC.",
+  "entityType": "operating",
+  "sic": "3559",
+  "sicDescription": "Special Industry Machinery, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OCLN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "260287664",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(727) 440-4603",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ORIGINOIL INC",
+      "from": "2007-11-28T05:00:00.000Z",
+      "to": "2015-04-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 417,
+  "download_timestamp": "2025-08-02 07:12:51 UTC"
+}

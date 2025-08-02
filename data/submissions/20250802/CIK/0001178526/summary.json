@@ -1,0 +1,38 @@
+{
+  "cik": "0001178526",
+  "name": "Gamelancer Media Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-479-9547",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gamelancer Gaming Corp.",
+      "from": "2022-04-28T04:00:00.000Z",
+      "to": "2022-04-28T04:00:00.000Z"
+    },
+    {
+      "name": "Wondr Gaming Corp.",
+      "from": "2022-03-02T05:00:00.000Z",
+      "to": "2022-03-02T05:00:00.000Z"
+    },
+    {
+      "name": "TRANSGLOBE INTERNET & TELECOM CO LTD",
+      "from": "2002-07-17T04:00:00.000Z",
+      "to": "2002-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:08:41 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000880266",
+  "name": "AGCO CORP /DE",
+  "entityType": "operating",
+  "sic": "3523",
+  "sicDescription": "Farm Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AGCO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "581960019",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7708139200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:09 UTC"
+}

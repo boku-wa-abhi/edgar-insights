@@ -1,0 +1,37 @@
+{
+  "cik": "0001059142",
+  "name": "Greystone Housing Impact Investors LP",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GHI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "470810385",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(402) 952-1235",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICA FIRST MULTIFAMILY INVESTORS, L.P.",
+      "from": "2013-09-25T04:00:00.000Z",
+      "to": "2022-12-02T05:00:00.000Z"
+    },
+    {
+      "name": "AMERICA FIRST TAX EXEMPT INVESTORS LP",
+      "from": "1998-08-27T04:00:00.000Z",
+      "to": "2013-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:55 UTC"
+}

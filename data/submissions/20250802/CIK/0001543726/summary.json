@@ -1,0 +1,28 @@
+{
+  "cik": "0001543726",
+  "name": "Nihon Kohden Corporation/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NHNKY",
+    "NHNKF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:16:34 UTC"
+}

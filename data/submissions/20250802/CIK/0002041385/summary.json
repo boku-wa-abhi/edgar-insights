@@ -1,0 +1,34 @@
+{
+  "cik": "0002041385",
+  "name": "Ralliant Corp",
+  "entityType": "other",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RAL",
+    "RAL-WI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "995127620",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4254465000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NPTG Holdings Corp",
+      "from": "2024-12-17T05:00:00.000Z",
+      "to": "2024-12-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 37,
+  "download_timestamp": "2025-08-02 07:33:01 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001627223",
+  "name": "Chemours Co",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464845564",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "302 773 1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Chemours Company, LLC",
+      "from": "2014-12-18T05:00:00.000Z",
+      "to": "2015-04-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 919,
+  "download_timestamp": "2025-08-02 07:19:07 UTC"
+}

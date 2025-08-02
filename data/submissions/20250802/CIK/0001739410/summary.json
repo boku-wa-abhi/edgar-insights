@@ -1,0 +1,32 @@
+{
+  "cik": "0001739410",
+  "name": "Rallybio Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RLYB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851083789",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "203- 859-3820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rallybio Holdings, LLC",
+      "from": "2018-05-07T04:00:00.000Z",
+      "to": "2021-06-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 231,
+  "download_timestamp": "2025-08-02 07:22:30 UTC"
+}

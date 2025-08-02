@@ -1,0 +1,26 @@
+{
+  "cik": "0000087802",
+  "name": "SCIENTIFIC INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCND"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "042217279",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6315674700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 671,
+  "download_timestamp": "2025-08-02 06:57:54 UTC"
+}

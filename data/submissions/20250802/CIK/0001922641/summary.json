@@ -1,0 +1,26 @@
+{
+  "cik": "0001922641",
+  "name": "Enlight Renewable Energy Ltd.",
+  "entityType": "other",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ENLT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972 (3) 900-8700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:29:35 UTC"
+}

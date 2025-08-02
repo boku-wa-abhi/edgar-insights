@@ -1,0 +1,32 @@
+{
+  "cik": "0001980994",
+  "name": "iShares Bitcoin Trust ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBIT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "415-670-6416",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "iShares Bitcoin Trust",
+      "from": "2023-06-15T04:00:00.000Z",
+      "to": "2024-07-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:31:00 UTC"
+}

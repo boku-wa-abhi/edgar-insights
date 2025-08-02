@@ -1,0 +1,181 @@
+{
+  "cik": "0001541309",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "carsales.com Limited/ADR",
+  "tickers": [
+    "CSXXY",
+    "CRSLF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O PATTERSON BELKNAP C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10036",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "C/O PATTERSON BELKNAP C/O H. RASPE",
+      "street2": "1133 AVENUE OF THE AMERICAS",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10036",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-336-2301",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-23-120200",
+        "0001019155-23-000220",
+        "0001193805-23-001474",
+        "0001144204-18-058720",
+        "0001019155-12-000183",
+        "0001193805-12-000122"
+      ],
+      "filingDate": [
+        "2023-11-21",
+        "2023-11-14",
+        "2023-11-07",
+        "2018-11-09",
+        "2012-03-20",
+        "2012-02-03"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-11-21T11:17:29.000Z",
+        "2023-11-14T11:14:48.000Z",
+        "2023-11-07T12:56:28.000Z",
+        "2018-11-09T16:00:44.000Z",
+        "2012-03-20T15:35:27.000Z",
+        "2012-02-03T11:11:58.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-228306",
+        "333-180232",
+        "333-179328",
+        "333-228306",
+        "333-180232",
+        "333-179328"
+      ],
+      "filmNumber": [
+        "231425233",
+        "231402712",
+        "231382707",
+        "181173022",
+        "12703389",
+        "12568415"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        120446,
+        94971,
+        104458,
+        150816,
+        79542,
+        240534
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2331251d1_f6pos.htm",
+        "carsalesf6pos.htm",
+        "e619045_f6pos-cgl.htm",
+        "tv506885_f6ef.htm",
+        "carsalresf6.htm",
+        "e609257_f6ef-carsales.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "F-6 POS",
+        "",
+        "F-6EF",
+        "FORM F-6",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

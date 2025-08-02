@@ -1,0 +1,26 @@
+{
+  "cik": "0000831641",
+  "name": "TETRA TECH INC",
+  "entityType": "operating",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0928",
+  "tickers": [
+    "TTEK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954148514",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6263514664",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:01:09 UTC"
+}

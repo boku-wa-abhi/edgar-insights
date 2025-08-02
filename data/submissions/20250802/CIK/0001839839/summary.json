@@ -1,0 +1,32 @@
+{
+  "cik": "0001839839",
+  "name": "Janus International Group, Inc.",
+  "entityType": "operating",
+  "sic": "3442",
+  "sicDescription": "Metal Doors, Sash, Frames, Moldings & Trim",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0101",
+  "tickers": [
+    "JBI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(866) 562-2580",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Janus Parent, Inc.",
+      "from": "2021-02-08T05:00:00.000Z",
+      "to": "2021-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 363,
+  "download_timestamp": "2025-08-02 07:26:31 UTC"
+}

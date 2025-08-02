@@ -1,0 +1,37 @@
+{
+  "cik": "0001136893",
+  "name": "Fidelity National Information Services, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FIS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "371490331",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "407-551-8315",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CERTEGY INC",
+      "from": "2001-07-20T04:00:00.000Z",
+      "to": "2006-02-01T05:00:00.000Z"
+    },
+    {
+      "name": "EQUIFAX PS INC",
+      "from": "2001-04-03T04:00:00.000Z",
+      "to": "2001-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:51 UTC"
+}

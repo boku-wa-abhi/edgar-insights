@@ -1,0 +1,26 @@
+{
+  "cik": "0001654595",
+  "name": "Medalist Diversified REIT, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDRR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "804-338-7708",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 504,
+  "download_timestamp": "2025-08-02 07:19:55 UTC"
+}

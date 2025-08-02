@@ -1,0 +1,100 @@
+{
+  "cik": "0002075816",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Emmis Acquisition Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "515 E LAS OLAS BLVD",
+      "street2": "SUITE 120",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33301",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "515 E LAS OLAS BLVD",
+      "street2": "SUITE 120",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33301",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "954-294-6285",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-061576"
+      ],
+      "filingDate": [
+        "2025-07-03"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-03T21:27:55.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288530"
+      ],
+      "filmNumber": [
+        "251106454"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "size": [
+        4136275
+      ],
+      "isXBRL": [
+        1
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "primaryDocument": [
+        "ea0248010-s1_emmis.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT"
+      ]
+    },
+    "files": []
+  }
+}

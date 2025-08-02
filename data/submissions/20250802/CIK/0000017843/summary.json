@@ -1,0 +1,26 @@
+{
+  "cik": "0000017843",
+  "name": "CARPENTER TECHNOLOGY CORP",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CRS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "230458500",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6102082000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:27 UTC"
+}

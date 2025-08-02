@@ -1,0 +1,26 @@
+{
+  "cik": "0001835632",
+  "name": "Marvell Technology, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "MRVL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "853971597",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(302) 295-4840",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 683,
+  "download_timestamp": "2025-08-02 07:26:18 UTC"
+}

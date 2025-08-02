@@ -1,0 +1,32 @@
+{
+  "cik": "0000097745",
+  "name": "THERMO FISHER SCIENTIFIC INC.",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TMO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "042209186",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7816221000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "THERMO ELECTRON CORP",
+      "from": "1994-02-18T05:00:00.000Z",
+      "to": "2006-11-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:09 UTC"
+}

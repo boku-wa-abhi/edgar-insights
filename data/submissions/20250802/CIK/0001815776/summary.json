@@ -1,0 +1,32 @@
+{
+  "cik": "0001815776",
+  "name": "LENZ Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LENZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "844867570",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "858-925-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Graphite Bio, Inc.",
+      "from": "2021-03-19T04:00:00.000Z",
+      "to": "2024-03-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 295,
+  "download_timestamp": "2025-08-02 07:25:05 UTC"
+}

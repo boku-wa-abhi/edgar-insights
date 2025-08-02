@@ -1,0 +1,26 @@
+{
+  "cik": "0001350102",
+  "name": "Ascent Solar Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASTI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "203672603",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(720) 872-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:11:05 UTC"
+}

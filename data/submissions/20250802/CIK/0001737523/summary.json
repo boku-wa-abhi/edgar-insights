@@ -1,0 +1,32 @@
+{
+  "cik": "0001737523",
+  "name": "BioNexus Gene Lab Corp",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BGLC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "262124961",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "1-307-241-6898",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BioNexus Gene Lab Coporation",
+      "from": "2019-01-29T05:00:00.000Z",
+      "to": "2020-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 122,
+  "download_timestamp": "2025-08-02 07:22:26 UTC"
+}

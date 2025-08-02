@@ -1,0 +1,34 @@
+{
+  "cik": "0001805385",
+  "name": "Evolv Technologies Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EVLV",
+    "EVLVW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "844473840",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "781-374-8100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NewHold Investment Corp.",
+      "from": "2020-03-10T04:00:00.000Z",
+      "to": "2021-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 467,
+  "download_timestamp": "2025-08-02 07:24:42 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001014763",
+  "name": "Ainos, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIMD",
+    "AIMDW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "751974352",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-869-2986",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ainos, Inc.",
+      "from": "2021-04-21T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "AMARILLO BIOSCIENCES INC",
+      "from": "1996-05-30T04:00:00.000Z",
+      "to": "2021-03-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 956,
+  "download_timestamp": "2025-08-02 07:04:44 UTC"
+}

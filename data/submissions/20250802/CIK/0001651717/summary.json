@@ -1,0 +1,26 @@
+{
+  "cik": "0001651717",
+  "name": "Nomad Foods Ltd",
+  "entityType": "other",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOMD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "00442089183200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:19:49 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0002034037",
+  "name": "Siddhi Acquisition Corp (Cayman Islands)",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SDHI",
+    "SDHIR",
+    "SDHIU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981799837",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "332-263-3385",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:32:48 UTC"
+}

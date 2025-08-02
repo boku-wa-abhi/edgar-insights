@@ -1,0 +1,32 @@
+{
+  "cik": "0001383414",
+  "name": "PENNANTPARK INVESTMENT CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "PNNT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "208250744",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212-905-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Pennant Investment CORP",
+      "from": "2007-01-19T05:00:00.000Z",
+      "to": "2007-03-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 798,
+  "download_timestamp": "2025-08-02 07:11:52 UTC"
+}

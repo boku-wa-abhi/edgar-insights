@@ -1,0 +1,42 @@
+{
+  "cik": "0001707919",
+  "name": "Cenntro Inc.",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CENN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(732) 820-6757",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CENNTRO ELECTRIC GROUP Ltd",
+      "from": "2022-01-05T05:00:00.000Z",
+      "to": "2024-02-16T05:00:00.000Z"
+    },
+    {
+      "name": "NAKED BRAND GROUP Ltd",
+      "from": "2018-06-19T04:00:00.000Z",
+      "to": "2022-01-03T05:00:00.000Z"
+    },
+    {
+      "name": "BENDON GROUP HOLDINGS LTD",
+      "from": "2017-07-27T04:00:00.000Z",
+      "to": "2018-06-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 317,
+  "download_timestamp": "2025-08-02 07:21:24 UTC"
+}

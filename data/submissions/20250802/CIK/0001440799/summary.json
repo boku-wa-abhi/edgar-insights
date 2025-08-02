@@ -1,0 +1,47 @@
+{
+  "cik": "0001440799",
+  "name": "MMEX Resources Corp",
+  "entityType": "operating",
+  "sic": "7819",
+  "sicDescription": "Services-Allied To Motion Picture Production",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "MMEX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "261749145",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "855-880-0400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MMEX Mining Corp",
+      "from": "2011-01-20T05:00:00.000Z",
+      "to": "2015-11-05T05:00:00.000Z"
+    },
+    {
+      "name": "Management Energy, Inc.",
+      "from": "2009-07-28T04:00:00.000Z",
+      "to": "2011-02-11T05:00:00.000Z"
+    },
+    {
+      "name": "MGMT ENERGY, INC.",
+      "from": "2009-03-04T05:00:00.000Z",
+      "to": "2009-07-16T04:00:00.000Z"
+    },
+    {
+      "name": "Quantum Information, Inc.",
+      "from": "2008-07-29T04:00:00.000Z",
+      "to": "2009-02-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 274,
+  "download_timestamp": "2025-08-02 07:13:27 UTC"
+}

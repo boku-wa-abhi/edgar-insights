@@ -1,0 +1,26 @@
+{
+  "cik": "0001896677",
+  "name": "Grayscale Solana Trust (SOL)",
+  "entityType": "other",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GSOL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "876771043",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-668-1427",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 79,
+  "download_timestamp": "2025-08-02 07:29:02 UTC"
+}

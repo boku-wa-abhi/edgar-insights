@@ -1,0 +1,26 @@
+{
+  "cik": "0001539029",
+  "name": "Clearside Biomedical, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLSD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "452437375",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "678-270-3631",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 524,
+  "download_timestamp": "2025-08-02 07:16:28 UTC"
+}

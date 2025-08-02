@@ -1,0 +1,26 @@
+{
+  "cik": "0001594968",
+  "name": "Vestiage, Inc.",
+  "entityType": "operating",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VEST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "454895104",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-258-4404",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:18:05 UTC"
+}

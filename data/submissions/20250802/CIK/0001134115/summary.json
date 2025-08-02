@@ -1,0 +1,26 @@
+{
+  "cik": "0001134115",
+  "name": "INTERNATIONAL TOWER HILL MINES LTD",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "THM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "604-683-6332",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 627,
+  "download_timestamp": "2025-08-02 07:07:49 UTC"
+}

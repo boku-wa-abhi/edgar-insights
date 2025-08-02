@@ -1,0 +1,26 @@
+{
+  "cik": "0001742341",
+  "name": "HiTek Global Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HKIT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-57182213772",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 111,
+  "download_timestamp": "2025-08-02 07:22:34 UTC"
+}

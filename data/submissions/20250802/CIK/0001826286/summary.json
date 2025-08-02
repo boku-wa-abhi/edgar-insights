@@ -1,0 +1,26 @@
+{
+  "cik": "0001826286",
+  "name": "Vinci Partners Investments Ltd.",
+  "entityType": "other",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VINP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "55-21-2159-6600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 158,
+  "download_timestamp": "2025-08-02 07:25:45 UTC"
+}

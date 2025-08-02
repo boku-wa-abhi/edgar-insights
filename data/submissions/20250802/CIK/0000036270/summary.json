@@ -1,0 +1,36 @@
+{
+  "cik": "0000036270",
+  "name": "M&T BANK CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTB",
+    "MTB-PH",
+    "MTB-PJ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "160968385",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7165593172",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST EMPIRE STATE CORP",
+      "from": "1994-03-10T05:00:00.000Z",
+      "to": "1998-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:52 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000317540",
+  "name": "Coca-Cola Consolidated, Inc.",
+  "entityType": "operating",
+  "sic": "2086",
+  "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COKE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "560950585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9803928298",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COCA COLA BOTTLING CO CONSOLIDATED /DE/",
+      "from": "1994-11-14T05:00:00.000Z",
+      "to": "2018-12-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 776,
+  "download_timestamp": "2025-08-02 06:58:45 UTC"
+}

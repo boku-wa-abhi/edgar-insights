@@ -1,0 +1,32 @@
+{
+  "cik": "0001842279",
+  "name": "OPAL Fuels Inc.",
+  "entityType": "operating",
+  "sic": "4932",
+  "sicDescription": "Gas & Other Services Combined",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPAL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-531-6300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ArcLight Clean Transition Corp. II",
+      "from": "2021-02-04T05:00:00.000Z",
+      "to": "2022-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 426,
+  "download_timestamp": "2025-08-02 07:26:41 UTC"
+}

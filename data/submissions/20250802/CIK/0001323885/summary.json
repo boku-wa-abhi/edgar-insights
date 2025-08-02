@@ -1,0 +1,26 @@
+{
+  "cik": "0001323885",
+  "name": "AtriCure, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATRC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "341940305",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "513-755-4100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:28 UTC"
+}

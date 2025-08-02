@@ -1,0 +1,30 @@
+{
+  "cik": "0001786108",
+  "name": "Trinity Capital Inc.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRIN",
+    "TRINI",
+    "TRINZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "480.374.5350",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 467,
+  "download_timestamp": "2025-08-02 07:23:59 UTC"
+}

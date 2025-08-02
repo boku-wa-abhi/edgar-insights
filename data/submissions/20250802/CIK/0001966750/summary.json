@@ -1,0 +1,26 @@
+{
+  "cik": "0001966750",
+  "name": "Zhibao Technology Inc.",
+  "entityType": "other",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ZBAO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "862150896502",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 61,
+  "download_timestamp": "2025-08-02 07:30:37 UTC"
+}

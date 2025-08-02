@@ -1,0 +1,26 @@
+{
+  "cik": "0001006830",
+  "name": "CONSUMERS BANCORP INC /OH/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CBKM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "341771400",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "3308687701",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:04:33 UTC"
+}

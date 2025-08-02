@@ -1,0 +1,26 @@
+{
+  "cik": "0001650132",
+  "name": "Four Corners Property Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FCPT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "474456296",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-965-8030",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 883,
+  "download_timestamp": "2025-08-02 07:19:45 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001822523",
+  "name": "Advanced Flower Capital Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AFCG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851807125",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "561.510.2390",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AFC Gamma, Inc.",
+      "from": "2020-08-27T04:00:00.000Z",
+      "to": "2024-09-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 261,
+  "download_timestamp": "2025-08-02 07:25:31 UTC"
+}

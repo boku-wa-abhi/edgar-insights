@@ -1,0 +1,37 @@
+{
+  "cik": "0001113423",
+  "name": "COSCIENS Biopharma Inc.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CSCI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "843-900-3201",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Aeterna Zentaris Inc.",
+      "from": "2004-07-07T04:00:00.000Z",
+      "to": "2024-08-07T04:00:00.000Z"
+    },
+    {
+      "name": "AETERNA LABORATORIES INC",
+      "from": "2000-11-29T05:00:00.000Z",
+      "to": "2004-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 873,
+  "download_timestamp": "2025-08-02 07:07:18 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001810019",
+  "name": "Rackspace Technology, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RXT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813369925",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "1-800-961-4454",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rackspace Corp.",
+      "from": "2020-05-06T04:00:00.000Z",
+      "to": "2020-05-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 462,
+  "download_timestamp": "2025-08-02 07:24:54 UTC"
+}

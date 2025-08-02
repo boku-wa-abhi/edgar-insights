@@ -1,0 +1,47 @@
+{
+  "cik": "0000728385",
+  "name": "Birchtech Corp.",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCHT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870398271",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "614-505-6115",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Midwest Energy Emissions Corp.",
+      "from": "2011-07-20T04:00:00.000Z",
+      "to": "2024-08-12T04:00:00.000Z"
+    },
+    {
+      "name": "China Youth Media, Inc.",
+      "from": "2008-10-16T04:00:00.000Z",
+      "to": "2011-10-06T04:00:00.000Z"
+    },
+    {
+      "name": "DIGICORP, INC.",
+      "from": "2008-03-31T04:00:00.000Z",
+      "to": "2008-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "DIGICORP",
+      "from": "2001-08-09T04:00:00.000Z",
+      "to": "2008-03-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 771,
+  "download_timestamp": "2025-08-02 06:59:32 UTC"
+}

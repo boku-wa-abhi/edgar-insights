@@ -1,0 +1,28 @@
+{
+  "cik": "0001160330",
+  "name": "BANK BRADESCO",
+  "entityType": "other",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BBD",
+    "BBDO"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:13 UTC"
+}

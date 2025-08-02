@@ -1,0 +1,32 @@
+{
+  "cik": "0001639691",
+  "name": "LivaNova PLC",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LIVN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981268150",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4402033250662",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sand Holdco Plc",
+      "from": "2015-04-20T04:00:00.000Z",
+      "to": "2015-06-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 879,
+  "download_timestamp": "2025-08-02 07:19:27 UTC"
+}

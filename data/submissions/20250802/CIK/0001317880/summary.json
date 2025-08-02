@@ -1,0 +1,32 @@
+{
+  "cik": "0001317880",
+  "name": "Plandai Biotechnology, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PLPL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "453642179",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "(619) 239-9034",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Diamond Ranch Foods, Ltd., NEW",
+      "from": "2005-03-16T00:00:00.000Z",
+      "to": "2012-01-09T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 199,
+  "download_timestamp": "2025-08-02 07:10:19 UTC"
+}

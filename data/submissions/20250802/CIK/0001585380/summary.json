@@ -1,0 +1,26 @@
+{
+  "cik": "0001585380",
+  "name": "Greene Concepts, Inc",
+  "entityType": "other",
+  "sic": "2086",
+  "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "INKW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "743101465",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "559-494-1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 37,
+  "download_timestamp": "2025-08-02 07:17:49 UTC"
+}

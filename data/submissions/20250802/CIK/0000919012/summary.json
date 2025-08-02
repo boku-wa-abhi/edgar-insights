@@ -1,0 +1,32 @@
+{
+  "cik": "0000919012",
+  "name": "AMERICAN EAGLE OUTFITTERS INC",
+  "entityType": "operating",
+  "sic": "5651",
+  "sicDescription": "Retail-Family Clothing Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "AEO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "132721761",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4124323300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICAN EAGLE OUTFITTERS INC",
+      "from": "1996-09-25T04:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:03:34 UTC"
+}

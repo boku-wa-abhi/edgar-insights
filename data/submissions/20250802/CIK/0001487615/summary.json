@@ -1,0 +1,28 @@
+{
+  "cik": "0001487615",
+  "name": "Nexera Energy Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "403-262-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Emerald Bay Energy Inc.",
+      "from": "2010-03-22T04:00:00.000Z",
+      "to": "2019-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:14:39 UTC"
+}

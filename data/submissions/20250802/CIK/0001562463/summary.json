@@ -1,0 +1,34 @@
+{
+  "cik": "0001562463",
+  "name": "First Internet Bancorp",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INBK",
+    "INBKZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "203489991",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "317-532-7900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "First Internet Bancorp",
+      "from": "2012-11-30T05:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 659,
+  "download_timestamp": "2025-08-02 07:17:03 UTC"
+}

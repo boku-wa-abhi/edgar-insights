@@ -1,0 +1,42 @@
+{
+  "cik": "0001029125",
+  "name": "Panbela Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PBLA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870543922",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9524791196",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sun BioPharma, Inc.",
+      "from": "2015-09-11T04:00:00.000Z",
+      "to": "2020-12-02T05:00:00.000Z"
+    },
+    {
+      "name": "Cimarron Medical, Inc.",
+      "from": "2015-06-02T04:00:00.000Z",
+      "to": "2015-09-04T04:00:00.000Z"
+    },
+    {
+      "name": "CIMARRON SOFTWARE INC",
+      "from": "2012-05-14T04:00:00.000Z",
+      "to": "2015-05-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 583,
+  "download_timestamp": "2025-08-02 07:05:05 UTC"
+}

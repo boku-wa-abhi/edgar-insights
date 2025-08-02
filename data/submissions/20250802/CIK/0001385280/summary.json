@@ -1,0 +1,26 @@
+{
+  "cik": "0001385280",
+  "name": "Cinemark Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7830",
+  "sicDescription": "Services-Motion Picture Theaters",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "205490327",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(972) 665-1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 07:11:54 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001041633",
+  "name": "Futuris Co",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FTRS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "593380009",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "703-310-7334",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MISSION MINING Co",
+      "from": "2020-06-24T00:00:00.000Z",
+      "to": "2020-10-14T00:00:00.000Z"
+    },
+    {
+      "name": "CAMBRIDGE ENERGY CORP",
+      "from": "1998-06-19T00:00:00.000Z",
+      "to": "2008-10-28T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 89,
+  "download_timestamp": "2025-08-02 07:05:25 UTC"
+}

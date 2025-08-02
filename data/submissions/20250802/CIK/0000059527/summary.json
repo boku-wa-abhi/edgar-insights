@@ -1,0 +1,37 @@
+{
+  "cik": "0000059527",
+  "name": "LINCOLN ELECTRIC HOLDINGS INC",
+  "entityType": "operating",
+  "sic": "3540",
+  "sicDescription": "Metalworkg Machinery & Equipment",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LECO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "340359955",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2164818100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LINCOLN ELECTRIC HOLDINGS INC",
+      "from": "1998-06-30T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "LINCOLN ELECTRIC CO",
+      "from": "1994-05-13T04:00:00.000Z",
+      "to": "1998-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:18 UTC"
+}

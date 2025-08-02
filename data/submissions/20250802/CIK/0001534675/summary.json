@@ -1,0 +1,32 @@
+{
+  "cik": "0001534675",
+  "name": "Tecnoglass Inc.",
+  "entityType": "operating",
+  "sic": "3211",
+  "sicDescription": "Flat Glass",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGLS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1(305)638-5151",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Andina Acquisition Corp",
+      "from": "2011-11-18T05:00:00.000Z",
+      "to": "2013-12-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 500,
+  "download_timestamp": "2025-08-02 07:16:20 UTC"
+}

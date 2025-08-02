@@ -1,0 +1,37 @@
+{
+  "cik": "0000870780",
+  "name": "NUVEEN PENNSYLVANIA QUALITY MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NQP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363743025",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN PENNSYLVANIA INVESTMENT QUALITY MUNICIPAL FUND",
+      "from": "2012-11-15T05:00:00.000Z",
+      "to": "2016-11-21T05:00:00.000Z"
+    },
+    {
+      "name": "NUVEEN PENNSYLVANIA INVESTMENT QUALITY MUNICIPAL FUND INC",
+      "from": "1995-08-29T04:00:00.000Z",
+      "to": "2012-10-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 519,
+  "download_timestamp": "2025-08-02 07:01:54 UTC"
+}

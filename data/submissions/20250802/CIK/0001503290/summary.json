@@ -1,0 +1,39 @@
+{
+  "cik": "0001503290",
+  "name": "abrdn Income Credit Strategies Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "ACP",
+    "ACP-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "215-405-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Aberdeen Income Credit Strategies Fund",
+      "from": "2017-12-11T05:00:00.000Z",
+      "to": "2022-06-06T04:00:00.000Z"
+    },
+    {
+      "name": "Avenue Income Credit Strategies Fund",
+      "from": "2010-10-19T04:00:00.000Z",
+      "to": "2017-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 423,
+  "download_timestamp": "2025-08-02 07:15:13 UTC"
+}

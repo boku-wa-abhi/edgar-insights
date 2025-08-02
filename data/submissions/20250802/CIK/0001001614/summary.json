@@ -1,0 +1,32 @@
+{
+  "cik": "0001001614",
+  "name": "Riley Exploration Permian, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REPX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "870267438",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "405-415-8699",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TENGASCO INC",
+      "from": "1996-07-03T04:00:00.000Z",
+      "to": "2021-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 997,
+  "download_timestamp": "2025-08-02 07:04:23 UTC"
+}

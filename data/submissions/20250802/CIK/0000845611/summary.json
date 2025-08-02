@@ -1,0 +1,37 @@
+{
+  "cik": "0000845611",
+  "name": "GABELLI CONVERTIBLE & INCOME SECURITIES FUND INC",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "GCV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133523423",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2123098408",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GABELLI CONVERTIBLE SECURITIES FUND INC /DE",
+      "from": "1997-05-14T04:00:00.000Z",
+      "to": "2002-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "GABELLI SERIES FUNDS INC",
+      "from": "1994-08-29T04:00:00.000Z",
+      "to": "1997-03-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 570,
+  "download_timestamp": "2025-08-02 07:01:24 UTC"
+}

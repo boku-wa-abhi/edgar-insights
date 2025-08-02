@@ -1,0 +1,26 @@
+{
+  "cik": "0001619096",
+  "name": "Summit Networks Inc.",
+  "entityType": "operating",
+  "sic": "4953",
+  "sicDescription": "Refuse Systems",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNTW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "352511257",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "604-232-3968",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 147,
+  "download_timestamp": "2025-08-02 07:18:52 UTC"
+}

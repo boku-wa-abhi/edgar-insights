@@ -1,0 +1,26 @@
+{
+  "cik": "0000077476",
+  "name": "PEPSICO INC",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "PEP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "131584302",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9142532000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:45 UTC"
+}

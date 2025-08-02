@@ -1,0 +1,26 @@
+{
+  "cik": "0001758488",
+  "name": "ONESPAWORLD HOLDINGS Ltd",
+  "entityType": "operating",
+  "sic": "7997",
+  "sicDescription": "Services-Membership Sports & Recreation Clubs",
+  "stateOfIncorporation": "C5",
+  "stateOfIncorporationDescription": "Bahamas",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OSW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "242-322-2670",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 533,
+  "download_timestamp": "2025-08-02 07:23:05 UTC"
+}

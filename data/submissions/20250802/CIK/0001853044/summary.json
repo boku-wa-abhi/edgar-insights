@@ -1,0 +1,34 @@
+{
+  "cik": "0001853044",
+  "name": "Aeries Technology, Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AERT",
+    "AERTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "415-629-9066",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Worldwide Webb Acquisition Corp.",
+      "from": "2021-04-02T04:00:00.000Z",
+      "to": "2023-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 245,
+  "download_timestamp": "2025-08-02 07:27:20 UTC"
+}

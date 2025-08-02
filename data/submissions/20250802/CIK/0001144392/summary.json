@@ -1,0 +1,32 @@
+{
+  "cik": "0001144392",
+  "name": "MEGOLA INC",
+  "entityType": "operating",
+  "sic": "2890",
+  "sicDescription": "Miscellaneous Chemical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MGON"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "880492605",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-587-1698",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUPERIORCLEAN INC",
+      "from": "2002-05-13T04:00:00.000Z",
+      "to": "2003-10-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 168,
+  "download_timestamp": "2025-08-02 07:08:01 UTC"
+}

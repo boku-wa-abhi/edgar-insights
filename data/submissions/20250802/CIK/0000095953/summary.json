@@ -1,0 +1,32 @@
+{
+  "cik": "0000095953",
+  "name": "ASCENT INDUSTRIES CO.",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACNT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "570426694",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "6308849181",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SYNALLOY CORP",
+      "from": "1995-02-14T05:00:00.000Z",
+      "to": "2022-08-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:06 UTC"
+}

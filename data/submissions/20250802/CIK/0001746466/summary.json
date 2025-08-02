@@ -1,0 +1,26 @@
+{
+  "cik": "0001746466",
+  "name": "Equillium, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EQ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821554746",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(858) 412-5302",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 379,
+  "download_timestamp": "2025-08-02 07:22:43 UTC"
+}

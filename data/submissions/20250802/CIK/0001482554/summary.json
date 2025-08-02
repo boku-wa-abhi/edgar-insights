@@ -1,0 +1,39 @@
+{
+  "cik": "0001482554",
+  "name": "Hartford Creative Group, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "HFUS",
+    "HFUSD"
+  ],
+  "exchanges": [
+    null,
+    "OTC"
+  ],
+  "ein": "205422795",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "626-656-6192",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hartford Great Health Corp.",
+      "from": "2018-10-30T04:00:00.000Z",
+      "to": "2024-04-05T04:00:00.000Z"
+    },
+    {
+      "name": "Photoamigo, Inc.",
+      "from": "2010-02-02T05:00:00.000Z",
+      "to": "2018-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 188,
+  "download_timestamp": "2025-08-02 07:14:32 UTC"
+}

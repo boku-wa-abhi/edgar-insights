@@ -1,0 +1,26 @@
+{
+  "cik": "0000733590",
+  "name": "TRANSCONTINENTAL REALTY INVESTORS INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TCI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4695224200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 588,
+  "download_timestamp": "2025-08-02 06:59:38 UTC"
+}

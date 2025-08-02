@@ -1,0 +1,52 @@
+{
+  "cik": "0001130781",
+  "name": "NEURALBASE AI LTD.",
+  "entityType": "operating",
+  "sic": "7812",
+  "sicDescription": "Services-Motion Picture & Video Tape Production",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NBBI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "912090516",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "727-314-3717",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Viratech Corp.",
+      "from": "2013-01-29T05:00:00.000Z",
+      "to": "2024-07-26T04:00:00.000Z"
+    },
+    {
+      "name": "Soleil Film, Inc.",
+      "from": "2004-11-29T05:00:00.000Z",
+      "to": "2006-05-15T04:00:00.000Z"
+    },
+    {
+      "name": "Soleil Film & Television, Inc.",
+      "from": "2004-06-11T04:00:00.000Z",
+      "to": "2004-10-20T04:00:00.000Z"
+    },
+    {
+      "name": "AMERI DREAM ENTERTAINMENT INC",
+      "from": "2002-07-08T04:00:00.000Z",
+      "to": "2004-03-11T05:00:00.000Z"
+    },
+    {
+      "name": "MCSMOOTHIES INC",
+      "from": "2001-05-14T04:00:00.000Z",
+      "to": "2002-07-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 76,
+  "download_timestamp": "2025-08-02 07:07:42 UTC"
+}

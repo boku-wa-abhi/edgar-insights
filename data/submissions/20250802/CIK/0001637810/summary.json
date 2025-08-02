@@ -1,0 +1,32 @@
+{
+  "cik": "0001637810",
+  "name": "FirstService Corp",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "(416) 960-9566",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New FSV Corp",
+      "from": "2015-03-27T04:00:00.000Z",
+      "to": "2015-05-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 225,
+  "download_timestamp": "2025-08-02 07:19:23 UTC"
+}

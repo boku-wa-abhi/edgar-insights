@@ -1,0 +1,34 @@
+{
+  "cik": "0001847345",
+  "name": "Aspire Biopharma Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASBP",
+    "ASBPW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "561-704-8527",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PowerUp Acquisition Corp.",
+      "from": "2021-03-16T04:00:00.000Z",
+      "to": "2025-02-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:26:58 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001547546",
+  "name": "Lument Finance Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LFT",
+    "LFT-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "454966519",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(212) 588-2051",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hunt Companies Finance Trust, Inc.",
+      "from": "2017-01-04T05:00:00.000Z",
+      "to": "2020-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "Five Oaks Investment Corp.",
+      "from": "2012-05-23T04:00:00.000Z",
+      "to": "2018-05-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 579,
+  "download_timestamp": "2025-08-02 07:16:40 UTC"
+}

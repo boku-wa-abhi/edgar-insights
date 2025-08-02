@@ -1,0 +1,32 @@
+{
+  "cik": "0001897245",
+  "name": "HWH International Inc.",
+  "entityType": "operating",
+  "sic": "5122",
+  "sicDescription": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HWH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "873296100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "301-971-3955",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alset Capital Acquisition Corp.",
+      "from": "2021-12-20T05:00:00.000Z",
+      "to": "2024-01-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 212,
+  "download_timestamp": "2025-08-02 07:29:03 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001867072",
+  "name": "Kyndryl Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "KD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "861185492",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(855) 596-3795",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kyndryl Holdings, LLC",
+      "from": "2021-06-22T04:00:00.000Z",
+      "to": "2021-08-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 319,
+  "download_timestamp": "2025-08-02 07:28:04 UTC"
+}

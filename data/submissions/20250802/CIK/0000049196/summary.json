@@ -1,0 +1,43 @@
+{
+  "cik": "0000049196",
+  "name": "HUNTINGTON BANCSHARES INC /MD/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBAN",
+    "HBANL",
+    "HBANM",
+    "HBANP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "310724920",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6144802265",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HUNTINGTON BANCSHARES INC /MD/",
+      "from": "2021-03-26T04:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "HUNTINGTON BANCSHARES INC/MD",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2021-03-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:57:07 UTC"
+}

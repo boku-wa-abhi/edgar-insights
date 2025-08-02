@@ -1,0 +1,32 @@
+{
+  "cik": "0000818677",
+  "name": "SECURITY FEDERAL CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SFDL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "570858504",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8036413000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SECURITY FEDERAL CORPORATION",
+      "from": "1995-08-11T04:00:00.000Z",
+      "to": "2006-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 633,
+  "download_timestamp": "2025-08-02 07:00:53 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001385157",
+  "name": "TE Connectivity plc",
+  "entityType": "operating",
+  "sic": "5065",
+  "sicDescription": "Wholesale-Electronic Parts & Equipment, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0926",
+  "tickers": [
+    "TEL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981779916",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "353-91378040",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TE Connectivity Ltd.",
+      "from": "2008-02-29T05:00:00.000Z",
+      "to": "2024-09-23T04:00:00.000Z"
+    },
+    {
+      "name": "Tyco Electronics Ltd.",
+      "from": "2007-01-18T05:00:00.000Z",
+      "to": "2011-03-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:54 UTC"
+}

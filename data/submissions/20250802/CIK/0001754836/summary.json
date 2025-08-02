@@ -1,0 +1,38 @@
+{
+  "cik": "0001754836",
+  "name": "Eagle Point Income Co Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EIC",
+    "EICA",
+    "EICB",
+    "EICC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "203.862.3150",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EP Income Co LLC",
+      "from": "2018-10-05T04:00:00.000Z",
+      "to": "2018-10-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 409,
+  "download_timestamp": "2025-08-02 07:22:57 UTC"
+}

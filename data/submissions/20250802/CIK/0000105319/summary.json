@@ -1,0 +1,34 @@
+{
+  "cik": "0000105319",
+  "name": "WW INTERNATIONAL, INC.",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WW",
+    "WGHTQ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "116040273",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "2125892700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WEIGHT WATCHERS INTERNATIONAL INC",
+      "from": "1999-12-02T05:00:00.000Z",
+      "to": "2019-08-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:21 UTC"
+}

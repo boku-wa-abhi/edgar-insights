@@ -1,0 +1,32 @@
+{
+  "cik": "0001095146",
+  "name": "Athena Bitcoin Global",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABIT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870493596",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "312-690-4466",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GAMEPLAN INC",
+      "from": "1999-09-23T04:00:00.000Z",
+      "to": "2020-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 131,
+  "download_timestamp": "2025-08-02 07:06:52 UTC"
+}

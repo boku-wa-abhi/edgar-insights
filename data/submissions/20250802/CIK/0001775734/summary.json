@@ -1,0 +1,34 @@
+{
+  "cik": "0001775734",
+  "name": "Beneficient",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "BENF",
+    "BENFW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "721573705",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2144454705",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Beneficient Co Group, L.P.",
+      "from": "2021-12-22T05:00:00.000Z",
+      "to": "2023-05-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 403,
+  "download_timestamp": "2025-08-02 07:23:36 UTC"
+}

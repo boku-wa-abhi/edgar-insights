@@ -1,0 +1,28 @@
+{
+  "cik": "0000797468",
+  "name": "OCCIDENTAL PETROLEUM CORP /DE/",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OXY",
+    "OXY-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "954035997",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7132157000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:00:25 UTC"
+}

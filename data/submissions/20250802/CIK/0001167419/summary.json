@@ -1,0 +1,52 @@
+{
+  "cik": "0001167419",
+  "name": "Riot Platforms, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RIOT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841553387",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "303-794-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Riot Blockchain, Inc.",
+      "from": "2017-10-04T04:00:00.000Z",
+      "to": "2022-12-19T05:00:00.000Z"
+    },
+    {
+      "name": "Bioptix, Inc.",
+      "from": "2016-12-01T05:00:00.000Z",
+      "to": "2017-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "Venaxis, Inc.",
+      "from": "2012-12-20T05:00:00.000Z",
+      "to": "2016-11-30T05:00:00.000Z"
+    },
+    {
+      "name": "AspenBio Pharma, Inc.",
+      "from": "2005-08-29T04:00:00.000Z",
+      "to": "2012-12-13T05:00:00.000Z"
+    },
+    {
+      "name": "ASPENBIO INC",
+      "from": "2002-04-12T04:00:00.000Z",
+      "to": "2005-10-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:08:24 UTC"
+}

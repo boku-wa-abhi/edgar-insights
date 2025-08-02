@@ -1,0 +1,26 @@
+{
+  "cik": "0001442620",
+  "name": "Recon Technology, Ltd",
+  "entityType": "operating",
+  "sic": "1389",
+  "sicDescription": "Oil & Gas Field Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RCON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 10 8494-5799",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 341,
+  "download_timestamp": "2025-08-02 07:13:30 UTC"
+}

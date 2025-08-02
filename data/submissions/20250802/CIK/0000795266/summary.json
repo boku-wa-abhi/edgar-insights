@@ -1,0 +1,32 @@
+{
+  "cik": "0000795266",
+  "name": "KB HOME",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "KBH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953666267",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3102314000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KAUFMAN & BROAD HOME CORP",
+      "from": "1994-02-11T05:00:00.000Z",
+      "to": "2001-01-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:24 UTC"
+}

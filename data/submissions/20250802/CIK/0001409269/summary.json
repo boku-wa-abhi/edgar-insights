@@ -1,0 +1,37 @@
+{
+  "cik": "0001409269",
+  "name": "Venus Concept Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VERO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "061681204",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "877-848-8430 X117",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Restoration Robotics, Inc.",
+      "from": "2017-11-21T05:00:00.000Z",
+      "to": "2019-11-06T05:00:00.000Z"
+    },
+    {
+      "name": "Restoration Robotics Inc",
+      "from": "2007-08-07T04:00:00.000Z",
+      "to": "2017-11-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 710,
+  "download_timestamp": "2025-08-02 07:12:33 UTC"
+}

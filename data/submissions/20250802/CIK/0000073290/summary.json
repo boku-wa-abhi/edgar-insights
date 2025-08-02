@@ -1,0 +1,26 @@
+{
+  "cik": "0000073290",
+  "name": "BIOMERICA INC",
+  "entityType": "operating",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "BMRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "952645573",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9493792875",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 569,
+  "download_timestamp": "2025-08-02 06:57:39 UTC"
+}

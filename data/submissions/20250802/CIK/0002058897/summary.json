@@ -1,0 +1,26 @@
+{
+  "cik": "0002058897",
+  "name": "Grupo Cibest S.A.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "F8",
+  "stateOfIncorporationDescription": "Colombia",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "57 604 4041918",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 16,
+  "download_timestamp": "2025-08-02 07:33:28 UTC"
+}

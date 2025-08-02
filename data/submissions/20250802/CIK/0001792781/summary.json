@@ -1,0 +1,26 @@
+{
+  "cik": "0001792781",
+  "name": "Torrid Holdings Inc.",
+  "entityType": "operating",
+  "sic": "5600",
+  "sicDescription": "Retail-Apparel & Accessory Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CURV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "626-667-1002",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 268,
+  "download_timestamp": "2025-08-02 07:24:15 UTC"
+}

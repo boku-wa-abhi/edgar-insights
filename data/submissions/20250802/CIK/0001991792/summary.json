@@ -1,0 +1,26 @@
+{
+  "cik": "0001991792",
+  "name": "CG Oncology, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CGON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "371611499",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(949) 419-6203",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 125,
+  "download_timestamp": "2025-08-02 07:31:16 UTC"
+}

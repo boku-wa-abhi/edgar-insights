@@ -1,0 +1,32 @@
+{
+  "cik": "0000732712",
+  "name": "VERIZON COMMUNICATIONS INC",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "232259884",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-395-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BELL ATLANTIC CORP",
+      "from": "1994-06-30T04:00:00.000Z",
+      "to": "2000-09-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:59:36 UTC"
+}

@@ -1,0 +1,52 @@
+{
+  "cik": "0000832370",
+  "name": "Ealixir, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "EAXR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "844905484",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "303-768-9221",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FLINT TELECOM GROUP INC.",
+      "from": "2008-07-16T00:00:00.000Z",
+      "to": "2011-10-07T00:00:00.000Z"
+    },
+    {
+      "name": "SEMOTUS SOLUTIONS INC",
+      "from": "2001-06-26T00:00:00.000Z",
+      "to": "2008-08-12T00:00:00.000Z"
+    },
+    {
+      "name": "DATALINK NET INC",
+      "from": "1999-10-04T00:00:00.000Z",
+      "to": "2001-01-09T00:00:00.000Z"
+    },
+    {
+      "name": "DATALINK SYSTEMS CORP /CA/",
+      "from": "1996-11-01T00:00:00.000Z",
+      "to": "1999-01-06T00:00:00.000Z"
+    },
+    {
+      "name": "LORD ABBOTT INC",
+      "from": "1996-06-18T00:00:00.000Z",
+      "to": "1996-06-14T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 437,
+  "download_timestamp": "2025-08-02 07:01:10 UTC"
+}

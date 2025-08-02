@@ -1,0 +1,32 @@
+{
+  "cik": "0001297937",
+  "name": "PARKS AMERICA, INC",
+  "entityType": "operating",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0928",
+  "tickers": [
+    "PRKA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "910626756",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "706-663-8744",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GREAT AMERICAN FAMILY PARKS INC",
+      "from": "2004-07-20T04:00:00.000Z",
+      "to": "2008-07-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 536,
+  "download_timestamp": "2025-08-02 07:10:00 UTC"
+}

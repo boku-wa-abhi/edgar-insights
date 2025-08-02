@@ -1,0 +1,32 @@
+{
+  "cik": "0001342958",
+  "name": "DIGITAL ALLY, INC.",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DGLY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "200064269",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "913-232-5349",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIGITAL ALLY INC",
+      "from": "2005-10-27T04:00:00.000Z",
+      "to": "2022-10-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 951,
+  "download_timestamp": "2025-08-02 07:10:56 UTC"
+}

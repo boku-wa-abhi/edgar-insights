@@ -1,0 +1,26 @@
+{
+  "cik": "0001610250",
+  "name": "Boot Barn Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "5661",
+  "sicDescription": "Retail-Shoe Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0328",
+  "tickers": [
+    "BOOT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "900776290",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "949-453-4400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 674,
+  "download_timestamp": "2025-08-02 07:18:35 UTC"
+}

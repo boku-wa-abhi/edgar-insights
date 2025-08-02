@@ -1,0 +1,32 @@
+{
+  "cik": "0001659323",
+  "name": "Iterum Therapeutics plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ITRM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(872) 225-6077",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Iterum Therapeutics Ltd",
+      "from": "2015-12-02T05:00:00.000Z",
+      "to": "2018-05-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 486,
+  "download_timestamp": "2025-08-02 07:20:03 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001849253",
+  "name": "RYAN SPECIALTY HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RYAN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "312-784-6001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RYAN SPECIALTY GROUP HOLDINGS, INC.",
+      "from": "2021-04-09T04:00:00.000Z",
+      "to": "2022-05-18T04:00:00.000Z"
+    },
+    {
+      "name": "MAVERICK SPECIALTY, INC.",
+      "from": "2021-03-15T04:00:00.000Z",
+      "to": "2021-04-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 458,
+  "download_timestamp": "2025-08-02 07:27:06 UTC"
+}

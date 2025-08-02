@@ -1,0 +1,42 @@
+{
+  "cik": "0001128281",
+  "name": "Saker Aviation Services, Inc.",
+  "entityType": "operating",
+  "sic": "4581",
+  "sicDescription": "Airports, Flying Fields & Airport Terminal Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SKAS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870617649",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212-909-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FirstFlight, Inc.",
+      "from": "2007-01-04T05:00:00.000Z",
+      "to": "2009-08-19T04:00:00.000Z"
+    },
+    {
+      "name": "FBO AIR, INC.",
+      "from": "2004-10-01T04:00:00.000Z",
+      "to": "2006-12-29T05:00:00.000Z"
+    },
+    {
+      "name": "SHADOWS BEND DEVELOPMENT INC",
+      "from": "2001-02-22T05:00:00.000Z",
+      "to": "2004-08-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 453,
+  "download_timestamp": "2025-08-02 07:07:38 UTC"
+}

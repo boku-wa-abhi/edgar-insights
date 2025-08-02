@@ -1,0 +1,26 @@
+{
+  "cik": "0001834253",
+  "name": "Smart Share Global Ltd",
+  "entityType": "other",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "86 21 6050 3535",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 88,
+  "download_timestamp": "2025-08-02 07:26:13 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001494558",
+  "name": "Ambow Education Holding Ltd.",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMBO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "619-684-8954",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 277,
+  "download_timestamp": "2025-08-02 07:14:53 UTC"
+}

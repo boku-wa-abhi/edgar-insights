@@ -1,0 +1,32 @@
+{
+  "cik": "0001826457",
+  "name": "Monte Rosa Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLUE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-949-2643",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Monte Rosa Therapeutics, Inc.",
+      "from": "2020-09-29T04:00:00.000Z",
+      "to": "2025-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 279,
+  "download_timestamp": "2025-08-02 07:25:45 UTC"
+}

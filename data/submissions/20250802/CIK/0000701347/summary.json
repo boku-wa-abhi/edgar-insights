@@ -1,0 +1,32 @@
+{
+  "cik": "0000701347",
+  "name": "CENTRAL PACIFIC FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "HI",
+  "stateOfIncorporationDescription": "HI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "990212597",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8085440500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CPB INC",
+      "from": "1994-11-14T05:00:00.000Z",
+      "to": "2003-04-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:59:01 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001710072",
+  "name": "Edgewise Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EWTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821725586",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "720-262-7002",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 333,
+  "download_timestamp": "2025-08-02 07:21:30 UTC"
+}

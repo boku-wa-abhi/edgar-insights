@@ -1,0 +1,39 @@
+{
+  "cik": "0001015383",
+  "name": "Outdoor Holding Co",
+  "entityType": "operating",
+  "sic": "3480",
+  "sicDescription": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "POWW",
+    "POWWP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "300957912",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "480-947-0001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMMO, INC.",
+      "from": "2017-02-06T05:00:00.000Z",
+      "to": "2025-04-24T04:00:00.000Z"
+    },
+    {
+      "name": "RETROSPETTIVA INC",
+      "from": "1997-06-16T04:00:00.000Z",
+      "to": "2017-01-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 627,
+  "download_timestamp": "2025-08-02 07:04:44 UTC"
+}

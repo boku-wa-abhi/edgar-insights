@@ -1,0 +1,28 @@
+{
+  "cik": "0000107815",
+  "name": "WISCONSIN ELECTRIC POWER CO",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WELPP",
+    "WELPM"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "390476280",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "414-221-2345",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 480,
+  "download_timestamp": "2025-08-02 06:58:24 UTC"
+}

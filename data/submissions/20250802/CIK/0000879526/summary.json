@@ -1,0 +1,32 @@
+{
+  "cik": "0000879526",
+  "name": "WABASH NATIONAL Corp",
+  "entityType": "operating",
+  "sic": "3715",
+  "sicDescription": "Truck Trailers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WNC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "521375208",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7657715310",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WABASH NATIONAL CORP /DE",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2019-06-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:07 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0000773840",
+  "name": "HONEYWELL INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "3724",
+  "sicDescription": "Aircraft Engines & Engine Parts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "222640650",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "704-627-6200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLIEDSIGNAL INC",
+      "from": "1994-11-07T05:00:00.000Z",
+      "to": "1999-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "ALLIED SIGNAL INC",
+      "from": "1994-06-23T04:00:00.000Z",
+      "to": "1994-08-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:05 UTC"
+}

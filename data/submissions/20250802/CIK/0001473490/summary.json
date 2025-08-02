@@ -1,0 +1,42 @@
+{
+  "cik": "0001473490",
+  "name": "Global AI, Inc.",
+  "entityType": "operating",
+  "sic": "5960",
+  "sicDescription": "Retail-Nonstore Retailers",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLAI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "264170100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-240-0333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wall Street Media Co, Inc.",
+      "from": "2013-12-24T05:00:00.000Z",
+      "to": "2023-10-30T04:00:00.000Z"
+    },
+    {
+      "name": "BRIGHT MOUNTAIN HOLDINGS, INC.",
+      "from": "2012-12-31T05:00:00.000Z",
+      "to": "2013-09-19T04:00:00.000Z"
+    },
+    {
+      "name": "MY CATALOGS ONLINE, INC.",
+      "from": "2009-12-02T05:00:00.000Z",
+      "to": "2012-11-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 130,
+  "download_timestamp": "2025-08-02 07:14:15 UTC"
+}

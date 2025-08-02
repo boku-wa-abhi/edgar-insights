@@ -1,0 +1,32 @@
+{
+  "cik": "0000832428",
+  "name": "E.W. SCRIPPS Co",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "311223339",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5139773000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCRIPPS E W CO /DE",
+      "from": "1994-03-28T05:00:00.000Z",
+      "to": "2015-03-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:01:10 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001822492",
+  "name": "Hillman Solutions Corp.",
+  "entityType": "operating",
+  "sic": "3420",
+  "sicDescription": "Cutlery, Handtools & General Hardware",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "HLMN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "513-851-4900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Landcadia Holdings III, Inc.",
+      "from": "2020-08-27T04:00:00.000Z",
+      "to": "2021-07-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 382,
+  "download_timestamp": "2025-08-02 07:25:31 UTC"
+}

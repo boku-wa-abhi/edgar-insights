@@ -1,0 +1,26 @@
+{
+  "cik": "0001441683",
+  "name": "APPIAN CORP",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APPN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541956084",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-442-8844",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 894,
+  "download_timestamp": "2025-08-02 07:13:28 UTC"
+}

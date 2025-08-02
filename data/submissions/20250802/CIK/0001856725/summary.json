@@ -1,0 +1,26 @@
+{
+  "cik": "0001856725",
+  "name": "Rani Therapeutics Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RANI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(408) 457-3700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 301,
+  "download_timestamp": "2025-08-02 07:27:37 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001421517",
+  "name": "Energy Recovery, Inc.",
+  "entityType": "operating",
+  "sic": "3559",
+  "sicDescription": "Special Industry Machinery, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ERII"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "010616867",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(510) 483-7370",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:54 UTC"
+}

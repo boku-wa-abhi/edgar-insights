@@ -1,0 +1,28 @@
+{
+  "cik": "0001378239",
+  "name": "Central North Airport Group",
+  "entityType": "other",
+  "sic": "4581",
+  "sicDescription": "Airports, Flying Fields & Airport Terminal Services",
+  "stateOfIncorporation": "O5",
+  "stateOfIncorporationDescription": "Mexico",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OMAB",
+    "GAERF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(52) (81) 8625 4300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 669,
+  "download_timestamp": "2025-08-02 07:11:42 UTC"
+}

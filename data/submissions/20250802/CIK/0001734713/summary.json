@@ -1,0 +1,26 @@
+{
+  "cik": "0001734713",
+  "name": "BrightView Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "0700",
+  "sicDescription": "Agricultural Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "BV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464190788",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(484) 567-7204",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 560,
+  "download_timestamp": "2025-08-02 07:22:20 UTC"
+}

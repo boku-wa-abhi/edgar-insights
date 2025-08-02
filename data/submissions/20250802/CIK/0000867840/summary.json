@@ -1,0 +1,37 @@
+{
+  "cik": "0000867840",
+  "name": "PRECISION OPTICS CORPORATION, INC.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "POCI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042795294",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "978-630-1800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRECISION OPTICS Corp INC",
+      "from": "2011-11-03T04:00:00.000Z",
+      "to": "2014-07-16T04:00:00.000Z"
+    },
+    {
+      "name": "PRECISION OPTICS CORPORATION INC",
+      "from": "1996-11-04T05:00:00.000Z",
+      "to": "2011-10-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 759,
+  "download_timestamp": "2025-08-02 07:01:51 UTC"
+}

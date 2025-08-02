@@ -1,0 +1,32 @@
+{
+  "cik": "0001865111",
+  "name": "Alpha Star Acquisition Corp",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALSAF",
+    "ALSTF",
+    "ALSUF",
+    "ALSWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "332-233-4356",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 120,
+  "download_timestamp": "2025-08-02 07:27:56 UTC"
+}

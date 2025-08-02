@@ -1,0 +1,34 @@
+{
+  "cik": "0001025835",
+  "name": "ENTERPRISE FINANCIAL SERVICES CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EFSC",
+    "EFSCP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "431706259",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3147255500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ENTERBANK HOLDINGS INC",
+      "from": "1996-12-16T05:00:00.000Z",
+      "to": "2002-04-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:05:02 UTC"
+}

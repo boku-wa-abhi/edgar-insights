@@ -1,0 +1,30 @@
+{
+  "cik": "0001880431",
+  "name": "Vocodia Holdings Corp",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VHAI",
+    "VHABW",
+    "VHAIW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "863519415",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(561) 484-5234",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 80,
+  "download_timestamp": "2025-08-02 07:28:35 UTC"
+}

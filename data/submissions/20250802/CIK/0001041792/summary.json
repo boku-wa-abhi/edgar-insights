@@ -1,0 +1,28 @@
+{
+  "cik": "0001041792",
+  "name": "ENERGY CO OF PARANA",
+  "entityType": "other",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ELP",
+    "ELPC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "41-3331-4011",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:26 UTC"
+}

@@ -1,0 +1,47 @@
+{
+  "cik": "0000814453",
+  "name": "NEWELL BRANDS INC.",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NWL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363514169",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "800-424-1941",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEWELL BRANDS, INC.",
+      "from": "2019-10-17T04:00:00.000Z",
+      "to": "2019-10-25T04:00:00.000Z"
+    },
+    {
+      "name": "NEWELL BRANDS INC",
+      "from": "2016-02-11T05:00:00.000Z",
+      "to": "2019-10-09T04:00:00.000Z"
+    },
+    {
+      "name": "NEWELL RUBBERMAID INC",
+      "from": "1999-09-29T04:00:00.000Z",
+      "to": "2016-04-15T04:00:00.000Z"
+    },
+    {
+      "name": "NEWELL CO",
+      "from": "1995-08-10T04:00:00.000Z",
+      "to": "1999-03-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:49 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001867096",
+  "name": "Xeris Biopharma Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XERS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871082097",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "844-445-5704",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 233,
+  "download_timestamp": "2025-08-02 07:28:04 UTC"
+}

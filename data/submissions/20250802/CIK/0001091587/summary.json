@@ -1,0 +1,28 @@
+{
+  "cik": "0001091587",
+  "name": "ABB LTD",
+  "entityType": "other",
+  "sic": "3613",
+  "sicDescription": "Switchgear & Switchboard Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABLZF",
+    "ABBNY"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 447,
+  "download_timestamp": "2025-08-02 07:06:46 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0000849399",
+  "name": "Gen Digital Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0328",
+  "tickers": [
+    "GEN",
+    "GENVR"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "770181864",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-527-2900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NortonLifeLock Inc.",
+      "from": "2019-11-04T05:00:00.000Z",
+      "to": "2022-10-12T04:00:00.000Z"
+    },
+    {
+      "name": "SYMANTEC CORP",
+      "from": "1995-05-09T04:00:00.000Z",
+      "to": "2019-10-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:01:30 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000915779",
+  "name": "DAKTRONICS INC /SD/",
+  "entityType": "operating",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0426",
+  "tickers": [
+    "DAKT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "460306862",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "6056974000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:27 UTC"
+}

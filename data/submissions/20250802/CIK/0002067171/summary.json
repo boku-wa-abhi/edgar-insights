@@ -1,0 +1,28 @@
+{
+  "cik": "0002067171",
+  "name": "IDEX METALS CORP.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0731",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "749930509",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-260-0356",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOODBRIDGE CAPITAL CORP.",
+      "from": "2025-05-22T04:00:00.000Z",
+      "to": "2025-05-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:33:40 UTC"
+}

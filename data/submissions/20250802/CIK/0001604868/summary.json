@@ -1,0 +1,32 @@
+{
+  "cik": "0001604868",
+  "name": "GrowGeneration Corp.",
+  "entityType": "operating",
+  "sic": "5200",
+  "sicDescription": "Retail-Building Materials, Hardware, Garden Supply",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRWG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465008129",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "914-924-1235",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EasyLife, Corp.",
+      "from": "2014-04-11T04:00:00.000Z",
+      "to": "2014-04-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 499,
+  "download_timestamp": "2025-08-02 07:18:25 UTC"
+}

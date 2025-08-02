@@ -1,0 +1,34 @@
+{
+  "cik": "0000064463",
+  "name": "Soluna Holdings, Inc",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLNH",
+    "SLNHP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "141462255",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "518-218-2500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MECHANICAL TECHNOLOGY INC",
+      "from": "1995-04-17T04:00:00.000Z",
+      "to": "2021-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:57:24 UTC"
+}

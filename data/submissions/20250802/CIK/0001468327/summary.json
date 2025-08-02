@@ -1,0 +1,26 @@
+{
+  "cik": "0001468327",
+  "name": "Rent the Runway, Inc.",
+  "entityType": "operating",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "RENT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "800376379",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2125246860",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 636,
+  "download_timestamp": "2025-08-02 07:14:05 UTC"
+}

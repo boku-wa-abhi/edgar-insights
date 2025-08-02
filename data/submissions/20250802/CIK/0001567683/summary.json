@@ -1,0 +1,39 @@
+{
+  "cik": "0001567683",
+  "name": "Clearway Energy, Inc.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWEN",
+    "CWEN-A"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "461777204",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "609-608-1525",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NRG Yield, Inc.",
+      "from": "2013-03-18T04:00:00.000Z",
+      "to": "2018-09-04T04:00:00.000Z"
+    },
+    {
+      "name": "NRG Yieldco, Inc.",
+      "from": "2013-02-13T05:00:00.000Z",
+      "to": "2013-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:17:13 UTC"
+}

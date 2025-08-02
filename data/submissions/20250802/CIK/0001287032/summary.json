@@ -1,0 +1,39 @@
+{
+  "cik": "0001287032",
+  "name": "PROSPECT CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PSEC",
+    "PSEC-PA"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "NYSE"
+  ],
+  "ein": "432048643",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-448-0702",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PROSPECT ENERGY CORP",
+      "from": "2004-07-06T04:00:00.000Z",
+      "to": "2007-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "PROSPECT STREET ENERGY CORP",
+      "from": "2004-04-16T04:00:00.000Z",
+      "to": "2004-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:09:46 UTC"
+}

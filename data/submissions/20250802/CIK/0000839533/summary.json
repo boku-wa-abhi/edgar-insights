@@ -1,0 +1,42 @@
+{
+  "cik": "0000839533",
+  "name": "DWS MUNICIPAL INCOME TRUST",
+  "entityType": "investment",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "KTF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363605060",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-454-4500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DEUTSCHE MUNICIPAL INCOME TRUST",
+      "from": "2014-08-19T04:00:00.000Z",
+      "to": "2018-04-25T04:00:00.000Z"
+    },
+    {
+      "name": "SCUDDER MUNICIPAL INCOME TRUST",
+      "from": "2001-04-06T04:00:00.000Z",
+      "to": "2006-02-06T05:00:00.000Z"
+    },
+    {
+      "name": "KEMPER MUNICIPAL INCOME TRUST",
+      "from": "1995-04-03T04:00:00.000Z",
+      "to": "2000-01-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 592,
+  "download_timestamp": "2025-08-02 07:01:18 UTC"
+}

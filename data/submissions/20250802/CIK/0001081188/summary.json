@@ -1,0 +1,32 @@
+{
+  "cik": "0001081188",
+  "name": "GOLD ENTERTAINMENT GROUP INC",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "GEGP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980206212",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "561-210-7553",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADVANCED MEDICAL TECHNOLOGIES INC/CANADA",
+      "from": "1999-12-20T05:00:00.000Z",
+      "to": "2002-04-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 81,
+  "download_timestamp": "2025-08-02 07:06:30 UTC"
+}

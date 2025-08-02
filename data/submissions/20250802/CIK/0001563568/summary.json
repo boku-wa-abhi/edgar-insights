@@ -1,0 +1,37 @@
+{
+  "cik": "0001563568",
+  "name": "Envirotech Vehicles, Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EVTV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(951) 407-9860",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Adomani, Inc.",
+      "from": "2017-06-12T04:00:00.000Z",
+      "to": "2021-05-25T04:00:00.000Z"
+    },
+    {
+      "name": "ADOMANI, INC.",
+      "from": "2017-06-12T04:00:00.000Z",
+      "to": "2021-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 365,
+  "download_timestamp": "2025-08-02 07:17:06 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001367083",
+  "name": "Sonoma Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SNOA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "680423298",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-759-9305",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Oculus Innovative Sciences, Inc.",
+      "from": "2002-01-15T05:00:00.000Z",
+      "to": "2016-12-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 928,
+  "download_timestamp": "2025-08-02 07:11:24 UTC"
+}

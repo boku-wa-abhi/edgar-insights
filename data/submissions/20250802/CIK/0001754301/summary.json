@@ -1,0 +1,34 @@
+{
+  "cik": "0001754301",
+  "name": "Fox Corp",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FOXA",
+    "FOX"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212.852.7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEW FOX, INC.",
+      "from": "2018-10-09T04:00:00.000Z",
+      "to": "2018-10-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 516,
+  "download_timestamp": "2025-08-02 07:22:57 UTC"
+}

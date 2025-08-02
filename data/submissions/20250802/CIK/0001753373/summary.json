@@ -1,0 +1,32 @@
+{
+  "cik": "0001753373",
+  "name": "M2i Global, Inc.",
+  "entityType": "operating",
+  "sic": "5050",
+  "sicDescription": "Wholesale-Metals & Minerals (No Petroleum)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "MTWO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(775) 909-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INKY INC.",
+      "from": "2019-02-20T05:00:00.000Z",
+      "to": "2023-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:22:53 UTC"
+}

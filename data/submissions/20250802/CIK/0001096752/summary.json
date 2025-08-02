@@ -1,0 +1,32 @@
+{
+  "cik": "0001096752",
+  "name": "EDGEWELL PERSONAL CARE Co",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "EPC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "431863181",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "203-944-5500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ENERGIZER HOLDINGS INC",
+      "from": "1999-10-15T04:00:00.000Z",
+      "to": "2015-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:06:55 UTC"
+}

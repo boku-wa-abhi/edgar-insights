@@ -1,0 +1,100 @@
+{
+  "cik": "0002073515",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "D. Boral ARC Acquisition II Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "addresses": {
+    "mailing": {
+      "street1": "10 E. 53RD STREET",
+      "street2": "SUITE 3001",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10022",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "10 E. 53RD STREET",
+      "street2": "SUITE 3001",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10022",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(332) 266-7344",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-017010"
+      ],
+      "filingDate": [
+        "2025-06-30"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-28T01:54:22.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288410"
+      ],
+      "filmNumber": [
+        "251088593"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "S-1"
+      ],
+      "size": [
+        3342369
+      ],
+      "isXBRL": [
+        1
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "primaryDocument": [
+        "forms-1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1"
+      ]
+    },
+    "files": []
+  }
+}

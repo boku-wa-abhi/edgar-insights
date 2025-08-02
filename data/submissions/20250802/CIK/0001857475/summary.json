@@ -1,0 +1,26 @@
+{
+  "cik": "0001857475",
+  "name": "Dole plc",
+  "entityType": "other",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "DOLE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "353 1 88 72745",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 83,
+  "download_timestamp": "2025-08-02 07:27:39 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001635282",
+  "name": "Rimini Street, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RMNI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "364880301",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(702) 839-9671",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GP Investments Acquisition Corp.",
+      "from": "2015-03-13T04:00:00.000Z",
+      "to": "2017-10-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:19:18 UTC"
+}

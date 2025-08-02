@@ -1,0 +1,26 @@
+{
+  "cik": "0000062996",
+  "name": "MASCO CORP /DE/",
+  "entityType": "operating",
+  "sic": "3430",
+  "sicDescription": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MAS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "381794485",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3132747400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:21 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002054507",
+  "name": "Hotel101 Global Holdings Corp.",
+  "entityType": "other",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBNB"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "65 6513 8565",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 13,
+  "download_timestamp": "2025-08-02 07:33:22 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001969863",
+  "name": "SU Group Holdings Ltd",
+  "entityType": "other",
+  "sic": "7381",
+  "sicDescription": "Services-Detective, Guard & Armored Car Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SUGP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "85223418183",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 41,
+  "download_timestamp": "2025-08-02 07:30:43 UTC"
+}

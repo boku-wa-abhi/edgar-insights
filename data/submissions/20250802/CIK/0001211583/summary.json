@@ -1,0 +1,32 @@
+{
+  "cik": "0001211583",
+  "name": "FENNEC PHARMACEUTICALS INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FENC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(919) 636-4530",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADHEREX TECHNOLOGIES INC",
+      "from": "2002-12-10T05:00:00.000Z",
+      "to": "2014-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 702,
+  "download_timestamp": "2025-08-02 07:08:54 UTC"
+}

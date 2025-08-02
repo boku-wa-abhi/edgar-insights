@@ -1,0 +1,28 @@
+{
+  "cik": "0001876431",
+  "name": "Prenetics Global Ltd",
+  "entityType": "other",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRE",
+    "PRENW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(852) 2210-7188",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:28:26 UTC"
+}

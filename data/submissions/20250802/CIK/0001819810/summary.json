@@ -1,0 +1,32 @@
+{
+  "cik": "0001819810",
+  "name": "Redwire Corp",
+  "entityType": "operating",
+  "sic": "3760",
+  "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "881818410",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650 701-7722",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Genesis Park Acquisition Corp.",
+      "from": "2020-08-06T04:00:00.000Z",
+      "to": "2021-09-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 519,
+  "download_timestamp": "2025-08-02 07:25:23 UTC"
+}

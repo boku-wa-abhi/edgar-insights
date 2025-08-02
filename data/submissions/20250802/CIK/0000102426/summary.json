@@ -1,0 +1,37 @@
+{
+  "cik": "0000102426",
+  "name": "SRH Total Return Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "STEW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "132729672",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7209170764",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BOULDER GROWTH & INCOME FUND",
+      "from": "2002-08-15T04:00:00.000Z",
+      "to": "2022-04-26T04:00:00.000Z"
+    },
+    {
+      "name": "USLIFE INCOME FUND INC",
+      "from": "1996-02-22T05:00:00.000Z",
+      "to": "2002-03-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 841,
+  "download_timestamp": "2025-08-02 06:58:17 UTC"
+}

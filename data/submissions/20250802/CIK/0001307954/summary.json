@@ -1,0 +1,26 @@
+{
+  "cik": "0001307954",
+  "name": "Huntsman CORP",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HUN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "421648585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(281) 719-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:10 UTC"
+}

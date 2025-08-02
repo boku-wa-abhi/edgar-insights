@@ -1,0 +1,32 @@
+{
+  "cik": "0000889609",
+  "name": "CONSUMER PORTFOLIO SERVICES, INC.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPSS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330459135",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "949.753.6800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CONSUMER PORTFOLIO SERVICES INC",
+      "from": "1996-12-19T05:00:00.000Z",
+      "to": "2020-07-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:36 UTC"
+}

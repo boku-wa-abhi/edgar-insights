@@ -1,0 +1,34 @@
+{
+  "cik": "0001947861",
+  "name": "Nature's Miracle Holding Inc.",
+  "entityType": "operating",
+  "sic": "3523",
+  "sicDescription": "Farm Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NMHI",
+    "NMHIW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "888-420-3694",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LBBB Merger Corp.",
+      "from": "2022-11-14T05:00:00.000Z",
+      "to": "2024-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:30:08 UTC"
+}

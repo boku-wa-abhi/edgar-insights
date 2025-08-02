@@ -1,0 +1,28 @@
+{
+  "cik": "0001094517",
+  "name": "TOYOTA MOTOR CORP/",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "TM",
+    "TOYOF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81-565-28-2121",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 851,
+  "download_timestamp": "2025-08-02 07:06:51 UTC"
+}

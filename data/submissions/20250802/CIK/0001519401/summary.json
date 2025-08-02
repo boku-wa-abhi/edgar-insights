@@ -1,0 +1,32 @@
+{
+  "cik": "0001519401",
+  "name": "Regional Management Corp.",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "570847115",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "864-448-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Regional Management Corp.",
+      "from": "2011-05-16T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 957,
+  "download_timestamp": "2025-08-02 07:15:48 UTC"
+}

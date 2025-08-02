@@ -1,0 +1,28 @@
+{
+  "cik": "0001964504",
+  "name": "Aris Mining Corp",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARMN",
+    "CLGDF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "604-764-5870",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 75,
+  "download_timestamp": "2025-08-02 07:30:32 UTC"
+}

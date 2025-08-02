@@ -1,0 +1,26 @@
+{
+  "cik": "0001777765",
+  "name": "VIQ Solutions Inc.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VQSSF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "9059488266",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 107,
+  "download_timestamp": "2025-08-02 07:23:39 UTC"
+}

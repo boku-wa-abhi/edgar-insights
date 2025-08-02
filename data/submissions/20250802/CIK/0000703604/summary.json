@@ -1,0 +1,32 @@
+{
+  "cik": "0000703604",
+  "name": "Distribution Solutions Group, Inc.",
+  "entityType": "operating",
+  "sic": "5080",
+  "sicDescription": "Wholesale-Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DSGR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "362229304",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(888) 611-9888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LAWSON PRODUCTS INC/NEW/DE/",
+      "from": "1995-05-03T04:00:00.000Z",
+      "to": "2022-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:03 UTC"
+}

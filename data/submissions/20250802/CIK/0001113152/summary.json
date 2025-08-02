@@ -1,0 +1,32 @@
+{
+  "cik": "0001113152",
+  "name": "BEWHERE HOLDINGS INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BEWFF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "844-229-4347",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALIVE INTERNATIONAL INC                                 /FI",
+      "from": "2003-04-10T00:00:00.000Z",
+      "to": "2004-04-05T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:07:17 UTC"
+}

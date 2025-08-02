@@ -1,0 +1,37 @@
+{
+  "cik": "0001611746",
+  "name": "SciSparc Ltd.",
+  "entityType": "other",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPRC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "972-3-6103100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SciSparc Ltd./ADR",
+      "from": "2021-02-01T05:00:00.000Z",
+      "to": "2021-08-27T04:00:00.000Z"
+    },
+    {
+      "name": "Therapix Biosciences Ltd.",
+      "from": "2014-07-18T04:00:00.000Z",
+      "to": "2021-01-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 488,
+  "download_timestamp": "2025-08-02 07:18:40 UTC"
+}

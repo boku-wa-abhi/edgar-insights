@@ -1,0 +1,42 @@
+{
+  "cik": "0000820771",
+  "name": "Goliath Film & Media Holdings",
+  "entityType": "operating",
+  "sic": "7822",
+  "sicDescription": "Services-Motion Picture & Video Tape Distribution",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "GFMH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272895668",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2135375730",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CHINA ADVANCED TECHNOLOGY",
+      "from": "2011-05-31T04:00:00.000Z",
+      "to": "2011-10-27T04:00:00.000Z"
+    },
+    {
+      "name": "CHINA ADVANCED TECHOLOGY",
+      "from": "2010-09-03T04:00:00.000Z",
+      "to": "2011-05-18T04:00:00.000Z"
+    },
+    {
+      "name": "WESTMARK GROUP HOLDINGS INC",
+      "from": "1996-09-16T04:00:00.000Z",
+      "to": "2006-04-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 227,
+  "download_timestamp": "2025-08-02 07:00:55 UTC"
+}

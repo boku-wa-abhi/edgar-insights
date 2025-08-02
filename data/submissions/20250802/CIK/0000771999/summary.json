@@ -1,0 +1,37 @@
+{
+  "cik": "0000771999",
+  "name": "DSS, INC.",
+  "entityType": "operating",
+  "sic": "2650",
+  "sicDescription": "Paperboard Containers & Boxes",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DSS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "161229730",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "585 232 1500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DOCUMENT SECURITY SYSTEMS INC",
+      "from": "2003-03-26T05:00:00.000Z",
+      "to": "2021-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "NEW SKY COMMUNICATIONS INC",
+      "from": "1997-11-17T05:00:00.000Z",
+      "to": "2002-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:04 UTC"
+}

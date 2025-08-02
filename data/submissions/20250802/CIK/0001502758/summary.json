@@ -1,0 +1,28 @@
+{
+  "cik": "0001502758",
+  "name": "NuLegacy Gold Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "NULGF",
+    "NULGD"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 639-3640",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 32,
+  "download_timestamp": "2025-08-02 07:15:12 UTC"
+}

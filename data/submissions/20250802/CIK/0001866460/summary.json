@@ -1,0 +1,28 @@
+{
+  "cik": "0001866460",
+  "name": "Military Metals Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-802-8492",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "X1 Esports & Entertainment Ltd.",
+      "from": "2021-06-15T04:00:00.000Z",
+      "to": "2022-08-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:28:01 UTC"
+}

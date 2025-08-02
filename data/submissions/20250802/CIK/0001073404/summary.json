@@ -1,0 +1,32 @@
+{
+  "cik": "0001073404",
+  "name": "GERDAU S.A.",
+  "entityType": "other",
+  "sic": "3310",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GGB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011-55-51-3323-2703",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GERDAU SA",
+      "from": "2000-02-14T05:00:00.000Z",
+      "to": "2005-02-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 545,
+  "download_timestamp": "2025-08-02 07:06:21 UTC"
+}

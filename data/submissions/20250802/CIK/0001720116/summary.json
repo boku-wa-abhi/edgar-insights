@@ -1,0 +1,26 @@
+{
+  "cik": "0001720116",
+  "name": "Red Violet, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDVT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "822408531",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5617574000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 378,
+  "download_timestamp": "2025-08-02 07:21:49 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001072627",
+  "name": "KINGSWAY FINANCIAL SERVICES INC",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KFS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "999999999",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(312) 766-2144",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:20 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001330568",
+  "name": "iShares Silver Trust",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-670-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 260,
+  "download_timestamp": "2025-08-02 07:10:39 UTC"
+}

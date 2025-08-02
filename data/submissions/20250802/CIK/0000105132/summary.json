@@ -1,0 +1,26 @@
+{
+  "cik": "0000105132",
+  "name": "WD 40 CO",
+  "entityType": "operating",
+  "sic": "2890",
+  "sicDescription": "Miscellaneous Chemical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "WDFC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "951797918",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6192751400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:20 UTC"
+}

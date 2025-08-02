@@ -1,0 +1,32 @@
+{
+  "cik": "0001583708",
+  "name": "SentinelOne, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "S"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "990385461",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "855-868-3733",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sentinel Labs, Inc.",
+      "from": "2013-08-06T04:00:00.000Z",
+      "to": "2021-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 615,
+  "download_timestamp": "2025-08-02 07:17:46 UTC"
+}

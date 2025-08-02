@@ -1,0 +1,37 @@
+{
+  "cik": "0001056285",
+  "name": "BRAND HOUSE COLLECTIVE, INC.",
+  "entityType": "operating",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "KIRK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "621287151",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "615-872-4800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KIRKLAND'S, INC",
+      "from": "2008-02-14T05:00:00.000Z",
+      "to": "2025-07-28T04:00:00.000Z"
+    },
+    {
+      "name": "KIRKLANDS INC",
+      "from": "1998-05-01T04:00:00.000Z",
+      "to": "2008-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:50 UTC"
+}

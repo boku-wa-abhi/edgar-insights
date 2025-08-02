@@ -1,0 +1,26 @@
+{
+  "cik": "0000034563",
+  "name": "FARMER BROTHERS CO",
+  "entityType": "operating",
+  "sic": "2090",
+  "sicDescription": "Miscellaneous Food Preparations & Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FARM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "950725980",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888 998 2468",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:49 UTC"
+}

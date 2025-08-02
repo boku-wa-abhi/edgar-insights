@@ -1,0 +1,26 @@
+{
+  "cik": "0001572334",
+  "name": "Virginia National Bankshares Corp",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VABK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "434-817-7676",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 455,
+  "download_timestamp": "2025-08-02 07:17:23 UTC"
+}

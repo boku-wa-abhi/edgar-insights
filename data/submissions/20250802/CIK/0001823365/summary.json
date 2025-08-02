@@ -1,0 +1,26 @@
+{
+  "cik": "0001823365",
+  "name": "Generations Bancorp NY, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GBNY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "853659943",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(315) 568-5855",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 127,
+  "download_timestamp": "2025-08-02 07:25:34 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001104485",
+  "name": "NORTHERN OIL & GAS, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953848122",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "952-476-9800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KENTEX PETROLEUM INC",
+      "from": "2000-10-11T04:00:00.000Z",
+      "to": "2007-03-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:06 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001499505",
+  "name": "Adecoagro S.A.",
+  "entityType": "other",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AGRO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "352 2689-8213",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 363,
+  "download_timestamp": "2025-08-02 07:15:04 UTC"
+}

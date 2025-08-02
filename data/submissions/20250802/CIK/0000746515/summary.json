@@ -1,0 +1,26 @@
+{
+  "cik": "0000746515",
+  "name": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+  "entityType": "operating",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXPD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "911069248",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2066743400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:59:46 UTC"
+}

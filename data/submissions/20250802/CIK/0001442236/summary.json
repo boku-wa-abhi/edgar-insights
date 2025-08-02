@@ -1,0 +1,42 @@
+{
+  "cik": "0001442236",
+  "name": "Quest Resource Holding Corp",
+  "entityType": "operating",
+  "sic": "4953",
+  "sicDescription": "Refuse Systems",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QRHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "510665952",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "972-464-0004",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Infinity Resources Holdings Corp.",
+      "from": "2012-10-30T04:00:00.000Z",
+      "to": "2013-10-29T04:00:00.000Z"
+    },
+    {
+      "name": "YouChange Holdings Corp",
+      "from": "2010-09-29T04:00:00.000Z",
+      "to": "2012-10-29T04:00:00.000Z"
+    },
+    {
+      "name": "BlueStar Financial Group, Inc.",
+      "from": "2008-08-12T04:00:00.000Z",
+      "to": "2010-08-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 779,
+  "download_timestamp": "2025-08-02 07:13:29 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001160308",
+  "name": "Savara Inc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SVRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841318182",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "51285113796",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mast Therapeutics, Inc.",
+      "from": "2013-03-12T04:00:00.000Z",
+      "to": "2017-04-25T04:00:00.000Z"
+    },
+    {
+      "name": "ADVENTRX PHARMACEUTICALS INC",
+      "from": "2003-08-14T04:00:00.000Z",
+      "to": "2013-03-01T05:00:00.000Z"
+    },
+    {
+      "name": "BIOKEYS PHARMACEUTICALS INC",
+      "from": "2001-10-02T04:00:00.000Z",
+      "to": "2003-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:13 UTC"
+}

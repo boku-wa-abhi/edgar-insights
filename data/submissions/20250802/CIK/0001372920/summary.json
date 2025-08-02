@@ -1,0 +1,28 @@
+{
+  "cik": "0001372920",
+  "name": "New Oriental Education & Technology Group Inc.",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "EDU",
+    "NWOEF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(86-10) 6260-5566",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:11:33 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001828108",
+  "name": "Aurora Innovation, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AUR",
+    "AUROW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981562265",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(888) 583-9506",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reinvent Technology Partners Y",
+      "from": "2020-12-14T05:00:00.000Z",
+      "to": "2021-11-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 521,
+  "download_timestamp": "2025-08-02 07:25:50 UTC"
+}

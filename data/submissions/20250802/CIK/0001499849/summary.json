@@ -1,0 +1,26 @@
+{
+  "cik": "0001499849",
+  "name": "BrasilAgro - Brazilian Agricultural Real Estate Co",
+  "entityType": "other",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LND"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "55 (11) 3035-5352",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 203,
+  "download_timestamp": "2025-08-02 07:15:06 UTC"
+}

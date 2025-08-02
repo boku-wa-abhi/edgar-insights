@@ -1,0 +1,26 @@
+{
+  "cik": "0000877860",
+  "name": "NATIONAL HEALTH INVESTORS INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NHI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "621470956",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6158909100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:05 UTC"
+}

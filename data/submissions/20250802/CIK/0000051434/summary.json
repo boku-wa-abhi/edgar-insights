@@ -1,0 +1,28 @@
+{
+  "cik": "0000051434",
+  "name": "INTERNATIONAL PAPER CO /NEW/",
+  "entityType": "operating",
+  "sic": "2621",
+  "sicDescription": "Paper Mills",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IP",
+    "INPAP"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "130872805",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "901-419-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 06:57:11 UTC"
+}

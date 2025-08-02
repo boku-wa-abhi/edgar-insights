@@ -1,0 +1,37 @@
+{
+  "cik": "0000886206",
+  "name": "FRANKLIN COVEY CO",
+  "entityType": "operating",
+  "sic": "8741",
+  "sicDescription": "Services-Management Services",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "FC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "870401551",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8018175030",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FRANKLIN QUEST CO",
+      "from": "1996-02-13T05:00:00.000Z",
+      "to": "1997-02-11T05:00:00.000Z"
+    },
+    {
+      "name": "FRANKLIN QUEST COMPANY",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "1994-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:27 UTC"
+}

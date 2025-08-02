@@ -1,0 +1,32 @@
+{
+  "cik": "0001746109",
+  "name": "Bank First Corp",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BFC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391435359",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "920-652-3100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bank First National Corp",
+      "from": "2018-08-15T04:00:00.000Z",
+      "to": "2019-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 388,
+  "download_timestamp": "2025-08-02 07:22:41 UTC"
+}

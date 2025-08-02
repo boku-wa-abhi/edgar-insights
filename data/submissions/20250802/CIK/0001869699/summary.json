@@ -1,0 +1,26 @@
+{
+  "cik": "0001869699",
+  "name": "Ark 21Shares Bitcoin ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARKB"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(646) 370-6016",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 44,
+  "download_timestamp": "2025-08-02 07:28:10 UTC"
+}

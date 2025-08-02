@@ -1,0 +1,28 @@
+{
+  "cik": "0001000377",
+  "name": "Vibra Energia S.A./ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Petrobras Distribuidora/ADR",
+      "from": "2020-07-16T04:00:00.000Z",
+      "to": "2021-01-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:04:19 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001589526",
+  "name": "Blue Bird Corp",
+  "entityType": "operating",
+  "sic": "3713",
+  "sicDescription": "Truck & Bus Bodies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "BLBD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "463891989",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "478-822-2801",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hennessy Capital Acquisition Corp.",
+      "from": "2013-10-18T04:00:00.000Z",
+      "to": "2015-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 800,
+  "download_timestamp": "2025-08-02 07:17:56 UTC"
+}

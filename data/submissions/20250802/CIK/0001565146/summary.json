@@ -1,0 +1,26 @@
+{
+  "cik": "0001565146",
+  "name": "Gulf Coast Ultra Deep Royalty Trust",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GULTU"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "512-236-6599",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 234,
+  "download_timestamp": "2025-08-02 07:17:10 UTC"
+}

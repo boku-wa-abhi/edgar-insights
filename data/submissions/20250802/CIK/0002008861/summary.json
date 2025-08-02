@@ -1,0 +1,32 @@
+{
+  "cik": "0002008861",
+  "name": "Endo LP",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NDOI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "301390281",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(484) 216-0000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Endo, Inc.",
+      "from": "2024-03-21T04:00:00.000Z",
+      "to": "2025-06-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:31:51 UTC"
+}

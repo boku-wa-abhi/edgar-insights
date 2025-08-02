@@ -1,0 +1,241 @@
+{
+  "cik": "0001442653",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "ROHM Co., Ltd.",
+  "tickers": [
+    "ROHCY",
+    "ROHCF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3010",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-23-103098",
+        "0001019155-23-000163",
+        "0001193805-23-000999",
+        "0001193805-19-001596",
+        "0001193805-17-002949",
+        "0001193805-13-000553",
+        "0001193805-08-002832",
+        "0001193805-08-002411",
+        "0001019155-08-000356",
+        "0001104659-08-063458"
+      ],
+      "filingDate": [
+        "2023-09-22",
+        "2023-08-17",
+        "2023-07-18",
+        "2019-11-22",
+        "2017-09-29",
+        "2013-02-27",
+        "2008-11-05",
+        "2008-10-20",
+        "2008-10-10",
+        "2008-10-10"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-09-22T16:20:29.000Z",
+        "2023-08-17T13:41:06.000Z",
+        "2023-07-18T14:53:56.000Z",
+        "2019-11-23T05:23:51.000Z",
+        "2017-09-29T17:41:40.000Z",
+        "2013-02-27T19:25:28.000Z",
+        "2008-11-05T20:55:45.000Z",
+        "2008-10-20T21:13:45.000Z",
+        "2008-10-10T20:03:19.000Z",
+        "2008-10-09T23:14:20.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-154100",
+        "333-154166",
+        "333-154518",
+        "333-235097",
+        "333-154100",
+        "333-186897",
+        "333-154518",
+        "333-154518",
+        "333-154166",
+        "333-154100"
+      ],
+      "filmNumber": [
+        "231270932",
+        "231180093",
+        "231093326",
+        "191243440",
+        "171110710",
+        "13646142",
+        "081163758",
+        "081131999",
+        "081118482",
+        "081116939"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        119589,
+        94527,
+        105203,
+        136036,
+        126794,
+        194429,
+        48467,
+        52186,
+        77923,
+        171989
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2326581d2_f6pos.htm",
+        "rohmf6pos.htm",
+        "e618789_f6pos-rohm.htm",
+        "e618800_f6ef-rcl.htm",
+        "e617066_f6pos-rcl.htm",
+        "e610642_f6ef-rohm.htm",
+        "e604558_f6pos-rohm.txt",
+        "e604381_f6ef-rohm.txt",
+        "rohmunsponsoredformf6.htm",
+        "a08-24918_155f6ef.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "",
+        "FORM F-6 POST-EFFECTIVE AMENDMENT NO.1",
+        "",
+        "FORM F-6",
+        "F-6EF"
+      ]
+    },
+    "files": []
+  }
+}

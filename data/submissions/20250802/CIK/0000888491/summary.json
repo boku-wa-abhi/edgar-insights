@@ -1,0 +1,26 @@
+{
+  "cik": "0000888491",
+  "name": "OMEGA HEALTHCARE INVESTORS INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OHI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "383041398",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "410-427-1700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:33 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001413119",
+  "name": "Kraig Biocraft Laboratories, Inc.",
+  "entityType": "operating",
+  "sic": "2820",
+  "sicDescription": "Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KBLB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "830459707",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(734) 619-8066",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kraig Biocraft Laboratories, Inc",
+      "from": "2007-09-26T04:00:00.000Z",
+      "to": "2025-05-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 363,
+  "download_timestamp": "2025-08-02 07:12:39 UTC"
+}

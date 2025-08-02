@@ -1,0 +1,42 @@
+{
+  "cik": "0001288795",
+  "name": "Clough Global Dividend & Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "GLV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201048784",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "855-425-6844",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Clough Dividend & Income Fund",
+      "from": "2016-08-08T04:00:00.000Z",
+      "to": "2016-08-22T04:00:00.000Z"
+    },
+    {
+      "name": "Clough Global Allocation Fund",
+      "from": "2004-06-25T04:00:00.000Z",
+      "to": "2016-07-08T04:00:00.000Z"
+    },
+    {
+      "name": "Clough Global Opportunities Fund",
+      "from": "2004-05-13T04:00:00.000Z",
+      "to": "2004-05-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 460,
+  "download_timestamp": "2025-08-02 07:09:49 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001936255",
+  "name": "Four Leaf Acquisition Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FORL",
+    "FORLU",
+    "FORLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "881178935",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-720-5626",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 104,
+  "download_timestamp": "2025-08-02 07:29:49 UTC"
+}

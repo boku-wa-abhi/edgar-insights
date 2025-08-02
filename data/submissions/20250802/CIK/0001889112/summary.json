@@ -1,0 +1,30 @@
+{
+  "cik": "0001889112",
+  "name": "Cartesian Growth Corp II",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RENEF",
+    "REEUF",
+    "REEWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(212) 461-6363",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 107,
+  "download_timestamp": "2025-08-02 07:28:51 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002048519",
+  "name": "Aebi Schmidt Holding AG",
+  "entityType": "operating",
+  "sic": "3531",
+  "sicDescription": "Construction Machinery & Equip",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEBI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "41 (44) 308 5855",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 44,
+  "download_timestamp": "2025-08-02 07:33:13 UTC"
+}

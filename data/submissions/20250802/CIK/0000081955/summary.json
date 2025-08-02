@@ -1,0 +1,26 @@
+{
+  "cik": "0000081955",
+  "name": "RAND CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RAND"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "160961359",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "7168530802",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 665,
+  "download_timestamp": "2025-08-02 06:57:50 UTC"
+}

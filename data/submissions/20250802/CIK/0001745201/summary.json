@@ -1,0 +1,26 @@
+{
+  "cik": "0001745201",
+  "name": "Viking Holdings Ltd",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VIK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "818-227-1234",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 94,
+  "download_timestamp": "2025-08-02 07:22:40 UTC"
+}

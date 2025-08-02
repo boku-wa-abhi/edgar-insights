@@ -1,0 +1,28 @@
+{
+  "cik": "0001627868",
+  "name": "Newcore Gold Ltd.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-484-4399",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Pinecrest Resources Ltd.",
+      "from": "2014-12-17T05:00:00.000Z",
+      "to": "2014-12-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:19:08 UTC"
+}

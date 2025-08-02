@@ -1,0 +1,26 @@
+{
+  "cik": "0001801198",
+  "name": "Legend Biotech Corp",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LEGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "732-850-5598",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 299,
+  "download_timestamp": "2025-08-02 07:24:32 UTC"
+}

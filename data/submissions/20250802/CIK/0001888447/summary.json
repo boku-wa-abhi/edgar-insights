@@ -1,0 +1,26 @@
+{
+  "cik": "0001888447",
+  "name": "Excelerate Energy, Inc.",
+  "entityType": "operating",
+  "sic": "4924",
+  "sicDescription": "Natural Gas Distribution",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "872878691",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8328137100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 189,
+  "download_timestamp": "2025-08-02 07:28:48 UTC"
+}

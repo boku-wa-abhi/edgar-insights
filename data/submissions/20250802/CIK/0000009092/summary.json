@@ -1,0 +1,32 @@
+{
+  "cik": "0000009092",
+  "name": "BADGER METER INC",
+  "entityType": "operating",
+  "sic": "3824",
+  "sicDescription": "Totalizing Fluid Meters & Counting Devices",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BMI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "390143280",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4143715702",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BADGER METER INC",
+      "from": "1994-02-09T05:00:00.000Z",
+      "to": "2025-07-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:15 UTC"
+}

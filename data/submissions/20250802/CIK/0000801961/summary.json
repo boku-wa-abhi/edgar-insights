@@ -1,0 +1,26 @@
+{
+  "cik": "0000801961",
+  "name": "MFS MUNICIPAL INCOME TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "MFM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "046554822",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "18006372929",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 471,
+  "download_timestamp": "2025-08-02 07:00:33 UTC"
+}

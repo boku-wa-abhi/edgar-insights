@@ -1,0 +1,37 @@
+{
+  "cik": "0001406944",
+  "name": "TORQ RESOURCES INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRBMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "778-729-0500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STRATTON RESOURCES INC",
+      "from": "2011-11-25T05:00:00.000Z",
+      "to": "2012-07-18T04:00:00.000Z"
+    },
+    {
+      "name": "Tribune Uranium Corp",
+      "from": "2007-07-13T04:00:00.000Z",
+      "to": "2007-07-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 10,
+  "download_timestamp": "2025-08-02 07:12:28 UTC"
+}

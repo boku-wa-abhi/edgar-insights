@@ -1,0 +1,32 @@
+{
+  "cik": "0000813716",
+  "name": "CIRTRAN CORP",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIRX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "680121636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8019635112",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VERMILLION VENTURES INC",
+      "from": "2000-05-30T04:00:00.000Z",
+      "to": "2000-06-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 380,
+  "download_timestamp": "2025-08-02 07:00:48 UTC"
+}

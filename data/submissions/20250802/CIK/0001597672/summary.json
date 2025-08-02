@@ -1,0 +1,32 @@
+{
+  "cik": "0001597672",
+  "name": "RAYONIER ADVANCED MATERIALS INC.",
+  "entityType": "operating",
+  "sic": "2611",
+  "sicDescription": "Pulp Mills",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RYAM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464559529",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(904) 357-4600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rayonier Holding Co",
+      "from": "2014-01-29T05:00:00.000Z",
+      "to": "2014-01-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 775,
+  "download_timestamp": "2025-08-02 07:18:11 UTC"
+}

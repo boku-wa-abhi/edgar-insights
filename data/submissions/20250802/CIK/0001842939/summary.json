@@ -1,0 +1,39 @@
+{
+  "cik": "0001842939",
+  "name": "Longevity Health Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2840",
+  "sicDescription": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XAGE",
+    "XAGEW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "861645738",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "412-894-8248",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Carmell Corp",
+      "from": "2023-08-01T04:00:00.000Z",
+      "to": "2025-02-13T05:00:00.000Z"
+    },
+    {
+      "name": "ALPHA HEALTHCARE ACQUISITION CORP III",
+      "from": "2021-02-02T05:00:00.000Z",
+      "to": "2023-07-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 300,
+  "download_timestamp": "2025-08-02 07:26:44 UTC"
+}

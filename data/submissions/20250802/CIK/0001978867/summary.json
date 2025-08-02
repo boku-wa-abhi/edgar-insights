@@ -1,0 +1,26 @@
+{
+  "cik": "0001978867",
+  "name": "Cadeler A/S",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "G7",
+  "stateOfIncorporationDescription": "Denmark",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDLR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "45 3246 3100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 140,
+  "download_timestamp": "2025-08-02 07:30:56 UTC"
+}

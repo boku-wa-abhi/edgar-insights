@@ -1,0 +1,26 @@
+{
+  "cik": "0001707303",
+  "name": "Dogness (International) Corp",
+  "entityType": "other",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DOGZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 769 88753300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 144,
+  "download_timestamp": "2025-08-02 07:21:22 UTC"
+}

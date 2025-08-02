@@ -1,0 +1,26 @@
+{
+  "cik": "0001161611",
+  "name": "ALUMINUM CORP OF CHINA LTD",
+  "entityType": "other",
+  "sic": "3334",
+  "sicDescription": "Primary Production of  Aluminum",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ALMMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "861082298560",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:15 UTC"
+}

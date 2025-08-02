@@ -1,0 +1,26 @@
+{
+  "cik": "0001754581",
+  "name": "Futu Holdings Ltd",
+  "entityType": "other",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FUTU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8675525233312",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 126,
+  "download_timestamp": "2025-08-02 07:22:57 UTC"
+}

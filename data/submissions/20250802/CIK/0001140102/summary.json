@@ -1,0 +1,37 @@
+{
+  "cik": "0001140102",
+  "name": "HireQuest, Inc.",
+  "entityType": "operating",
+  "sic": "7363",
+  "sicDescription": "Services-Help Supply Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HQI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "912079472",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(843) 723-7400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Command Center, Inc.",
+      "from": "2006-04-05T04:00:00.000Z",
+      "to": "2019-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "TEMPORARY FINANCIAL SERVICES INC",
+      "from": "2001-10-03T04:00:00.000Z",
+      "to": "2006-03-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 859,
+  "download_timestamp": "2025-08-02 07:07:55 UTC"
+}

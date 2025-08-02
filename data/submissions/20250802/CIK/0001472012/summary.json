@@ -1,0 +1,26 @@
+{
+  "cik": "0001472012",
+  "name": "Immunome Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMNM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770694340",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "610-321-3700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 372,
+  "download_timestamp": "2025-08-02 07:14:11 UTC"
+}

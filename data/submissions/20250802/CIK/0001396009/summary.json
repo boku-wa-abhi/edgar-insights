@@ -1,0 +1,32 @@
+{
+  "cik": "0001396009",
+  "name": "Vulcan Materials CO",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VMC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "208579133",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(205) 298-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Virginia Holdco, Inc.",
+      "from": "2007-04-12T04:00:00.000Z",
+      "to": "2007-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:12 UTC"
+}

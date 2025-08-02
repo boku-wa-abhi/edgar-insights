@@ -1,0 +1,26 @@
+{
+  "cik": "0000731012",
+  "name": "HEALTHCARE SERVICES GROUP INC",
+  "entityType": "operating",
+  "sic": "8050",
+  "sicDescription": "Services-Nursing & Personal Care Facilities",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HCSG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "232018365",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2159381661",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:35 UTC"
+}

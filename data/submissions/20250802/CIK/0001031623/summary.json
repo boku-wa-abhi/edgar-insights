@@ -1,0 +1,26 @@
+{
+  "cik": "0001031623",
+  "name": "GULF ISLAND FABRICATION INC",
+  "entityType": "operating",
+  "sic": "3440",
+  "sicDescription": "Fabricated Structural Metal Products",
+  "stateOfIncorporation": "LA",
+  "stateOfIncorporationDescription": "LA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GIFI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "721147390",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "713-714-6123",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:10 UTC"
+}

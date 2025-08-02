@@ -1,0 +1,32 @@
+{
+  "cik": "0000895464",
+  "name": "Yubo International Biotech Ltd",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YBGJ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "113074326",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "86 (010) 6615-5141",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MAGNA LAB INC",
+      "from": "1996-06-28T04:00:00.000Z",
+      "to": "2020-12-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 276,
+  "download_timestamp": "2025-08-02 07:02:48 UTC"
+}

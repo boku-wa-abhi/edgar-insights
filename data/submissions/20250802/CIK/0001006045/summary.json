@@ -1,0 +1,26 @@
+{
+  "cik": "0001006045",
+  "name": "IRIDEX CORP",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "IRIX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770210467",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6509404700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:32 UTC"
+}

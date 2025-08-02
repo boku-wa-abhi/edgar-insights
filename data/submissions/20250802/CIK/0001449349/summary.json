@@ -1,0 +1,32 @@
+{
+  "cik": "0001449349",
+  "name": "VIVOS INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDGL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "800138937",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "509-736-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADVANCED MEDICAL ISOTOPE Corp",
+      "from": "2008-11-12T05:00:00.000Z",
+      "to": "2017-12-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 465,
+  "download_timestamp": "2025-08-02 07:13:41 UTC"
+}

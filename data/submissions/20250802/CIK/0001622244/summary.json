@@ -1,0 +1,37 @@
+{
+  "cik": "0001622244",
+  "name": "One World Products, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OWPC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "611744826",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "7026050605",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "One World Pharma, Inc.",
+      "from": "2019-02-25T05:00:00.000Z",
+      "to": "2021-11-30T05:00:00.000Z"
+    },
+    {
+      "name": "PUNTO GROUP, CORP.",
+      "from": "2014-11-24T05:00:00.000Z",
+      "to": "2019-01-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 176,
+  "download_timestamp": "2025-08-02 07:19:00 UTC"
+}

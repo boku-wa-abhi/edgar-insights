@@ -1,0 +1,26 @@
+{
+  "cik": "0001978954",
+  "name": "BBB FOODS INC",
+  "entityType": "other",
+  "sic": "5411",
+  "sicDescription": "Retail-Grocery Stores",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TBBB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "0012848521112",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 69,
+  "download_timestamp": "2025-08-02 07:30:56 UTC"
+}

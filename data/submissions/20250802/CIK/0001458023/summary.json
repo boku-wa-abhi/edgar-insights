@@ -1,0 +1,37 @@
+{
+  "cik": "0001458023",
+  "name": "Flowerkist Skin Care & Cosmetics, Inc.",
+  "entityType": "operating",
+  "sic": "5912",
+  "sicDescription": "Retail-Drug Stores and Proprietary Stores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FKST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "264083754",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "805-282-0078",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "3D MAKERJET, INC.",
+      "from": "2014-05-07T00:00:00.000Z",
+      "to": "2021-09-15T00:00:00.000Z"
+    },
+    {
+      "name": "AMERICAN BUSINESS CHANGE AGENTS, INC.",
+      "from": "2009-03-09T00:00:00.000Z",
+      "to": "2013-12-16T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 93,
+  "download_timestamp": "2025-08-02 07:13:51 UTC"
+}

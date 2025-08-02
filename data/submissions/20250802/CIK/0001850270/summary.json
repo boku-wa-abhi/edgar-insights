@@ -1,0 +1,32 @@
+{
+  "cik": "0001850270",
+  "name": "PROKIDNEY CORP.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PROK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981586514",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "336-999-7028",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Social Capital Suvretta Holdings Corp. III",
+      "from": "2021-04-21T04:00:00.000Z",
+      "to": "2022-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 350,
+  "download_timestamp": "2025-08-02 07:27:09 UTC"
+}

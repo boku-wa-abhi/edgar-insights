@@ -1,0 +1,33 @@
+{
+  "cik": "0001639142",
+  "name": "Aether Global Innovations Corp.",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "1-888-509-1353",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Plymouth Rock Technologies Inc.",
+      "from": "2019-01-08T05:00:00.000Z",
+      "to": "2023-07-27T04:00:00.000Z"
+    },
+    {
+      "name": "ALEXANDRA CAPITAL CORP.",
+      "from": "2015-09-11T04:00:00.000Z",
+      "to": "2018-05-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:19:25 UTC"
+}

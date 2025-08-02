@@ -1,0 +1,44 @@
+{
+  "cik": "0001826681",
+  "name": "Palladyne AI Corp.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PDYN",
+    "PDYNW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "888-927-7296",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sarcos Technology & Robotics Corp",
+      "from": "2021-09-24T04:00:00.000Z",
+      "to": "2024-03-13T04:00:00.000Z"
+    },
+    {
+      "name": "Sarcos Technology & Robotics Corporation.",
+      "from": "2021-09-24T04:00:00.000Z",
+      "to": "2021-09-24T04:00:00.000Z"
+    },
+    {
+      "name": "Rotor Acquisition Corp.",
+      "from": "2020-10-05T04:00:00.000Z",
+      "to": "2021-09-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 492,
+  "download_timestamp": "2025-08-02 07:25:45 UTC"
+}

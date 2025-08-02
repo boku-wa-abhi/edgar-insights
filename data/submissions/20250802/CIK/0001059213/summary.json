@@ -1,0 +1,42 @@
+{
+  "cik": "0001059213",
+  "name": "BEXIL INVESTMENT TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BXSY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "510382212",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2127850900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIVIDEND & INCOME FUND",
+      "from": "2011-09-12T04:00:00.000Z",
+      "to": "2023-12-15T05:00:00.000Z"
+    },
+    {
+      "name": "DIVIDEND & INCOME FUND, INC.",
+      "from": "2011-03-10T05:00:00.000Z",
+      "to": "2012-05-07T04:00:00.000Z"
+    },
+    {
+      "name": "CHARTWELL DIVIDEND & INCOME FUND INC",
+      "from": "1998-06-15T04:00:00.000Z",
+      "to": "2011-02-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 496,
+  "download_timestamp": "2025-08-02 07:05:55 UTC"
+}

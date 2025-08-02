@@ -1,0 +1,28 @@
+{
+  "cik": "0001936804",
+  "name": "SunCar Technology Group Inc.",
+  "entityType": "other",
+  "sic": "7500",
+  "sicDescription": "Services-Automotive Repair, Services & Parking",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SDA",
+    "SDAWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-18602168668",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 97,
+  "download_timestamp": "2025-08-02 07:29:49 UTC"
+}

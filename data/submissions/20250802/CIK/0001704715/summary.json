@@ -1,0 +1,37 @@
+{
+  "cik": "0001704715",
+  "name": "Alpha Metallurgical Resources, Inc.",
+  "entityType": "operating",
+  "sic": "1221",
+  "sicDescription": "Bituminous Coal & Lignite Surface Mining",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(423) 573-0300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alpha Metallurgical Resources, Inc.",
+      "from": "2021-02-02T05:00:00.000Z",
+      "to": "2025-05-09T04:00:00.000Z"
+    },
+    {
+      "name": "Contura Energy, Inc.",
+      "from": "2017-05-08T04:00:00.000Z",
+      "to": "2021-01-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 592,
+  "download_timestamp": "2025-08-02 07:21:18 UTC"
+}

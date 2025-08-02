@@ -1,0 +1,30 @@
+{
+  "cik": "0002032950",
+  "name": "Horizon Space Acquisition II Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HSPT",
+    "HSPTR",
+    "HSPTU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(646)257-5537",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 51,
+  "download_timestamp": "2025-08-02 07:32:43 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001477845",
+  "name": "Annovis Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANVS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "262540421",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "484-875-3192",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QR Pharma, Inc.",
+      "from": "2010-01-15T05:00:00.000Z",
+      "to": "2019-03-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 256,
+  "download_timestamp": "2025-08-02 07:14:25 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001810560",
+  "name": "REVELATION BIOSCIENCES, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REVB",
+    "REVBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "843898466",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-800-3717",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Petra Acquisition Inc.",
+      "from": "2020-05-14T04:00:00.000Z",
+      "to": "2022-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 308,
+  "download_timestamp": "2025-08-02 07:24:57 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001287098",
+  "name": "MAXCYTE, INC.",
+  "entityType": "operating",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MXCT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "522210438",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "301-517-5556",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MAXCYTE INC",
+      "from": "2004-04-14T04:00:00.000Z",
+      "to": "2008-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 279,
+  "download_timestamp": "2025-08-02 07:09:45 UTC"
+}

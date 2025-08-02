@@ -1,0 +1,32 @@
+{
+  "cik": "0001821769",
+  "name": "Navitas Semiconductor Corp",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "852560226",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "844-654-2642",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Live Oak Acquisition Corp II",
+      "from": "2020-09-18T04:00:00.000Z",
+      "to": "2021-10-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 426,
+  "download_timestamp": "2025-08-02 07:25:31 UTC"
+}

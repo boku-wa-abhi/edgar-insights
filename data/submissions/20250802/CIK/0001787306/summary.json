@@ -1,0 +1,32 @@
+{
+  "cik": "0001787306",
+  "name": "Arcutis Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARQT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812974255",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "805-418-5006",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Arcutis, Inc.",
+      "from": "2019-09-09T04:00:00.000Z",
+      "to": "2019-09-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 657,
+  "download_timestamp": "2025-08-02 07:24:02 UTC"
+}

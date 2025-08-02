@@ -1,0 +1,37 @@
+{
+  "cik": "0001157601",
+  "name": "MADRIGAL PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDGL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "404-380-9263",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MADRIGAL PHARMACEUTICALS, INC.",
+      "from": "2016-08-11T04:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "SYNTA PHARMACEUTICALS CORP",
+      "from": "2002-05-31T04:00:00.000Z",
+      "to": "2016-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:08:06 UTC"
+}

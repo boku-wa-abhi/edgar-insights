@@ -1,0 +1,32 @@
+{
+  "cik": "0001874875",
+  "name": "Hour Loop, Inc",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HOUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472869399",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "206 385 0488",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hour Loop, Inc",
+      "from": "2021-07-29T04:00:00.000Z",
+      "to": "2025-07-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 143,
+  "download_timestamp": "2025-08-02 07:28:23 UTC"
+}

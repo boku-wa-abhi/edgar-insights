@@ -1,0 +1,26 @@
+{
+  "cik": "0001712807",
+  "name": "PagSeguro Digital Ltd.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "55 11 3038 8127",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 245,
+  "download_timestamp": "2025-08-02 07:21:36 UTC"
+}

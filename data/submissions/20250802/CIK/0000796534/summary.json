@@ -1,0 +1,26 @@
+{
+  "cik": "0000796534",
+  "name": "NATIONAL BANKSHARES INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NKSH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541375874",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "540-951-6300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 815,
+  "download_timestamp": "2025-08-02 07:00:24 UTC"
+}

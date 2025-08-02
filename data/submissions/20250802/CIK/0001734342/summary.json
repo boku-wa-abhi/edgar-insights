@@ -1,0 +1,32 @@
+{
+  "cik": "0001734342",
+  "name": "Amerant Bancorp Inc.",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMTB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "650032379",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(305)460-4038",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mercantil Bank Holding Corp",
+      "from": "2018-03-14T04:00:00.000Z",
+      "to": "2019-05-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 589,
+  "download_timestamp": "2025-08-02 07:22:19 UTC"
+}

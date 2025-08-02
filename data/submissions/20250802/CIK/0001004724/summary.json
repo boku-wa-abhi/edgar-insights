@@ -1,0 +1,41 @@
+{
+  "cik": "0001004724",
+  "name": "REGIONAL HEALTH PROPERTIES, INC",
+  "entityType": "operating",
+  "sic": "6519",
+  "sicDescription": "Lessors of  Real Property, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RHEP",
+    "RHEPA",
+    "RHEPB"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "815166048",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "678-869-5116",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADCARE HEALTH SYSTEMS, INC",
+      "from": "2012-11-30T05:00:00.000Z",
+      "to": "2017-10-02T04:00:00.000Z"
+    },
+    {
+      "name": "ADCARE HEALTH SYSTEMS INC",
+      "from": "2005-07-18T04:00:00.000Z",
+      "to": "2013-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:29 UTC"
+}

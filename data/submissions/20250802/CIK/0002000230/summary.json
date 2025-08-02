@@ -1,0 +1,26 @@
+{
+  "cik": "0002000230",
+  "name": "BrilliA Inc",
+  "entityType": "other",
+  "sic": "2300",
+  "sicDescription": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BRIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "96468118",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 39,
+  "download_timestamp": "2025-08-02 07:31:37 UTC"
+}

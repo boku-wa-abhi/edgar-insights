@@ -1,0 +1,32 @@
+{
+  "cik": "0001904286",
+  "name": "MIRA PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MIRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "853354547",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "813-369-5150",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mira1a Therapeutics, Inc.",
+      "from": "2022-06-29T04:00:00.000Z",
+      "to": "2023-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 147,
+  "download_timestamp": "2025-08-02 07:29:14 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001262104",
+  "name": "MEI Pharma, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MEIP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "510407811",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-369-7100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARSHALL EDWARDS INC",
+      "from": "2003-09-25T04:00:00.000Z",
+      "to": "2012-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 960,
+  "download_timestamp": "2025-08-02 07:09:17 UTC"
+}

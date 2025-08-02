@@ -1,0 +1,26 @@
+{
+  "cik": "0001581804",
+  "name": "Navigator Holdings Ltd.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "44 (0) 20 7340 4852",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 236,
+  "download_timestamp": "2025-08-02 07:17:43 UTC"
+}

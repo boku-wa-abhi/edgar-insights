@@ -1,0 +1,32 @@
+{
+  "cik": "0001597835",
+  "name": "Cheetah Mobile Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMCM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 10 6292 7779",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kingsoft Internet Software Holdings Ltd",
+      "from": "2014-01-27T05:00:00.000Z",
+      "to": "2014-03-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 196,
+  "download_timestamp": "2025-08-02 07:18:11 UTC"
+}

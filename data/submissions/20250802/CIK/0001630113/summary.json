@@ -1,0 +1,32 @@
+{
+  "cik": "0001630113",
+  "name": "BIOTRICITY INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "BTCY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "472548273",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(650) 832-1626",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "METASOLUTIONS, INC.",
+      "from": "2015-01-27T05:00:00.000Z",
+      "to": "2016-01-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 297,
+  "download_timestamp": "2025-08-02 07:19:10 UTC"
+}

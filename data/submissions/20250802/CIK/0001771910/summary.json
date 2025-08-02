@@ -1,0 +1,26 @@
+{
+  "cik": "0001771910",
+  "name": "ADC Therapeutics SA",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADCT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "41 21 653 02 00",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 359,
+  "download_timestamp": "2025-08-02 07:23:31 UTC"
+}

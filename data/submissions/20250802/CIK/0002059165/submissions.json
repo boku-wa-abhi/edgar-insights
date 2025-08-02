@@ -1,0 +1,209 @@
+{
+  "cik": "0002059165",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "STARRY SEA ACQUISITION CORP",
+  "tickers": [
+    "SSEA"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "PO BOX 309, UGLAND HOUSE",
+      "street2": null,
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-1104",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "PO BOX 309, UGLAND HOUSE",
+      "street2": null,
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-1104",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(412) 947-0514",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001829126-25-005673",
+        "0001829126-25-005643",
+        "0001829126-25-005461",
+        "0001829126-25-005361",
+        "0001829126-25-004904",
+        "0001829126-25-004429",
+        "0001829126-25-002569",
+        "0001829126-25-001469"
+      ],
+      "filingDate": [
+        "2025-08-01",
+        "2025-07-31",
+        "2025-07-29",
+        "2025-07-25",
+        "2025-07-07",
+        "2025-06-12",
+        "2025-04-11",
+        "2025-03-05"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-08-01T14:15:44.000Z",
+        "2025-07-31T15:00:46.000Z",
+        "2025-07-29T01:20:26.000Z",
+        "2025-07-25T16:23:29.000Z",
+        "2025-07-07T16:22:03.000Z",
+        "2025-06-12T16:54:28.000Z",
+        "2025-04-11T15:59:34.000Z",
+        "2025-03-05T17:20:22.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287976",
+        "333-287976",
+        "001-42768",
+        "333-287976",
+        "333-287976",
+        "333-287976",
+        "377-07762",
+        "377-07762"
+      ],
+      "filmNumber": [
+        "251174404",
+        "251170176",
+        "251157344",
+        "251150443",
+        "251107693",
+        "251042267",
+        "25830643",
+        "25709626"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        737462,
+        993034,
+        22451,
+        495427,
+        2495773,
+        3305991,
+        1907086,
+        1788335
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "starryseaacq_s1a4.htm",
+        "starryseaacq_s1a3.htm",
+        "starryseaacq_8a12b.htm",
+        "starryseaacq_s1a2.htm",
+        "starryseaacq_s1a.htm",
+        "starryseaacq_s1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "8-A12B",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

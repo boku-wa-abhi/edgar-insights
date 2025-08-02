@@ -1,0 +1,26 @@
+{
+  "cik": "0001375348",
+  "name": "Golden Star Resource Corp.",
+  "entityType": "operating",
+  "sic": "1090",
+  "sicDescription": "Miscellaneous Metal Ores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "GLNS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(210) 862-3071",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 117,
+  "download_timestamp": "2025-08-02 07:11:36 UTC"
+}

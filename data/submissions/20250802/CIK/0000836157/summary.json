@@ -1,0 +1,32 @@
+{
+  "cik": "0000836157",
+  "name": "LINDSAY CORP",
+  "entityType": "operating",
+  "sic": "3523",
+  "sicDescription": "Farm Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "LNN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "470554096",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4028296800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LINDSAY MANUFACTURING CO",
+      "from": "1995-12-21T05:00:00.000Z",
+      "to": "2006-12-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:15 UTC"
+}

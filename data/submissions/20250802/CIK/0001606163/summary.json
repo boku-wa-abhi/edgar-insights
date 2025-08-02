@@ -1,0 +1,32 @@
+{
+  "cik": "0001606163",
+  "name": "Limbach Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LMB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(412) 359-2100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "1347 Capital Corp",
+      "from": "2014-05-05T04:00:00.000Z",
+      "to": "2016-07-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 636,
+  "download_timestamp": "2025-08-02 07:18:28 UTC"
+}

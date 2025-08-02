@@ -1,0 +1,41 @@
+{
+  "cik": "0001000275",
+  "name": "ROYAL BANK OF CANADA",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "RY",
+    "RBMCF",
+    "RYLBF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "135357855",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-437-9267",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ROYAL BANK OF CANADA",
+      "from": "2011-08-09T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "ROYAL BANK OF CANADA \\",
+      "from": "1996-09-04T04:00:00.000Z",
+      "to": "2012-04-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 4572,
+  "download_timestamp": "2025-08-02 07:04:18 UTC"
+}

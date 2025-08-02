@@ -1,0 +1,32 @@
+{
+  "cik": "0001655923",
+  "name": "Alpha Cognition Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACOG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858) 344-4375",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Neurodyn Cognition Inc.",
+      "from": "2015-10-16T04:00:00.000Z",
+      "to": "2019-10-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 125,
+  "download_timestamp": "2025-08-02 07:19:57 UTC"
+}

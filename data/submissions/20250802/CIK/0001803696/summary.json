@@ -1,0 +1,37 @@
+{
+  "cik": "0001803696",
+  "name": "Adeia Inc.",
+  "entityType": "operating",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADEA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 473-2500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Xperi Holding Corp",
+      "from": "2020-03-16T04:00:00.000Z",
+      "to": "2022-09-28T04:00:00.000Z"
+    },
+    {
+      "name": "XRAY-TWOLF HoldCo Corp",
+      "from": "2020-02-18T05:00:00.000Z",
+      "to": "2020-04-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 315,
+  "download_timestamp": "2025-08-02 07:24:37 UTC"
+}

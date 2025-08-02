@@ -1,0 +1,26 @@
+{
+  "cik": "0000914475",
+  "name": "NEUROCRINE BIOSCIENCES INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NBIX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330525145",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(858) 617-7600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:25 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001848334",
+  "name": "OKMIN RESOURCES, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "OKMN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "854401166",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "818-201-3727",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:27:03 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002035709",
+  "name": "Phoenix Asia Holdings Ltd",
+  "entityType": "other",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PHOE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 2838 9928",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 22,
+  "download_timestamp": "2025-08-02 07:32:53 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000004977",
+  "name": "AFLAC INC",
+  "entityType": "operating",
+  "sic": "6321",
+  "sicDescription": "Accident & Health Insurance",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AFL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "581167100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7063233431",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:56:07 UTC"
+}

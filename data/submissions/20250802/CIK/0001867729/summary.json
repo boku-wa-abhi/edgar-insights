@@ -1,0 +1,26 @@
+{
+  "cik": "0001867729",
+  "name": "WeRide Inc.",
+  "entityType": "other",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WRD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86 150 1055 1533",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 74,
+  "download_timestamp": "2025-08-02 07:28:04 UTC"
+}

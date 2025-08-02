@@ -1,0 +1,32 @@
+{
+  "cik": "0000913353",
+  "name": "Colliers International Group Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(416) 960-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRSTSERVICE CORP",
+      "from": "1995-02-07T05:00:00.000Z",
+      "to": "2015-05-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 523,
+  "download_timestamp": "2025-08-02 07:03:23 UTC"
+}

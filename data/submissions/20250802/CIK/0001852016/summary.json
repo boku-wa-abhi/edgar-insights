@@ -1,0 +1,30 @@
+{
+  "cik": "0001852016",
+  "name": "AltEnergy Acquisition Corp",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEAE",
+    "AEAEU",
+    "AEAEW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "862157013",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2032953343",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 115,
+  "download_timestamp": "2025-08-02 07:27:15 UTC"
+}

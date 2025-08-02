@@ -1,0 +1,26 @@
+{
+  "cik": "0000029534",
+  "name": "DOLLAR GENERAL CORP",
+  "entityType": "operating",
+  "sic": "5331",
+  "sicDescription": "Retail-Variety Stores",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "0130",
+  "tickers": [
+    "DG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "610502302",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6158554000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:42 UTC"
+}

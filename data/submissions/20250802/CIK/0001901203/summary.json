@@ -1,0 +1,32 @@
+{
+  "cik": "0001901203",
+  "name": "Iron Horse Acquisitions Corp.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IROH",
+    "IROHR",
+    "IROHU",
+    "IROHW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(310) 290-5383",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:29:09 UTC"
+}

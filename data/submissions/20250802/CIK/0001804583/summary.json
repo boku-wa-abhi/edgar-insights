@@ -1,0 +1,26 @@
+{
+  "cik": "0001804583",
+  "name": "Cloopen Group Holding Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RAASY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "861052823178",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 68,
+  "download_timestamp": "2025-08-02 07:24:40 UTC"
+}

@@ -1,0 +1,100 @@
+{
+  "cik": "0002073153",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Hoyne Bancorp, Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "addresses": {
+    "mailing": {
+      "street1": "810 S. OAK PARK AVENUE",
+      "street2": null,
+      "city": "OAK PARK",
+      "stateOrCountry": "IL",
+      "zipCode": "60304",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "810 S. OAK PARK AVENUE",
+      "street2": null,
+      "city": "OAK PARK",
+      "stateOrCountry": "IL",
+      "zipCode": "60304",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "708-434-4300",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-25-060154"
+      ],
+      "filingDate": [
+        "2025-06-17"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-17T15:17:38.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288102"
+      ],
+      "filmNumber": [
+        "251052310"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "S-1"
+      ],
+      "size": [
+        12191102
+      ],
+      "isXBRL": [
+        1
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "primaryDocument": [
+        "tm2517031-2_s1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1"
+      ]
+    },
+    "files": []
+  }
+}

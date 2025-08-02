@@ -1,0 +1,26 @@
+{
+  "cik": "0001909770",
+  "name": "KHEOBA CORP.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "KHOB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981636812",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "702-920-3738",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 34,
+  "download_timestamp": "2025-08-02 07:29:21 UTC"
+}

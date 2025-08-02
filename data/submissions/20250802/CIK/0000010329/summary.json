@@ -1,0 +1,26 @@
+{
+  "cik": "0000010329",
+  "name": "BASSETT FURNITURE INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "2511",
+  "sicDescription": "Wood Household Furniture, (No Upholstered)",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1129",
+  "tickers": [
+    "BSET"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "540135270",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "5406296209",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:17 UTC"
+}

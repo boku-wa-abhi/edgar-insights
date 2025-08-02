@@ -1,0 +1,49 @@
+{
+  "cik": "0001402328",
+  "name": "Sunshine Biopharma Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBFM",
+    "SBFMW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "205566275",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-330-0684",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sunshine Biopharma, Inc",
+      "from": "2009-11-06T05:00:00.000Z",
+      "to": "2024-10-17T04:00:00.000Z"
+    },
+    {
+      "name": "Mountain West Business Solutions, Inc",
+      "from": "2007-11-05T05:00:00.000Z",
+      "to": "2009-11-02T05:00:00.000Z"
+    },
+    {
+      "name": "mountain west business solutions,inc",
+      "from": "2007-10-19T04:00:00.000Z",
+      "to": "2007-10-19T04:00:00.000Z"
+    },
+    {
+      "name": "mountain state business solutions,inc",
+      "from": "2007-05-25T04:00:00.000Z",
+      "to": "2007-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 361,
+  "download_timestamp": "2025-08-02 07:12:21 UTC"
+}

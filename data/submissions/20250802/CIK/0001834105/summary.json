@@ -1,0 +1,26 @@
+{
+  "cik": "0001834105",
+  "name": "IMPACT BIOMEDICAL INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "853926944",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "585 232 1500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 117,
+  "download_timestamp": "2025-08-02 07:26:13 UTC"
+}

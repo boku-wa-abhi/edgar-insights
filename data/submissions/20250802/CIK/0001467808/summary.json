@@ -1,0 +1,28 @@
+{
+  "cik": "0001467808",
+  "name": "Global Cord Blood Corp",
+  "entityType": "other",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "852-3605-8180",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "China Cord Blood Corp",
+      "from": "2009-07-07T04:00:00.000Z",
+      "to": "2018-03-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 390,
+  "download_timestamp": "2025-08-02 07:14:03 UTC"
+}

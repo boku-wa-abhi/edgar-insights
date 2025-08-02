@@ -1,0 +1,181 @@
+{
+  "cik": "0001446598",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Denso Corp",
+  "tickers": [
+    "DNZOY",
+    "DNZOF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0331",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "addresses": {
+    "mailing": {
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10005",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "60 WALL STREET",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10005",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-319-7600",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-23-100783",
+        "0001193805-19-001494",
+        "0001193805-17-002855",
+        "0001571049-14-005110",
+        "0001193805-13-000554",
+        "0001193805-11-000728"
+      ],
+      "filingDate": [
+        "2023-09-14",
+        "2019-11-22",
+        "2017-09-29",
+        "2014-10-15",
+        "2013-02-27",
+        "2011-04-14"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-09-14T20:05:56.000Z",
+        "2019-11-23T01:04:20.000Z",
+        "2017-09-29T17:07:05.000Z",
+        "2014-10-15T20:18:37.000Z",
+        "2013-02-27T19:43:29.000Z",
+        "2011-04-14T21:12:42.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-173507",
+        "333-234870",
+        "333-173507",
+        "333-199347",
+        "333-186901",
+        "333-173507"
+      ],
+      "filmNumber": [
+        "231255174",
+        "191243088",
+        "171110462",
+        "141157806",
+        "13646225",
+        "11760311"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        124928,
+        136135,
+        126855,
+        126398,
+        193965,
+        187888
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2326101d2_f6pos.htm",
+        "e618714_f6ef-dc.htm",
+        "e616991_f6pos-dc.htm",
+        "t1401958x14_f-6ef.htm",
+        "e610640_f6ef-denso.htm",
+        "e608340_f6ef-denso.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "",
+        "FORM F-6EF",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

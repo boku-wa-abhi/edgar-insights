@@ -1,0 +1,26 @@
+{
+  "cik": "0001766368",
+  "name": "Mayville Engineering Company, Inc.",
+  "entityType": "operating",
+  "sic": "3460",
+  "sicDescription": "Metal Forgings & Stampings",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MEC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "390944729",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "920-387-4500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 346,
+  "download_timestamp": "2025-08-02 07:23:20 UTC"
+}

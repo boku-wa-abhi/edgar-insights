@@ -1,0 +1,32 @@
+{
+  "cik": "0001137774",
+  "name": "PRUDENTIAL FINANCIAL INC",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRU",
+    "PFH",
+    "PRH",
+    "PRS"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "223703799",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9738026000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:52 UTC"
+}

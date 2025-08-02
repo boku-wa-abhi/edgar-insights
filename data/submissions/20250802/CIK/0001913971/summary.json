@@ -1,0 +1,26 @@
+{
+  "cik": "0001913971",
+  "name": "Princeton Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BPRN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(609) 921-1700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 282,
+  "download_timestamp": "2025-08-02 07:29:25 UTC"
+}

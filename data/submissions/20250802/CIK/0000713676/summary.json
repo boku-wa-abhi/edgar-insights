@@ -1,0 +1,37 @@
+{
+  "cik": "0000713676",
+  "name": "PNC FINANCIAL SERVICES GROUP, INC.",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251435979",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "888-762-2265",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PNC FINANCIAL SERVICES GROUP INC",
+      "from": "2000-06-27T04:00:00.000Z",
+      "to": "2011-11-10T05:00:00.000Z"
+    },
+    {
+      "name": "PNC BANK CORP",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2000-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 06:59:12 UTC"
+}

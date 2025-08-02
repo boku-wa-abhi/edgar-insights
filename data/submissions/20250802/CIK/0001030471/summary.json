@@ -1,0 +1,32 @@
+{
+  "cik": "0001030471",
+  "name": "UTSTARCOM HOLDINGS CORP.",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UTSI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "521782500",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 571 8192 8888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UTSTARCOM INC",
+      "from": "1999-12-20T05:00:00.000Z",
+      "to": "2011-07-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 872,
+  "download_timestamp": "2025-08-02 07:05:07 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001907982",
+  "name": "D-Wave Quantum Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QBTS",
+    "QBTS-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(604) 630-1428",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 535,
+  "download_timestamp": "2025-08-02 07:29:20 UTC"
+}

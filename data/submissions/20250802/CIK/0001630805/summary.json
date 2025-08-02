@@ -1,0 +1,32 @@
+{
+  "cik": "0001630805",
+  "name": "Babcock & Wilcox Enterprises, Inc.",
+  "entityType": "operating",
+  "sic": "3433",
+  "sicDescription": "Heating Equipment, Except Electric & Warm Air Furnaces",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BW",
+    "BWNB",
+    "BW-PA",
+    "BWSN"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "472783641",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "3308606205",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:19:12 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001319643",
+  "name": "FinTrade Sherpa, Inc.",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTSP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "474347638",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(832) 371-6531",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lode-Star Mining Inc.",
+      "from": "2015-05-28T04:00:00.000Z",
+      "to": "2025-02-19T05:00:00.000Z"
+    },
+    {
+      "name": "International Gold Corp.",
+      "from": "2005-03-04T05:00:00.000Z",
+      "to": "2015-05-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 199,
+  "download_timestamp": "2025-08-02 07:10:22 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0000006176",
+  "name": "AMPCO PITTSBURGH CORP",
+  "entityType": "operating",
+  "sic": "3561",
+  "sicDescription": "Pumps & Pumping Equipment",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AP",
+    "AP-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "251117717",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "412-456-4400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:56:09 UTC"
+}

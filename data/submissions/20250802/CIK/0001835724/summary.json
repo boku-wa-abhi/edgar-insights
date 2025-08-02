@@ -1,0 +1,28 @@
+{
+  "cik": "0001835724",
+  "name": "Zhihu Inc.",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZH",
+    "ZHIHF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86 10 82716605",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 242,
+  "download_timestamp": "2025-08-02 07:26:18 UTC"
+}

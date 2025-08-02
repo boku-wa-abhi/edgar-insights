@@ -1,0 +1,32 @@
+{
+  "cik": "0001267565",
+  "name": "COLLEGIUM PHARMACEUTICAL, INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COLL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "781-713-3699",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COLLEGIUM PHARMACEUTICAL INC",
+      "from": "2003-10-20T04:00:00.000Z",
+      "to": "2015-03-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 775,
+  "download_timestamp": "2025-08-02 07:09:21 UTC"
+}

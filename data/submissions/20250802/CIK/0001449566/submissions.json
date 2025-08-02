@@ -1,0 +1,196 @@
+{
+  "cik": "0001449566",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Wilmar International Ltd",
+  "tickers": [
+    "WLMIY",
+    "WLMIF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3010",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-24-000295",
+        "0001193805-17-003033",
+        "0001193805-16-002392",
+        "0001571049-14-005988",
+        "0001144204-09-013789",
+        "0001193805-09-000413",
+        "0001201935-08-000580"
+      ],
+      "filingDate": [
+        "2024-03-04",
+        "2017-09-29",
+        "2016-02-01",
+        "2014-11-07",
+        "2009-03-13",
+        "2009-02-17",
+        "2008-11-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-03-04T16:08:06.000Z",
+        "2017-09-29T18:24:31.000Z",
+        "2016-02-01T22:21:00.000Z",
+        "2014-11-07T22:01:24.000Z",
+        "2009-03-13T17:20:48.000Z",
+        "2009-02-17T19:41:36.000Z",
+        "2008-11-06T18:06:44.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-277625",
+        "333-157901",
+        "333-209318",
+        "333-200010",
+        "333-157901",
+        "333-157365",
+        "333-155107"
+      ],
+      "filmNumber": [
+        "24713399",
+        "171110997",
+        "161378272",
+        "141205674",
+        "09678961",
+        "09610676",
+        "081166252"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        139771,
+        125668,
+        211549,
+        127709,
+        147941,
+        54498,
+        78216
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e619318_f6ef-wi.htm",
+        "e617239_f6pos-wil.htm",
+        "e614531_f6ef-wilmar.htm",
+        "t1401998x135_f-6ef.htm",
+        "v142785_f-6ef.htm",
+        "e605067_f6ef-wilmar.txt",
+        "wilmarformf6.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "FORM F-6EF",
+        "",
+        "",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

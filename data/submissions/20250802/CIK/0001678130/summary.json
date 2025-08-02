@@ -1,0 +1,32 @@
+{
+  "cik": "0001678130",
+  "name": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "OPP",
+    "OPP-PA",
+    "OPP-PB",
+    "OPP-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-832-1440",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:20:29 UTC"
+}

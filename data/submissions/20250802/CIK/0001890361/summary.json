@@ -1,0 +1,36 @@
+{
+  "cik": "0001890361",
+  "name": "ASPAC III Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASPC",
+    "ASPCR",
+    "ASPCU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "852 9258 9728",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPAC III Acquisition Corp.",
+      "from": "2021-11-10T05:00:00.000Z",
+      "to": "2024-10-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 61,
+  "download_timestamp": "2025-08-02 07:28:52 UTC"
+}

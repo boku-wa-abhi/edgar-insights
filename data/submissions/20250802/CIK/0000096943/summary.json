@@ -1,0 +1,26 @@
+{
+  "cik": "0000096943",
+  "name": "TELEFLEX INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TFX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "231147939",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "610-225-6800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:08 UTC"
+}

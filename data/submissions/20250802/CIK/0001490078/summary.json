@@ -1,0 +1,37 @@
+{
+  "cik": "0001490078",
+  "name": "First Phosphate Corp.",
+  "entityType": "other",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "FRSPF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980643065",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "416-200-0657",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "First Potash Corp.",
+      "from": "2012-11-27T05:00:00.000Z",
+      "to": "2016-04-05T04:00:00.000Z"
+    },
+    {
+      "name": "PAN AMERICAN LITHIUM CORP",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 112,
+  "download_timestamp": "2025-08-02 07:14:45 UTC"
+}

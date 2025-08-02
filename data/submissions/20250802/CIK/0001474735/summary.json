@@ -1,0 +1,26 @@
+{
+  "cik": "0001474735",
+  "name": "GENERAC HOLDINGS INC.",
+  "entityType": "operating",
+  "sic": "3621",
+  "sicDescription": "Motors & Generators",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GNRC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "205654756",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "888 436-3722",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:14:18 UTC"
+}

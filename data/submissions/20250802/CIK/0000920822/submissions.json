@@ -1,0 +1,136 @@
+{
+  "cik": "0000920822",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "OUTOKUMPU OY                                            /FI",
+  "tickers": [
+    "OUTKY",
+    "OUTFF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": null,
+      "street2": null,
+      "city": null,
+      "stateOrCountry": null,
+      "zipCode": null,
+      "stateOrCountryDescription": null,
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "P.O. BOX 280 LANSITUULENTIE 7A",
+      "street2": null,
+      "city": "FINLAND",
+      "stateOrCountry": "H9",
+      "zipCode": "02101",
+      "stateOrCountryDescription": "Finland",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-23-001573",
+        "0001193805-09-000233",
+        "0001201935-08-000223"
+      ],
+      "filingDate": [
+        "2023-12-11",
+        "2009-02-05",
+        "2008-10-17"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-12-11T12:57:17.000Z",
+        "2009-02-05T17:14:07.000Z",
+        "2008-10-16T17:32:50.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-275979",
+        "333-157119",
+        "333-154375"
+      ],
+      "filmNumber": [
+        "231477477",
+        "09573845",
+        "081128006"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        139472,
+        54329,
+        77764
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e619108_f6ef-oo.htm",
+        "e604966_f6ef-outokumpu.txt",
+        "outokumpuunsponsoredformf6.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

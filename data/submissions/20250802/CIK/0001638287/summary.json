@@ -1,0 +1,37 @@
+{
+  "cik": "0001638287",
+  "name": "MetaVia Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTVA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472389984",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(857) 702-9600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NeuroBo Pharmaceuticals, Inc.",
+      "from": "2020-01-02T05:00:00.000Z",
+      "to": "2024-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "Gemphire Therapeutics Inc.",
+      "from": "2015-04-08T04:00:00.000Z",
+      "to": "2019-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 559,
+  "download_timestamp": "2025-08-02 07:19:24 UTC"
+}

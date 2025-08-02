@@ -1,0 +1,26 @@
+{
+  "cik": "0001833141",
+  "name": "CYBIN INC.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "CYBN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(908) 764-8385",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 313,
+  "download_timestamp": "2025-08-02 07:26:10 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001592560",
+  "name": "TCTM Kids IT Education Inc.",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VSA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 10 6213-5687",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tarena International, Inc.",
+      "from": "2013-11-26T05:00:00.000Z",
+      "to": "2024-02-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 251,
+  "download_timestamp": "2025-08-02 07:18:02 UTC"
+}

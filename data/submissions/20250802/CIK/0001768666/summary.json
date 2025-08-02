@@ -1,0 +1,37 @@
+{
+  "cik": "0001768666",
+  "name": "BlackRock Science & Technology Term Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BSTZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800 882 0052",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BlackRock Science & technology Trust II",
+      "from": "2019-02-27T05:00:00.000Z",
+      "to": "2023-03-24T04:00:00.000Z"
+    },
+    {
+      "name": "BlackRock Science & Technology Trust II",
+      "from": "2019-02-27T05:00:00.000Z",
+      "to": "2023-03-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 263,
+  "download_timestamp": "2025-08-02 07:23:24 UTC"
+}

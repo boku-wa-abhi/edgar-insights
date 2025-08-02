@@ -1,0 +1,26 @@
+{
+  "cik": "0001681206",
+  "name": "NI Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NODK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812683619",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "701-298-4200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:20:36 UTC"
+}

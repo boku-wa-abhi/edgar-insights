@@ -1,0 +1,26 @@
+{
+  "cik": "0001812923",
+  "name": "PGIM Short Duration High Yield Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "SDHY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "851095736",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(973) 802-5032",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 125,
+  "download_timestamp": "2025-08-02 07:25:00 UTC"
+}

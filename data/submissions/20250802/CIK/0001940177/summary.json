@@ -1,0 +1,32 @@
+{
+  "cik": "0001940177",
+  "name": "PodcastOne, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PODC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "352503373",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "310-858-0888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Courtside Group, Inc.",
+      "from": "2022-07-29T04:00:00.000Z",
+      "to": "2023-09-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 146,
+  "download_timestamp": "2025-08-02 07:29:55 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001408710",
+  "name": "Fabrinet",
+  "entityType": "operating",
+  "sic": "3661",
+  "sicDescription": "Telephone & Telegraph Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0626",
+  "tickers": [
+    "FN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981228572",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 748 0900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 875,
+  "download_timestamp": "2025-08-02 07:12:31 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000847538",
+  "name": "CHESAPEAKE FINANCIAL SHARES INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPKF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "541210845",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8044351181",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 51,
+  "download_timestamp": "2025-08-02 07:01:28 UTC"
+}

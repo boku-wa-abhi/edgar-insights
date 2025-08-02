@@ -1,0 +1,37 @@
+{
+  "cik": "0000717806",
+  "name": "FIRST US BANCSHARES, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FUSB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "630843362",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2055821084",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST US BANCSHARES INC",
+      "from": "2016-10-27T04:00:00.000Z",
+      "to": "2021-09-03T04:00:00.000Z"
+    },
+    {
+      "name": "UNITED SECURITY BANCSHARES INC",
+      "from": "1995-04-11T04:00:00.000Z",
+      "to": "2016-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:18 UTC"
+}

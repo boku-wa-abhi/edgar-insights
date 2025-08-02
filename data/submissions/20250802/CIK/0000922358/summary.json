@@ -1,0 +1,28 @@
+{
+  "cik": "0000922358",
+  "name": "FERRELLGAS PARTNERS L P",
+  "entityType": "operating",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "FGPR",
+    "FGPRB"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "431698480",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "816-792-1600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 971,
+  "download_timestamp": "2025-08-02 07:03:41 UTC"
+}

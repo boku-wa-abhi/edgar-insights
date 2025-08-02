@@ -1,0 +1,32 @@
+{
+  "cik": "0000091847",
+  "name": "SOURCE CAPITAL /DE/",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "941679410",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "626-385-5777",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SOURCE CAPITAL INC /DE/",
+      "from": "1995-11-16T05:00:00.000Z",
+      "to": "2025-01-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 568,
+  "download_timestamp": "2025-08-02 06:58:00 UTC"
+}

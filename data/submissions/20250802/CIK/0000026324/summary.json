@@ -1,0 +1,26 @@
+{
+  "cik": "0000026324",
+  "name": "CURTISS WRIGHT CORP",
+  "entityType": "operating",
+  "sic": "3590",
+  "sicDescription": "Misc Industrial & Commercial Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "130612970",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7048694600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:39 UTC"
+}

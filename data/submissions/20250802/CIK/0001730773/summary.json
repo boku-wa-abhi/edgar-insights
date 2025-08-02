@@ -1,0 +1,32 @@
+{
+  "cik": "0001730773",
+  "name": "Blue Star Foods Corp.",
+  "entityType": "operating",
+  "sic": "2092",
+  "sicDescription": "Prepared Fresh or  Frozen Fish & Seafoods",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BSFC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "824270040",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-341-2684",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AG ACQUISITION GROUP II, INC.",
+      "from": "2018-02-20T05:00:00.000Z",
+      "to": "2018-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 286,
+  "download_timestamp": "2025-08-02 07:22:13 UTC"
+}

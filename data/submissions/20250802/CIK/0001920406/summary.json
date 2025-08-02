@@ -1,0 +1,26 @@
+{
+  "cik": "0001920406",
+  "name": "Asset Entities Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "881293236",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "214-459-3117",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 303,
+  "download_timestamp": "2025-08-02 07:29:32 UTC"
+}

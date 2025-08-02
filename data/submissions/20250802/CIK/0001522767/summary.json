@@ -1,0 +1,32 @@
+{
+  "cik": "0001522767",
+  "name": "MARIMED INC.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRMD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "274672745",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "781-277-0007",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WORLDS ONLINE INC.",
+      "from": "2011-06-09T04:00:00.000Z",
+      "to": "2017-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 288,
+  "download_timestamp": "2025-08-02 07:15:54 UTC"
+}

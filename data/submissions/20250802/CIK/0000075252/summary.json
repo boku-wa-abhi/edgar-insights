@@ -1,0 +1,37 @@
+{
+  "cik": "0000075252",
+  "name": "OWENS & MINOR INC/VA/",
+  "entityType": "operating",
+  "sic": "5047",
+  "sicDescription": "Wholesale-Medical, Dental & Hospital Equipment & Supplies",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OMI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541701843",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8047237000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "O&M HOLDING INC",
+      "from": "1994-06-17T04:00:00.000Z",
+      "to": "1994-06-17T04:00:00.000Z"
+    },
+    {
+      "name": "OWENS & MINOR INC",
+      "from": "1994-04-22T04:00:00.000Z",
+      "to": "1994-03-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:42 UTC"
+}

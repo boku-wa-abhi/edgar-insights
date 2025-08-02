@@ -1,0 +1,32 @@
+{
+  "cik": "0000885550",
+  "name": "CREDIT ACCEPTANCE CORP",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CACC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "381999511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2483532700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CREDIT ACCEPTANCE CORPORATION",
+      "from": "1996-11-14T05:00:00.000Z",
+      "to": "2008-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:23 UTC"
+}

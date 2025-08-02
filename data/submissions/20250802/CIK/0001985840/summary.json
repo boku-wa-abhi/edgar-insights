@@ -1,0 +1,26 @@
+{
+  "cik": "0001985840",
+  "name": "Tidal Commodities Trust I",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DEFI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(844) 986-7676",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 74,
+  "download_timestamp": "2025-08-02 07:31:08 UTC"
+}

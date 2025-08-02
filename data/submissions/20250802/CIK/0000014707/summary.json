@@ -1,0 +1,42 @@
+{
+  "cik": "0000014707",
+  "name": "CALERES INC",
+  "entityType": "operating",
+  "sic": "3140",
+  "sicDescription": "Footwear, (No Rubber)",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CAL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "430197190",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3148544000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BROWN SHOE CO INC",
+      "from": "2003-06-25T04:00:00.000Z",
+      "to": "2015-05-27T04:00:00.000Z"
+    },
+    {
+      "name": "BROWN SHOE CO INC/",
+      "from": "1999-12-10T05:00:00.000Z",
+      "to": "2003-06-13T04:00:00.000Z"
+    },
+    {
+      "name": "BROWN GROUP INC",
+      "from": "1994-09-01T04:00:00.000Z",
+      "to": "1999-04-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 06:56:21 UTC"
+}

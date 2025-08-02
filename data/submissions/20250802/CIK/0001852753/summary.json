@@ -1,0 +1,26 @@
+{
+  "cik": "0001852753",
+  "name": "TIER ONE SILVER INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TSLVF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7787290600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:27:19 UTC"
+}

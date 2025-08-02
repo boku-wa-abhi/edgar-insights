@@ -1,0 +1,28 @@
+{
+  "cik": "0001794846",
+  "name": "Atlas Corp.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATCO-PD",
+    "ATCO-PH"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "604-638-2575",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 170,
+  "download_timestamp": "2025-08-02 07:24:20 UTC"
+}

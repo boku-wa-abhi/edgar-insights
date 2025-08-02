@@ -1,0 +1,26 @@
+{
+  "cik": "0001584549",
+  "name": "Village Farms International, Inc.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VFF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "4079361190",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 365,
+  "download_timestamp": "2025-08-02 07:17:48 UTC"
+}

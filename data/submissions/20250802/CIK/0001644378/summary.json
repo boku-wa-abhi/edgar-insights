@@ -1,0 +1,32 @@
+{
+  "cik": "0001644378",
+  "name": "RMR GROUP INC.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "RMR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474122583",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(617) 796-8320",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reit Management & Research Inc.",
+      "from": "2015-07-31T04:00:00.000Z",
+      "to": "2015-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 454,
+  "download_timestamp": "2025-08-02 07:19:35 UTC"
+}

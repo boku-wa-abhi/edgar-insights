@@ -1,0 +1,26 @@
+{
+  "cik": "0001069202",
+  "name": "LENNOX INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "3585",
+  "sicDescription": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LII"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "420991521",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972-497-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:11 UTC"
+}

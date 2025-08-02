@@ -1,0 +1,32 @@
+{
+  "cik": "0001108248",
+  "name": "KRONOS ADVANCED TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3564",
+  "sicDescription": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "KNOS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870440410",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-723-3247",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TSET INC",
+      "from": "2000-03-31T00:00:00.000Z",
+      "to": "2003-05-15T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:07:10 UTC"
+}

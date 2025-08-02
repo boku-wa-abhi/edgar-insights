@@ -1,0 +1,44 @@
+{
+  "cik": "0000313807",
+  "name": "BP PLC",
+  "entityType": "other",
+  "sic": "2911",
+  "sicDescription": "Petroleum Refining",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BP",
+    "BPAQF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "442074964000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BP AMOCO PLC",
+      "from": "1999-04-01T05:00:00.000Z",
+      "to": "2001-04-03T04:00:00.000Z"
+    },
+    {
+      "name": "BRITISH PETROLEUM CO PLC",
+      "from": "1998-03-10T05:00:00.000Z",
+      "to": "1998-02-09T05:00:00.000Z"
+    },
+    {
+      "name": "BRITISH PETROLEUM COMPANY",
+      "from": "1997-02-26T05:00:00.000Z",
+      "to": "1997-02-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:39 UTC"
+}

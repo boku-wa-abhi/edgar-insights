@@ -1,0 +1,30 @@
+{
+  "cik": "0002052161",
+  "name": "Real Asset Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RAAQ",
+    "RAAQU",
+    "RAAQW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "609-924-0759",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:33:18 UTC"
+}

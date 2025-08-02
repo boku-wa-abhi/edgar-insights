@@ -1,0 +1,30 @@
+{
+  "cik": "0002017950",
+  "name": "DT Cloud Star Acquisition Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTSQ",
+    "DTSQR",
+    "DTSQU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(718)8652000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 50,
+  "download_timestamp": "2025-08-02 07:32:07 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001689548",
+  "name": "Praxis Precision Medicines, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRAX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-300-8460",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 406,
+  "download_timestamp": "2025-08-02 07:20:48 UTC"
+}

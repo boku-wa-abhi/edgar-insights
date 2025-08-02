@@ -1,0 +1,26 @@
+{
+  "cik": "0001477720",
+  "name": "Asana, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "ASAN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "263912448",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(415) 525-3888",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 580,
+  "download_timestamp": "2025-08-02 07:14:24 UTC"
+}

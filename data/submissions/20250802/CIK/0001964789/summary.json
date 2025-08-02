@@ -1,0 +1,26 @@
+{
+  "cik": "0001964789",
+  "name": "Hut 8 Corp.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HUT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "922056803",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "305-224-6427",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 172,
+  "download_timestamp": "2025-08-02 07:30:34 UTC"
+}

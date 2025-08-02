@@ -1,0 +1,32 @@
+{
+  "cik": "0001699031",
+  "name": "GRAIL, Inc.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRAL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "863673636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(833) 694-2553",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GRAIL, LLC",
+      "from": "2023-12-11T05:00:00.000Z",
+      "to": "2024-06-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 148,
+  "download_timestamp": "2025-08-02 07:21:04 UTC"
+}

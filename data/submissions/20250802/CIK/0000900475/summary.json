@@ -1,0 +1,37 @@
+{
+  "cik": "0000900475",
+  "name": "SmartCard Marketing Systems Inc",
+  "entityType": "operating",
+  "sic": "5045",
+  "sicDescription": "Wholesale-Computers & Peripheral Equipment & Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMKG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "330558415",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "844-843-7296",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EMARKETPLACE INC",
+      "from": "1999-11-19T00:00:00.000Z",
+      "to": "2001-02-14T00:00:00.000Z"
+    },
+    {
+      "name": "COMPUTER MARKETPLACE INC",
+      "from": "1996-05-15T00:00:00.000Z",
+      "to": "1999-04-30T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 102,
+  "download_timestamp": "2025-08-02 07:03:00 UTC"
+}

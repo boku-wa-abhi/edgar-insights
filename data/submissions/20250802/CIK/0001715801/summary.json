@@ -1,0 +1,28 @@
+{
+  "cik": "0001715801",
+  "name": "Sartorius AG/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSSGY",
+    "SOAGY"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3025520319",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:21:41 UTC"
+}

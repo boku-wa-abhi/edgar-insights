@@ -1,0 +1,32 @@
+{
+  "cik": "0000918541",
+  "name": "NN INC",
+  "entityType": "operating",
+  "sic": "3540",
+  "sicDescription": "Metalworkg Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NNBR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "621096725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "980-264-4300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NN BALL & ROLLER INC",
+      "from": "1996-08-12T04:00:00.000Z",
+      "to": "2000-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:35 UTC"
+}

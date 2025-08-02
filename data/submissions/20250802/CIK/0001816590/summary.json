@@ -1,0 +1,32 @@
+{
+  "cik": "0001816590",
+  "name": "COMPASS Pathways plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMPS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "1-716-676-6461",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Compass Rx Ltd.",
+      "from": "2020-07-02T04:00:00.000Z",
+      "to": "2020-08-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 290,
+  "download_timestamp": "2025-08-02 07:25:09 UTC"
+}

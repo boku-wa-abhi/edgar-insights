@@ -1,0 +1,32 @@
+{
+  "cik": "0001035002",
+  "name": "VALERO ENERGY CORP/TX",
+  "entityType": "operating",
+  "sic": "2911",
+  "sicDescription": "Petroleum Refining",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VLO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741828067",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2103454524",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VALERO REFINING & MARKETING CO",
+      "from": "1997-05-13T04:00:00.000Z",
+      "to": "1997-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:14 UTC"
+}

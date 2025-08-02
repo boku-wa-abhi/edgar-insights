@@ -1,0 +1,39 @@
+{
+  "cik": "0001496254",
+  "name": "Alternative Strategies Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LTAFX",
+    "LTCFX"
+  ],
+  "exchanges": [
+    null,
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-409-2680",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alternative Strategies Fund",
+      "from": "2013-11-07T05:00:00.000Z",
+      "to": "2023-09-27T04:00:00.000Z"
+    },
+    {
+      "name": "Ladenburg Thalmann Alternative Strategies Fund",
+      "from": "2010-07-15T04:00:00.000Z",
+      "to": "2013-10-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 292,
+  "download_timestamp": "2025-08-02 07:14:57 UTC"
+}

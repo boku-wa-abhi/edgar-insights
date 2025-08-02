@@ -1,0 +1,26 @@
+{
+  "cik": "0001575965",
+  "name": "Gaming & Leisure Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1207",
+  "tickers": [
+    "GLPI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "462116489",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "610-401-2900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 885,
+  "download_timestamp": "2025-08-02 07:17:28 UTC"
+}

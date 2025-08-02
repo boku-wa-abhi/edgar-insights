@@ -1,0 +1,26 @@
+{
+  "cik": "0001888014",
+  "name": "AKANDA CORP.",
+  "entityType": "other",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AKAN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "442034889514",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 141,
+  "download_timestamp": "2025-08-02 07:28:46 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001807166",
+  "name": "Amesite Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AMST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "823431717",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(650) 516-7633",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Amesite Operating Co",
+      "from": "2020-04-14T04:00:00.000Z",
+      "to": "2020-09-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 294,
+  "download_timestamp": "2025-08-02 07:24:46 UTC"
+}

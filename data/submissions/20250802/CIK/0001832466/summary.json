@@ -1,0 +1,26 @@
+{
+  "cik": "0001832466",
+  "name": "Alignment Healthcare, Inc.",
+  "entityType": "operating",
+  "sic": "6324",
+  "sicDescription": "Hospital & Medical Service Plans",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465596242",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "844-310-2247",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 603,
+  "download_timestamp": "2025-08-02 07:26:07 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001703157",
+  "name": "Securetech Innovations, Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCTH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "820972782",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "612-317-8990",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Securetech, Inc.",
+      "from": "2017-07-18T04:00:00.000Z",
+      "to": "2018-02-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 130,
+  "download_timestamp": "2025-08-02 07:21:14 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001620749",
+  "name": "Panamera Holdings Corp",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "PHCI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "465707326",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "713-878-7200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PANAMERA HEALTHCARE Corp",
+      "from": "2014-09-26T04:00:00.000Z",
+      "to": "2021-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 101,
+  "download_timestamp": "2025-08-02 07:18:55 UTC"
+}

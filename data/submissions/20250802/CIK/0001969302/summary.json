@@ -1,0 +1,26 @@
+{
+  "cik": "0001969302",
+  "name": "Pony AI Inc.",
+  "entityType": "other",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PONY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86 020-3466 7656",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 60,
+  "download_timestamp": "2025-08-02 07:30:41 UTC"
+}

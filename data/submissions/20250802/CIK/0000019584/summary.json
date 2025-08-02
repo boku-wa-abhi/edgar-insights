@@ -1,0 +1,32 @@
+{
+  "cik": "0000019584",
+  "name": "CHEMED CORP",
+  "entityType": "operating",
+  "sic": "8082",
+  "sicDescription": "Services-Home Health Care Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "310791746",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(513)762-6690",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ROTO-ROOTER INC",
+      "from": "2003-07-15T04:00:00.000Z",
+      "to": "2004-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 06:56:28 UTC"
+}

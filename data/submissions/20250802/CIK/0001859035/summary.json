@@ -1,0 +1,30 @@
+{
+  "cik": "0001859035",
+  "name": "Mountain Crest Acquisition Corp. V",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MCAG",
+    "MCAGR",
+    "MCAGU"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "646-493-6558",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 162,
+  "download_timestamp": "2025-08-02 07:27:42 UTC"
+}

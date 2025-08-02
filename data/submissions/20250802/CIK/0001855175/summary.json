@@ -1,0 +1,26 @@
+{
+  "cik": "0001855175",
+  "name": "Contineum Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CTNM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271467257",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858) 333-5280",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 103,
+  "download_timestamp": "2025-08-02 07:27:31 UTC"
+}

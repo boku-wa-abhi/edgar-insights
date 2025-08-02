@@ -1,0 +1,32 @@
+{
+  "cik": "0000320187",
+  "name": "NIKE, Inc.",
+  "entityType": "operating",
+  "sic": "3021",
+  "sicDescription": "Rubber & Plastics Footwear",
+  "stateOfIncorporation": "OR",
+  "stateOfIncorporationDescription": "OR",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "NKE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "930584541",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5036713173",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NIKE INC",
+      "from": "1995-01-20T05:00:00.000Z",
+      "to": "2019-08-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:49 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001282957",
+  "name": "GABELLI GLOBAL UTILITY & INCOME TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLU",
+    "GLU-PB",
+    "GLU-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "320116828",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9149217728",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 485,
+  "download_timestamp": "2025-08-02 07:09:39 UTC"
+}

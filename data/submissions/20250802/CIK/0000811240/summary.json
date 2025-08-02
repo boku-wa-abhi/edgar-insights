@@ -1,0 +1,32 @@
+{
+  "cik": "0000811240",
+  "name": "BIOLASE, INC",
+  "entityType": "operating",
+  "sic": "3843",
+  "sicDescription": "Dental Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIOLQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870442441",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-361-1200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIOLASE TECHNOLOGY INC",
+      "from": "1996-11-15T05:00:00.000Z",
+      "to": "2012-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:43 UTC"
+}

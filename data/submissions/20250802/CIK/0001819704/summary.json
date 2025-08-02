@@ -1,0 +1,26 @@
+{
+  "cik": "0001819704",
+  "name": "Medirom Healthcare Technologies Inc.",
+  "entityType": "other",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "81-3-6721-7364",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:25:22 UTC"
+}

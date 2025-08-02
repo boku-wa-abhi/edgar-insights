@@ -1,0 +1,28 @@
+{
+  "cik": "0001143513",
+  "name": "GLADSTONE CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "GLAD",
+    "GLADZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "542040781",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "703-287-5800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 943,
+  "download_timestamp": "2025-08-02 07:08:00 UTC"
+}

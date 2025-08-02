@@ -1,0 +1,26 @@
+{
+  "cik": "0001343491",
+  "name": "STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GJP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7047152337",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 268,
+  "download_timestamp": "2025-08-02 07:10:57 UTC"
+}

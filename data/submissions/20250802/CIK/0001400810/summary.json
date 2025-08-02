@@ -1,0 +1,34 @@
+{
+  "cik": "0001400810",
+  "name": "HCI Group, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HCI",
+    "HCIIP"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "813 849-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Homeowners Choice, Inc.",
+      "from": "2007-05-16T04:00:00.000Z",
+      "to": "2013-05-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 939,
+  "download_timestamp": "2025-08-02 07:12:19 UTC"
+}

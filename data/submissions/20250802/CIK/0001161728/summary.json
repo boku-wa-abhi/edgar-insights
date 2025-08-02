@@ -1,0 +1,26 @@
+{
+  "cik": "0001161728",
+  "name": "MGE ENERGY INC",
+  "entityType": "operating",
+  "sic": "4900",
+  "sicDescription": "Electric, Gas & Sanitary Services",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGEE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "392040501",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(608) 252-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 751,
+  "download_timestamp": "2025-08-02 07:08:16 UTC"
+}

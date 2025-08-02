@@ -1,0 +1,32 @@
+{
+  "cik": "0001879293",
+  "name": "Mag Mile Capital, Inc.",
+  "entityType": "operating",
+  "sic": "3567",
+  "sicDescription": "Industrial Process Furnaces & Ovens",
+  "stateOfIncorporation": "OK",
+  "stateOfIncorporationDescription": "OK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MMCP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "871614433",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "801 209 0740",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Myson, Inc.",
+      "from": "2021-08-23T04:00:00.000Z",
+      "to": "2023-07-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 76,
+  "download_timestamp": "2025-08-02 07:28:32 UTC"
+}

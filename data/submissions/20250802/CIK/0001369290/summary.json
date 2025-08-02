@@ -1,0 +1,32 @@
+{
+  "cik": "0001369290",
+  "name": "MYOMO, INC.",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MYO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-996-9058",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MYOMO INC",
+      "from": "2006-06-30T04:00:00.000Z",
+      "to": "2020-02-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 07:11:28 UTC"
+}

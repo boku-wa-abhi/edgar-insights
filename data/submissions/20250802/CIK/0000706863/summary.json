@@ -1,0 +1,26 @@
+{
+  "cik": "0000706863",
+  "name": "UNION BANKSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VT",
+  "stateOfIncorporationDescription": "VT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "030283552",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8028886600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 836,
+  "download_timestamp": "2025-08-02 06:59:05 UTC"
+}

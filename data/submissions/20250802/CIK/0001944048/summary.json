@@ -1,0 +1,32 @@
+{
+  "cik": "0001944048",
+  "name": "Kenvue Inc.",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "KVUE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "881032011",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "908-874-1200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JNTL, Inc.",
+      "from": "2022-08-30T04:00:00.000Z",
+      "to": "2022-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 335,
+  "download_timestamp": "2025-08-02 07:30:00 UTC"
+}

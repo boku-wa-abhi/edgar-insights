@@ -1,0 +1,32 @@
+{
+  "cik": "0001866175",
+  "name": "Crescent Energy Co",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRGY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "871133610",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "713-332-7001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IE PubCo Inc.",
+      "from": "2021-06-08T04:00:00.000Z",
+      "to": "2021-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 345,
+  "download_timestamp": "2025-08-02 07:27:59 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000885978",
+  "name": "U S PHYSICAL THERAPY INC /NV",
+  "entityType": "operating",
+  "sic": "8000",
+  "sicDescription": "Services-Health Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USPH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760364866",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7132977000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:26 UTC"
+}

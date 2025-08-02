@@ -1,0 +1,37 @@
+{
+  "cik": "0000897723",
+  "name": "SANMINA CORP",
+  "entityType": "operating",
+  "sic": "3672",
+  "sicDescription": "Printed Circuit Boards",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "SANM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770228183",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4089643500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SANMINA-SCI CORP",
+      "from": "2002-02-14T05:00:00.000Z",
+      "to": "2012-10-30T04:00:00.000Z"
+    },
+    {
+      "name": "SANMINA CORP/DE",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2002-01-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:02:55 UTC"
+}

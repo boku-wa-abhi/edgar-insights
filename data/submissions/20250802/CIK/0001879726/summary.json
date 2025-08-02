@@ -1,0 +1,26 @@
+{
+  "cik": "0001879726",
+  "name": "Sidus Space Inc.",
+  "entityType": "operating",
+  "sic": "4812",
+  "sicDescription": "Radiotelephone Communications",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SIDU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "460628183",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "321-613-5620",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 221,
+  "download_timestamp": "2025-08-02 07:28:33 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001703644",
+  "name": "Granite Point Mortgage Trust Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GPMT",
+    "GPMT-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(212) 364-5500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 577,
+  "download_timestamp": "2025-08-02 07:21:16 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001090396",
+  "name": "TABLE TRAC INC",
+  "entityType": "operating",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TBTC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "880365568",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "952-548-8877",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 288,
+  "download_timestamp": "2025-08-02 07:06:44 UTC"
+}

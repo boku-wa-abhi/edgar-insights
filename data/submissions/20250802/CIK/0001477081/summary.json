@@ -1,0 +1,32 @@
+{
+  "cik": "0001477081",
+  "name": "Kolibri Global Energy Inc.",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KGEI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "805-484-3613",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BNK Petroleum Inc.",
+      "from": "2009-11-27T05:00:00.000Z",
+      "to": "2016-11-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:14:22 UTC"
+}

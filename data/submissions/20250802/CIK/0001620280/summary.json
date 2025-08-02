@@ -1,0 +1,32 @@
+{
+  "cik": "0001620280",
+  "name": "Uniti Group Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNIT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465230630",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "501-850-0820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COMMUNICATIONS SALES & LEASING, INC.",
+      "from": "2014-10-24T04:00:00.000Z",
+      "to": "2017-02-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 653,
+  "download_timestamp": "2025-08-02 07:18:54 UTC"
+}

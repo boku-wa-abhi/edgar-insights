@@ -1,0 +1,32 @@
+{
+  "cik": "0001945422",
+  "name": "Oak Woods Acquisition Corp",
+  "entityType": "operating",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OAKU",
+    "OAKUR",
+    "OAKUU",
+    "OAKUW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "4035617750",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 91,
+  "download_timestamp": "2025-08-02 07:30:05 UTC"
+}

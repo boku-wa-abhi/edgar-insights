@@ -1,0 +1,164 @@
+{
+  "cik": "0002034723",
+  "entityType": "other",
+  "sic": "5090",
+  "sicDescription": "Wholesale-Misc Durable Goods",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "One & one Green Technologies. INC",
+  "tickers": [
+    "YDDL"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "NO. 45 DILIMAN 1 SAN RAFAEL",
+      "street2": null,
+      "city": "BULACAN",
+      "stateOrCountry": "R6",
+      "zipCode": "3017",
+      "stateOrCountryDescription": "Philippines",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "NO. 45 DILIMAN 1 SAN RAFAEL",
+      "street2": null,
+      "city": "BULACAN",
+      "stateOrCountry": "R6",
+      "zipCode": "3017",
+      "stateOrCountryDescription": "Philippines",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "63 919-0785532",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-062908",
+        "0001213900-25-052277",
+        "0001213900-25-004967",
+        "0001213900-24-096548",
+        "0001213900-24-071959"
+      ],
+      "filingDate": [
+        "2025-07-11",
+        "2025-06-09",
+        "2025-01-21",
+        "2024-11-12",
+        "2024-08-23"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-10T23:30:59.000Z",
+        "2025-06-07T00:48:32.000Z",
+        "2025-01-21T20:15:03.000Z",
+        "2024-11-12T18:05:31.000Z",
+        "2024-08-22T23:33:02.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-284375",
+        "333-284375",
+        "333-284375",
+        "377-07403",
+        "377-07403"
+      ],
+      "filmNumber": [
+        "251117308",
+        "251032627",
+        "25542300",
+        "241446364",
+        "241233194"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        7228982,
+        6843211,
+        9535902,
+        8672148,
+        6218219
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0208103-08.htm",
+        "ea0208103-07.htm",
+        "ea0208103-05.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001783398",
+  "name": "UWM Holdings Corp",
+  "entityType": "operating",
+  "sic": "6162",
+  "sicDescription": "Mortgage Bankers & Loan Correspondents",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UWMC",
+    "UWMC-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "842124167",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "800-981-8898",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gores Holdings IV, Inc.",
+      "from": "2019-07-31T04:00:00.000Z",
+      "to": "2021-01-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 347,
+  "download_timestamp": "2025-08-02 07:23:53 UTC"
+}

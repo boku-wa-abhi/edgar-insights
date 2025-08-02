@@ -1,0 +1,39 @@
+{
+  "cik": "0000897802",
+  "name": "SPECIAL OPPORTUNITIES FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SPE",
+    "SPE-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "133702911",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "414-765-4319",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INSURED MUNICIPAL INCOME FUND INC",
+      "from": "1996-12-04T05:00:00.000Z",
+      "to": "2009-12-11T05:00:00.000Z"
+    },
+    {
+      "name": "PAINEWEBBER PREMIER INSURED MUNICIPAL INCOME FUND INC",
+      "from": "1994-11-29T05:00:00.000Z",
+      "to": "1996-01-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 728,
+  "download_timestamp": "2025-08-02 07:02:55 UTC"
+}

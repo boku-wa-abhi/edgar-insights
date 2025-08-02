@@ -1,0 +1,34 @@
+{
+  "cik": "0001131343",
+  "name": "ALTERITY THERAPEUTICS LTD",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ATHE",
+    "PRNAF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "61 3 9349 4906",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRANA BIOTECHNOLOGY LTD",
+      "from": "2002-05-29T04:00:00.000Z",
+      "to": "2019-04-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1011,
+  "download_timestamp": "2025-08-02 07:07:43 UTC"
+}

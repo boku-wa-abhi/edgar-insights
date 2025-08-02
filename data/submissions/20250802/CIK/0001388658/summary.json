@@ -1,0 +1,32 @@
+{
+  "cik": "0001388658",
+  "name": "iRhythm Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IRTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208149544",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-632-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IRhythm Technologies Inc",
+      "from": "2007-01-26T05:00:00.000Z",
+      "to": "2010-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 713,
+  "download_timestamp": "2025-08-02 07:12:00 UTC"
+}

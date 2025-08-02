@@ -1,0 +1,26 @@
+{
+  "cik": "0001990950",
+  "name": "Semilux International Ltd.",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "F5",
+  "stateOfIncorporationDescription": "Taiwan, Province of China",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SELX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "886-04-2567-3281",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 29,
+  "download_timestamp": "2025-08-02 07:31:15 UTC"
+}

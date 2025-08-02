@@ -1,0 +1,47 @@
+{
+  "cik": "0001433551",
+  "name": "Sino Green Land Corp.",
+  "entityType": "operating",
+  "sic": "5090",
+  "sicDescription": "Wholesale-Misc Durable Goods",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SGLA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "60387278732",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Go Silver Toprich, Inc.",
+      "from": "2021-07-12T04:00:00.000Z",
+      "to": "2021-07-12T04:00:00.000Z"
+    },
+    {
+      "name": "Sino Green Land Corp",
+      "from": "2009-04-22T04:00:00.000Z",
+      "to": "2020-01-08T05:00:00.000Z"
+    },
+    {
+      "name": "HENRY COUNTY PLYWOOD CORP",
+      "from": "2009-01-21T05:00:00.000Z",
+      "to": "2009-03-23T04:00:00.000Z"
+    },
+    {
+      "name": "Henry County Plywood Corp",
+      "from": "2009-01-21T05:00:00.000Z",
+      "to": "2009-03-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 188,
+  "download_timestamp": "2025-08-02 07:13:10 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001300317",
+  "name": "ECC Capital CORP",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECRO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841642470",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(949) 954-7052",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 199,
+  "download_timestamp": "2025-08-02 07:10:03 UTC"
+}

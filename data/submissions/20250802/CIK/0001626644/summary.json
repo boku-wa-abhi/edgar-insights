@@ -1,0 +1,32 @@
+{
+  "cik": "0001626644",
+  "name": "Odyssey Health, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "ODYY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "471022125",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-780-6559",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Odyssey Group International, Inc.",
+      "from": "2014-12-08T05:00:00.000Z",
+      "to": "2022-02-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 243,
+  "download_timestamp": "2025-08-02 07:19:05 UTC"
+}

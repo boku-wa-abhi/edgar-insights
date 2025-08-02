@@ -1,0 +1,32 @@
+{
+  "cik": "0001698990",
+  "name": "Magnolia Oil & Gas Corp",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "815365682",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "713-842-9050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TPG Pace Energy Holdings Corp.",
+      "from": "2017-02-28T05:00:00.000Z",
+      "to": "2018-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 591,
+  "download_timestamp": "2025-08-02 07:21:04 UTC"
+}

@@ -1,0 +1,164 @@
+{
+  "cik": "0002053033",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "ownerOrg": "06 Technology",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Platinum Analytics Cayman Ltd",
+  "tickers": [
+    "PLTS"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0930",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "60 ANSON ROAD, 17-01",
+      "street2": null,
+      "city": "MAPLETREE",
+      "stateOrCountry": "U0",
+      "zipCode": "079914",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "60 ANSON ROAD, 17-01",
+      "street2": null,
+      "city": "MAPLETREE",
+      "stateOrCountry": "U0",
+      "zipCode": "079914",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "65-6822-7800",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-020392",
+        "0001641172-25-015854",
+        "0001641172-25-009388",
+        "0001641172-25-003069",
+        "0001493152-25-003468"
+      ],
+      "filingDate": [
+        "2025-07-21",
+        "2025-06-20",
+        "2025-05-09",
+        "2025-04-08",
+        "2025-01-24"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-21T19:57:59.000Z",
+        "2025-06-20T20:21:28.000Z",
+        "2025-05-09T17:25:30.000Z",
+        "2025-04-08T00:50:11.000Z",
+        "2025-01-24T01:02:01.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287134",
+        "333-287134",
+        "333-287134",
+        "377-07692",
+        "377-07692"
+      ],
+      "filmNumber": [
+        "251137208",
+        "251061660",
+        "25929452",
+        "25819915",
+        "25551346"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        2752024,
+        2891734,
+        4494702,
+        2881321,
+        1576627
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

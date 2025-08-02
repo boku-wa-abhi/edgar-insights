@@ -1,0 +1,26 @@
+{
+  "cik": "0001593899",
+  "name": "Atea Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVIR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "460574869",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "857-204-8109",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 275,
+  "download_timestamp": "2025-08-02 07:18:05 UTC"
+}

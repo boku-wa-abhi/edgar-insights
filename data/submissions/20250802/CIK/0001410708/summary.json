@@ -1,0 +1,26 @@
+{
+  "cik": "0001410708",
+  "name": "Emo Capital Corp.",
+  "entityType": "operating",
+  "sic": "2870",
+  "sicDescription": "Agricultural Chemicals",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "NUVI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "702-628-7279",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 191,
+  "download_timestamp": "2025-08-02 07:12:35 UTC"
+}

@@ -1,0 +1,47 @@
+{
+  "cik": "0001452477",
+  "name": "Seven Hills Realty Trust",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SEVN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-332-9530",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RMR Mortgage Trust",
+      "from": "2020-07-29T04:00:00.000Z",
+      "to": "2021-09-20T04:00:00.000Z"
+    },
+    {
+      "name": "RMR Real Estate Income Fund",
+      "from": "2012-01-23T05:00:00.000Z",
+      "to": "2020-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "RMR Asia Pacific Real Estate Fund",
+      "from": "2009-06-17T04:00:00.000Z",
+      "to": "2012-01-19T05:00:00.000Z"
+    },
+    {
+      "name": "New RMR Asia Pacific Real Estate Fund",
+      "from": "2008-12-19T05:00:00.000Z",
+      "to": "2009-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 614,
+  "download_timestamp": "2025-08-02 07:13:46 UTC"
+}

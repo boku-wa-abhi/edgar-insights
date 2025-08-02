@@ -1,0 +1,47 @@
+{
+  "cik": "0000833444",
+  "name": "Johnson Controls International plc",
+  "entityType": "operating",
+  "sic": "3585",
+  "sicDescription": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "JCI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "414-524-1200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TYCO INTERNATIONAL plc",
+      "from": "2014-11-17T05:00:00.000Z",
+      "to": "2016-09-07T04:00:00.000Z"
+    },
+    {
+      "name": "TYCO INTERNATIONAL LTD",
+      "from": "2010-03-08T05:00:00.000Z",
+      "to": "2014-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "TYCO INTERNATIONAL LTD /BER/",
+      "from": "1997-08-05T04:00:00.000Z",
+      "to": "2010-04-07T04:00:00.000Z"
+    },
+    {
+      "name": "ADT LIMITED",
+      "from": "1995-02-15T05:00:00.000Z",
+      "to": "1997-07-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:01:12 UTC"
+}

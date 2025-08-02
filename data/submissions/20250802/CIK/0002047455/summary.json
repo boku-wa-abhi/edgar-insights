@@ -1,0 +1,30 @@
+{
+  "cik": "0002047455",
+  "name": "Quartzsea Acquisition Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "QSEA",
+    "QSEAR",
+    "QSEAU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-612-1400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:33:13 UTC"
+}

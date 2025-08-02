@@ -1,0 +1,39 @@
+{
+  "cik": "0001967478",
+  "name": "Captivision Inc.",
+  "entityType": "other",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "M5",
+  "stateOfIncorporationDescription": "Korea, Republic of",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAPT",
+    "CAPTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "82 70 5106 2804",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Phygital Immersive Ltd",
+      "from": "2023-03-23T04:00:00.000Z",
+      "to": "2023-06-22T04:00:00.000Z"
+    },
+    {
+      "name": "Phygital Immersive Limited.",
+      "from": "2023-03-06T05:00:00.000Z",
+      "to": "2023-03-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 152,
+  "download_timestamp": "2025-08-02 07:30:38 UTC"
+}

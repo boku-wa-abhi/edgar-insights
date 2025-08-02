@@ -1,0 +1,32 @@
+{
+  "cik": "0000924515",
+  "name": "GUIDED THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTHP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "582029543",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7702428723",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPECTRX INC",
+      "from": "1997-11-12T05:00:00.000Z",
+      "to": "2008-02-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:44 UTC"
+}

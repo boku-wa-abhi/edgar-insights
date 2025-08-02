@@ -1,0 +1,32 @@
+{
+  "cik": "0000899751",
+  "name": "TITAN INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TWI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363228472",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2172286011",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TITAN WHEEL INTERNATIONAL INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "1997-03-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:00 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001630472",
+  "name": "TPG RE Finance Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRTX",
+    "TRTX-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "415-743-1500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 519,
+  "download_timestamp": "2025-08-02 07:19:11 UTC"
+}

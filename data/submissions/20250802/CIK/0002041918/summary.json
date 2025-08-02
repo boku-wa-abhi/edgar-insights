@@ -1,0 +1,28 @@
+{
+  "cik": "0002041918",
+  "name": "Lottomatica Group S.p.A./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "L6",
+  "stateOfIncorporationDescription": "Italy",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LOTMY",
+    "LTMGF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:33:02 UTC"
+}

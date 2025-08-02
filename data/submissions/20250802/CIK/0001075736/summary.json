@@ -1,0 +1,37 @@
+{
+  "cik": "0001075736",
+  "name": "Crexendo, Inc.",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CXDO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870591719",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8012270004",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IMERGENT INC",
+      "from": "2002-07-23T04:00:00.000Z",
+      "to": "2011-05-20T04:00:00.000Z"
+    },
+    {
+      "name": "NETGATEWAY INC",
+      "from": "1999-06-01T04:00:00.000Z",
+      "to": "2002-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:25 UTC"
+}

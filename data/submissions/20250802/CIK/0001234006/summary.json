@@ -1,0 +1,30 @@
+{
+  "cik": "0001234006",
+  "name": "GLADSTONE COMMERCIAL CORP",
+  "entityType": "operating",
+  "sic": "6519",
+  "sicDescription": "Lessors of  Real Property, NEC",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GOOD",
+    "GOODN",
+    "GOODO"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "020681276",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-287-5853",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 941,
+  "download_timestamp": "2025-08-02 07:09:08 UTC"
+}

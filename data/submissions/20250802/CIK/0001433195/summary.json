@@ -1,0 +1,26 @@
+{
+  "cik": "0001433195",
+  "name": "APPFOLIO INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APPF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "260359894",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8053646047",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 789,
+  "download_timestamp": "2025-08-02 07:13:09 UTC"
+}

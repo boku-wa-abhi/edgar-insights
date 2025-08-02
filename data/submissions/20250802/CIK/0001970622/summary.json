@@ -1,0 +1,34 @@
+{
+  "cik": "0001970622",
+  "name": "USA Rare Earth, Inc.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USAR",
+    "USARW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981720278",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "813-867-6155",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Inflection Point Acquisition Corp. II",
+      "from": "2023-04-05T04:00:00.000Z",
+      "to": "2025-03-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 166,
+  "download_timestamp": "2025-08-02 07:30:45 UTC"
+}

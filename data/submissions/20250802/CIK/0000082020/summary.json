@@ -1,0 +1,32 @@
+{
+  "cik": "0000082020",
+  "name": "UNITED STATES LIME & MINERALS INC",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USLM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "750789226",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972-991-8400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCOTTISH HERITABLE INC",
+      "from": "1994-02-25T05:00:00.000Z",
+      "to": "1994-02-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 853,
+  "download_timestamp": "2025-08-02 06:57:50 UTC"
+}

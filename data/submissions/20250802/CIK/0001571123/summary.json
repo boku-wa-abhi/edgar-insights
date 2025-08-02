@@ -1,0 +1,32 @@
+{
+  "cik": "0001571123",
+  "name": "Science Applications International Corp",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0130",
+  "tickers": [
+    "SAIC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "461932921",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-676-4300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SAIC Gemini, Inc.",
+      "from": "2013-03-07T05:00:00.000Z",
+      "to": "2013-09-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:17:21 UTC"
+}

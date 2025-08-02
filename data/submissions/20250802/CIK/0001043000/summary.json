@@ -1,0 +1,32 @@
+{
+  "cik": "0001043000",
+  "name": "SONIDA SENIOR LIVING, INC.",
+  "entityType": "operating",
+  "sic": "8050",
+  "sicDescription": "Services-Nursing & Personal Care Facilities",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNDA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "752678809",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "9727705600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAPITAL SENIOR LIVING CORP",
+      "from": "1997-10-03T04:00:00.000Z",
+      "to": "2021-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:29 UTC"
+}

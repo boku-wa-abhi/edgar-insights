@@ -1,0 +1,26 @@
+{
+  "cik": "0000911177",
+  "name": "CASELLA WASTE SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "4953",
+  "sicDescription": "Refuse Systems",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "030338873",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8027750325",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:15 UTC"
+}

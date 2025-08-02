@@ -1,0 +1,57 @@
+{
+  "cik": "0000914208",
+  "name": "Invesco Ltd.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IVZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980557567",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "404-892-0896",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Asset Management Deutschland GMBH",
+      "from": "2021-11-08T05:00:00.000Z",
+      "to": "2021-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "Invesco Ltd",
+      "from": "2008-05-09T04:00:00.000Z",
+      "to": "2008-05-16T04:00:00.000Z"
+    },
+    {
+      "name": "INVESCO PLC/LONDON/",
+      "from": "2007-05-31T04:00:00.000Z",
+      "to": "2007-12-04T05:00:00.000Z"
+    },
+    {
+      "name": "AMVESCAP PLC/LONDON/",
+      "from": "1999-12-23T05:00:00.000Z",
+      "to": "2007-05-24T04:00:00.000Z"
+    },
+    {
+      "name": "AMVESCAP /LONDON/",
+      "from": "1999-10-28T04:00:00.000Z",
+      "to": "1999-12-17T05:00:00.000Z"
+    },
+    {
+      "name": "INVESCO PLC /LONDON",
+      "from": "1994-01-07T05:00:00.000Z",
+      "to": "1994-01-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:03:24 UTC"
+}

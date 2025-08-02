@@ -1,0 +1,32 @@
+{
+  "cik": "0001717115",
+  "name": "Tempus AI, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TEM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474903308",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-976-5448",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tempus Labs, Inc.",
+      "from": "2017-09-25T04:00:00.000Z",
+      "to": "2023-12-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 270,
+  "download_timestamp": "2025-08-02 07:21:44 UTC"
+}

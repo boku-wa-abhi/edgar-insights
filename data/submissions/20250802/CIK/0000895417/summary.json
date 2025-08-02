@@ -1,0 +1,32 @@
+{
+  "cik": "0000895417",
+  "name": "EQUITY LIFESTYLE PROPERTIES INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ELS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363857664",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3122791400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MANUFACTURED HOME COMMUNITIES INC",
+      "from": "1994-12-09T05:00:00.000Z",
+      "to": "2004-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:48 UTC"
+}

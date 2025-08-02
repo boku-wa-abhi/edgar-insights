@@ -1,0 +1,32 @@
+{
+  "cik": "0001069183",
+  "name": "AXON ENTERPRISE, INC.",
+  "entityType": "operating",
+  "sic": "3480",
+  "sicDescription": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AXON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860741227",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-991-0797",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TASER INTERNATIONAL INC",
+      "from": "2001-05-07T04:00:00.000Z",
+      "to": "2017-03-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:06:11 UTC"
+}

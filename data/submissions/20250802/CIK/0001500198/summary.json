@@ -1,0 +1,32 @@
+{
+  "cik": "0001500198",
+  "name": "NEUROONE MEDICAL TECHNOLOGIES Corp",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "NMTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "270863354",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(952) 426-1383",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Original Source Entertainment, Inc.",
+      "from": "2010-10-04T04:00:00.000Z",
+      "to": "2017-05-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 578,
+  "download_timestamp": "2025-08-02 07:15:06 UTC"
+}

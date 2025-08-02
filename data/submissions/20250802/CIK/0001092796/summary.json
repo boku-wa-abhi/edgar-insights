@@ -1,0 +1,52 @@
+{
+  "cik": "0001092796",
+  "name": "SMITH & WESSON BRANDS, INC.",
+  "entityType": "operating",
+  "sic": "3480",
+  "sicDescription": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "SWBI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870543688",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "844-363-5386",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICAN OUTDOOR BRANDS CORP",
+      "from": "2017-01-27T05:00:00.000Z",
+      "to": "2020-05-21T04:00:00.000Z"
+    },
+    {
+      "name": "AMERICAN OUTDOOR BRANDS CORPORATON",
+      "from": "2017-01-11T05:00:00.000Z",
+      "to": "2017-01-17T05:00:00.000Z"
+    },
+    {
+      "name": "SMITH & WESSON HOLDING CORP",
+      "from": "2002-04-08T04:00:00.000Z",
+      "to": "2016-12-19T05:00:00.000Z"
+    },
+    {
+      "name": "SAF T HAMMER CORP/NV",
+      "from": "2000-11-16T05:00:00.000Z",
+      "to": "2001-12-17T05:00:00.000Z"
+    },
+    {
+      "name": "LOST COAST VENTURES INC",
+      "from": "2000-01-19T05:00:00.000Z",
+      "to": "2000-04-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:06:48 UTC"
+}

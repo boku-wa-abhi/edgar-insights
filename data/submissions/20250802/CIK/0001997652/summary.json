@@ -1,0 +1,28 @@
+{
+  "cik": "0001997652",
+  "name": "Tamboran Resources Corp",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "TBN",
+    "TBNRL"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "61 2 8330 6626",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 119,
+  "download_timestamp": "2025-08-02 07:31:32 UTC"
+}

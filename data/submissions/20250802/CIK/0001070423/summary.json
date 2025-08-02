@@ -1,0 +1,28 @@
+{
+  "cik": "0001070423",
+  "name": "PLAINS ALL AMERICAN PIPELINE LP",
+  "entityType": "operating",
+  "sic": "4610",
+  "sicDescription": "Pipe Lines (No Natural Gas)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAA",
+    "PAAPU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "760582150",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7136544100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:15 UTC"
+}

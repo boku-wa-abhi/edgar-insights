@@ -1,0 +1,37 @@
+{
+  "cik": "0000879535",
+  "name": "DTF TAX-FREE INCOME 2028 TERM FUND INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "DTF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363793962",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-338-8214",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DTF TAX-FREE INCOME INC",
+      "from": "2003-06-27T04:00:00.000Z",
+      "to": "2022-01-19T05:00:00.000Z"
+    },
+    {
+      "name": "DUFF & PHELPS UTILITIES TAX FREE INCOME INC",
+      "from": "1995-12-29T05:00:00.000Z",
+      "to": "2003-04-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 548,
+  "download_timestamp": "2025-08-02 07:02:08 UTC"
+}

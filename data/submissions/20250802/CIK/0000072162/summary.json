@@ -1,0 +1,26 @@
+{
+  "cik": "0000072162",
+  "name": "NL INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "2810",
+  "sicDescription": "Industrial Inorganic Chemicals",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "135267260",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "972-233-1700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 978,
+  "download_timestamp": "2025-08-02 06:57:36 UTC"
+}

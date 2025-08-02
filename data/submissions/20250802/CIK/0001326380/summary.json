@@ -1,0 +1,32 @@
+{
+  "cik": "0001326380",
+  "name": "GameStop Corp.",
+  "entityType": "operating",
+  "sic": "5734",
+  "sicDescription": "Retail-Computer & Computer Software Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "GME"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "817-424-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GSC Holdings Corp.",
+      "from": "2005-05-23T04:00:00.000Z",
+      "to": "2005-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:10:33 UTC"
+}

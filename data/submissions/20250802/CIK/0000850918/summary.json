@@ -1,0 +1,38 @@
+{
+  "cik": "0000850918",
+  "name": "GREAT-WEST LIFECO INC.",
+  "entityType": "other",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GWLIF",
+    "GRWLF",
+    "GRWTF",
+    "GWLPF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "204-946-1190",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GREAT WEST LIFECO INC",
+      "from": "2003-03-28T05:00:00.000Z",
+      "to": "2018-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:01:32 UTC"
+}

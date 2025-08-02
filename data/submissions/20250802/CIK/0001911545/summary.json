@@ -1,0 +1,32 @@
+{
+  "cik": "0001911545",
+  "name": "Global Interactive Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GITS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "82-2-564-8588",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hanryu Holdings, Inc.",
+      "from": "2022-02-16T05:00:00.000Z",
+      "to": "2024-12-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 111,
+  "download_timestamp": "2025-08-02 07:29:22 UTC"
+}

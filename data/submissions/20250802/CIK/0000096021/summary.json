@@ -1,0 +1,26 @@
+{
+  "cik": "0000096021",
+  "name": "SYSCO CORP",
+  "entityType": "operating",
+  "sic": "5140",
+  "sicDescription": "Wholesale-Groceries & Related Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0628",
+  "tickers": [
+    "SYY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741648137",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "281-584-1390",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 06:58:06 UTC"
+}

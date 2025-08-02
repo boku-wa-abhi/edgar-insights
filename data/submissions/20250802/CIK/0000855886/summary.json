@@ -1,0 +1,42 @@
+{
+  "cik": "0000855886",
+  "name": "JOHN HANCOCK PREMIUM DIVIDEND FUND",
+  "entityType": "other",
+  "sic": "0000",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "PDT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043097281",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-663-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HANCOCK JOHN PATRIOT PREMIUM DIVIDEND FUND II",
+      "from": "1999-06-28T04:00:00.000Z",
+      "to": "2010-09-28T04:00:00.000Z"
+    },
+    {
+      "name": "HANCOCK JOHN PATRIOT PREMIUM DIVIDEND FUND 11",
+      "from": "1995-12-20T05:00:00.000Z",
+      "to": "1999-02-05T05:00:00.000Z"
+    },
+    {
+      "name": "PATRIOT PREMIUM DIVIDEND FUND II",
+      "from": "1994-12-30T05:00:00.000Z",
+      "to": "1994-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 562,
+  "download_timestamp": "2025-08-02 07:01:36 UTC"
+}

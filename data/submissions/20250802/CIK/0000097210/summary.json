@@ -1,0 +1,32 @@
+{
+  "cik": "0000097210",
+  "name": "TERADYNE, INC",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TER"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042272148",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978-370-2700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TERADYNE INC",
+      "from": "1994-05-06T04:00:00.000Z",
+      "to": "2006-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:08 UTC"
+}

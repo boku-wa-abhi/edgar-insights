@@ -1,0 +1,32 @@
+{
+  "cik": "0001852317",
+  "name": "Fidelity Wise Origin Bitcoin Fund",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FBTC"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "866606379",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(617)-392-2211",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wise Origin Bitcoin Trust",
+      "from": "2021-03-24T04:00:00.000Z",
+      "to": "2023-10-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:27:17 UTC"
+}

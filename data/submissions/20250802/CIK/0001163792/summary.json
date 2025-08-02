@@ -1,0 +1,32 @@
+{
+  "cik": "0001163792",
+  "name": "WESTERN ASSET PREMIER BOND FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "WEA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8887770102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WESTERN ASSET CORE PLUS BOND TRUST I",
+      "from": "2001-12-19T05:00:00.000Z",
+      "to": "2001-12-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 392,
+  "download_timestamp": "2025-08-02 07:08:19 UTC"
+}

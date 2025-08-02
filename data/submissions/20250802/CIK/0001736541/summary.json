@@ -1,0 +1,28 @@
+{
+  "cik": "0001736541",
+  "name": "NIO Inc.",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NIO",
+    "NIOIF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(86)(21) 69082018",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 351,
+  "download_timestamp": "2025-08-02 07:22:23 UTC"
+}

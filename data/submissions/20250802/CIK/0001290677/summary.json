@@ -1,0 +1,32 @@
+{
+  "cik": "0001290677",
+  "name": "Turning Point Brands, Inc.",
+  "entityType": "operating",
+  "sic": "2100",
+  "sicDescription": "Tobacco Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TPB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133961898",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(502) 778-4421",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "North Atlantic Holding Company, Inc.",
+      "from": "2004-05-18T04:00:00.000Z",
+      "to": "2015-09-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 619,
+  "download_timestamp": "2025-08-02 07:09:54 UTC"
+}

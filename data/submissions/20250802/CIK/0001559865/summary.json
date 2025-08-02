@@ -1,0 +1,26 @@
+{
+  "cik": "0001559865",
+  "name": "EVERTEC, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "PR",
+  "stateOfIncorporationDescription": "PR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EVTC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "660783622",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(787) 759-9999",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 891,
+  "download_timestamp": "2025-08-02 07:16:58 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0002069238",
+  "name": "Pyrophyte Acquisition Corp. II",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAII",
+    "PAII-UN"
+  ],
+  "exchanges": [
+    null,
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "281-701-4234",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 17,
+  "download_timestamp": "2025-08-02 07:33:42 UTC"
+}

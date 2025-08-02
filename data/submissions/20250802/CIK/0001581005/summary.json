@@ -1,0 +1,26 @@
+{
+  "cik": "0001581005",
+  "name": "Stone Ridge Trust II",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "SRRIX"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(855) 609-3680",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 212,
+  "download_timestamp": "2025-08-02 07:17:41 UTC"
+}

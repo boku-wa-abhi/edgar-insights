@@ -1,0 +1,47 @@
+{
+  "cik": "0001025378",
+  "name": "W. P. Carey Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WPC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133912578",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2124921100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "W P CAREY & CO LLC",
+      "from": "2011-06-23T04:00:00.000Z",
+      "to": "2012-10-10T04:00:00.000Z"
+    },
+    {
+      "name": "CAREY W P & CO LLC",
+      "from": "2000-11-30T05:00:00.000Z",
+      "to": "2011-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "CAREY DIVERSIFIED LLC",
+      "from": "1998-02-06T05:00:00.000Z",
+      "to": "2000-11-16T05:00:00.000Z"
+    },
+    {
+      "name": "CAREY DIVERSIFIED PROPERTIES LLC",
+      "from": "1997-10-15T04:00:00.000Z",
+      "to": "1997-10-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:01 UTC"
+}

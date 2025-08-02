@@ -1,0 +1,26 @@
+{
+  "cik": "0001499543",
+  "name": "Noah Holdings Ltd",
+  "entityType": "other",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NOAH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(86-21) 8035-9221",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 421,
+  "download_timestamp": "2025-08-02 07:15:05 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001813814",
+  "name": "Mind Medicine (MindMed) Inc.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-220-6633",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 396,
+  "download_timestamp": "2025-08-02 07:25:02 UTC"
+}

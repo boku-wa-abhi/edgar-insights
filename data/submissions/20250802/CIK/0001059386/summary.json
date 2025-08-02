@@ -1,0 +1,42 @@
+{
+  "cik": "0001059386",
+  "name": "Invesco Senior Income Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "VVR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364221649",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Van Kampen Senior Income Trust",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-19T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN SENIOR INCOME TRUST",
+      "from": "1998-11-04T05:00:00.000Z",
+      "to": "2010-05-10T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL SENIOR INCOME TRUST",
+      "from": "1998-04-09T04:00:00.000Z",
+      "to": "1998-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 711,
+  "download_timestamp": "2025-08-02 07:05:56 UTC"
+}

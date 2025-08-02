@@ -1,0 +1,42 @@
+{
+  "cik": "0000944809",
+  "name": "OPKO HEALTH, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "752402409",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "305-575-4181",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EXEGENICS INC",
+      "from": "2004-05-05T04:00:00.000Z",
+      "to": "2007-06-13T04:00:00.000Z"
+    },
+    {
+      "name": "eXegenics Inc",
+      "from": "2004-05-05T04:00:00.000Z",
+      "to": "2007-06-13T04:00:00.000Z"
+    },
+    {
+      "name": "CYTOCLONAL PHARMACEUTICS INC /DE",
+      "from": "1996-09-10T04:00:00.000Z",
+      "to": "2001-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:08 UTC"
+}

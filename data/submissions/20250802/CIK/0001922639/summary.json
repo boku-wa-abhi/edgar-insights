@@ -1,0 +1,26 @@
+{
+  "cik": "0001922639",
+  "name": "Permex Petroleum Corp",
+  "entityType": "operating",
+  "sic": "1381",
+  "sicDescription": "Drilling Oil & Gas Wells",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "OILCF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981384682",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(604) 259-2525",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:29:35 UTC"
+}

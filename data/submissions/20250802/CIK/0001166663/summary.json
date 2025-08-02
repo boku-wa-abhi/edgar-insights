@@ -1,0 +1,30 @@
+{
+  "cik": "0001166663",
+  "name": "TSAKOS ENERGY NAVIGATION LTD",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "TEN",
+    "TEN-PE",
+    "TEN-PF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 421,
+  "download_timestamp": "2025-08-02 07:08:22 UTC"
+}

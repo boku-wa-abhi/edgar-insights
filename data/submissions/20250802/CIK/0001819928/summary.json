@@ -1,0 +1,26 @@
+{
+  "cik": "0001819928",
+  "name": "DoubleVerify Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "822714562",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-631-2111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 536,
+  "download_timestamp": "2025-08-02 07:25:23 UTC"
+}

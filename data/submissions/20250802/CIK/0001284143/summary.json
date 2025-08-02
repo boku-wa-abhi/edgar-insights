@@ -1,0 +1,26 @@
+{
+  "cik": "0001284143",
+  "name": "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JBK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2125267000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 81,
+  "download_timestamp": "2025-08-02 07:09:40 UTC"
+}

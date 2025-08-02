@@ -1,0 +1,26 @@
+{
+  "cik": "0000820313",
+  "name": "AMPHENOL CORP /DE/",
+  "entityType": "operating",
+  "sic": "3678",
+  "sicDescription": "Electronic Connectors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "222785165",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2032658900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:00:55 UTC"
+}

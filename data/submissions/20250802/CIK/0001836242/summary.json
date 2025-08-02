@@ -1,0 +1,32 @@
+{
+  "cik": "0001836242",
+  "name": "Tokyo Lifestyle Co., Ltd.",
+  "entityType": "other",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "TKLF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(81)356260668",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Yoshitsu Co., Ltd",
+      "from": "2020-12-23T05:00:00.000Z",
+      "to": "2024-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 77,
+  "download_timestamp": "2025-08-02 07:26:18 UTC"
+}

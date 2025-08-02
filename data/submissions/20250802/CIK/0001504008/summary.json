@@ -1,0 +1,26 @@
+{
+  "cik": "0001504008",
+  "name": "BankUnited, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BKU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270162450",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(305) 569-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 875,
+  "download_timestamp": "2025-08-02 07:15:15 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000042582",
+  "name": "GOODYEAR TIRE & RUBBER CO /OH/",
+  "entityType": "operating",
+  "sic": "3011",
+  "sicDescription": "Tires & Inner Tubes",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "340253240",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "330-796-2121",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:57:01 UTC"
+}

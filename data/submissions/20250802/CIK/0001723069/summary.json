@@ -1,0 +1,32 @@
+{
+  "cik": "0001723069",
+  "name": "Tiziana Life Sciences Ltd",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLSA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "0044(0) 207-495-2379",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tiziana Life Sciences plc",
+      "from": "2017-11-30T05:00:00.000Z",
+      "to": "2021-10-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 420,
+  "download_timestamp": "2025-08-02 07:21:56 UTC"
+}

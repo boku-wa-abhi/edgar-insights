@@ -1,0 +1,26 @@
+{
+  "cik": "0002043424",
+  "name": "Fujikura Ltd/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "FKURF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3134",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:33:04 UTC"
+}

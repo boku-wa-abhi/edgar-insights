@@ -1,0 +1,34 @@
+{
+  "cik": "0001792627",
+  "name": "Just Eat Takeaway.com N.V.",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TKAYF",
+    "JTKWY"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "31202107007",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Takeaway.com N.V./FI",
+      "from": "2020-01-30T00:00:00.000Z",
+      "to": "2020-01-30T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 107,
+  "download_timestamp": "2025-08-02 07:24:15 UTC"
+}

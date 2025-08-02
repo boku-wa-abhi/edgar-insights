@@ -1,0 +1,26 @@
+{
+  "cik": "0001591588",
+  "name": "A-Mark Precious Metals, Inc.",
+  "entityType": "operating",
+  "sic": "5094",
+  "sicDescription": "Wholesale-Jewelry, Watches, Precious Stones & Metals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AMRK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "112464169",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "310-587-1414",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 573,
+  "download_timestamp": "2025-08-02 07:18:00 UTC"
+}

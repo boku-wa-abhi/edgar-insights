@@ -1,0 +1,28 @@
+{
+  "cik": "0001808377",
+  "name": "Innovative Eyewear Inc",
+  "entityType": "operating",
+  "sic": "3851",
+  "sicDescription": "Ophthalmic Goods",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LUCY",
+    "LUCYW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "842794274",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "786-910-1898",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 185,
+  "download_timestamp": "2025-08-02 07:24:49 UTC"
+}

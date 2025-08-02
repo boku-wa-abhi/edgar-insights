@@ -1,0 +1,37 @@
+{
+  "cik": "0001528437",
+  "name": "BlackRock Municipal 2030 Target Term Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "BTT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(800) 882-0052",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BlackRock Municipal Target Term Trust",
+      "from": "2012-06-26T04:00:00.000Z",
+      "to": "2016-02-17T05:00:00.000Z"
+    },
+    {
+      "name": "BlackRock Municipal 2027 Term Trust",
+      "from": "2011-08-30T04:00:00.000Z",
+      "to": "2011-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 242,
+  "download_timestamp": "2025-08-02 07:16:05 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001185348",
+  "name": "PRA GROUP INC",
+  "entityType": "operating",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRAA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "753078675",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7575199300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PORTFOLIO RECOVERY ASSOCIATES INC",
+      "from": "2002-09-06T04:00:00.000Z",
+      "to": "2014-10-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:46 UTC"
+}

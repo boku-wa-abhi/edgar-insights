@@ -1,0 +1,26 @@
+{
+  "cik": "0001845799",
+  "name": "Cullman Bancorp, Inc. /MD/",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CULL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "611990996",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(256) 734-1740",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 87,
+  "download_timestamp": "2025-08-02 07:26:52 UTC"
+}

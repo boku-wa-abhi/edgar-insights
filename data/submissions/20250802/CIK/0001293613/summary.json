@@ -1,0 +1,42 @@
+{
+  "cik": "0001293613",
+  "name": "Kayne Anderson Energy Infrastructure Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "KYN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "713-425-0242",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kayne Anderson MLP/Midstream Investment Co",
+      "from": "2018-08-21T04:00:00.000Z",
+      "to": "2020-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "Kayne Anderson MLP Investment CO",
+      "from": "2004-08-13T04:00:00.000Z",
+      "to": "2018-08-17T04:00:00.000Z"
+    },
+    {
+      "name": "Kayne Anderson Midstream Investment CO",
+      "from": "2004-06-15T04:00:00.000Z",
+      "to": "2004-06-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 962,
+  "download_timestamp": "2025-08-02 07:09:56 UTC"
+}

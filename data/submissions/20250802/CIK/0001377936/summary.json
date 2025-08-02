@@ -1,0 +1,45 @@
+{
+  "cik": "0001377936",
+  "name": "SARATOGA INVESTMENT CORP.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "SAR",
+    "SAJ",
+    "SAT",
+    "SAY",
+    "SAZ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "204876925",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212 750-3343",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GSC INVESTMENT CORP.",
+      "from": "2007-03-12T04:00:00.000Z",
+      "to": "2010-08-03T04:00:00.000Z"
+    },
+    {
+      "name": "GSC Investment LLC",
+      "from": "2006-10-18T04:00:00.000Z",
+      "to": "2007-03-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 701,
+  "download_timestamp": "2025-08-02 07:11:42 UTC"
+}

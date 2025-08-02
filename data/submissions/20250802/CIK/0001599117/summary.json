@@ -1,0 +1,26 @@
+{
+  "cik": "0001599117",
+  "name": "Mentor Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6799",
+  "sicDescription": "Investors, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNTR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "770395098",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(760) 788-4700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 200,
+  "download_timestamp": "2025-08-02 07:18:14 UTC"
+}

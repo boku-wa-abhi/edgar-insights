@@ -1,0 +1,32 @@
+{
+  "cik": "0000936958",
+  "name": "SPDR S&P MIDCAP 400 ETF TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "137077797",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-656-4440",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MIDCAP SPDR TRUST SERIES 1",
+      "from": "1996-01-19T05:00:00.000Z",
+      "to": "2009-12-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 197,
+  "download_timestamp": "2025-08-02 07:04:02 UTC"
+}

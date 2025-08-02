@@ -1,0 +1,28 @@
+{
+  "cik": "0001093028",
+  "name": "EAST JAPAN RAILWAY CO                                   /FI",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "EJPRY",
+    "EJPRF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 63,
+  "download_timestamp": "2025-08-02 07:06:48 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001190935",
+  "name": "PIMCO CORPORATE & INCOME OPPORTUNITY FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PTY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "466121513",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-739-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIMCO CORPORATE OPPORTUNITY FUND",
+      "from": "2002-10-23T04:00:00.000Z",
+      "to": "2012-01-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 590,
+  "download_timestamp": "2025-08-02 07:08:47 UTC"
+}

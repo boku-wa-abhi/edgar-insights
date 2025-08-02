@@ -1,0 +1,26 @@
+{
+  "cik": "0001674335",
+  "name": "JELD-WEN Holding, Inc.",
+  "entityType": "operating",
+  "sic": "2430",
+  "sicDescription": "Millwood, Veneer, Plywood, & Structural Wood Members",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JELD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "931273278",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "704-378-5700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 668,
+  "download_timestamp": "2025-08-02 07:20:23 UTC"
+}

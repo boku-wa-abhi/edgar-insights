@@ -1,0 +1,42 @@
+{
+  "cik": "0001108426",
+  "name": "TXNM ENERGY INC",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "NM",
+  "stateOfIncorporationDescription": "NM",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TXNM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "850019030",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5052412700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PNM RESOURCES INC",
+      "from": "2003-04-15T04:00:00.000Z",
+      "to": "2024-08-02T04:00:00.000Z"
+    },
+    {
+      "name": "PNM RESOURCES",
+      "from": "2001-10-04T04:00:00.000Z",
+      "to": "2003-04-11T04:00:00.000Z"
+    },
+    {
+      "name": "MANZANO CORP",
+      "from": "2000-07-21T04:00:00.000Z",
+      "to": "2001-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:11 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001368458",
+  "name": "Sally Beauty Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SBH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "362257936",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(940) 898-7500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Sally Holdings, Inc.",
+      "from": "2006-08-02T04:00:00.000Z",
+      "to": "2006-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:25 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000888721",
+  "name": "TRINITY BIOTECH PLC",
+  "entityType": "other",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRIB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "01135312955111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 07:02:33 UTC"
+}

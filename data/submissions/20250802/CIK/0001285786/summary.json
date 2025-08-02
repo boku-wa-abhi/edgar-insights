@@ -1,0 +1,32 @@
+{
+  "cik": "0001285786",
+  "name": "EMX Royalty Corp",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EMX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "604-688-6390",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EURASIAN MINERALS INC",
+      "from": "2004-03-26T05:00:00.000Z",
+      "to": "2017-07-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 529,
+  "download_timestamp": "2025-08-02 07:09:43 UTC"
+}

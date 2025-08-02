@@ -1,0 +1,26 @@
+{
+  "cik": "0001101239",
+  "name": "EQUINIX INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EQIX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770487526",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(650) 598-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:02 UTC"
+}

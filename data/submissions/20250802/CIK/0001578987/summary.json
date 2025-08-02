@@ -1,0 +1,32 @@
+{
+  "cik": "0001578987",
+  "name": "ArrowMark Financial Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BANX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "900934878",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(303) 398-2929",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "StoneCastle Financial Corp.",
+      "from": "2013-06-14T04:00:00.000Z",
+      "to": "2022-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 363,
+  "download_timestamp": "2025-08-02 07:17:35 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001850119",
+  "name": "Century Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IPSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "842040295",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "215-981-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 318,
+  "download_timestamp": "2025-08-02 07:27:09 UTC"
+}

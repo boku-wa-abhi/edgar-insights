@@ -1,0 +1,34 @@
+{
+  "cik": "0001067318",
+  "name": "DAIMLER AG",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "2M",
+  "stateOfIncorporationDescription": "Germany",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MBGYY",
+    "MBGAF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "980190736",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "01149711170",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DAIMLERCHRYSLER AG",
+      "from": "1998-11-04T05:00:00.000Z",
+      "to": "2007-08-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 426,
+  "download_timestamp": "2025-08-02 07:06:08 UTC"
+}

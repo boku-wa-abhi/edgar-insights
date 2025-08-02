@@ -1,0 +1,34 @@
+{
+  "cik": "0001844505",
+  "name": "QT IMAGING HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QTIH",
+    "QTIWW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "861728920",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "415-842-7250",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GigCapital5, Inc.",
+      "from": "2021-02-23T05:00:00.000Z",
+      "to": "2024-02-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 342,
+  "download_timestamp": "2025-08-02 07:26:49 UTC"
+}

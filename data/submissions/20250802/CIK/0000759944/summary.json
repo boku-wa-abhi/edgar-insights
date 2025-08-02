@@ -1,0 +1,36 @@
+{
+  "cik": "0000759944",
+  "name": "CITIZENS FINANCIAL GROUP INC/RI",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CFG",
+    "CFG-PE",
+    "CFG-PH"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "050412693",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2039006715",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CITIZENS FINANCIAL GROUP INC/DE",
+      "from": "1999-07-01T04:00:00.000Z",
+      "to": "2000-02-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:59:54 UTC"
+}

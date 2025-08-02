@@ -1,0 +1,32 @@
+{
+  "cik": "0001877778",
+  "name": "Thiogenesis Therapeutics, Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "TTIPF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6478467766",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rozdil Capital Corp",
+      "from": "2021-08-11T00:00:00.000Z",
+      "to": "2021-08-11T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:28:29 UTC"
+}

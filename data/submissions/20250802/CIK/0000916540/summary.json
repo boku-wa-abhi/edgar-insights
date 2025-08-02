@@ -1,0 +1,32 @@
+{
+  "cik": "0000916540",
+  "name": "DARLING INGREDIENTS INC.",
+  "entityType": "operating",
+  "sic": "2070",
+  "sicDescription": "Fats & Oils",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "DAR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "362495346",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9727170300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DARLING INTERNATIONAL INC",
+      "from": "1995-11-29T05:00:00.000Z",
+      "to": "2014-03-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:28 UTC"
+}

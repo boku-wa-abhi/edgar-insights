@@ -1,0 +1,32 @@
+{
+  "cik": "0001301713",
+  "name": "STARCORE INTERNATIONAL MINES LTD.",
+  "entityType": "other",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "SHVLF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "604-602-4935",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Starcore International Ventures Ltd.",
+      "from": "2004-08-31T00:00:00.000Z",
+      "to": "2016-02-01T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:10:05 UTC"
+}

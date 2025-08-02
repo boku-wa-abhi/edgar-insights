@@ -1,0 +1,26 @@
+{
+  "cik": "0002033807",
+  "name": "Franklin Crypto Trust",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EZPZ"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(650) 312-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 31,
+  "download_timestamp": "2025-08-02 07:32:46 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0000716634",
+  "name": "READING INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "7830",
+  "sicDescription": "Services-Motion Picture Theaters",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDI",
+    "RDIB"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "953885184",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "213 235 2240",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CITADEL HOLDING CORP",
+      "from": "1994-03-24T05:00:00.000Z",
+      "to": "2001-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "CETADEL HOLDING CORP",
+      "from": "1994-12-16T05:00:00.000Z",
+      "to": "1994-12-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:15 UTC"
+}

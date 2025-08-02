@@ -1,0 +1,32 @@
+{
+  "cik": "0000923601",
+  "name": "Algorhythm Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3652",
+  "sicDescription": "Phonograph Records & Prerecorded Audio Tapes & Disks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RIME"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "953795478",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(954) 596-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SINGING MACHINE CO INC",
+      "from": "1996-08-23T04:00:00.000Z",
+      "to": "2024-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 781,
+  "download_timestamp": "2025-08-02 07:03:43 UTC"
+}

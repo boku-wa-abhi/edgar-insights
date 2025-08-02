@@ -1,0 +1,37 @@
+{
+  "cik": "0000805267",
+  "name": "abrdn Healthcare Investors",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "HQH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "046564285",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6177728515",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TEKLA HEALTHCARE INVESTORS",
+      "from": "2014-10-15T04:00:00.000Z",
+      "to": "2023-10-05T04:00:00.000Z"
+    },
+    {
+      "name": "H&Q HEALTHCARE INVESTORS",
+      "from": "1995-12-13T05:00:00.000Z",
+      "to": "2014-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 516,
+  "download_timestamp": "2025-08-02 07:00:36 UTC"
+}

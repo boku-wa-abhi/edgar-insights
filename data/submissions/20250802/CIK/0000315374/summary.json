@@ -1,0 +1,26 @@
+{
+  "cik": "0000315374",
+  "name": "HURCO COMPANIES INC",
+  "entityType": "operating",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "HURC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "351150732",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "3172935309",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 977,
+  "download_timestamp": "2025-08-02 06:58:42 UTC"
+}

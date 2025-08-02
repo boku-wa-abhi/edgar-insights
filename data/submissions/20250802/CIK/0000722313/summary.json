@@ -1,0 +1,26 @@
+{
+  "cik": "0000722313",
+  "name": "NORTECH SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NSYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411681094",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "952-345-2244",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 535,
+  "download_timestamp": "2025-08-02 06:59:24 UTC"
+}

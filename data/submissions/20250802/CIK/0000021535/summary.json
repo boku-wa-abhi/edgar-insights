@@ -1,0 +1,26 @@
+{
+  "cik": "0000021535",
+  "name": "COHU INC",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "COHU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "951934119",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "858-848-8100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:33 UTC"
+}

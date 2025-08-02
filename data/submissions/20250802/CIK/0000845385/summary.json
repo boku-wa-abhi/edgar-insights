@@ -1,0 +1,37 @@
+{
+  "cik": "0000845385",
+  "name": "PRINCETON CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PIAC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "463516073",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "978-794-3366",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REGAL ONE CORP",
+      "from": "2009-08-05T04:00:00.000Z",
+      "to": "2015-03-12T04:00:00.000Z"
+    },
+    {
+      "name": "REGAL ONE Corp",
+      "from": "2009-08-05T04:00:00.000Z",
+      "to": "2015-03-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 362,
+  "download_timestamp": "2025-08-02 07:01:24 UTC"
+}

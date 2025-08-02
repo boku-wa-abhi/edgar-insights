@@ -1,0 +1,26 @@
+{
+  "cik": "0001827855",
+  "name": "Medicale Corp.",
+  "entityType": "operating",
+  "sic": "8000",
+  "sicDescription": "Services-Health Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "MCLE"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981556944",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "407-245-7339",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 46,
+  "download_timestamp": "2025-08-02 07:25:48 UTC"
+}

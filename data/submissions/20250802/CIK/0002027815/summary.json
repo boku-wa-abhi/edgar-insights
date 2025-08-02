@@ -1,0 +1,26 @@
+{
+  "cik": "0002027815",
+  "name": "Bluemount Holdings Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BMHL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(852)97172429",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 18,
+  "download_timestamp": "2025-08-02 07:32:29 UTC"
+}

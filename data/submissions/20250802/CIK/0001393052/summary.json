@@ -1,0 +1,32 @@
+{
+  "cik": "0001393052",
+  "name": "VEEVA SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "VEEV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "208235463",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "925-452-6500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VERTICALS ONDEMAND INC",
+      "from": "2007-03-07T05:00:00.000Z",
+      "to": "2007-03-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:06 UTC"
+}

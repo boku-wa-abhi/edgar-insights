@@ -1,0 +1,32 @@
+{
+  "cik": "0001543418",
+  "name": "Trilogy Metals Inc.",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "TMQ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(604) 638-8088",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NovaCopper Inc.",
+      "from": "2012-03-01T05:00:00.000Z",
+      "to": "2016-09-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:16:33 UTC"
+}

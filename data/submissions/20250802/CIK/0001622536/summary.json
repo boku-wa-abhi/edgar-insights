@@ -1,0 +1,26 @@
+{
+  "cik": "0001622536",
+  "name": "Talen Energy Corp",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471197305",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "888-211-6011",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 354,
+  "download_timestamp": "2025-08-02 07:19:01 UTC"
+}

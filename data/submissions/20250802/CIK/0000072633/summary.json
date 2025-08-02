@@ -1,0 +1,26 @@
+{
+  "cik": "0000072633",
+  "name": "NORTH EUROPEAN OIL ROYALTY TRUST",
+  "entityType": "operating",
+  "sic": "6792",
+  "sicDescription": "Oil Royalty Traders",
+  "stateOfIncorporation": "NH",
+  "stateOfIncorporationDescription": "NH",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "NRT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "222084119",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7327414008",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 514,
+  "download_timestamp": "2025-08-02 06:57:37 UTC"
+}

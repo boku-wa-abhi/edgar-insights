@@ -1,0 +1,32 @@
+{
+  "cik": "0000846913",
+  "name": "FUEL TECH, INC.",
+  "entityType": "operating",
+  "sic": "3564",
+  "sicDescription": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTEK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205657551",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6308454431",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FUEL TECH N V",
+      "from": "1997-06-16T04:00:00.000Z",
+      "to": "2006-10-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:27 UTC"
+}

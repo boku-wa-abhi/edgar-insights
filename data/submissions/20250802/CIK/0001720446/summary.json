@@ -1,0 +1,32 @@
+{
+  "cik": "0001720446",
+  "name": "Zepp Health Corp",
+  "entityType": "other",
+  "sic": "3571",
+  "sicDescription": "Electronic Computers",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZEPP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86551-65837200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Huami Corp",
+      "from": "2017-11-06T05:00:00.000Z",
+      "to": "2021-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:21:50 UTC"
+}

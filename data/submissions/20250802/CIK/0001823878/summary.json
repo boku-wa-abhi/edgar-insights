@@ -1,0 +1,34 @@
+{
+  "cik": "0001823878",
+  "name": "PLAYSTUDIOS, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MYPS",
+    "MYPSW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981606155",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "725-877-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Acies Acquisition Corp.",
+      "from": "2020-09-22T04:00:00.000Z",
+      "to": "2021-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 318,
+  "download_timestamp": "2025-08-02 07:25:37 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001405495",
+  "name": "InterDigital, Inc.",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IDCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "824936666",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "302-281-3600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:12:27 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001595974",
+  "name": "MAGNITE, INC.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGNI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208881738",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-243-2769",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RUBICON PROJECT, INC.",
+      "from": "2014-01-16T05:00:00.000Z",
+      "to": "2020-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:18:08 UTC"
+}

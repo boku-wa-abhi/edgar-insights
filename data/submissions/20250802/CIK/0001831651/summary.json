@@ -1,0 +1,26 @@
+{
+  "cik": "0001831651",
+  "name": "Shoals Technologies Group, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHLS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-451-1400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 378,
+  "download_timestamp": "2025-08-02 07:26:04 UTC"
+}

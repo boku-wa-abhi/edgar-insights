@@ -1,0 +1,34 @@
+{
+  "cik": "0001527166",
+  "name": "Carlyle Group Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CG",
+    "CGABL"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "452832612",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "202 729 5626",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Carlyle Group L.P.",
+      "from": "2011-09-06T04:00:00.000Z",
+      "to": "2020-01-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:16:00 UTC"
+}

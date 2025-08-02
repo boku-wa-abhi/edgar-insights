@@ -1,0 +1,32 @@
+{
+  "cik": "0001649752",
+  "name": "Nouveau Monde Graphite Inc.",
+  "entityType": "other",
+  "sic": "1090",
+  "sicDescription": "Miscellaneous Metal Ores",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NMG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "819-923-0333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nouveau Monde Mining Enterprises Inc.",
+      "from": "2015-08-03T04:00:00.000Z",
+      "to": "2019-04-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 151,
+  "download_timestamp": "2025-08-02 07:19:44 UTC"
+}

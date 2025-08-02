@@ -1,0 +1,26 @@
+{
+  "cik": "0000718413",
+  "name": "COMMUNITY BANCORP /VT",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "VT",
+  "stateOfIncorporationDescription": "VT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMTV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "030284070",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "802-334-7915",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:18 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001970743",
+  "name": "RMX INDUSTRIES, INC.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RMXI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "882960484",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "619-977-7203",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reticulate Micro, Inc.",
+      "from": "2023-03-31T04:00:00.000Z",
+      "to": "2025-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 52,
+  "download_timestamp": "2025-08-02 07:30:45 UTC"
+}

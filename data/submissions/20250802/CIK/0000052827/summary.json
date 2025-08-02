@@ -1,0 +1,32 @@
+{
+  "cik": "0000052827",
+  "name": "RAYONIER INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RYN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "132607329",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9043579100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ITT RAYONIER INC",
+      "from": "1994-03-29T05:00:00.000Z",
+      "to": "1994-03-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:12 UTC"
+}

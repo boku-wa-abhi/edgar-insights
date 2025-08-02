@@ -1,0 +1,26 @@
+{
+  "cik": "0001723596",
+  "name": "Columbia Financial, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLBK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "223504946",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "800-522-4167",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:21:58 UTC"
+}

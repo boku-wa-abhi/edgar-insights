@@ -1,0 +1,32 @@
+{
+  "cik": "0001783032",
+  "name": "Elevation Oncology, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ELEV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841771427",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7163711125",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "14ner Oncology, Inc.",
+      "from": "2019-07-19T04:00:00.000Z",
+      "to": "2019-07-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 295,
+  "download_timestamp": "2025-08-02 07:23:52 UTC"
+}

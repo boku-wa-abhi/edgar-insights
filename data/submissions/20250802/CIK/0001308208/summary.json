@@ -1,0 +1,32 @@
+{
+  "cik": "0001308208",
+  "name": "UNIVERSAL LOGISTICS HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "4213",
+  "sicDescription": "Trucking (No Local)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ULH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "383640097",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(586) 920-0100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Universal Truckload Services, Inc.",
+      "from": "2004-11-15T05:00:00.000Z",
+      "to": "2016-04-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 523,
+  "download_timestamp": "2025-08-02 07:10:11 UTC"
+}

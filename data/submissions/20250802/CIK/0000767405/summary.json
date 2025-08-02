@@ -1,0 +1,32 @@
+{
+  "cik": "0000767405",
+  "name": "SB FINANCIAL GROUP, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBFG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "341395608",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4197838930",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RURBAN FINANCIAL CORP",
+      "from": "1995-11-06T05:00:00.000Z",
+      "to": "2013-04-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:01 UTC"
+}

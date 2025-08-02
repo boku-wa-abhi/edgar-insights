@@ -1,0 +1,115 @@
+{
+  "cik": "0001828884",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "WELL Health Technologies Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "SUITE 200, 322 WATER STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6B 1B6",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "SUITE 200, 322 WATER STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6B 1B6",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "604-628-7266",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001085037-23-000131",
+        "0001085037-20-000080"
+      ],
+      "filingDate": [
+        "2023-12-07",
+        "2020-10-20"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-12-07T18:49:43.000Z",
+        "2020-10-20T21:14:21.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-499056",
+        "021-378397"
+      ],
+      "filmNumber": [
+        "231471841",
+        "201248881"
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "size": [
+        11579,
+        10704
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

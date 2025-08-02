@@ -1,0 +1,37 @@
+{
+  "cik": "0001584207",
+  "name": "OneMain Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OMF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "463348401",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(812) 424-8031",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Springleaf Holdings, Inc.",
+      "from": "2013-09-06T04:00:00.000Z",
+      "to": "2015-11-09T05:00:00.000Z"
+    },
+    {
+      "name": "Springleaf Holdings, LLC",
+      "from": "2013-08-16T04:00:00.000Z",
+      "to": "2013-10-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 857,
+  "download_timestamp": "2025-08-02 07:17:47 UTC"
+}

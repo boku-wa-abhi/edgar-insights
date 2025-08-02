@@ -1,0 +1,26 @@
+{
+  "cik": "0001856236",
+  "name": "European Wax Center, Inc.",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0106",
+  "tickers": [
+    "EWCZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "863150064",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "469-264-8123",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 304,
+  "download_timestamp": "2025-08-02 07:27:34 UTC"
+}

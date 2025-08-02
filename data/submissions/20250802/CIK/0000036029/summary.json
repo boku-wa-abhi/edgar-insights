@@ -1,0 +1,26 @@
+{
+  "cik": "0000036029",
+  "name": "FIRST FINANCIAL BANKSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FFIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "750944023",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "325.627.7167",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:51 UTC"
+}

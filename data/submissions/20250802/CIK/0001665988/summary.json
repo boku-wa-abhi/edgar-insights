@@ -1,0 +1,26 @@
+{
+  "cik": "0001665988",
+  "name": "Bioventus Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BVS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "810980861",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(919) 474-6700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 407,
+  "download_timestamp": "2025-08-02 07:20:09 UTC"
+}

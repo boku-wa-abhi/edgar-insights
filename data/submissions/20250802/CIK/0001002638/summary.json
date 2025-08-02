@@ -1,0 +1,26 @@
+{
+  "cik": "0001002638",
+  "name": "OPEN TEXT CORP",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "OTEX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980154400",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "519-888-7111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 641,
+  "download_timestamp": "2025-08-02 07:04:26 UTC"
+}

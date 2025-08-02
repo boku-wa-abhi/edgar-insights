@@ -1,0 +1,42 @@
+{
+  "cik": "0001216583",
+  "name": "Nuveen Preferred & Income Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "JPC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "470909557",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nuveen Preferred Income Opportunities Fund",
+      "from": "2012-04-30T04:00:00.000Z",
+      "to": "2017-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "Nuveen Multi-Strategy Income & Growth Fund",
+      "from": "2007-05-23T04:00:00.000Z",
+      "to": "2012-03-09T05:00:00.000Z"
+    },
+    {
+      "name": "NUVEEN PREFERRED CONVERTIBLE INCOME FUND",
+      "from": "2003-01-31T05:00:00.000Z",
+      "to": "2007-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 496,
+  "download_timestamp": "2025-08-02 07:08:56 UTC"
+}

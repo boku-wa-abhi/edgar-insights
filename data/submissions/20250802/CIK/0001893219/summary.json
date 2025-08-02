@@ -1,0 +1,34 @@
+{
+  "cik": "0001893219",
+  "name": "Abpro Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABP",
+    "ABPWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "871013956",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "248-890-7200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Atlantic Coastal Acquisition Corp. II",
+      "from": "2021-12-02T05:00:00.000Z",
+      "to": "2024-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 208,
+  "download_timestamp": "2025-08-02 07:28:56 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001498547",
+  "name": "CIM REAL ESTATE FINANCE TRUST, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "273148022",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "602-778-8700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COLE CREDIT PROPERTY TRUST IV, INC.",
+      "from": "2010-10-21T04:00:00.000Z",
+      "to": "2019-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "Cole Advisor Retail Income REIT, Inc.",
+      "from": "2010-09-22T04:00:00.000Z",
+      "to": "2010-12-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 576,
+  "download_timestamp": "2025-08-02 07:15:03 UTC"
+}

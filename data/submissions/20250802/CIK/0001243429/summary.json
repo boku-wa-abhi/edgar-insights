@@ -1,0 +1,36 @@
+{
+  "cik": "0001243429",
+  "name": "ArcelorMittal",
+  "entityType": "other",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MT",
+    "AMSYF",
+    "ARCXF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "35247922151",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ARCELOR",
+      "from": "2003-04-30T04:00:00.000Z",
+      "to": "2007-10-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:10 UTC"
+}

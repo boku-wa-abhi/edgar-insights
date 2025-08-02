@@ -1,0 +1,26 @@
+{
+  "cik": "0001680048",
+  "name": "MUSTANG BIO, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473828760",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7816524500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 384,
+  "download_timestamp": "2025-08-02 07:20:32 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001726173",
+  "name": "Biglari Holdings Inc.",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BH-A",
+    "BH"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "823784946",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "210-344-3400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NBHSA Inc.",
+      "from": "2017-12-22T05:00:00.000Z",
+      "to": "2018-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 208,
+  "download_timestamp": "2025-08-02 07:22:06 UTC"
+}

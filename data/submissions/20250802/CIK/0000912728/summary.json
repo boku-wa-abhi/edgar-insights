@@ -1,0 +1,32 @@
+{
+  "cik": "0000912728",
+  "name": "FORWARD AIR CORP",
+  "entityType": "operating",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FWRD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "621120025",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4236367000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LANDAIR SERVICES INC",
+      "from": "1995-02-09T05:00:00.000Z",
+      "to": "1998-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:19 UTC"
+}

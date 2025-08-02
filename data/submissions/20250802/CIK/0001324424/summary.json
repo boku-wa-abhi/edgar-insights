@@ -1,0 +1,32 @@
+{
+  "cik": "0001324424",
+  "name": "Expedia Group, Inc.",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXPE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "202705720",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(206) 481-7200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Expedia, Inc.",
+      "from": "2005-04-25T04:00:00.000Z",
+      "to": "2018-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:10:30 UTC"
+}

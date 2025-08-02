@@ -1,0 +1,32 @@
+{
+  "cik": "0001539850",
+  "name": "Starco Brands, Inc.",
+  "entityType": "operating",
+  "sic": "7311",
+  "sicDescription": "Services-Advertising Agencies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STCB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "271781753",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "818-760-1644",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Insynergy Products, Inc",
+      "from": "2012-01-31T05:00:00.000Z",
+      "to": "2017-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 256,
+  "download_timestamp": "2025-08-02 07:16:30 UTC"
+}

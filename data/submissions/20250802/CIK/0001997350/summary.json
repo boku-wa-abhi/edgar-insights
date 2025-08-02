@@ -1,0 +1,26 @@
+{
+  "cik": "0001997350",
+  "name": "Accelerant Holdings",
+  "entityType": "other",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981753044",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(302) 658-7581",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 49,
+  "download_timestamp": "2025-08-02 07:31:30 UTC"
+}

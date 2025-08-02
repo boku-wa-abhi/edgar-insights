@@ -1,0 +1,34 @@
+{
+  "cik": "0001819493",
+  "name": "Xos, Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XOS",
+    "XOSWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981550505",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(818) 316-1890",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NextGen Acquisition Corp",
+      "from": "2020-08-17T04:00:00.000Z",
+      "to": "2021-08-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 566,
+  "download_timestamp": "2025-08-02 07:25:20 UTC"
+}

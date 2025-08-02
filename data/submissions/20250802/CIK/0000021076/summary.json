@@ -1,0 +1,26 @@
+{
+  "cik": "0000021076",
+  "name": "CLOROX CO /DE/",
+  "entityType": "operating",
+  "sic": "2842",
+  "sicDescription": "Specialty Cleaning, Polishing and Sanitation Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CLX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "310595760",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5102717000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 06:56:31 UTC"
+}

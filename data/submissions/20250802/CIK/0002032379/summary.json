@@ -1,0 +1,30 @@
+{
+  "cik": "0002032379",
+  "name": "Willow Lane Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WLAC",
+    "WLACU",
+    "WLACW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "6465653861",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:32:40 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000318833",
+  "name": "TEAM INC",
+  "entityType": "operating",
+  "sic": "7600",
+  "sicDescription": "Services-Miscellaneous Repair Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TISI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741765729",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2813316154",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:46 UTC"
+}

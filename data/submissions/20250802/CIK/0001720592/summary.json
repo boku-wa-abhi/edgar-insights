@@ -1,0 +1,32 @@
+{
+  "cik": "0001720592",
+  "name": "Repay Holdings Corp",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RPAY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(404) 504-7472",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Thunder Bridge Acquisition Ltd",
+      "from": "2017-10-30T04:00:00.000Z",
+      "to": "2019-07-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 905,
+  "download_timestamp": "2025-08-02 07:21:51 UTC"
+}

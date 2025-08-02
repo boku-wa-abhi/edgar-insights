@@ -1,0 +1,26 @@
+{
+  "cik": "0002027708",
+  "name": "Cantor Equity Partners I, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CEPO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981576503",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2129385000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 47,
+  "download_timestamp": "2025-08-02 07:32:29 UTC"
+}

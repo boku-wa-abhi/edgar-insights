@@ -1,0 +1,26 @@
+{
+  "cik": "0001631569",
+  "name": "Community Healthcare Trust Inc",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHCT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "465212033",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-771-3052",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 570,
+  "download_timestamp": "2025-08-02 07:19:12 UTC"
+}

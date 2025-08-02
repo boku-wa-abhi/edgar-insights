@@ -1,0 +1,32 @@
+{
+  "cik": "0001158324",
+  "name": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCOI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "522337274",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2022954200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COGENT COMMUNICATIONS GROUP INC",
+      "from": "2001-12-07T05:00:00.000Z",
+      "to": "2014-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:09 UTC"
+}

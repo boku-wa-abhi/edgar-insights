@@ -1,0 +1,26 @@
+{
+  "cik": "0001297184",
+  "name": "Amphastar Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMPH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330702205",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "909-980-9484",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 877,
+  "download_timestamp": "2025-08-02 07:09:59 UTC"
+}

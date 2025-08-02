@@ -1,0 +1,32 @@
+{
+  "cik": "0001311370",
+  "name": "Lazard, Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LAZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980437848",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 632-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lazard Ltd",
+      "from": "2004-12-17T05:00:00.000Z",
+      "to": "2023-11-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:10:15 UTC"
+}

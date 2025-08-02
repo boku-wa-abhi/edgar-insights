@@ -1,0 +1,42 @@
+{
+  "cik": "0000001961",
+  "name": "WORLDS INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WDDD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "221848316",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-725-8900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Worlds.com, Inc.",
+      "from": "2008-05-21T00:00:00.000Z",
+      "to": "2011-11-14T00:00:00.000Z"
+    },
+    {
+      "name": "WORLDS COM INC",
+      "from": "2000-06-12T00:00:00.000Z",
+      "to": "2008-05-21T00:00:00.000Z"
+    },
+    {
+      "name": "ACADEMIC COMPUTER SYSTEMS INC",
+      "from": "1996-12-26T00:00:00.000Z",
+      "to": "1998-01-20T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 301,
+  "download_timestamp": "2025-08-02 06:56:01 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001176199",
+  "name": "JOHN HANCOCK PREFERRED INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "HPI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-663-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JOHN HANCOCK PREFERRED EQUITY",
+      "from": "2002-06-27T04:00:00.000Z",
+      "to": "2002-08-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 474,
+  "download_timestamp": "2025-08-02 07:08:37 UTC"
+}

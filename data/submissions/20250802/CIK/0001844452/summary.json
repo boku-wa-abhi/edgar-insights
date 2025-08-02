@@ -1,0 +1,32 @@
+{
+  "cik": "0001844452",
+  "name": "Intuitive Machines, Inc.",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LUNR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(281) 520-3703",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Inflection Point Acquisition Corp.",
+      "from": "2021-02-17T05:00:00.000Z",
+      "to": "2023-02-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 436,
+  "download_timestamp": "2025-08-02 07:26:49 UTC"
+}

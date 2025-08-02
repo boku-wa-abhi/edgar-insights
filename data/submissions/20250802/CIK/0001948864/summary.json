@@ -1,0 +1,26 @@
+{
+  "cik": "0001948864",
+  "name": "HEALTHY CHOICE WELLNESS CORP.",
+  "entityType": "operating",
+  "sic": "5411",
+  "sicDescription": "Retail-Grocery Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HCWC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(305) 600-5004",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 100,
+  "download_timestamp": "2025-08-02 07:30:09 UTC"
+}

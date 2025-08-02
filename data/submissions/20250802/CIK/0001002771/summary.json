@@ -1,0 +1,26 @@
+{
+  "cik": "0001002771",
+  "name": "Integrated Cannabis Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IGPK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "901505708",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-235-2295",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 47,
+  "download_timestamp": "2025-08-02 07:04:26 UTC"
+}

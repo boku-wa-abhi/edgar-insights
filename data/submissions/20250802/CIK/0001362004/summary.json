@@ -1,0 +1,26 @@
+{
+  "cik": "0001362004",
+  "name": "ICF International, Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ICFI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "223661438",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(703) 934-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:19 UTC"
+}

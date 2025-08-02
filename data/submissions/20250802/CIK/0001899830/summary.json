@@ -1,0 +1,28 @@
+{
+  "cik": "0001899830",
+  "name": "Perfect Corp.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PERF",
+    "PERF-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "886-2-8667-1265",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 104,
+  "download_timestamp": "2025-08-02 07:29:08 UTC"
+}

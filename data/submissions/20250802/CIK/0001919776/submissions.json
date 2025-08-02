@@ -1,0 +1,205 @@
+{
+  "cik": "0001919776",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "LIBERTY DEFENSE HOLDINGS, LTD.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O 1500 - 1055 WEST GEORGIA STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 4N7",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "187 BALLARDVALE STREET, SUITE 110",
+      "street2": null,
+      "city": "WILMINGTON",
+      "stateOrCountry": "MA",
+      "zipCode": "01887",
+      "stateOrCountryDescription": "MA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "6048092500",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001183740-25-000004",
+        "0001183740-24-000086",
+        "0001183740-24-000011",
+        "0001183740-24-000010",
+        "0001183740-24-000009",
+        "0001183740-23-000116",
+        "0001183740-22-000177",
+        "0001183740-22-000073"
+      ],
+      "filingDate": [
+        "2025-01-03",
+        "2024-10-22",
+        "2024-01-29",
+        "2024-01-24",
+        "2024-01-24",
+        "2023-10-19",
+        "2022-11-16",
+        "2022-03-28"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-01-03T17:31:57.000Z",
+        "2024-10-22T16:16:42.000Z",
+        "2024-01-29T21:26:33.000Z",
+        "2024-01-24T19:40:08.000Z",
+        "2024-01-24T19:28:52.000Z",
+        "2023-10-19T00:02:47.000Z",
+        "2022-11-15T22:31:54.000Z",
+        "2022-03-25T22:10:17.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D/A",
+        "D",
+        "D/A",
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-534127",
+        "021-495164",
+        "021-503804",
+        "021-464897",
+        "021-439097",
+        "021-495164",
+        "021-464897",
+        "021-439097"
+      ],
+      "filmNumber": [
+        "25504697",
+        "241385328",
+        "24574054",
+        "24555995",
+        "24555951",
+        "231333158",
+        "221392244",
+        "22772746"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D/A",
+        "D",
+        "D/A",
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        9939,
+        12570,
+        10772,
+        11852,
+        14001,
+        13263,
+        11671,
+        13873
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

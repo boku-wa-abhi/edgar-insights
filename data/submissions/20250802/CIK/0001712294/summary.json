@@ -1,0 +1,28 @@
+{
+  "cik": "0001712294",
+  "name": "CAPTIVA VERDE WELLNESS CORP.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1031",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "949-903-5906",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAPTIVA VERDE LAND CORP",
+      "from": "2017-07-19T04:00:00.000Z",
+      "to": "2020-09-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:21:36 UTC"
+}

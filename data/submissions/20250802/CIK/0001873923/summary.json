@@ -1,0 +1,32 @@
+{
+  "cik": "0001873923",
+  "name": "Orion Properties Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ONL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(602) 698-1002",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Orion Office REIT Inc.",
+      "from": "2021-07-20T04:00:00.000Z",
+      "to": "2025-03-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 242,
+  "download_timestamp": "2025-08-02 07:28:21 UTC"
+}

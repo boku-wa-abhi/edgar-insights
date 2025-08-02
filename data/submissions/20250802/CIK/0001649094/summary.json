@@ -1,0 +1,32 @@
+{
+  "cik": "0001649094",
+  "name": "Vaxcyte, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCVX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "464233385",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-837-0111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SutroVax, Inc.",
+      "from": "2015-07-24T04:00:00.000Z",
+      "to": "2020-04-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 620,
+  "download_timestamp": "2025-08-02 07:19:42 UTC"
+}

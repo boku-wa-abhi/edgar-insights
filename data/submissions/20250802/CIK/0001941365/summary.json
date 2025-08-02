@@ -1,0 +1,26 @@
+{
+  "cik": "0001941365",
+  "name": "MasterBrand, Inc.",
+  "entityType": "operating",
+  "sic": "2511",
+  "sicDescription": "Wood Household Furniture, (No Upholstered)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1229",
+  "tickers": [
+    "MBC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "883479920",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-877-622-4782",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 224,
+  "download_timestamp": "2025-08-02 07:29:57 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001907223",
+  "name": "Klotho Neurosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KLTO",
+    "KLTOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "862727441",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(833) 931-6330",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANEW Medical, Inc.",
+      "from": "2024-06-27T04:00:00.000Z",
+      "to": "2024-09-18T04:00:00.000Z"
+    },
+    {
+      "name": "Redwoods Acquisition Corp.",
+      "from": "2022-01-31T05:00:00.000Z",
+      "to": "2024-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 170,
+  "download_timestamp": "2025-08-02 07:29:18 UTC"
+}

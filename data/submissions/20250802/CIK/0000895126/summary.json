@@ -1,0 +1,38 @@
+{
+  "cik": "0000895126",
+  "name": "EXPAND ENERGY Corp",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "OK",
+  "stateOfIncorporationDescription": "OK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXE",
+    "EXEEL",
+    "EXEEW",
+    "EXEEZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "731395733",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4058488000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CHESAPEAKE ENERGY CORP",
+      "from": "1995-12-11T05:00:00.000Z",
+      "to": "2024-09-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:48 UTC"
+}

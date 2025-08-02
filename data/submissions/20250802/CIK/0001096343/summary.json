@@ -1,0 +1,37 @@
+{
+  "cik": "0001096343",
+  "name": "MARKEL GROUP INC.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MKL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541959284",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8047470136",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARKEL CORP",
+      "from": "2000-06-05T04:00:00.000Z",
+      "to": "2023-05-25T04:00:00.000Z"
+    },
+    {
+      "name": "MARKEL HOLDINGS INC",
+      "from": "1999-11-16T05:00:00.000Z",
+      "to": "2000-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:55 UTC"
+}

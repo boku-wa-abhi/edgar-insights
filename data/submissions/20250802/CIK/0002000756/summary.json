@@ -1,0 +1,28 @@
+{
+  "cik": "0002000756",
+  "name": "K Wave Media Ltd.",
+  "entityType": "other",
+  "sic": "7819",
+  "sicDescription": "Services-Allied To Motion Picture Production",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KWM",
+    "KWMWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "904 665 3610",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:31:38 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001486452",
+  "name": "Maison Luxe, Inc.",
+  "entityType": "operating",
+  "sic": "7500",
+  "sicDescription": "Services-Automotive Repair, Services & Parking",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MASN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "431965656",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "515-331-6509",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Clikia Corp.",
+      "from": "2017-11-03T00:00:00.000Z",
+      "to": "2020-09-14T00:00:00.000Z"
+    },
+    {
+      "name": "MK Automotive, Inc.",
+      "from": "2010-03-18T00:00:00.000Z",
+      "to": "2012-04-30T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 91,
+  "download_timestamp": "2025-08-02 07:14:37 UTC"
+}

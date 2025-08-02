@@ -1,0 +1,26 @@
+{
+  "cik": "0000311094",
+  "name": "WESTAMERICA BANCORPORATION",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WABC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "942156203",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(707) 863-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:58:36 UTC"
+}

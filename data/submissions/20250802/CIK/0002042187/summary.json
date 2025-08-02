@@ -1,0 +1,28 @@
+{
+  "cik": "0002042187",
+  "name": "Kyoto Financial Group Inc/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "KYTFY",
+    "KYFGF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:33:04 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000798081",
+  "name": "LAKELAND INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "LAKE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133115216",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "800-645-9291",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LAKELAND INDUSTRIES INC",
+      "from": "1995-09-12T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:27 UTC"
+}

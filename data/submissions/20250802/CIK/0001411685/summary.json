@@ -1,0 +1,32 @@
+{
+  "cik": "0001411685",
+  "name": "Vistagen Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "VTGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205093315",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-577-3600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Excaliber Enterprises, Ltd.",
+      "from": "2007-09-11T04:00:00.000Z",
+      "to": "2011-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 828,
+  "download_timestamp": "2025-08-02 07:12:36 UTC"
+}

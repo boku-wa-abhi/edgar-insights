@@ -1,0 +1,32 @@
+{
+  "cik": "0001868275",
+  "name": "Constellation Energy Corp",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CEG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871210716",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "833-883-0162",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Constellation Newholdco, Inc.",
+      "from": "2021-07-26T04:00:00.000Z",
+      "to": "2021-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 316,
+  "download_timestamp": "2025-08-02 07:28:06 UTC"
+}

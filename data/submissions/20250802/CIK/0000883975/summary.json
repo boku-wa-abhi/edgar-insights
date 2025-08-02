@@ -1,0 +1,42 @@
+{
+  "cik": "0000883975",
+  "name": "Microbot Medical Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MBOT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943078125",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "908-938-5561",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Microbot Medical Inc.",
+      "from": "2016-11-29T05:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "STEMCELLS INC",
+      "from": "2000-12-05T05:00:00.000Z",
+      "to": "2016-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "CYTOTHERAPEUTICS INC/DE",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2000-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:02:18 UTC"
+}

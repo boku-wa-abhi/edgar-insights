@@ -1,0 +1,37 @@
+{
+  "cik": "0001540684",
+  "name": "Atlas Lithium Corp",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATLX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "392078861",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(833) 661-7900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Brazil Minerals, Inc.",
+      "from": "2013-01-23T05:00:00.000Z",
+      "to": "2022-10-03T04:00:00.000Z"
+    },
+    {
+      "name": "Flux Technologies, Corp.",
+      "from": "2012-04-06T04:00:00.000Z",
+      "to": "2013-01-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 550,
+  "download_timestamp": "2025-08-02 07:16:31 UTC"
+}

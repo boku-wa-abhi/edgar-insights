@@ -1,0 +1,26 @@
+{
+  "cik": "0001782303",
+  "name": "Boundless Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BOLD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "830751369",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858) 766-9912",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 106,
+  "download_timestamp": "2025-08-02 07:23:50 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001327567",
+  "name": "Palo Alto Networks Inc",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "PANW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "202530195",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-753-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Palo Alto Networks Inc",
+      "from": "2005-05-16T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:36 UTC"
+}

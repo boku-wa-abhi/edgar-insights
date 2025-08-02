@@ -1,0 +1,151 @@
+{
+  "cik": "0001846839",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "SOL Strategies Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0930",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "217 QUEEN STREET WEST",
+      "street2": "SUITE 401",
+      "city": "TORONTO",
+      "stateOrCountry": null,
+      "zipCode": "M5X 1B1",
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": "ONTARIO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6"
+    },
+    "business": {
+      "street1": "217 QUEEN STREET WEST",
+      "street2": "SUITE 401",
+      "city": "TORONTO",
+      "stateOrCountry": null,
+      "zipCode": "M5X 1B1",
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": "ONTARIO",
+      "country": "Ontario, Canada",
+      "countryCode": "A6"
+    }
+  },
+  "phone": "416-480-2488",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cypherpunk Holdings Inc.",
+      "from": "2021-02-18T05:00:00.000Z",
+      "to": "2021-04-08T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001062993-25-011891",
+        "0001062993-25-011877",
+        "0001062993-21-003500",
+        "0001062993-21-001665"
+      ],
+      "filingDate": [
+        "2025-06-18",
+        "2025-06-18",
+        "2021-04-08",
+        "2021-02-18"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-18T20:31:07.000Z",
+        "2025-06-18T19:53:25.000Z",
+        "2021-04-08T15:28:08.000Z",
+        "2021-02-18T18:35:58.000Z"
+      ],
+      "act": [
+        "33",
+        "34",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-X",
+        "40FR12B",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "001-42710",
+        "001-42710",
+        "021-395088",
+        "021-389831"
+      ],
+      "filmNumber": [
+        "251057363",
+        "251056677",
+        "21814201",
+        "21648796"
+      ],
+      "items": [
+        "",
+        "",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "F-X",
+        "40FR12B",
+        "D",
+        "D"
+      ],
+      "size": [
+        20183,
+        11519182,
+        12898,
+        11701
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "formfx.htm",
+        "form40fr12b.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "FORM F-X",
+        "FORM 40FR12B",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

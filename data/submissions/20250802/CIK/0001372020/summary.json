@@ -1,0 +1,32 @@
+{
+  "cik": "0001372020",
+  "name": "Great Lakes Dredge & Dock CORP",
+  "entityType": "operating",
+  "sic": "1600",
+  "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLDD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205336063",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(346) 359-1010",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Great Lakes Dredge & Dock Holdings Corp.",
+      "from": "2006-08-24T04:00:00.000Z",
+      "to": "2006-12-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:11:31 UTC"
+}

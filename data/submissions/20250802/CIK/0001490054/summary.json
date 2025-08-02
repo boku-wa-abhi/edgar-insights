@@ -1,0 +1,28 @@
+{
+  "cik": "0001490054",
+  "name": "VERDE BIO HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "300678378",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(205) 864-5377",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "APPIPHANY TECHNOLOGIES HOLDINGS CORP",
+      "from": "2010-06-11T04:00:00.000Z",
+      "to": "2020-08-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 309,
+  "download_timestamp": "2025-08-02 07:14:45 UTC"
+}

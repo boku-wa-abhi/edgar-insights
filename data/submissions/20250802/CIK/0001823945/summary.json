@@ -1,0 +1,32 @@
+{
+  "cik": "0001823945",
+  "name": "BLUE OWL CAPITAL INC.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OWL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "863906032",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 419-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALTIMAR ACQUISITION CORP.",
+      "from": "2020-09-14T04:00:00.000Z",
+      "to": "2021-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 546,
+  "download_timestamp": "2025-08-02 07:25:39 UTC"
+}

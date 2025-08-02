@@ -1,0 +1,37 @@
+{
+  "cik": "0001400897",
+  "name": "NXG Cushing Midstream Energy Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "SRV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "214-692-6334",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CUSHING MLP & INFRASTRUCTURE TOTAL RETURN FUND",
+      "from": "2018-04-27T04:00:00.000Z",
+      "to": "2023-04-21T04:00:00.000Z"
+    },
+    {
+      "name": "Cushing MLP Total Return Fund",
+      "from": "2007-05-25T04:00:00.000Z",
+      "to": "2018-02-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 413,
+  "download_timestamp": "2025-08-02 07:12:19 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000809708",
+  "name": "TEMPLETON EMERGING MARKETS FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "EMF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "592767040",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "954-527-7500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TEMPLETON EMERGING MARKETS FUND INC",
+      "from": "1994-04-26T04:00:00.000Z",
+      "to": "2002-11-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 439,
+  "download_timestamp": "2025-08-02 07:00:40 UTC"
+}

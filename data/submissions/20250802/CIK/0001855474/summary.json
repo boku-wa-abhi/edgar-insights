@@ -1,0 +1,39 @@
+{
+  "cik": "0001855474",
+  "name": "AirJoule Technologies Corp.",
+  "entityType": "operating",
+  "sic": "3585",
+  "sicDescription": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIRJ",
+    "AIRJW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-942-3083",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Montana Technologies Corp.",
+      "from": "2024-03-18T04:00:00.000Z",
+      "to": "2024-10-21T04:00:00.000Z"
+    },
+    {
+      "name": "Power & Digital Infrastructure Acquisition II Corp.",
+      "from": "2021-07-12T04:00:00.000Z",
+      "to": "2024-03-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 242,
+  "download_timestamp": "2025-08-02 07:27:31 UTC"
+}

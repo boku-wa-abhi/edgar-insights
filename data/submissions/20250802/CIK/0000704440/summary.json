@@ -1,0 +1,32 @@
+{
+  "cik": "0000704440",
+  "name": "KORU Medical Systems, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133044880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "845-469-2042",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REPRO MED SYSTEMS INC",
+      "from": "1996-07-12T04:00:00.000Z",
+      "to": "2022-06-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 875,
+  "download_timestamp": "2025-08-02 06:59:03 UTC"
+}

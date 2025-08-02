@@ -1,0 +1,32 @@
+{
+  "cik": "0001700844",
+  "name": "EvoAir Holdings Inc.",
+  "entityType": "operating",
+  "sic": "3585",
+  "sicDescription": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "EVOH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981353613",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "603 6243 3379",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNEX HOLDINGS INC.",
+      "from": "2018-11-05T05:00:00.000Z",
+      "to": "2022-11-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 75,
+  "download_timestamp": "2025-08-02 07:21:08 UTC"
+}

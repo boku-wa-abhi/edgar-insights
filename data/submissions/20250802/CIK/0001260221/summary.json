@@ -1,0 +1,32 @@
+{
+  "cik": "0001260221",
+  "name": "TransDigm Group INC",
+  "entityType": "operating",
+  "sic": "3728",
+  "sicDescription": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "TDG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "510484716",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "216 706 2960",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TD HOLDING CORP",
+      "from": "2003-08-15T04:00:00.000Z",
+      "to": "2005-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:14 UTC"
+}

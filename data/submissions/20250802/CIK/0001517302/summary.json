@@ -1,0 +1,26 @@
+{
+  "cik": "0001517302",
+  "name": "Artisan Partners Asset Management Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APAM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "450969585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "414-390-6100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 736,
+  "download_timestamp": "2025-08-02 07:15:43 UTC"
+}

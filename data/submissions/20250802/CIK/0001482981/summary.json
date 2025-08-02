@@ -1,0 +1,37 @@
+{
+  "cik": "0001482981",
+  "name": "Vita Coco Company, Inc.",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "113713156",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-206-0763",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "All Market Inc.",
+      "from": "2021-08-30T04:00:00.000Z",
+      "to": "2021-08-31T04:00:00.000Z"
+    },
+    {
+      "name": "All Market, Inc.",
+      "from": "2010-02-03T05:00:00.000Z",
+      "to": "2021-07-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:14:33 UTC"
+}

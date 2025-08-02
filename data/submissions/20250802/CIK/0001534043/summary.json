@@ -1,0 +1,38 @@
+{
+  "cik": "0001534043",
+  "name": "Fuchs Petrolub SE/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "FUPEY",
+    "FUPBY",
+    "FUPEF",
+    "FUPPF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Fuchs Petrolub AG/ADR",
+      "from": "2011-11-02T04:00:00.000Z",
+      "to": "2013-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 14,
+  "download_timestamp": "2025-08-02 07:16:17 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001302215",
+  "name": "HOULIHAN LOKEY, INC.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "HLI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "952770395",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "310.553.8871",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HOULIHAN LOKEY HOWARD & ZUKIN INC",
+      "from": "2004-08-26T04:00:00.000Z",
+      "to": "2015-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 772,
+  "download_timestamp": "2025-08-02 07:10:06 UTC"
+}

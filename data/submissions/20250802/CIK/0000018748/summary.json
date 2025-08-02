@@ -1,0 +1,26 @@
+{
+  "cik": "0000018748",
+  "name": "CENTRAL SECURITIES CORP",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CET"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "131875970",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-698-2020",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 865,
+  "download_timestamp": "2025-08-02 06:56:28 UTC"
+}

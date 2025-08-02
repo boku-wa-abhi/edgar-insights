@@ -1,0 +1,32 @@
+{
+  "cik": "0000065984",
+  "name": "ENTERGY CORP /DE/",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ETR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "721229752",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "504-576-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ENTERGY CORP/FL",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "1994-02-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:26 UTC"
+}

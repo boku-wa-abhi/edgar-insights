@@ -1,0 +1,26 @@
+{
+  "cik": "0001727196",
+  "name": "Scholar Rock Holding Corp",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SRRK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "823750435",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "857-259-3860",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 546,
+  "download_timestamp": "2025-08-02 07:22:07 UTC"
+}

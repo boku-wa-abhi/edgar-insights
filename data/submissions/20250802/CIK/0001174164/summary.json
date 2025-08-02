@@ -1,0 +1,47 @@
+{
+  "cik": "0001174164",
+  "name": "Flaherty & Crumrine PREFERRED & INCOME SECURITIES FUND INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "FFC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(626) 795-7300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Flaherty & Crumrine PREFERRED SECURITIES INCOME FUND INC",
+      "from": "2013-03-07T05:00:00.000Z",
+      "to": "2019-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "Flaherty & Crumrine/CLAYMORE PREFERRED SECURITIES INCOME FUND INC",
+      "from": "2005-07-20T04:00:00.000Z",
+      "to": "2013-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "F&C/CLAYMORE PREFERRED SECURITIES INCOME FUND INC",
+      "from": "2002-12-23T05:00:00.000Z",
+      "to": "2005-04-29T04:00:00.000Z"
+    },
+    {
+      "name": "C F&C PREFERRED SECURITIES INCOME FUND I INC",
+      "from": "2002-06-26T04:00:00.000Z",
+      "to": "2002-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 355,
+  "download_timestamp": "2025-08-02 07:08:33 UTC"
+}

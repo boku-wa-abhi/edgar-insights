@@ -1,0 +1,32 @@
+{
+  "cik": "0001086888",
+  "name": "MANULIFE FINANCIAL CORP",
+  "entityType": "other",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MFC",
+    "MNLCF",
+    "MNQFF",
+    "MNUFF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "889897526",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-926-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:39 UTC"
+}

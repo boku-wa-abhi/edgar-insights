@@ -1,0 +1,26 @@
+{
+  "cik": "0001874178",
+  "name": "Rivian Automotive, Inc. / DE",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RIVN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(888) 748-4261",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 388,
+  "download_timestamp": "2025-08-02 07:28:21 UTC"
+}

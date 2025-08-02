@@ -1,0 +1,26 @@
+{
+  "cik": "0001810182",
+  "name": "ALX ONCOLOGY HOLDINGS INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALXO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "850642577",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-466-7125",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 350,
+  "download_timestamp": "2025-08-02 07:24:54 UTC"
+}

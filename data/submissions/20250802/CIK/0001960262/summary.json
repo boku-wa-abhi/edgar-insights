@@ -1,0 +1,26 @@
+{
+  "cik": "0001960262",
+  "name": "LUDWIG ENTERPRISES, INC.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LUDG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "611133438",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "786-235-9026",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 59,
+  "download_timestamp": "2025-08-02 07:30:28 UTC"
+}

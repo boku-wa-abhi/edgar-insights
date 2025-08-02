@@ -1,0 +1,26 @@
+{
+  "cik": "0001781193",
+  "name": "QUHUO Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "00861053318747",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:23:46 UTC"
+}

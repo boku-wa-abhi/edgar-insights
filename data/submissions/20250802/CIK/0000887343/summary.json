@@ -1,0 +1,32 @@
+{
+  "cik": "0000887343",
+  "name": "COLUMBIA BANKING SYSTEM, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COLB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911422237",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2533051900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COLUMBIA BANKING SYSTEM INC",
+      "from": "1996-08-13T04:00:00.000Z",
+      "to": "2019-05-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:30 UTC"
+}

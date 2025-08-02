@@ -1,0 +1,26 @@
+{
+  "cik": "0001286681",
+  "name": "DOMINOS PIZZA INC",
+  "entityType": "operating",
+  "sic": "5140",
+  "sicDescription": "Wholesale-Groceries & Related Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0102",
+  "tickers": [
+    "DPZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "382511577",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(734) 930-3030",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:45 UTC"
+}

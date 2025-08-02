@@ -1,0 +1,32 @@
+{
+  "cik": "0001061027",
+  "name": "Viracta Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VIRX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "943295878",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-400-8470",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUNESIS PHARMACEUTICALS INC",
+      "from": "2002-08-07T04:00:00.000Z",
+      "to": "2021-03-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:58 UTC"
+}

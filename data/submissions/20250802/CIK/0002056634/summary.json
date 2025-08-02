@@ -1,0 +1,28 @@
+{
+  "cik": "0002056634",
+  "name": "ProCap Acquisition Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCAP",
+    "PCAPU"
+  ],
+  "exchanges": [
+    null,
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "305-938-0912",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 21,
+  "download_timestamp": "2025-08-02 07:33:25 UTC"
+}

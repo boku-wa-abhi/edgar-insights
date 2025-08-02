@@ -1,0 +1,26 @@
+{
+  "cik": "0000033488",
+  "name": "ESCALADE INC",
+  "entityType": "operating",
+  "sic": "3949",
+  "sicDescription": "Sporting & Athletic Goods, NEC",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESCA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "132739290",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "812-467-4449",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:48 UTC"
+}

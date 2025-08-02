@@ -1,0 +1,37 @@
+{
+  "cik": "0001717547",
+  "name": "BrightSpire Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRSP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "384046290",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-547-2631",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Colony Credit Real Estate, Inc.",
+      "from": "2018-06-25T04:00:00.000Z",
+      "to": "2021-06-11T04:00:00.000Z"
+    },
+    {
+      "name": "Colony NorthStar Credit Real Estate, Inc.",
+      "from": "2017-09-29T04:00:00.000Z",
+      "to": "2018-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 324,
+  "download_timestamp": "2025-08-02 07:21:46 UTC"
+}

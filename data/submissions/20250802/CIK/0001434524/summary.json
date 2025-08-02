@@ -1,0 +1,32 @@
+{
+  "cik": "0001434524",
+  "name": "ClearSign Technologies Corp",
+  "entityType": "operating",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLIR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(918) 236-6461",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CLEARSIGN COMBUSTION CORP",
+      "from": "2008-05-05T04:00:00.000Z",
+      "to": "2019-10-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 726,
+  "download_timestamp": "2025-08-02 07:13:11 UTC"
+}

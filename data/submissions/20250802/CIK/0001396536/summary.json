@@ -1,0 +1,37 @@
+{
+  "cik": "0001396536",
+  "name": "DUOS TECHNOLOGIES GROUP, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DUOT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "650493217",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "904-296-2807",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DUOS TECHNOLOGY GROUP, INC.",
+      "from": "2015-07-13T04:00:00.000Z",
+      "to": "2015-08-19T04:00:00.000Z"
+    },
+    {
+      "name": "INFORMATION SYSTEMS ASSOCIATES, INC.",
+      "from": "2007-04-27T04:00:00.000Z",
+      "to": "2015-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 628,
+  "download_timestamp": "2025-08-02 07:12:13 UTC"
+}

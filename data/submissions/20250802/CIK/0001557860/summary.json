@@ -1,0 +1,26 @@
+{
+  "cik": "0001557860",
+  "name": "Globant S.A.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "U3",
+  "stateOfIncorporationDescription": "Spain",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GLOB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "35 220301596",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 303,
+  "download_timestamp": "2025-08-02 07:16:56 UTC"
+}

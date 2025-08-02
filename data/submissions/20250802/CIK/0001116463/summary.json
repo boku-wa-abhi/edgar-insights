@@ -1,0 +1,26 @@
+{
+  "cik": "0001116463",
+  "name": "ORASURE TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OSUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "364370966",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5036416115",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:07:22 UTC"
+}

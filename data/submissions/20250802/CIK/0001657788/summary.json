@@ -1,0 +1,26 @@
+{
+  "cik": "0001657788",
+  "name": "Kimbell Royalty Partners, LP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "475505475",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "817-887-9976",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 613,
+  "download_timestamp": "2025-08-02 07:20:00 UTC"
+}

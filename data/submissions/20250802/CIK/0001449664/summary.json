@@ -1,0 +1,34 @@
+{
+  "cik": "0001449664",
+  "name": "CTF Services Ltd",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NWSGY",
+    "NWSZF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 21313639",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NWS Holdings Ltd",
+      "from": "2008-11-07T00:00:00.000Z",
+      "to": "2009-10-09T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 4,
+  "download_timestamp": "2025-08-02 07:13:41 UTC"
+}

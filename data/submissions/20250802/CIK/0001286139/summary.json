@@ -1,0 +1,32 @@
+{
+  "cik": "0001286139",
+  "name": "LEGALZOOM.COM, INC.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954752856",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "323-962-8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LEGALZOOM COM INC",
+      "from": "2004-04-02T05:00:00.000Z",
+      "to": "2021-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 296,
+  "download_timestamp": "2025-08-02 07:09:43 UTC"
+}

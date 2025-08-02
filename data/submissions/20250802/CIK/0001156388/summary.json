@@ -1,0 +1,32 @@
+{
+  "cik": "0001156388",
+  "name": "BIG 5 SPORTING GOODS Corp",
+  "entityType": "operating",
+  "sic": "5940",
+  "sicDescription": "Retail-Miscellaneous Shopping Goods Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0101",
+  "tickers": [
+    "BGFV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954388794",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(310) 297-7706",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIG 5 HOLDINGS CORP",
+      "from": "2001-08-21T04:00:00.000Z",
+      "to": "2001-08-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:05 UTC"
+}

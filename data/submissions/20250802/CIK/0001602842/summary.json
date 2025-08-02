@@ -1,0 +1,32 @@
+{
+  "cik": "0001602842",
+  "name": "Mogo Inc.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MOGO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "604-659-4380",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mogo Finance Technology Inc.",
+      "from": "2014-03-18T04:00:00.000Z",
+      "to": "2019-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 216,
+  "download_timestamp": "2025-08-02 07:18:20 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001500881",
+  "name": "enCore Energy Corp.",
+  "entityType": "operating",
+  "sic": "1090",
+  "sicDescription": "Miscellaneous Metal Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "361-239-5449",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TIGRIS URANIUM CORP.",
+      "from": "2011-11-30T05:00:00.000Z",
+      "to": "2011-11-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:15:08 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001588823",
+  "name": "TFI International Inc.",
+  "entityType": "other",
+  "sic": "4210",
+  "sicDescription": "Trucking & Courier Services (No Air)",
+  "stateOfIncorporation": "A8",
+  "stateOfIncorporationDescription": "Quebec, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TFII"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "514-331-4113",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TransForce Inc. \\ Quebec Canada",
+      "from": "2012-12-31T05:00:00.000Z",
+      "to": "2013-12-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 195,
+  "download_timestamp": "2025-08-02 07:17:54 UTC"
+}

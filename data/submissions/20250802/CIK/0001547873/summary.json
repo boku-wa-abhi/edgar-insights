@@ -1,0 +1,28 @@
+{
+  "cik": "0001547873",
+  "name": "PT Chandra Asri Petrochemical Tbk/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PTCAY",
+    "PTPIF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:16:40 UTC"
+}

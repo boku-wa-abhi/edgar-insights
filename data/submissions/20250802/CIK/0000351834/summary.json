@@ -1,0 +1,37 @@
+{
+  "cik": "0000351834",
+  "name": "SunOpta Inc.",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "STKL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "952-820-2518",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUNOPTA INC",
+      "from": "2003-11-07T05:00:00.000Z",
+      "to": "2006-11-29T05:00:00.000Z"
+    },
+    {
+      "name": "STAKE TECHNOLOGY LTD",
+      "from": "1999-11-09T05:00:00.000Z",
+      "to": "2003-10-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:52 UTC"
+}

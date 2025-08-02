@@ -1,0 +1,32 @@
+{
+  "cik": "0001851860",
+  "name": "SMART FOR LIFE, INC.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMFL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "815360128",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "786-749-1221",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bonne Sante Group, Inc.",
+      "from": "2021-03-26T04:00:00.000Z",
+      "to": "2021-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 205,
+  "download_timestamp": "2025-08-02 07:27:14 UTC"
+}

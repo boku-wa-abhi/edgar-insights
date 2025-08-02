@@ -1,0 +1,26 @@
+{
+  "cik": "0000102752",
+  "name": "VSE CORP",
+  "entityType": "operating",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VSEC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "540649263",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "954-430-6600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:17 UTC"
+}

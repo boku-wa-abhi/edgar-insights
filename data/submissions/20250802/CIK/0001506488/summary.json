@@ -1,0 +1,44 @@
+{
+  "cik": "0001506488",
+  "name": "NXG NextGen Infrastructure Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "NXG",
+    "NXG-RI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "214-692-6334",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cushing NextGen Infrastructure Income Fund",
+      "from": "2020-04-17T04:00:00.000Z",
+      "to": "2022-10-31T04:00:00.000Z"
+    },
+    {
+      "name": "Cushing Renaissance Fund",
+      "from": "2011-01-05T05:00:00.000Z",
+      "to": "2020-03-06T05:00:00.000Z"
+    },
+    {
+      "name": "Cushing MLP Income Fund",
+      "from": "2010-11-29T05:00:00.000Z",
+      "to": "2010-11-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 266,
+  "download_timestamp": "2025-08-02 07:15:21 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001434316",
+  "name": "FATE THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FATE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "651311552",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858.875.1803",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 786,
+  "download_timestamp": "2025-08-02 07:13:11 UTC"
+}

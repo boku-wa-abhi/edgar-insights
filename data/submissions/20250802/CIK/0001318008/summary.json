@@ -1,0 +1,32 @@
+{
+  "cik": "0001318008",
+  "name": "Zumiez Inc",
+  "entityType": "operating",
+  "sic": "5600",
+  "sicDescription": "Retail-Apparel & Accessory Stores",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "0203",
+  "tickers": [
+    "ZUMZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911040022",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "425-551-1500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zumiez Inc",
+      "from": "2005-02-17T05:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:19 UTC"
+}

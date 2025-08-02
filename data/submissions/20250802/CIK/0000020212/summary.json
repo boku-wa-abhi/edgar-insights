@@ -1,0 +1,26 @@
+{
+  "cik": "0000020212",
+  "name": "Churchill Downs Inc",
+  "entityType": "operating",
+  "sic": "7948",
+  "sicDescription": "Services-Racing, Including Track Operation",
+  "stateOfIncorporation": "KY",
+  "stateOfIncorporationDescription": "KY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHDN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "610156015",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "15023941166",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:30 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001754195",
+  "name": "Trulieve Cannabis Corp.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TCNNF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "581882476",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8502988866",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 328,
+  "download_timestamp": "2025-08-02 07:22:55 UTC"
+}

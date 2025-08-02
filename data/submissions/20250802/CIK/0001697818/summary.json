@@ -1,0 +1,32 @@
+{
+  "cik": "0001697818",
+  "name": "Amber International Holding Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "AMBR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "65 60220228",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "iClick Interactive Asia Group Ltd",
+      "from": "2017-05-18T04:00:00.000Z",
+      "to": "2025-03-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 275,
+  "download_timestamp": "2025-08-02 07:21:02 UTC"
+}

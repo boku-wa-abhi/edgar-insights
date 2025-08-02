@@ -1,0 +1,45 @@
+{
+  "cik": "0001055160",
+  "name": "MFA FINANCIAL, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MFA",
+    "MFA-PB",
+    "MFAN",
+    "MFAO",
+    "MFA-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "133974868",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2122076400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MFA MORTGAGE INVESTMENTS",
+      "from": "2002-08-12T04:00:00.000Z",
+      "to": "2009-01-05T05:00:00.000Z"
+    },
+    {
+      "name": "AMERICA FIRST MORTGAGE INVESTMENTS INC",
+      "from": "1998-11-16T05:00:00.000Z",
+      "to": "2002-07-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:49 UTC"
+}

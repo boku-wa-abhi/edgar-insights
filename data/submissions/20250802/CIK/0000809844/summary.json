@@ -1,0 +1,32 @@
+{
+  "cik": "0000809844",
+  "name": "MFS HIGH YIELD MUNICIPAL TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "CMU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "042950868",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-954-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COLONIAL MUNICIPAL INCOME TRUST",
+      "from": "1994-01-31T05:00:00.000Z",
+      "to": "2007-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 512,
+  "download_timestamp": "2025-08-02 07:00:40 UTC"
+}

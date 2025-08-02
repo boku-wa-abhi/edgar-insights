@@ -1,0 +1,37 @@
+{
+  "cik": "0001362898",
+  "name": "Avalon Advanced Materials Inc.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "AVLNF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "416-364-4938",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Avalon Rare Metals Inc.",
+      "from": "2009-09-30T00:00:00.000Z",
+      "to": "2016-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Avalon Ventures Ltd",
+      "from": "2006-05-05T00:00:00.000Z",
+      "to": "2008-01-09T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 322,
+  "download_timestamp": "2025-08-02 07:11:20 UTC"
+}

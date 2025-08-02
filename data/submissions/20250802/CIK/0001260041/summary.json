@@ -1,0 +1,32 @@
+{
+  "cik": "0001260041",
+  "name": "JOHN HANCOCK TAX-ADVANTAGED DIVIDEND INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HTD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-663-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JOHN HANCOCK PREFERRED & EQUITY INCOME FUND",
+      "from": "2003-08-20T04:00:00.000Z",
+      "to": "2004-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 548,
+  "download_timestamp": "2025-08-02 07:09:14 UTC"
+}

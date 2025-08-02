@@ -1,0 +1,26 @@
+{
+  "cik": "0000856982",
+  "name": "MERIT MEDICAL SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MMSI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870447695",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8012531600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:36 UTC"
+}

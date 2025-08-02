@@ -1,0 +1,32 @@
+{
+  "cik": "0001141688",
+  "name": "LANDMARK BANCORP INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LARK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "431930755",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7855652000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LANDMARK MERGER CO",
+      "from": "2001-10-12T04:00:00.000Z",
+      "to": "2001-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 958,
+  "download_timestamp": "2025-08-02 07:07:59 UTC"
+}

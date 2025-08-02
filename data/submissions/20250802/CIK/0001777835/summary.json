@@ -1,0 +1,32 @@
+{
+  "cik": "0001777835",
+  "name": "Perella Weinberg Partners",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PWP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841770732",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-287-3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FinTech Acquisition Corp. IV",
+      "from": "2019-06-14T04:00:00.000Z",
+      "to": "2021-06-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 454,
+  "download_timestamp": "2025-08-02 07:23:40 UTC"
+}

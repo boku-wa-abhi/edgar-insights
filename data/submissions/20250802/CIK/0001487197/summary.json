@@ -1,0 +1,32 @@
+{
+  "cik": "0001487197",
+  "name": "BARFRESH FOOD GROUP INC.",
+  "entityType": "operating",
+  "sic": "2030",
+  "sicDescription": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRFH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271994359",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310-598-7110",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Moving Box Inc",
+      "from": "2010-08-11T04:00:00.000Z",
+      "to": "2012-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 462,
+  "download_timestamp": "2025-08-02 07:14:39 UTC"
+}

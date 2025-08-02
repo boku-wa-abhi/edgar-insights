@@ -1,0 +1,26 @@
+{
+  "cik": "0001287750",
+  "name": "ARES CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "331089684",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2127507300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:47 UTC"
+}

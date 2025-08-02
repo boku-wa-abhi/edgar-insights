@@ -1,0 +1,32 @@
+{
+  "cik": "0000912463",
+  "name": "GUESS INC",
+  "entityType": "operating",
+  "sic": "2340",
+  "sicDescription": "Women's, Misses':  Children's & Infants' Undergarments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "GES"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953679695",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(213) 765-3100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GUESS INC ET AL/CA/",
+      "from": "1996-08-06T04:00:00.000Z",
+      "to": "2005-05-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:18 UTC"
+}

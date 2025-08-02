@@ -1,0 +1,26 @@
+{
+  "cik": "0001523836",
+  "name": "LightInTheBox Holding Co., Ltd.",
+  "entityType": "other",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LITB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "65-6305 9667",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 230,
+  "download_timestamp": "2025-08-02 07:15:54 UTC"
+}

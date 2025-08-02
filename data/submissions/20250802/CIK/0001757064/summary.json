@@ -1,0 +1,26 @@
+{
+  "cik": "0001757064",
+  "name": "Genfit S.A.",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GNFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "33 3 20 16 4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 199,
+  "download_timestamp": "2025-08-02 07:23:02 UTC"
+}

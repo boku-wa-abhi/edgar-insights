@@ -1,0 +1,32 @@
+{
+  "cik": "0001191070",
+  "name": "Neuphoria Therapeutics Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NEUP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "781-439-5551",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIONOMICS LIMITED/FI",
+      "from": "2002-09-11T04:00:00.000Z",
+      "to": "2024-12-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 360,
+  "download_timestamp": "2025-08-02 07:08:47 UTC"
+}

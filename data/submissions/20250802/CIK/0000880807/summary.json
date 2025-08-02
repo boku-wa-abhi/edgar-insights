@@ -1,0 +1,26 @@
+{
+  "cik": "0000880807",
+  "name": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+  "entityType": "operating",
+  "sic": "3621",
+  "sicDescription": "Motors & Generators",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AMSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042959321",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9788423000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:11 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001053706",
+  "name": "CRA INTERNATIONAL, INC.",
+  "entityType": "operating",
+  "sic": "8111",
+  "sicDescription": "Services-Legal Services",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "CRAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042372210",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6174253000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CHARLES RIVER ASSOCIATES INC",
+      "from": "1998-10-23T04:00:00.000Z",
+      "to": "2005-04-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:47 UTC"
+}

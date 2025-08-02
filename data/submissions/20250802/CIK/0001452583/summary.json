@@ -1,0 +1,42 @@
+{
+  "cik": "0001452583",
+  "name": "CONSERVATIVE BROADCAST MEDIA & PUBLISHING, INC.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBMJ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "450457114",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8777045773",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Canna Consumer Goods, Inc. .",
+      "from": "2015-09-10T00:00:00.000Z",
+      "to": "2015-09-10T00:00:00.000Z"
+    },
+    {
+      "name": "Canna Brands, Inc. .",
+      "from": "2014-10-09T00:00:00.000Z",
+      "to": "2015-04-30T00:00:00.000Z"
+    },
+    {
+      "name": "Crownbutte Wind Power, Inc.",
+      "from": "2008-12-29T00:00:00.000Z",
+      "to": "2014-08-18T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 58,
+  "download_timestamp": "2025-08-02 07:13:46 UTC"
+}

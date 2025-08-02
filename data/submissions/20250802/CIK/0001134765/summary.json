@@ -1,0 +1,52 @@
+{
+  "cik": "0001134765",
+  "name": "Charlie's Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHUC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841575085",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-570-0691",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "True Drinks Holdings, Inc.",
+      "from": "2013-02-01T05:00:00.000Z",
+      "to": "2019-07-02T04:00:00.000Z"
+    },
+    {
+      "name": "BAZI INTERNATIONAL, INC.",
+      "from": "2010-08-10T04:00:00.000Z",
+      "to": "2013-01-22T05:00:00.000Z"
+    },
+    {
+      "name": "XELR8 HOLDINGS, INC.",
+      "from": "2006-11-17T05:00:00.000Z",
+      "to": "2010-08-02T04:00:00.000Z"
+    },
+    {
+      "name": "VITACUBE SYSTEMS HOLDINGS INC",
+      "from": "2004-04-02T05:00:00.000Z",
+      "to": "2007-03-09T05:00:00.000Z"
+    },
+    {
+      "name": "INSTANET INC",
+      "from": "2001-10-04T04:00:00.000Z",
+      "to": "2004-03-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 788,
+  "download_timestamp": "2025-08-02 07:07:49 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001285785",
+  "name": "MOSAIC CO",
+  "entityType": "operating",
+  "sic": "2870",
+  "sicDescription": "Agricultural Chemicals",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MOS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201026454",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "813-775-4200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GLOBAL NUTRITION SOLUTIONS INC",
+      "from": "2004-04-08T04:00:00.000Z",
+      "to": "2004-06-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:09:43 UTC"
+}

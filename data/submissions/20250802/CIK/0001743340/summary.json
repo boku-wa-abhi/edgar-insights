@@ -1,0 +1,32 @@
+{
+  "cik": "0001743340",
+  "name": "Token Cat Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "00861063998902",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TuanChe Ltd",
+      "from": "2018-07-31T04:00:00.000Z",
+      "to": "2025-02-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 150,
+  "download_timestamp": "2025-08-02 07:22:35 UTC"
+}

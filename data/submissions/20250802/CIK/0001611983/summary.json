@@ -1,0 +1,36 @@
+{
+  "cik": "0001611983",
+  "name": "Liberty Broadband Corp",
+  "entityType": "operating",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LBRDA",
+    "LBRDB",
+    "LBRDK",
+    "LBDAV",
+    "LBDKV",
+    "LBRDP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "471211994",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "720-875-5400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 805,
+  "download_timestamp": "2025-08-02 07:18:41 UTC"
+}

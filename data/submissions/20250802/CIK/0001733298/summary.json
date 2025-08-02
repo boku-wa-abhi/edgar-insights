@@ -1,0 +1,32 @@
+{
+  "cik": "0001733298",
+  "name": "Qutoutiao Inc.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QTTOY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86-21-5889-0398",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Qtech Ltd.",
+      "from": "2018-03-09T05:00:00.000Z",
+      "to": "2018-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 111,
+  "download_timestamp": "2025-08-02 07:22:17 UTC"
+}

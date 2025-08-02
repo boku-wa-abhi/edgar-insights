@@ -1,0 +1,42 @@
+{
+  "cik": "0000352541",
+  "name": "ALLIANT ENERGY CORP",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LNT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391380265",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "608-458-3311",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLIANT ENERGY CORP",
+      "from": "1999-12-15T05:00:00.000Z",
+      "to": "2025-07-15T04:00:00.000Z"
+    },
+    {
+      "name": "INTERSTATE ENERGY CORP",
+      "from": "1998-05-27T04:00:00.000Z",
+      "to": "1999-05-13T04:00:00.000Z"
+    },
+    {
+      "name": "WPL HOLDINGS INC",
+      "from": "1994-11-14T05:00:00.000Z",
+      "to": "1998-02-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:52 UTC"
+}

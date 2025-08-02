@@ -1,0 +1,32 @@
+{
+  "cik": "0000893538",
+  "name": "SM Energy Co",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "410518430",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "303-861-8140",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ST MARY LAND & EXPLORATION CO",
+      "from": "1996-10-10T04:00:00.000Z",
+      "to": "2010-05-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:02:42 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000788920",
+  "name": "PRO DEX INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PDEX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841261240",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-769-3231",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 977,
+  "download_timestamp": "2025-08-02 07:00:14 UTC"
+}

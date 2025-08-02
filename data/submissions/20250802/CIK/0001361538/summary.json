@@ -1,0 +1,32 @@
+{
+  "cik": "0001361538",
+  "name": "Primoris Services Corp",
+  "entityType": "operating",
+  "sic": "1623",
+  "sicDescription": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRIM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "204743916",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-740-5600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rhapsody Acquisition Corp.",
+      "from": "2006-06-02T04:00:00.000Z",
+      "to": "2008-08-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:18 UTC"
+}

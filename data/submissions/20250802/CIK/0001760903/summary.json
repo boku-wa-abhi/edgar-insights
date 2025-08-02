@@ -1,0 +1,39 @@
+{
+  "cik": "0001760903",
+  "name": "Safety Shot, Inc.",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHOT",
+    "SHOTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "832455880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "561-325-0482",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Jupiter Wellness, Inc.",
+      "from": "2019-11-22T05:00:00.000Z",
+      "to": "2023-09-12T04:00:00.000Z"
+    },
+    {
+      "name": "CBD Brands, Inc.",
+      "from": "2019-03-04T05:00:00.000Z",
+      "to": "2020-05-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 542,
+  "download_timestamp": "2025-08-02 07:23:12 UTC"
+}

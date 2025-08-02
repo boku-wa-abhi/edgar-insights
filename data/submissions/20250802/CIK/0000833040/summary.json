@@ -1,0 +1,26 @@
+{
+  "cik": "0000833040",
+  "name": "FRANKLIN UNIVERSAL TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "FT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "943077602",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "650-312-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 07:01:12 UTC"
+}

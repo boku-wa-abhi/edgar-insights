@@ -1,0 +1,26 @@
+{
+  "cik": "0000065270",
+  "name": "METHODE ELECTRONICS INC",
+  "entityType": "operating",
+  "sic": "3678",
+  "sicDescription": "Electronic Connectors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0503",
+  "tickers": [
+    "MEI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "362090085",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "7088676777",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:25 UTC"
+}

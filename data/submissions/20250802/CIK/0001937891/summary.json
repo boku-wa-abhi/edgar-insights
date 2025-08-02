@@ -1,0 +1,30 @@
+{
+  "cik": "0001937891",
+  "name": "AlphaVest Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "5700",
+  "sicDescription": "Retail-Home Furniture, Furnishings & Equipment Stores",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATMV",
+    "ATMVR",
+    "ATMVU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "917-353-8978",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 88,
+  "download_timestamp": "2025-08-02 07:29:51 UTC"
+}

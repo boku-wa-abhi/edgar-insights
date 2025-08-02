@@ -1,0 +1,34 @@
+{
+  "cik": "0001512673",
+  "name": "Block, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XYZ",
+    "BSQKZ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "800429876",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-375-3176",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Square, Inc.",
+      "from": "2011-03-02T05:00:00.000Z",
+      "to": "2021-12-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:15:31 UTC"
+}

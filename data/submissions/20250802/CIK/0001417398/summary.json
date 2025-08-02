@@ -1,0 +1,32 @@
+{
+  "cik": "0001417398",
+  "name": "Hillenbrand, Inc.",
+  "entityType": "operating",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "HI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "261342272",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(812) 931-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Batesville Holdings, Inc.",
+      "from": "2007-11-05T05:00:00.000Z",
+      "to": "2008-03-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:45 UTC"
+}

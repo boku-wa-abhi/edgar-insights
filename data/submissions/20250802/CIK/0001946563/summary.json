@@ -1,0 +1,28 @@
+{
+  "cik": "0001946563",
+  "name": "60 DEGREES PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SXTP",
+    "SXTPW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "452406880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "202-327-5422",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:30:05 UTC"
+}

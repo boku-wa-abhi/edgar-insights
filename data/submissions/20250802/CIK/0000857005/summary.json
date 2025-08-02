@@ -1,0 +1,32 @@
+{
+  "cik": "0000857005",
+  "name": "PTC INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "PTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042866152",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7813705000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PARAMETRIC TECHNOLOGY CORP",
+      "from": "1995-12-07T05:00:00.000Z",
+      "to": "2013-01-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:01:38 UTC"
+}

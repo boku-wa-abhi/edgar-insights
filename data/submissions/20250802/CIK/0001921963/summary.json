@@ -1,0 +1,32 @@
+{
+  "cik": "0001921963",
+  "name": "Atmus Filtration Technologies Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATMU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "061601605",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6155147339",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FILT Red, Inc.",
+      "from": "2022-04-21T04:00:00.000Z",
+      "to": "2022-07-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:29:33 UTC"
+}

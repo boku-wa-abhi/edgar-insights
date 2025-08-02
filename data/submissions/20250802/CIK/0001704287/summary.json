@@ -1,0 +1,26 @@
+{
+  "cik": "0001704287",
+  "name": "Bluejay Diagnostics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BJDX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473552922",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(978) 631-0152",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:21:18 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001467858",
+  "name": "General Motors Co",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270756180",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "313.667.1500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1014,
+  "download_timestamp": "2025-08-02 07:14:04 UTC"
+}

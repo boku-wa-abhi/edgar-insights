@@ -1,0 +1,26 @@
+{
+  "cik": "0001774342",
+  "name": "Nuveen Municipal Credit Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NMCO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:23:35 UTC"
+}

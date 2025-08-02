@@ -1,0 +1,57 @@
+{
+  "cik": "0000891103",
+  "name": "Match Group, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTCH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "592712887",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2145769352",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IAC/INTERACTIVECORP",
+      "from": "2004-07-14T04:00:00.000Z",
+      "to": "2020-07-01T04:00:00.000Z"
+    },
+    {
+      "name": "INTERACTIVECORP",
+      "from": "2003-05-09T04:00:00.000Z",
+      "to": "2004-07-12T04:00:00.000Z"
+    },
+    {
+      "name": "USA INTERACTIVE",
+      "from": "2002-05-10T04:00:00.000Z",
+      "to": "2003-06-20T04:00:00.000Z"
+    },
+    {
+      "name": "USA NETWORKS INC",
+      "from": "1998-09-25T04:00:00.000Z",
+      "to": "2002-05-06T04:00:00.000Z"
+    },
+    {
+      "name": "HSN INC",
+      "from": "1997-07-28T04:00:00.000Z",
+      "to": "1998-02-04T05:00:00.000Z"
+    },
+    {
+      "name": "SILVER KING COMMUNICATIONS INC",
+      "from": "1995-12-08T05:00:00.000Z",
+      "to": "1996-12-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:39 UTC"
+}

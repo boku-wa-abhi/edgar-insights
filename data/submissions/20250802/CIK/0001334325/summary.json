@@ -1,0 +1,26 @@
+{
+  "cik": "0001334325",
+  "name": "Coda Octopus Group, Inc.",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "CODA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "342008348",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "801-973-9136",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 371,
+  "download_timestamp": "2025-08-02 07:10:45 UTC"
+}

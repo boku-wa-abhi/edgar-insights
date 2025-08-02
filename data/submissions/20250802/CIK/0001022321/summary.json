@@ -1,0 +1,28 @@
+{
+  "cik": "0001022321",
+  "name": "GENESIS ENERGY LP",
+  "entityType": "operating",
+  "sic": "4610",
+  "sicDescription": "Pipe Lines (No Natural Gas)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GEL",
+    "GELPP"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "760513049",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7138602500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:54 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001636422",
+  "name": "Health Catalyst, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HCAT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453337483",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "801-708-6800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HQC Holdings, Inc.",
+      "from": "2015-03-27T04:00:00.000Z",
+      "to": "2016-02-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 793,
+  "download_timestamp": "2025-08-02 07:19:21 UTC"
+}

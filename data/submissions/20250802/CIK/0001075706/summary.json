@@ -1,0 +1,26 @@
+{
+  "cik": "0001075706",
+  "name": "CITIZENS HOLDING CO /MS/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "MS",
+  "stateOfIncorporationDescription": "MS",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIZN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "640666512",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6016564692",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 679,
+  "download_timestamp": "2025-08-02 07:06:24 UTC"
+}

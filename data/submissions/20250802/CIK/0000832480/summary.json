@@ -1,0 +1,37 @@
+{
+  "cik": "0000832480",
+  "name": "UTG INC",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UTGN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "202907892",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2172416300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNITED TRUST GROUP INC",
+      "from": "2001-09-13T04:00:00.000Z",
+      "to": "2005-06-22T04:00:00.000Z"
+    },
+    {
+      "name": "UNITED TRUST INC /IL/",
+      "from": "1995-08-11T04:00:00.000Z",
+      "to": "2000-08-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 660,
+  "download_timestamp": "2025-08-02 07:01:11 UTC"
+}

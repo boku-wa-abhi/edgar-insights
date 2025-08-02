@@ -1,0 +1,26 @@
+{
+  "cik": "0000019871",
+  "name": "CHICAGO RIVET & MACHINE CO",
+  "entityType": "operating",
+  "sic": "3540",
+  "sicDescription": "Metalworkg Machinery & Equipment",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CVR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "360904920",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6303578500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 361,
+  "download_timestamp": "2025-08-02 06:56:30 UTC"
+}

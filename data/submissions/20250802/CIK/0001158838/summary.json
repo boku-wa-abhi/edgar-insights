@@ -1,0 +1,28 @@
+{
+  "cik": "0001158838",
+  "name": "ADVANTEST CORP",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATEYY",
+    "ADTTF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81-3-3214-7500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 311,
+  "download_timestamp": "2025-08-02 07:08:11 UTC"
+}

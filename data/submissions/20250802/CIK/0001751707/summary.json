@@ -1,0 +1,26 @@
+{
+  "cik": "0001751707",
+  "name": "United Express Inc.",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "UNXP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "821965608",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "949-350-0123",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:22:51 UTC"
+}

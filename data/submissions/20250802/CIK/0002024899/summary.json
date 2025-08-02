@@ -1,0 +1,26 @@
+{
+  "cik": "0002024899",
+  "name": "Monroe Federal Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MFBI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(937) 667-8461",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 32,
+  "download_timestamp": "2025-08-02 07:32:24 UTC"
+}

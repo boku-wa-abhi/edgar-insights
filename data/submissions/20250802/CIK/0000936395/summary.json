@@ -1,0 +1,26 @@
+{
+  "cik": "0000936395",
+  "name": "CIENA CORP",
+  "entityType": "operating",
+  "sic": "3661",
+  "sicDescription": "Telephone & Telegraph Apparatus",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1101",
+  "tickers": [
+    "CIEN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "232725311",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4108658500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:04:02 UTC"
+}

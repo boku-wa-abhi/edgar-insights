@@ -1,0 +1,26 @@
+{
+  "cik": "0001370450",
+  "name": "Willdan Group, Inc.",
+  "entityType": "operating",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0102",
+  "tickers": [
+    "WLDN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "141951112",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "800-424-9144",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:29 UTC"
+}

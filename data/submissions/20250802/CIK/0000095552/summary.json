@@ -1,0 +1,26 @@
+{
+  "cik": "0000095552",
+  "name": "SUPERIOR INDUSTRIES INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSUP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "952594729",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "248-352-7300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:05 UTC"
+}

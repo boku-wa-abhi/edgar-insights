@@ -1,0 +1,26 @@
+{
+  "cik": "0001007587",
+  "name": "KVH INDUSTRIES INC \\DE\\",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KVHI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "050420589",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "4018473327",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:04:35 UTC"
+}

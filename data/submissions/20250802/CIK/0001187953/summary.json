@@ -1,0 +1,32 @@
+{
+  "cik": "0001187953",
+  "name": "CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CELZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870622284",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "480-399-2822",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JOLLEY MARKETING INC",
+      "from": "2002-09-13T04:00:00.000Z",
+      "to": "2016-05-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 377,
+  "download_timestamp": "2025-08-02 07:08:46 UTC"
+}

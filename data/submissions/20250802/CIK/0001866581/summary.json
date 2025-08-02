@@ -1,0 +1,26 @@
+{
+  "cik": "0001866581",
+  "name": "Dutch Bros Inc.",
+  "entityType": "operating",
+  "sic": "5810",
+  "sicDescription": "Retail-Eating & Drinking Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BROS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "871041305",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(877) 899-2767",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 539,
+  "download_timestamp": "2025-08-02 07:28:01 UTC"
+}

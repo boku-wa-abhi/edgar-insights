@@ -1,0 +1,26 @@
+{
+  "cik": "0001941500",
+  "name": "Multi Ways Holdings Ltd",
+  "entityType": "other",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MWG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "62875252",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 52,
+  "download_timestamp": "2025-08-02 07:29:58 UTC"
+}

@@ -1,0 +1,145 @@
+{
+  "cik": "0002045907",
+  "entityType": "other",
+  "sic": "3590",
+  "sicDescription": "Misc Industrial & Commercial Machinery & Equipment",
+  "ownerOrg": "06 Technology",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "KOKOBOTS GROUP",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "16F,BLDG.B,NO.15 CHANGYI RD",
+      "street2": null,
+      "city": "SHANGHAI",
+      "stateOrCountry": "F4",
+      "zipCode": "200441",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "16F,BLDG.B,NO.15 CHANGYI RD",
+      "street2": null,
+      "city": "SHANGHAI",
+      "stateOrCountry": "F4",
+      "zipCode": "200441",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "8615921731797",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-063114",
+        "0001213900-25-035483",
+        "0001213900-25-021671",
+        "0001213900-25-002616"
+      ],
+      "filingDate": [
+        "2025-07-11",
+        "2025-04-25",
+        "2025-03-07",
+        "2025-01-10"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-11T17:02:40.000Z",
+        "2025-04-25T19:17:49.000Z",
+        "2025-03-07T20:26:19.000Z",
+        "2025-01-10T20:31:45.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288633",
+        "377-07671",
+        "377-07671",
+        "377-07671"
+      ],
+      "filmNumber": [
+        "251118347",
+        "25873260",
+        "25719706",
+        "25522630"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        18473550,
+        17690350,
+        15821447,
+        15180976
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0225390-06.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

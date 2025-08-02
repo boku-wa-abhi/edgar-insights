@@ -1,0 +1,52 @@
+{
+  "cik": "0000894501",
+  "name": "GOLD ROCK HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRHI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870434297",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7573066090",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COMPOSITE HOLDINGS INC",
+      "from": "2002-09-30T04:00:00.000Z",
+      "to": "2003-03-07T05:00:00.000Z"
+    },
+    {
+      "name": "COMPOSITE INDUSTRIES OF AMERICA INC",
+      "from": "2001-10-12T04:00:00.000Z",
+      "to": "2002-05-20T04:00:00.000Z"
+    },
+    {
+      "name": "WORLD HOMES INC",
+      "from": "2000-11-22T05:00:00.000Z",
+      "to": "2001-02-22T05:00:00.000Z"
+    },
+    {
+      "name": "AFFORDABLE HOMES OF AMERICA INC",
+      "from": "1999-07-01T04:00:00.000Z",
+      "to": "2000-05-19T04:00:00.000Z"
+    },
+    {
+      "name": "KOWTOW INC",
+      "from": "1996-11-13T05:00:00.000Z",
+      "to": "1999-03-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 149,
+  "download_timestamp": "2025-08-02 07:02:45 UTC"
+}

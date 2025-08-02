@@ -1,0 +1,42 @@
+{
+  "cik": "0000002186",
+  "name": "BK Technologies Corp",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BKTI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "593486297",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "321-984-1414",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BK Technologies, Inc.",
+      "from": "2018-06-04T04:00:00.000Z",
+      "to": "2019-03-28T04:00:00.000Z"
+    },
+    {
+      "name": "RELM WIRELESS CORP",
+      "from": "1998-02-10T05:00:00.000Z",
+      "to": "2018-06-04T04:00:00.000Z"
+    },
+    {
+      "name": "ADAGE INC",
+      "from": "1995-11-15T05:00:00.000Z",
+      "to": "1997-12-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:03 UTC"
+}

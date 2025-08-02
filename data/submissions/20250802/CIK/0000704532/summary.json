@@ -1,0 +1,32 @@
+{
+  "cik": "0000704532",
+  "name": "ONTO INNOVATION INC.",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1226",
+  "tickers": [
+    "ONTO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "942276314",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9782536200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NANOMETRICS INC",
+      "from": "1995-09-08T04:00:00.000Z",
+      "to": "2019-10-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:03 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000706698",
+  "name": "UTAH MEDICAL PRODUCTS INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UTMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870342734",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8015215301",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 812,
+  "download_timestamp": "2025-08-02 06:59:04 UTC"
+}

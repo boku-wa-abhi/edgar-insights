@@ -1,0 +1,30 @@
+{
+  "cik": "0002006815",
+  "name": "Voyager Acquisition Corp./Cayman Islands",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VACH",
+    "VACHU",
+    "VACHW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "03477204333",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 60,
+  "download_timestamp": "2025-08-02 07:31:46 UTC"
+}

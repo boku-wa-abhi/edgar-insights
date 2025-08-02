@@ -1,0 +1,26 @@
+{
+  "cik": "0001723059",
+  "name": "Bio Essence Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIOE"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "943349551",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-816-1494",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 74,
+  "download_timestamp": "2025-08-02 07:21:55 UTC"
+}

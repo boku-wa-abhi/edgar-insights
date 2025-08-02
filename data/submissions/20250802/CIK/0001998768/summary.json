@@ -1,0 +1,26 @@
+{
+  "cik": "0001998768",
+  "name": "Proficient Auto Logistics, Inc",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "904-772-1775",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:31:34 UTC"
+}

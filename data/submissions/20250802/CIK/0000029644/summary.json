@@ -1,0 +1,26 @@
+{
+  "cik": "0000029644",
+  "name": "DONALDSON Co INC",
+  "entityType": "operating",
+  "sic": "3564",
+  "sicDescription": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "DCI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "410222640",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6128873131",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:42 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000929008",
+  "name": "WESCO INTERNATIONAL INC",
+  "entityType": "operating",
+  "sic": "5063",
+  "sicDescription": "Wholesale-Electrical Apparatus & Equipment, Wiring Supplies ",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WCC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251723342",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4124542200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CDW HOLDING CORP",
+      "from": "1997-12-24T05:00:00.000Z",
+      "to": "1998-06-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:53 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001827401",
+  "name": "BRIGHT MINDS BIOSCIENCES INC.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "DRUG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "6474072515",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 128,
+  "download_timestamp": "2025-08-02 07:25:48 UTC"
+}

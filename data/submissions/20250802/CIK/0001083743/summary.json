@@ -1,0 +1,52 @@
+{
+  "cik": "0001083743",
+  "name": "Flux Power Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FLUX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860931332",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "877-505-3589",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lone Pine Holdings, Inc",
+      "from": "2009-04-15T04:00:00.000Z",
+      "to": "2012-05-31T04:00:00.000Z"
+    },
+    {
+      "name": "Australian Forest Industries",
+      "from": "2006-08-08T04:00:00.000Z",
+      "to": "2009-04-01T04:00:00.000Z"
+    },
+    {
+      "name": "MULTI TECH INTERNATIONAL CORP",
+      "from": "2002-12-05T05:00:00.000Z",
+      "to": "2007-04-17T04:00:00.000Z"
+    },
+    {
+      "name": "BUCKTV COM INC",
+      "from": "2000-08-14T04:00:00.000Z",
+      "to": "2002-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "OLERAMMA INC",
+      "from": "1999-04-29T04:00:00.000Z",
+      "to": "2000-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 746,
+  "download_timestamp": "2025-08-02 07:06:33 UTC"
+}

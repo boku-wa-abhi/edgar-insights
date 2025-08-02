@@ -1,0 +1,26 @@
+{
+  "cik": "0001293818",
+  "name": "OPGEN INC",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPGN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "061614015",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "301-869-9683",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 752,
+  "download_timestamp": "2025-08-02 07:09:56 UTC"
+}

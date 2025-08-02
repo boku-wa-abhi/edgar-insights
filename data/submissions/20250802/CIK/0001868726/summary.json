@@ -1,0 +1,26 @@
+{
+  "cik": "0001868726",
+  "name": "OLAPLEX HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OLPX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "310-691-0776",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 210,
+  "download_timestamp": "2025-08-02 07:28:07 UTC"
+}

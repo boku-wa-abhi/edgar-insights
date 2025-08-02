@@ -1,0 +1,26 @@
+{
+  "cik": "0001689448",
+  "name": "Argentina Lithium & Energy Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LILIF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-687-1828",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 12,
+  "download_timestamp": "2025-08-02 07:20:48 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000889348",
+  "name": "CPI AEROSTRUCTURES INC",
+  "entityType": "operating",
+  "sic": "3728",
+  "sicDescription": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CVU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "112520310",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5165865200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:35 UTC"
+}

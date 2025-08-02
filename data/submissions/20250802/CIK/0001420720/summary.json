@@ -1,0 +1,42 @@
+{
+  "cik": "0001420720",
+  "name": "iBio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "IBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "262797813",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "302 355-0650",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "iBio, Inc.",
+      "from": "2009-08-18T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "iBioPharma, Inc.",
+      "from": "2008-07-16T04:00:00.000Z",
+      "to": "2009-08-14T04:00:00.000Z"
+    },
+    {
+      "name": "InB:Biotechnologies, Inc.",
+      "from": "2008-03-07T05:00:00.000Z",
+      "to": "2008-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 807,
+  "download_timestamp": "2025-08-02 07:12:54 UTC"
+}

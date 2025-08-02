@@ -1,0 +1,32 @@
+{
+  "cik": "0001087786",
+  "name": "NUVEEN NEW JERSEY QUALITY MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NXJ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364119016",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN NEW JERSEY DIVIDEND ADVANTAGE MUNICIPAL FUND",
+      "from": "1999-07-16T04:00:00.000Z",
+      "to": "2016-11-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 562,
+  "download_timestamp": "2025-08-02 07:06:40 UTC"
+}

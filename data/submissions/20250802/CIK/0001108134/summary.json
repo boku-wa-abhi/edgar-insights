@@ -1,0 +1,26 @@
+{
+  "cik": "0001108134",
+  "name": "BERKSHIRE HILLS BANCORP INC",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BHLB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043510455",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-641-9206",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:10 UTC"
+}

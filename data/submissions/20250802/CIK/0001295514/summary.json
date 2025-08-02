@@ -1,0 +1,32 @@
+{
+  "cik": "0001295514",
+  "name": "MDWerks, Inc.",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDWK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "331095411",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(252) 501-0019",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WESTERN EXPLORATION INC.",
+      "from": "2004-08-12T04:00:00.000Z",
+      "to": "2005-10-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 237,
+  "download_timestamp": "2025-08-02 07:09:57 UTC"
+}

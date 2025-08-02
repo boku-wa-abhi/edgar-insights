@@ -1,0 +1,32 @@
+{
+  "cik": "0001718500",
+  "name": "Axil Brands, Inc.",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "AXIL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "474125218",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-638-8883",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reviv3 Procare Co",
+      "from": "2017-10-06T04:00:00.000Z",
+      "to": "2024-02-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 142,
+  "download_timestamp": "2025-08-02 07:21:47 UTC"
+}

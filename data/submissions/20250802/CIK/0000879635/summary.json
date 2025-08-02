@@ -1,0 +1,26 @@
+{
+  "cik": "0000879635",
+  "name": "MID PENN BANCORP INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MPB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "251666413",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8666427736",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:08 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001882781",
+  "name": "C2 Blockchain,Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CBLO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "8884373432",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "C2 Blockchain, Inc.",
+      "from": "2021-09-16T04:00:00.000Z",
+      "to": "2021-10-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 45,
+  "download_timestamp": "2025-08-02 07:28:38 UTC"
+}

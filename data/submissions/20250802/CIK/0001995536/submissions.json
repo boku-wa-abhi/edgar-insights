@@ -1,0 +1,100 @@
+{
+  "cik": "0001995536",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Ecora Resources PLC/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "addresses": {
+    "mailing": {
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10179",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10179",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-23-001365"
+      ],
+      "filingDate": [
+        "2023-10-04"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-10-04T21:07:49.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-274866"
+      ],
+      "filmNumber": [
+        "231308817"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "size": [
+        139299
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "e618982_f6ef-ecora.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

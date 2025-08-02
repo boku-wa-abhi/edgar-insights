@@ -1,0 +1,37 @@
+{
+  "cik": "0000060714",
+  "name": "LSB INDUSTRIES, INC.",
+  "entityType": "operating",
+  "sic": "2810",
+  "sicDescription": "Industrial Inorganic Chemicals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LXU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731015226",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4052354546",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LSB INDUSTRIES, INC.",
+      "from": "2022-05-13T04:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "LSB INDUSTRIES INC",
+      "from": "1994-02-23T05:00:00.000Z",
+      "to": "2022-05-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:57:19 UTC"
+}

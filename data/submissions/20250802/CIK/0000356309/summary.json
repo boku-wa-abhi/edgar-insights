@@ -1,0 +1,26 @@
+{
+  "cik": "0000356309",
+  "name": "NEW JERSEY RESOURCES CORP",
+  "entityType": "operating",
+  "sic": "4924",
+  "sicDescription": "Natural Gas Distribution",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "NJR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "222376465",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7329381000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:58:58 UTC"
+}

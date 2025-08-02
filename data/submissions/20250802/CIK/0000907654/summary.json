@@ -1,0 +1,42 @@
+{
+  "cik": "0000907654",
+  "name": "Oruka Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ORKA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363855489",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-606-7910",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ARCA biopharma, Inc.",
+      "from": "2009-01-28T05:00:00.000Z",
+      "to": "2024-08-30T04:00:00.000Z"
+    },
+    {
+      "name": "NUVELO INC",
+      "from": "2003-02-04T05:00:00.000Z",
+      "to": "2009-01-27T05:00:00.000Z"
+    },
+    {
+      "name": "HYSEQ INC",
+      "from": "1997-07-17T04:00:00.000Z",
+      "to": "2003-01-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:06 UTC"
+}

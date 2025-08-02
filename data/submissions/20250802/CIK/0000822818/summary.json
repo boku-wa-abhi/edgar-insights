@@ -1,0 +1,26 @@
+{
+  "cik": "0000822818",
+  "name": "CLEAN HARBORS INC",
+  "entityType": "operating",
+  "sic": "4955",
+  "sicDescription": "Hazardous Waste Management",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "042997780",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "781-792-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:58 UTC"
+}

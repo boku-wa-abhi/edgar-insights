@@ -1,0 +1,32 @@
+{
+  "cik": "0001720580",
+  "name": "Adicet Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACET"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813305277",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-482-2333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "resTORbio, Inc.",
+      "from": "2017-10-27T04:00:00.000Z",
+      "to": "2020-08-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 609,
+  "download_timestamp": "2025-08-02 07:21:51 UTC"
+}

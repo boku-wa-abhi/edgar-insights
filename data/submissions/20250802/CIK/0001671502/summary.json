@@ -1,0 +1,37 @@
+{
+  "cik": "0001671502",
+  "name": "Quoin Pharmaceuticals, Ltd.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "QNRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "97299741444",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cellect Biotechnology Ltd.",
+      "from": "2016-05-06T04:00:00.000Z",
+      "to": "2021-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "Cellect Biomed Ltd.",
+      "from": "2016-04-08T04:00:00.000Z",
+      "to": "2016-07-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 495,
+  "download_timestamp": "2025-08-02 07:20:17 UTC"
+}

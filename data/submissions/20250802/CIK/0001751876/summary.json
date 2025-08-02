@@ -1,0 +1,37 @@
+{
+  "cik": "0001751876",
+  "name": "Paranovus Entertainment Technology Ltd.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PAVS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "516-951-9074",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Happiness Development Group Ltd",
+      "from": "2021-11-30T05:00:00.000Z",
+      "to": "2023-02-27T05:00:00.000Z"
+    },
+    {
+      "name": "Happiness Biotech Group Ltd",
+      "from": "2018-09-04T04:00:00.000Z",
+      "to": "2021-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 156,
+  "download_timestamp": "2025-08-02 07:22:51 UTC"
+}

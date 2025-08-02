@@ -1,0 +1,26 @@
+{
+  "cik": "0002004340",
+  "name": "Syensqo SA/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "C9",
+  "stateOfIncorporationDescription": "Belgium",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SYNSY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:31:43 UTC"
+}

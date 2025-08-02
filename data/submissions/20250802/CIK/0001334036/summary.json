@@ -1,0 +1,26 @@
+{
+  "cik": "0001334036",
+  "name": "Crocs, Inc.",
+  "entityType": "operating",
+  "sic": "3021",
+  "sicDescription": "Rubber & Plastics Footwear",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CROX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "202164234",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3038487000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:44 UTC"
+}

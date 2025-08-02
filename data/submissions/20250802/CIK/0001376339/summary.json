@@ -1,0 +1,32 @@
+{
+  "cik": "0001376339",
+  "name": "MIMEDX GROUP, INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDXG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "262792552",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(770) 651-9100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alynx, Co.",
+      "from": "2007-03-06T05:00:00.000Z",
+      "to": "2008-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:11:39 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001524358",
+  "name": "MARRIOTT VACATIONS WORLDWIDE Corp",
+  "entityType": "operating",
+  "sic": "6531",
+  "sicDescription": "Real Estate Agents & Managers (For Others)",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VAC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "452598330",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "407-206-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:15:55 UTC"
+}

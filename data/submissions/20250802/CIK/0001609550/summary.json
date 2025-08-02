@@ -1,0 +1,26 @@
+{
+  "cik": "0001609550",
+  "name": "Inspire Medical Systems, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INSP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "261377674",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "763-957-5037",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 778,
+  "download_timestamp": "2025-08-02 07:18:34 UTC"
+}

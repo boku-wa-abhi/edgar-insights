@@ -1,0 +1,26 @@
+{
+  "cik": "0001161125",
+  "name": "BANK OF CHILE",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BCH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "562-637-2044",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 643,
+  "download_timestamp": "2025-08-02 07:08:15 UTC"
+}

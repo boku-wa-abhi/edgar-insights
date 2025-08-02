@@ -1,0 +1,26 @@
+{
+  "cik": "0001967397",
+  "name": "LZ Technology Holdings Ltd",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LZMH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "0592-2950080",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 39,
+  "download_timestamp": "2025-08-02 07:30:38 UTC"
+}

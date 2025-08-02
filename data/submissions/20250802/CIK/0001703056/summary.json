@@ -1,0 +1,42 @@
+{
+  "cik": "0001703056",
+  "name": "ADT Inc.",
+  "entityType": "operating",
+  "sic": "7381",
+  "sicDescription": "Services-Detective, Guard & Armored Car Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "474116383",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5619883600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADT Inc.",
+      "from": "2017-10-26T04:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    },
+    {
+      "name": "ADT, Inc.",
+      "from": "2017-09-28T04:00:00.000Z",
+      "to": "2018-01-30T05:00:00.000Z"
+    },
+    {
+      "name": "Prime Security Services Parent, Inc.",
+      "from": "2017-04-11T04:00:00.000Z",
+      "to": "2017-04-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 906,
+  "download_timestamp": "2025-08-02 07:21:14 UTC"
+}

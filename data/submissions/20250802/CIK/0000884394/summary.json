@@ -1,0 +1,32 @@
+{
+  "cik": "0000884394",
+  "name": "SPDR S&P 500 ETF TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SPY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-656-4440",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPDR TRUST SERIES 1",
+      "from": "1996-02-14T05:00:00.000Z",
+      "to": "2009-12-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 263,
+  "download_timestamp": "2025-08-02 07:02:20 UTC"
+}

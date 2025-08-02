@@ -1,0 +1,32 @@
+{
+  "cik": "0001345016",
+  "name": "YELP INC",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YELP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201854266",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(415) 908-3801",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "YELP! INC",
+      "from": "2005-11-16T05:00:00.000Z",
+      "to": "2012-02-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:58 UTC"
+}

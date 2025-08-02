@@ -1,0 +1,32 @@
+{
+  "cik": "0001046568",
+  "name": "PERDOCEO EDUCATION Corp",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRDO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363932190",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "847-781-3600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAREER EDUCATION CORP",
+      "from": "1997-10-10T04:00:00.000Z",
+      "to": "2019-12-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:35 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001383088",
+  "name": "CYTTA CORP.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "CYCA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980505761",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "855-511-4426",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 162,
+  "download_timestamp": "2025-08-02 07:11:51 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000093389",
+  "name": "STANDARD MOTOR PRODUCTS, INC.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "111362020",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "718-392-0200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STANDARD MOTOR PRODUCTS INC",
+      "from": "1994-05-13T04:00:00.000Z",
+      "to": "2018-10-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:03 UTC"
+}

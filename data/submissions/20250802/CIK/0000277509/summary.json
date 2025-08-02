@@ -1,0 +1,26 @@
+{
+  "cik": "0000277509",
+  "name": "FEDERAL SIGNAL CORP /DE/",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "361063330",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "630-954-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:33 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001621906",
+  "name": "Western Uranium & Vanadium Corp.",
+  "entityType": "operating",
+  "sic": "1090",
+  "sicDescription": "Miscellaneous Metal Ores",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WSTRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(908) 872-7686",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Western Uranium Corp",
+      "from": "2016-01-19T05:00:00.000Z",
+      "to": "2018-10-04T04:00:00.000Z"
+    },
+    {
+      "name": "HOMELAND URANIUM INC.",
+      "from": "2014-11-28T05:00:00.000Z",
+      "to": "2015-02-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 278,
+  "download_timestamp": "2025-08-02 07:18:58 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001688757",
+  "name": "ESTABLISHMENT LABS HOLDINGS INC.",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESTA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981436377",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "50624342400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 460,
+  "download_timestamp": "2025-08-02 07:20:48 UTC"
+}

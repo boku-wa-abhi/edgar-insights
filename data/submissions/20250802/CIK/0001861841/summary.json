@@ -1,0 +1,28 @@
+{
+  "cik": "0001861841",
+  "name": "Arbe Robotics Ltd.",
+  "entityType": "other",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARBE",
+    "ARBEW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "972.73.7969804",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 141,
+  "download_timestamp": "2025-08-02 07:27:50 UTC"
+}

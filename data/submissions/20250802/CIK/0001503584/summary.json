@@ -1,0 +1,32 @@
+{
+  "cik": "0001503584",
+  "name": "Costamare Inc.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMRE",
+    "CMRE-PB",
+    "CMRE-PC",
+    "CMRE-PD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "377(93)250940",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 494,
+  "download_timestamp": "2025-08-02 07:15:14 UTC"
+}

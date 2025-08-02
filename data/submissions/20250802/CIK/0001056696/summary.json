@@ -1,0 +1,26 @@
+{
+  "cik": "0001056696",
+  "name": "MANHATTAN ASSOCIATES INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MANH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "582373424",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7709557070",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:50 UTC"
+}

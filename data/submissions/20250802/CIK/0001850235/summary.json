@@ -1,0 +1,26 @@
+{
+  "cik": "0001850235",
+  "name": "D-MARKET Electronic Services & Trading",
+  "entityType": "other",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "W8",
+  "stateOfIncorporationDescription": "Turkey",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HEPS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "90 (0) 212 304 20 00",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:27:09 UTC"
+}

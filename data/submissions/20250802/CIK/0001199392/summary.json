@@ -1,0 +1,32 @@
+{
+  "cik": "0001199392",
+  "name": "EMERGENT METALS CORP.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EGMCF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(778) 375-3106",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EMGOLD MINING CORP",
+      "from": "2004-01-02T00:00:00.000Z",
+      "to": "2020-10-26T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:08:50 UTC"
+}

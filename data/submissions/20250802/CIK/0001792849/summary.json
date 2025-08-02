@@ -1,0 +1,28 @@
+{
+  "cik": "0001792849",
+  "name": "HighPeak Energy, Inc.",
+  "entityType": "operating",
+  "sic": "1381",
+  "sicDescription": "Drilling Oil & Gas Wells",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HPK",
+    "HPKEW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "843533602",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(817) 850-9200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 347,
+  "download_timestamp": "2025-08-02 07:24:15 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001166928",
+  "name": "WEST BANCORPORATION INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "IA",
+  "stateOfIncorporationDescription": "IA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WTBA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "421230603",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5152222309",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:23 UTC"
+}

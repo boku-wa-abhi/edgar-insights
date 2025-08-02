@@ -1,0 +1,32 @@
+{
+  "cik": "0000811211",
+  "name": "UNIVERSITY BANCORP INC /DE/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNIB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "382929531",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9066359794",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEWBERRY BANCORP INC",
+      "from": "1995-11-14T00:00:00.000Z",
+      "to": "1996-03-21T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 167,
+  "download_timestamp": "2025-08-02 07:00:42 UTC"
+}

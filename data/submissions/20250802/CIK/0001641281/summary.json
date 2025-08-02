@@ -1,0 +1,32 @@
+{
+  "cik": "0001641281",
+  "name": "Bolt Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BOLT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472804636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-665-9295",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bolt Therapeutics, Inc.",
+      "from": "2015-05-07T04:00:00.000Z",
+      "to": "2015-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 245,
+  "download_timestamp": "2025-08-02 07:19:29 UTC"
+}

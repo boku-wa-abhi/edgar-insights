@@ -1,0 +1,26 @@
+{
+  "cik": "0000763532",
+  "name": "LSI INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3640",
+  "sicDescription": "Electric Lighting & Wiring Equipment",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LYTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "310888951",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5135796411",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:55 UTC"
+}

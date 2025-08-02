@@ -1,0 +1,32 @@
+{
+  "cik": "0001496323",
+  "name": "IGM Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IGMS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770349194",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-965-7873",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Palingen, Inc.",
+      "from": "2010-07-16T04:00:00.000Z",
+      "to": "2010-07-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 672,
+  "download_timestamp": "2025-08-02 07:14:58 UTC"
+}

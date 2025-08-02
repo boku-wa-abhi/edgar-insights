@@ -1,0 +1,32 @@
+{
+  "cik": "0001022652",
+  "name": "INSEEGO CORP.",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INSG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813377646",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "8588123400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NOVATEL WIRELESS INC",
+      "from": "2000-11-16T05:00:00.000Z",
+      "to": "2016-11-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:04:55 UTC"
+}

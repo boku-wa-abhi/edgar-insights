@@ -1,0 +1,26 @@
+{
+  "cik": "0002020027",
+  "name": "Click Holdings Ltd.",
+  "entityType": "other",
+  "sic": "7361",
+  "sicDescription": "Services-Employment Agencies",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CLIK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 3758 2780",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 47,
+  "download_timestamp": "2025-08-02 07:32:13 UTC"
+}

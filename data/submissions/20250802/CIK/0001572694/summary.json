@@ -1,0 +1,32 @@
+{
+  "cik": "0001572694",
+  "name": "Goldman Sachs BDC, Inc.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GSBD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "462176593",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-212-902-0328",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Goldman Sachs Liberty Harbor Capital, LLC",
+      "from": "2013-03-29T04:00:00.000Z",
+      "to": "2013-03-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 587,
+  "download_timestamp": "2025-08-02 07:17:24 UTC"
+}

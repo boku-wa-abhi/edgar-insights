@@ -1,0 +1,26 @@
+{
+  "cik": "0002011641",
+  "name": "Ferguson Enterprises Inc. /DE/",
+  "entityType": "operating",
+  "sic": "5070",
+  "sicDescription": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "FERG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "757-874-7795",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 102,
+  "download_timestamp": "2025-08-02 07:31:54 UTC"
+}

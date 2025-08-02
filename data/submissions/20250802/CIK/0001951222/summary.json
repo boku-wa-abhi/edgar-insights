@@ -1,0 +1,26 @@
+{
+  "cik": "0001951222",
+  "name": "SEALSQ Corp",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LAES"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "212-336-2039",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 159,
+  "download_timestamp": "2025-08-02 07:30:12 UTC"
+}

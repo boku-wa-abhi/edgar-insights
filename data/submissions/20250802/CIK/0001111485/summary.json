@@ -1,0 +1,32 @@
+{
+  "cik": "0001111485",
+  "name": "RxSight, Inc.",
+  "entityType": "operating",
+  "sic": "3851",
+  "sicDescription": "Ophthalmic Goods",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RXST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943268801",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "949-521-7822",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CALHOUN VISION INC",
+      "from": "2002-07-30T04:00:00.000Z",
+      "to": "2014-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 385,
+  "download_timestamp": "2025-08-02 07:07:15 UTC"
+}

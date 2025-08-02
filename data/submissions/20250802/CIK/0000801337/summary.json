@@ -1,0 +1,30 @@
+{
+  "cik": "0000801337",
+  "name": "WEBSTER FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WBS",
+    "WBS-PF",
+    "WBS-PG"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "061187536",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "203-578-2202",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:00:33 UTC"
+}

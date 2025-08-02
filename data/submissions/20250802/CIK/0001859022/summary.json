@@ -1,0 +1,26 @@
+{
+  "cik": "0001859022",
+  "name": "Nepra Foods Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NPRFF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "720-729-8500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:27:42 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001675644",
+  "name": "FVCBankcorp, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FVCB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475020283",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "703-436-3800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 506,
+  "download_timestamp": "2025-08-02 07:20:26 UTC"
+}

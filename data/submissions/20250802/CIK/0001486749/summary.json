@@ -1,0 +1,26 @@
+{
+  "cik": "0001486749",
+  "name": "Hypermarcas S.A.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "HYPMY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "55-11-3627-4211",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:14:37 UTC"
+}

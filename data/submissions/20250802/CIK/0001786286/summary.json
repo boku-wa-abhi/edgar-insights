@@ -1,0 +1,26 @@
+{
+  "cik": "0001786286",
+  "name": "Draganfly Inc.",
+  "entityType": "other",
+  "sic": "3721",
+  "sicDescription": "Aircraft",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DPRO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "403-781-6671",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 312,
+  "download_timestamp": "2025-08-02 07:24:01 UTC"
+}

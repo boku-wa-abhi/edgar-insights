@@ -1,0 +1,34 @@
+{
+  "cik": "0001809196",
+  "name": "Immatics N.V.",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMTX",
+    "IMTXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "49 7071 5397 700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Immatics B.V.",
+      "from": "2020-04-16T04:00:00.000Z",
+      "to": "2020-07-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 173,
+  "download_timestamp": "2025-08-02 07:24:51 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001858985",
+  "name": "On Holding AG",
+  "entityType": "other",
+  "sic": "3021",
+  "sicDescription": "Rubber & Plastics Footwear",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ONON"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "41 44 225 15 55",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 152,
+  "download_timestamp": "2025-08-02 07:27:42 UTC"
+}

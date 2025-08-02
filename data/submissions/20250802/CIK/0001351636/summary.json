@@ -1,0 +1,42 @@
+{
+  "cik": "0001351636",
+  "name": "SOUNDTHINKING, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSTI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "470949915",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(510) 794-3100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SHOTSPOTTER, INC",
+      "from": "2015-09-08T04:00:00.000Z",
+      "to": "2023-03-21T04:00:00.000Z"
+    },
+    {
+      "name": "Shotspotter Inc",
+      "from": "2011-05-17T04:00:00.000Z",
+      "to": "2014-04-04T04:00:00.000Z"
+    },
+    {
+      "name": "SHOTSPOTTER INC",
+      "from": "2011-05-17T04:00:00.000Z",
+      "to": "2014-04-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 665,
+  "download_timestamp": "2025-08-02 07:11:05 UTC"
+}

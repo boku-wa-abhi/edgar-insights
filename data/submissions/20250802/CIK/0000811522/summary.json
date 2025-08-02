@@ -1,0 +1,26 @@
+{
+  "cik": "0000811522",
+  "name": "QUARTZ MOUNTAIN RESOURCES LTD",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "QZMRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "604-684-6365",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 177,
+  "download_timestamp": "2025-08-02 07:00:43 UTC"
+}

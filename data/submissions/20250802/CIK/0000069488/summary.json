@@ -1,0 +1,26 @@
+{
+  "cik": "0000069488",
+  "name": "MYERS INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MYE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340778636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "330-253-5592",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:57:32 UTC"
+}

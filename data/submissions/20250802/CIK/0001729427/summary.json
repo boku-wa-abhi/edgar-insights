@@ -1,0 +1,26 @@
+{
+  "cik": "0001729427",
+  "name": "CNS Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNSP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "822318545",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "1-800-946-9185",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 338,
+  "download_timestamp": "2025-08-02 07:22:11 UTC"
+}

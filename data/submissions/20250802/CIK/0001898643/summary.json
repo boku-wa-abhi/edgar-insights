@@ -1,0 +1,28 @@
+{
+  "cik": "0001898643",
+  "name": "Mobilicom Ltd",
+  "entityType": "other",
+  "sic": "3721",
+  "sicDescription": "Aircraft",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MOB",
+    "MOBBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "61 413535222",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 131,
+  "download_timestamp": "2025-08-02 07:29:06 UTC"
+}

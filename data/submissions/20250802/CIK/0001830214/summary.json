@@ -1,0 +1,39 @@
+{
+  "cik": "0001830214",
+  "name": "Ginkgo Bioworks Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DNA",
+    "DNABW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "872652913",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(877) 442-5362",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Soaring Eagle Acquisition Corp.",
+      "from": "2020-11-25T05:00:00.000Z",
+      "to": "2021-09-17T04:00:00.000Z"
+    },
+    {
+      "name": "Spinning Eagle Acquisition Corp.",
+      "from": "2020-10-30T04:00:00.000Z",
+      "to": "2021-01-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:26:02 UTC"
+}

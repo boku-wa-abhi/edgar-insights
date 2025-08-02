@@ -1,0 +1,26 @@
+{
+  "cik": "0001713748",
+  "name": "Skeena Resources Ltd",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SKE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(604) 684-8725",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 158,
+  "download_timestamp": "2025-08-02 07:21:38 UTC"
+}

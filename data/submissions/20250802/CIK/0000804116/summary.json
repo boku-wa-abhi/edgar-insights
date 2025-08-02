@@ -1,0 +1,37 @@
+{
+  "cik": "0000804116",
+  "name": "ROYCE SMALL-CAP TRUST, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RVT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133356097",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2125084500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ROYCE VALUE TRUST, INC.",
+      "from": "2018-01-25T05:00:00.000Z",
+      "to": "2024-04-19T04:00:00.000Z"
+    },
+    {
+      "name": "ROYCE VALUE TRUST INC",
+      "from": "1995-10-30T05:00:00.000Z",
+      "to": "2017-11-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 433,
+  "download_timestamp": "2025-08-02 07:00:35 UTC"
+}

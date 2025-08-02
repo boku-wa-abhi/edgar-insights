@@ -1,0 +1,26 @@
+{
+  "cik": "0001905920",
+  "name": "Galaxy Payroll Group Ltd",
+  "entityType": "other",
+  "sic": "8700",
+  "sicDescription": "Services-Engineering, Accounting, Research, Management",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "GLXG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "85231052622",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 65,
+  "download_timestamp": "2025-08-02 07:29:16 UTC"
+}

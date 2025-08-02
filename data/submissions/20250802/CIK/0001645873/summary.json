@@ -1,0 +1,49 @@
+{
+  "cik": "0001645873",
+  "name": "MODIV INDUSTRIAL, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDV",
+    "MDV-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "474156046",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-686-6348",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MODIV INC.",
+      "from": "2021-01-20T05:00:00.000Z",
+      "to": "2023-07-27T04:00:00.000Z"
+    },
+    {
+      "name": "RW HOLDINGS NNN REIT, INC.",
+      "from": "2017-08-15T04:00:00.000Z",
+      "to": "2021-01-11T05:00:00.000Z"
+    },
+    {
+      "name": "Rich Uncles NNN REIT, Inc.",
+      "from": "2015-08-12T04:00:00.000Z",
+      "to": "2017-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "Rich Uncles REIT, Inc.",
+      "from": "2015-07-15T04:00:00.000Z",
+      "to": "2015-12-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:19:38 UTC"
+}

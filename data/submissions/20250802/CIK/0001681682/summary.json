@@ -1,0 +1,32 @@
+{
+  "cik": "0001681682",
+  "name": "ENDRA Life Sciences Inc.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NDRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "260579295",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "734-335-0468",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Endra Inc.",
+      "from": "2016-08-09T04:00:00.000Z",
+      "to": "2016-09-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 476,
+  "download_timestamp": "2025-08-02 07:20:37 UTC"
+}

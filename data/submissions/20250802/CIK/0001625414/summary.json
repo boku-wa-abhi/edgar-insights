@@ -1,0 +1,32 @@
+{
+  "cik": "0001625414",
+  "name": "Baozun Inc.",
+  "entityType": "other",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BZUN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(86-21) 60809991",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Baozun Cayman Inc.",
+      "from": "2014-12-18T05:00:00.000Z",
+      "to": "2015-03-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 376,
+  "download_timestamp": "2025-08-02 07:19:04 UTC"
+}

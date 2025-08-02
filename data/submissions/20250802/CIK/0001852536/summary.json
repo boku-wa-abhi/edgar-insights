@@ -1,0 +1,32 @@
+{
+  "cik": "0001852536",
+  "name": "Redox International Group, Corp.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "ITOR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981578603",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "323-909-2866",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Intorio, Corp.",
+      "from": "2021-04-06T04:00:00.000Z",
+      "to": "2025-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:27:17 UTC"
+}

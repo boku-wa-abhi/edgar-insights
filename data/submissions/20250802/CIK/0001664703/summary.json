@@ -1,0 +1,26 @@
+{
+  "cik": "0001664703",
+  "name": "Bloom Energy Corp",
+  "entityType": "operating",
+  "sic": "3620",
+  "sicDescription": "Electrical Industrial Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "770565408",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-543-1500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 900,
+  "download_timestamp": "2025-08-02 07:20:09 UTC"
+}

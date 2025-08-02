@@ -1,0 +1,42 @@
+{
+  "cik": "0001557376",
+  "name": "Zeo ScientifiX, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "ZEOX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "474180540",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-963-7881",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Organicell Regenerative Medicine, Inc.",
+      "from": "2018-06-25T04:00:00.000Z",
+      "to": "2024-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "Biotech Products Services & Research, Inc.",
+      "from": "2015-09-17T04:00:00.000Z",
+      "to": "2018-06-15T04:00:00.000Z"
+    },
+    {
+      "name": "BESPOKE TRICYCLES INC",
+      "from": "2012-09-04T04:00:00.000Z",
+      "to": "2015-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 469,
+  "download_timestamp": "2025-08-02 07:16:54 UTC"
+}

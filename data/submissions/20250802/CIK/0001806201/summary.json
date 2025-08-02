@@ -1,0 +1,32 @@
+{
+  "cik": "0001806201",
+  "name": "Open Lending Corp",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LPRO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "845031428",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "512-892-0400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nebula Parent Corp.",
+      "from": "2020-03-18T04:00:00.000Z",
+      "to": "2020-06-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 429,
+  "download_timestamp": "2025-08-02 07:24:43 UTC"
+}

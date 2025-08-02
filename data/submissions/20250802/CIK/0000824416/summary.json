@@ -1,0 +1,37 @@
+{
+  "cik": "0000824416",
+  "name": "QUEST PATENT RESEARCH CORP",
+  "entityType": "operating",
+  "sic": "5190",
+  "sicDescription": "Wholesale-Miscellaneous Nondurable Goods",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QPRC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "112873662",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8887437577",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QUEST PRODUCTS CORP",
+      "from": "1998-08-14T04:00:00.000Z",
+      "to": "2003-10-31T05:00:00.000Z"
+    },
+    {
+      "name": "PHASE OUT OF AMERICA INC",
+      "from": "1996-02-06T05:00:00.000Z",
+      "to": "1997-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:01:00 UTC"
+}

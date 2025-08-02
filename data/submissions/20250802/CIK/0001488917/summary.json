@@ -1,0 +1,26 @@
+{
+  "cik": "0001488917",
+  "name": "Electromed, Inc.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ELMD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "411732920",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "952-758-9299",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 534,
+  "download_timestamp": "2025-08-02 07:14:42 UTC"
+}

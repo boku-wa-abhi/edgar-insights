@@ -1,0 +1,32 @@
+{
+  "cik": "0001276531",
+  "name": "SCIENTIFIC ENERGY, INC",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCGY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870680657",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "852-2530-2089",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCIENTIFIC ENERGY INC",
+      "from": "2004-01-28T05:00:00.000Z",
+      "to": "2020-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 227,
+  "download_timestamp": "2025-08-02 07:09:30 UTC"
+}

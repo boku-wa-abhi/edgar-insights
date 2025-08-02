@@ -1,0 +1,26 @@
+{
+  "cik": "0002032545",
+  "name": "CALLAN JMB INC.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CJMB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "990931141",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(830) 438-0395",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:32:43 UTC"
+}

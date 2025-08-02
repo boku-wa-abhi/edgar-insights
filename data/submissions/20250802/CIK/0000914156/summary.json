@@ -1,0 +1,26 @@
+{
+  "cik": "0000914156",
+  "name": "UFP TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UFPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042314970",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978-352-2200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:03:24 UTC"
+}

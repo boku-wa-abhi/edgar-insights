@@ -1,0 +1,28 @@
+{
+  "cik": "0001858685",
+  "name": "Biofrontera Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BFRI",
+    "BFRIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "473765675",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "781-245-1325",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 300,
+  "download_timestamp": "2025-08-02 07:27:42 UTC"
+}

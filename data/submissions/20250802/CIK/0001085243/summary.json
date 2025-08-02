@@ -1,0 +1,37 @@
+{
+  "cik": "0001085243",
+  "name": "VirTra, Inc",
+  "entityType": "operating",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTSI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "931207631",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4809681488",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VIRTRA SYSTEMS INC",
+      "from": "2002-08-13T04:00:00.000Z",
+      "to": "2016-01-28T05:00:00.000Z"
+    },
+    {
+      "name": "GAMECOM INC",
+      "from": "1999-12-06T05:00:00.000Z",
+      "to": "2002-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 405,
+  "download_timestamp": "2025-08-02 07:06:37 UTC"
+}

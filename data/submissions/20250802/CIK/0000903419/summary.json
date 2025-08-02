@@ -1,0 +1,32 @@
+{
+  "cik": "0000903419",
+  "name": "ALERUS FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALRS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "450375407",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "7017953200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST NATIONAL CORP NORTH DAKOTA",
+      "from": "1998-07-22T04:00:00.000Z",
+      "to": "2002-02-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 377,
+  "download_timestamp": "2025-08-02 07:03:02 UTC"
+}

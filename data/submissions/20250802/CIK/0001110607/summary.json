@@ -1,0 +1,42 @@
+{
+  "cik": "0001110607",
+  "name": "Koil Energy Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KLNG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "752263732",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(281) 517-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Deep Down, Inc.",
+      "from": "2006-11-29T05:00:00.000Z",
+      "to": "2023-02-21T05:00:00.000Z"
+    },
+    {
+      "name": "MediQuip Holdings, INC",
+      "from": "2006-05-01T04:00:00.000Z",
+      "to": "2006-12-20T05:00:00.000Z"
+    },
+    {
+      "name": "TRUE HEALTH INC",
+      "from": "2000-05-15T04:00:00.000Z",
+      "to": "2006-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 544,
+  "download_timestamp": "2025-08-02 07:07:14 UTC"
+}

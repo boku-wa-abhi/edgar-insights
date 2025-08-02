@@ -1,0 +1,32 @@
+{
+  "cik": "0000031462",
+  "name": "ECOLAB INC.",
+  "entityType": "operating",
+  "sic": "2840",
+  "sicDescription": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "410231510",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "18002326522",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ECOLAB INC",
+      "from": "1994-02-10T05:00:00.000Z",
+      "to": "2015-09-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:45 UTC"
+}

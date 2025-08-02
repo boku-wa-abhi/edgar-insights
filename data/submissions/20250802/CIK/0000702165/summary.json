@@ -1,0 +1,26 @@
+{
+  "cik": "0000702165",
+  "name": "NORFOLK SOUTHERN CORP",
+  "entityType": "operating",
+  "sic": "4011",
+  "sicDescription": "Railroads, Line-Haul Operating",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NSC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "521188014",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "470-463-6807",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:02 UTC"
+}

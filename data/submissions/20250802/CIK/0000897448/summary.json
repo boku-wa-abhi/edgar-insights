@@ -1,0 +1,37 @@
+{
+  "cik": "0000897448",
+  "name": "AMARIN CORP PLC\\UK",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMRN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "353 1 6699 020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMARIN PHARMACEUTICALS PLC",
+      "from": "2000-07-13T04:00:00.000Z",
+      "to": "2000-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "ETHICAL HOLDINGS PLC",
+      "from": "1998-10-21T04:00:00.000Z",
+      "to": "1998-01-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:54 UTC"
+}

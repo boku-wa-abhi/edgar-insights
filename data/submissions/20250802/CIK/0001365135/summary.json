@@ -1,0 +1,26 @@
+{
+  "cik": "0001365135",
+  "name": "Western Union CO",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "204531180",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(866) 405-5012",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:22 UTC"
+}

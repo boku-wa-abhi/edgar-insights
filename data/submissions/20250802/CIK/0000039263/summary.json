@@ -1,0 +1,34 @@
+{
+  "cik": "0000039263",
+  "name": "CULLEN/FROST BANKERS, INC.",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CFR",
+    "CFR-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "741751768",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "210-220-4011",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CULLEN FROST BANKERS INC",
+      "from": "1994-03-30T05:00:00.000Z",
+      "to": "2011-11-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:56 UTC"
+}

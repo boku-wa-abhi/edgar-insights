@@ -1,0 +1,32 @@
+{
+  "cik": "0000105770",
+  "name": "WEST PHARMACEUTICAL SERVICES INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WST"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "231210010",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6105942900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WEST CO INC",
+      "from": "1994-04-05T04:00:00.000Z",
+      "to": "1999-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:22 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000717954",
+  "name": "UNIFIRST CORP",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0829",
+  "tickers": [
+    "UNF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "042103460",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(978) 658-8888",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:18 UTC"
+}

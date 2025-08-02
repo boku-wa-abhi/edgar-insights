@@ -1,0 +1,32 @@
+{
+  "cik": "0001379785",
+  "name": "Barings BDC, Inc.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBDC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "061798488",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(704) 805-7200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Triangle Capital CORP",
+      "from": "2006-11-03T05:00:00.000Z",
+      "to": "2018-08-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:11:46 UTC"
+}

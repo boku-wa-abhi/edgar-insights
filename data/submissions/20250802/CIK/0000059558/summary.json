@@ -1,0 +1,34 @@
+{
+  "cik": "0000059558",
+  "name": "LINCOLN NATIONAL CORP",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LNC",
+    "LNC-PD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "351140070",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4845831400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LINCOLN NATIONAL CORP ET AL",
+      "from": "1994-08-01T04:00:00.000Z",
+      "to": "1994-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:57:18 UTC"
+}

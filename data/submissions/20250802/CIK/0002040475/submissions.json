@@ -1,0 +1,130 @@
+{
+  "cik": "0002040475",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Drugs Made In America Acquisition II Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "1 EAST BROWARD BOULEVARD",
+      "street2": "SUITE 700",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33301",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1 EAST BROWARD BOULEVARD",
+      "street2": "SUITE 700",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33301",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "954-870-3104",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-065837",
+        "0001213900-25-035420",
+        "0001213900-25-025159"
+      ],
+      "filingDate": [
+        "2025-07-21",
+        "2025-04-25",
+        "2025-03-19"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-19T01:17:47.000Z",
+        "2025-04-25T17:43:43.000Z",
+        "2025-03-19T21:24:35.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288791",
+        "377-07803",
+        "377-07803"
+      ],
+      "filmNumber": [
+        "251135567",
+        "25872167",
+        "25753757"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "XBRL",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        8972100,
+        4175472,
+        4043293
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0234544-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

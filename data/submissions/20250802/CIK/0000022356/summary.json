@@ -1,0 +1,26 @@
+{
+  "cik": "0000022356",
+  "name": "COMMERCE BANCSHARES INC /MO/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBSH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "430889454",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8162342000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:56:33 UTC"
+}

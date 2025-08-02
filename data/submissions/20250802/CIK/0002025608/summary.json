@@ -1,0 +1,30 @@
+{
+  "cik": "0002025608",
+  "name": "Soulpower Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOUL",
+    "SOUL-RI",
+    "SOUL-UN"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "516-375-1512",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:32:26 UTC"
+}

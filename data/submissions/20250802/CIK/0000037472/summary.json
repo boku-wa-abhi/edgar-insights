@@ -1,0 +1,26 @@
+{
+  "cik": "0000037472",
+  "name": "FLEXSTEEL INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "2510",
+  "sicDescription": "Household Furniture",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FLXS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "420442319",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "3195567730",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:53 UTC"
+}

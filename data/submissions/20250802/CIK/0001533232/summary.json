@@ -1,0 +1,42 @@
+{
+  "cik": "0001533232",
+  "name": "Brookfield Renewable Partners L.P.",
+  "entityType": "other",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BEP",
+    "BEPH",
+    "BEPI",
+    "BEPJ",
+    "BEP-PA",
+    "BRENF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-294-3304",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Brookfield Renewable Energy Partners L.P.",
+      "from": "2011-10-25T04:00:00.000Z",
+      "to": "2016-04-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 575,
+  "download_timestamp": "2025-08-02 07:16:16 UTC"
+}

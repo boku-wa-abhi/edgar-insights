@@ -1,0 +1,32 @@
+{
+  "cik": "0000868857",
+  "name": "AECOM",
+  "entityType": "operating",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ACM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "611088522",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(972) 788-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AECOM TECHNOLOGY CORP",
+      "from": "2002-08-23T04:00:00.000Z",
+      "to": "2015-01-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 07:01:54 UTC"
+}

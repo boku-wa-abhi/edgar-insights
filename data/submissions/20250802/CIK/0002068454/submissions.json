@@ -1,0 +1,170 @@
+{
+  "cik": "0002068454",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "CSLM Digital Asset Acquisition Corp III, Ltd",
+  "tickers": [
+    "KOYN"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "CASSIA COURT, CAMANA BAY SUITE 716",
+      "street2": "10 MARKET STREET",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": null,
+      "zipCode": "KY1-9006",
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": null,
+      "country": "Cayman Islands",
+      "countryCode": "E9"
+    },
+    "business": {
+      "street1": "CASSIA COURT, CAMANA BAY SUITE 716",
+      "street2": "10 MARKET STREET",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": null,
+      "zipCode": "KY1-9006",
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": null,
+      "country": "Cayman Islands",
+      "countryCode": "E9"
+    }
+  },
+  "phone": "212-207-0090",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CSLM Acquisition Corp II, Ltd",
+      "from": "2025-05-15T04:00:00.000Z",
+      "to": "2025-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001829126-25-005627",
+        "0001829126-25-005283",
+        "0001829126-25-004923",
+        "0001829126-25-004586",
+        "0001829126-25-003675"
+      ],
+      "filingDate": [
+        "2025-07-31",
+        "2025-07-22",
+        "2025-07-08",
+        "2025-06-18",
+        "2025-05-15"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-31T01:58:09.000Z",
+        "2025-07-22T21:24:55.000Z",
+        "2025-07-07T22:17:21.000Z",
+        "2025-06-18T21:11:03.000Z",
+        "2025-05-15T01:05:36.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288156",
+        "333-288156",
+        "333-288156",
+        "333-288156",
+        "377-08014"
+      ],
+      "filmNumber": [
+        "251169085",
+        "251141129",
+        "251109177",
+        "251057780",
+        "25948174"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "size": [
+        2560832,
+        4003421,
+        3622543,
+        3884186,
+        3245314
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "cslmacq3_s1a.htm",
+        "cslmacq3_s1a.htm",
+        "cslmacq3_s1a.htm",
+        "cslmacq3_s1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001163389",
+  "name": "NEW PEOPLES BANKSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NWPP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "311804543",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2768737000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 614,
+  "download_timestamp": "2025-08-02 07:08:18 UTC"
+}

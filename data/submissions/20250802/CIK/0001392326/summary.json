@@ -1,0 +1,32 @@
+{
+  "cik": "0001392326",
+  "name": "Capital Clean Energy Carriers Corp.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CCEC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "0030 210 458 4950",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Capital Product Partners L.P.",
+      "from": "2007-03-19T04:00:00.000Z",
+      "to": "2024-08-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 581,
+  "download_timestamp": "2025-08-02 07:12:05 UTC"
+}

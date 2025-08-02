@@ -1,0 +1,32 @@
+{
+  "cik": "0001230245",
+  "name": "PIPER SANDLER COMPANIES",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PIPR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "300168701",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(612) 303-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIPER JAFFRAY COMPANIES",
+      "from": "2003-06-25T04:00:00.000Z",
+      "to": "2020-01-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:09:05 UTC"
+}

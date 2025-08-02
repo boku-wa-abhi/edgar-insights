@@ -1,0 +1,26 @@
+{
+  "cik": "0001815903",
+  "name": "Petros Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PTPI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "851410058",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "973-242-0005",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 233,
+  "download_timestamp": "2025-08-02 07:25:07 UTC"
+}

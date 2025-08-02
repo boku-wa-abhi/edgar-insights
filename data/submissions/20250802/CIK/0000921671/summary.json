@@ -1,0 +1,36 @@
+{
+  "cik": "0000921671",
+  "name": "GABELLI MULTIMEDIA TRUST INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GGT",
+    "GGT-PE",
+    "GGT-PG"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "133767317",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9149215070",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GABELLI GLOBAL MULTIMEDIA TRUST INC",
+      "from": "1995-08-29T04:00:00.000Z",
+      "to": "2011-12-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 656,
+  "download_timestamp": "2025-08-02 07:03:40 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001872789",
+  "name": "Embecta Corp.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "EMBC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "871583942",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8624010000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Berra Newco, Inc.",
+      "from": "2021-07-15T04:00:00.000Z",
+      "to": "2021-09-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 209,
+  "download_timestamp": "2025-08-02 07:28:18 UTC"
+}

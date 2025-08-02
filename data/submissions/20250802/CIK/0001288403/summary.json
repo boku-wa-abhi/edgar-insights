@@ -1,0 +1,26 @@
+{
+  "cik": "0001288403",
+  "name": "W&T OFFSHORE INC",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WTI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "721121985",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "713-626-8525",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:48 UTC"
+}

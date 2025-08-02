@@ -1,0 +1,26 @@
+{
+  "cik": "0001709628",
+  "name": "CLOUDASTRUCTURE, INC.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CSAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870690564",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-644-4160",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 152,
+  "download_timestamp": "2025-08-02 07:21:29 UTC"
+}

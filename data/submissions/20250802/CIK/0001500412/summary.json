@@ -1,0 +1,26 @@
+{
+  "cik": "0001500412",
+  "name": "Ambiq Micro, Inc.",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMBQ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "271911389",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(512) 879-2850",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 71,
+  "download_timestamp": "2025-08-02 07:15:07 UTC"
+}

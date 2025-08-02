@@ -1,0 +1,28 @@
+{
+  "cik": "0001440130",
+  "name": "United Utilities Group plc",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "UUGRY",
+    "UUGWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "01925237000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 8,
+  "download_timestamp": "2025-08-02 07:13:27 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001812173",
+  "name": "Vicarious Surgical Inc.",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RBOT",
+    "RBOT-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(617) 868-1700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "D8 Holdings Corp.",
+      "from": "2020-05-22T04:00:00.000Z",
+      "to": "2021-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 599,
+  "download_timestamp": "2025-08-02 07:25:00 UTC"
+}

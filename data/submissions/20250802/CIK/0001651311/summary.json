@@ -1,0 +1,32 @@
+{
+  "cik": "0001651311",
+  "name": "Merus N.V.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "31 030 253 8800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Merus B.V.",
+      "from": "2015-09-08T04:00:00.000Z",
+      "to": "2016-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 520,
+  "download_timestamp": "2025-08-02 07:19:48 UTC"
+}

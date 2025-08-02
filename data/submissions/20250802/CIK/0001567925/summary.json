@@ -1,0 +1,32 @@
+{
+  "cik": "0001567925",
+  "name": "Sila Realty Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SILA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "461854011",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "813-287-0101",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Carter Validus Mission Critical REIT II, Inc.",
+      "from": "2013-09-04T04:00:00.000Z",
+      "to": "2020-09-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 638,
+  "download_timestamp": "2025-08-02 07:17:14 UTC"
+}

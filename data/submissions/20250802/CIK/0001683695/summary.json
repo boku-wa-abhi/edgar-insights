@@ -1,0 +1,32 @@
+{
+  "cik": "0001683695",
+  "name": "International Money Express, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMXI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474219082",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3056718000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Fintech Acquisition Corp. II",
+      "from": "2016-09-06T04:00:00.000Z",
+      "to": "2018-07-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 618,
+  "download_timestamp": "2025-08-02 07:20:42 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001476045",
+  "name": "Chatham Lodging Trust",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLDT",
+    "CLDT-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "271200777",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(561) 802-4477",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 797,
+  "download_timestamp": "2025-08-02 07:14:20 UTC"
+}

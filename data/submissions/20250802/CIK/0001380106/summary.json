@@ -1,0 +1,32 @@
+{
+  "cik": "0001380106",
+  "name": "RAPID MICRO BIOSYSTEMS, INC.",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RPID"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208121647",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "978-349-3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RAPID MICRO BIOSYSTEMS INC",
+      "from": "2006-10-23T04:00:00.000Z",
+      "to": "2009-07-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:11:46 UTC"
+}

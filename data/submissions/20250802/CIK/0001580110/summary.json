@@ -1,0 +1,37 @@
+{
+  "cik": "0001580110",
+  "name": "Libero Copper & Gold Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LBCMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "778-372-2553",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Libero Mining Corp",
+      "from": "2016-03-15T00:00:00.000Z",
+      "to": "2016-03-15T00:00:00.000Z"
+    },
+    {
+      "name": "Slater Mining Corp",
+      "from": "2013-06-26T00:00:00.000Z",
+      "to": "2013-06-26T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:17:38 UTC"
+}

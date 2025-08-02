@@ -1,0 +1,34 @@
+{
+  "cik": "0001824502",
+  "name": "Archer Aviation Inc.",
+  "entityType": "operating",
+  "sic": "3721",
+  "sicDescription": "Aircraft",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACHR",
+    "ACHR-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "852730902",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-272-3233",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Atlas Crest Investment Corp.",
+      "from": "2020-09-16T04:00:00.000Z",
+      "to": "2021-09-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 640,
+  "download_timestamp": "2025-08-02 07:25:39 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001598655",
+  "name": "GasLog Partners LP",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLOP-PB",
+    "GLOP-PC",
+    "GLOP-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "30 210 459 1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 350,
+  "download_timestamp": "2025-08-02 07:18:13 UTC"
+}

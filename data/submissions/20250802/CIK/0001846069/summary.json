@@ -1,0 +1,34 @@
+{
+  "cik": "0001846069",
+  "name": "Nextdoor Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXDR",
+    "KIND"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "861776836",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-344-0333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Khosla Ventures Acquisition Co. II",
+      "from": "2021-02-12T05:00:00.000Z",
+      "to": "2021-11-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 559,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

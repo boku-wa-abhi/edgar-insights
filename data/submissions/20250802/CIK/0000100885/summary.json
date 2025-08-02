@@ -1,0 +1,26 @@
+{
+  "cik": "0000100885",
+  "name": "UNION PACIFIC CORP",
+  "entityType": "operating",
+  "sic": "4011",
+  "sicDescription": "Railroads, Line-Haul Operating",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "132626465",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "402 544 6763",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:13 UTC"
+}

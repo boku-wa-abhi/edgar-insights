@@ -1,0 +1,32 @@
+{
+  "cik": "0001708646",
+  "name": "Goldman Sachs Physical Gold ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AAAU"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "718-315-4591",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Perth Mint Physical Gold ETF",
+      "from": "2017-08-30T04:00:00.000Z",
+      "to": "2020-11-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 75,
+  "download_timestamp": "2025-08-02 07:21:27 UTC"
+}

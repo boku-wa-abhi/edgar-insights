@@ -1,0 +1,26 @@
+{
+  "cik": "0001952670",
+  "name": "TV Channels Network Inc.",
+  "entityType": "other",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TVCN"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "883851932",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7027219915",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 37,
+  "download_timestamp": "2025-08-02 07:30:14 UTC"
+}

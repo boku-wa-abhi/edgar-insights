@@ -1,0 +1,26 @@
+{
+  "cik": "0000730349",
+  "name": "TOFUTTI BRANDS INC",
+  "entityType": "operating",
+  "sic": "2024",
+  "sicDescription": "Ice Cream & Frozen Desserts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "TOFB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "133094658",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9082722400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 444,
+  "download_timestamp": "2025-08-02 06:59:33 UTC"
+}

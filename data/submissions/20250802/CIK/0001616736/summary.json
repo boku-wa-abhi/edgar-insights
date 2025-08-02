@@ -1,0 +1,32 @@
+{
+  "cik": "0001616736",
+  "name": "Alpha Investment Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GGBY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "900998139",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(305) 704-3294",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gogo Baby, Inc.",
+      "from": "2014-09-16T00:00:00.000Z",
+      "to": "2017-04-19T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 130,
+  "download_timestamp": "2025-08-02 07:18:47 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001601830",
+  "name": "RECURSION PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RXRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "464099738",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(385) 269-0203",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Recursion Pharmaceuticals, LLC",
+      "from": "2014-04-02T04:00:00.000Z",
+      "to": "2015-12-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 793,
+  "download_timestamp": "2025-08-02 07:18:18 UTC"
+}

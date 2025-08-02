@@ -1,0 +1,28 @@
+{
+  "cik": "0001479247",
+  "name": "United States Commodity Index Funds Trust",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USCI",
+    "CPER"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "510-522-9600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 686,
+  "download_timestamp": "2025-08-02 07:14:27 UTC"
+}

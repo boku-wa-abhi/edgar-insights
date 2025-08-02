@@ -1,0 +1,32 @@
+{
+  "cik": "0001484565",
+  "name": "SOLENO THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLNO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770523891",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-213-8444",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Capnia, Inc.",
+      "from": "2010-02-24T05:00:00.000Z",
+      "to": "2017-05-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:14:35 UTC"
+}

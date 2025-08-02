@@ -1,0 +1,26 @@
+{
+  "cik": "0001321851",
+  "name": "Origin Agritech LTD",
+  "entityType": "other",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "D6",
+  "stateOfIncorporationDescription": "British Indian Ocean Territory",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SEED"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "858-847-9000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 386,
+  "download_timestamp": "2025-08-02 07:10:27 UTC"
+}

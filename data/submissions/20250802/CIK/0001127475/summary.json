@@ -1,0 +1,32 @@
+{
+  "cik": "0001127475",
+  "name": "Digital Brand Media & Marketing Group, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "DBMM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "593666743",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "646-722-2706",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RTG VENTURES INC",
+      "from": "2002-03-27T05:00:00.000Z",
+      "to": "2013-04-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 217,
+  "download_timestamp": "2025-08-02 07:07:37 UTC"
+}

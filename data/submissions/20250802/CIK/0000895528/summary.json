@@ -1,0 +1,52 @@
+{
+  "cik": "0000895528",
+  "name": "Invesco Pennsylvania Value Municipal Income Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "VPV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "367017427",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Van Kampen Pennsylvania Value Municipal Income Trust",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN PENNSYLVANIA VALUE MUNICIPAL INCOME TRUST",
+      "from": "1998-12-23T05:00:00.000Z",
+      "to": "2010-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL PENNSYLVANIA VALUE MUNIC INCO TR",
+      "from": "1997-12-19T05:00:00.000Z",
+      "to": "1998-06-17T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL PENNSYLVANIA VALUE MUNICIPAL TRU",
+      "from": "1996-12-30T05:00:00.000Z",
+      "to": "1997-04-04T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN MERRITT PENNSYLVANIA VALUE MUNICIPAL INCOME TRUST",
+      "from": "1994-06-29T04:00:00.000Z",
+      "to": "1995-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 559,
+  "download_timestamp": "2025-08-02 07:02:48 UTC"
+}

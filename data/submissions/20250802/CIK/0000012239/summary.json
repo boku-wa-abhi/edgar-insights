@@ -1,0 +1,47 @@
+{
+  "cik": "0000012239",
+  "name": "Dominari Holdings Inc.",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DOMH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "520849320",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(212) 393-4540",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Aikido Pharma Inc.",
+      "from": "2021-01-11T05:00:00.000Z",
+      "to": "2022-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "AIkido Pharma Inc.",
+      "from": "2021-01-11T05:00:00.000Z",
+      "to": "2022-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "SPHERIX INC",
+      "from": "2001-11-08T05:00:00.000Z",
+      "to": "2020-03-13T04:00:00.000Z"
+    },
+    {
+      "name": "BIOSPHERICS INC",
+      "from": "1995-06-28T04:00:00.000Z",
+      "to": "2001-03-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:18 UTC"
+}

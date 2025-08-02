@@ -1,0 +1,42 @@
+{
+  "cik": "0001369568",
+  "name": "CATALYST PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(305) 529-2522",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CATALYST PHARMACEUTICALS, INC.",
+      "from": "2015-03-25T04:00:00.000Z",
+      "to": "2025-06-12T04:00:00.000Z"
+    },
+    {
+      "name": "Catalyst Pharmaceutical Partners, Inc.",
+      "from": "2011-03-08T05:00:00.000Z",
+      "to": "2015-05-12T04:00:00.000Z"
+    },
+    {
+      "name": "CATALYST PHARMACEUTICAL PARTNERS, INC.",
+      "from": "2011-03-08T05:00:00.000Z",
+      "to": "2015-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:28 UTC"
+}

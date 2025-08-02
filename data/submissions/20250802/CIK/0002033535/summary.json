@@ -1,0 +1,26 @@
+{
+  "cik": "0002033535",
+  "name": "Costamare Bulkers Holdings Ltd",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMDB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "377 92 00 1745",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:32:45 UTC"
+}

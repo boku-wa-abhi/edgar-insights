@@ -1,0 +1,26 @@
+{
+  "cik": "0001069157",
+  "name": "EAST WEST BANCORP INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EWBC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954703316",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6267686000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:06:11 UTC"
+}

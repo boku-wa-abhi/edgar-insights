@@ -1,0 +1,34 @@
+{
+  "cik": "0001922858",
+  "name": "ECD Automotive Design, Inc.",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECDA",
+    "ECDAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "929-528-0767",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EF Hutton Acquisition Corp I",
+      "from": "2022-04-14T04:00:00.000Z",
+      "to": "2023-12-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 192,
+  "download_timestamp": "2025-08-02 07:29:35 UTC"
+}

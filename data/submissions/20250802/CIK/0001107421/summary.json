@@ -1,0 +1,37 @@
+{
+  "cik": "0001107421",
+  "name": "Alaunos Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TCRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841475642",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(346) 355-4099",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZIOPHARM ONCOLOGY INC",
+      "from": "2005-09-20T04:00:00.000Z",
+      "to": "2022-01-04T05:00:00.000Z"
+    },
+    {
+      "name": "EASYWEB INC",
+      "from": "2001-02-13T05:00:00.000Z",
+      "to": "2005-09-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:09 UTC"
+}

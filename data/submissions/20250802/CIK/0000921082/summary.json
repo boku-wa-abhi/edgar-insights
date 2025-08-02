@@ -1,0 +1,32 @@
+{
+  "cik": "0000921082",
+  "name": "HIGHWOODS PROPERTIES, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HIW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "561871668",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9198724924",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HIGHWOODS PROPERTIES INC",
+      "from": "1995-09-08T04:00:00.000Z",
+      "to": "2019-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:38 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001697500",
+  "name": "Solaris Energy Infrastructure, Inc.",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SEI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(281)501-3070",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Solaris Oilfield Infrastructure, Inc.",
+      "from": "2017-02-09T05:00:00.000Z",
+      "to": "2024-09-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 557,
+  "download_timestamp": "2025-08-02 07:21:01 UTC"
+}

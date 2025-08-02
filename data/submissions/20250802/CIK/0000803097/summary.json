@@ -1,0 +1,32 @@
+{
+  "cik": "0000803097",
+  "name": "SportsQuest, Inc.",
+  "entityType": "operating",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPQS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "222742564",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "954-837-6833",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AIR BROOK AIRPORT EXPRESS INC",
+      "from": "1999-08-30T04:00:00.000Z",
+      "to": "2007-08-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 103,
+  "download_timestamp": "2025-08-02 07:00:34 UTC"
+}

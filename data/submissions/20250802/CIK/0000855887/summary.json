@@ -1,0 +1,37 @@
+{
+  "cik": "0000855887",
+  "name": "BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "DSM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "051287040",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2129226400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DREYFUS STRATEGIC MUNICIPAL BOND FUND, INC.",
+      "from": "2019-01-24T05:00:00.000Z",
+      "to": "2019-04-30T04:00:00.000Z"
+    },
+    {
+      "name": "DREYFUS STRATEGIC MUNICIPAL BOND FUND INC",
+      "from": "1994-01-27T05:00:00.000Z",
+      "to": "2018-10-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 534,
+  "download_timestamp": "2025-08-02 07:01:36 UTC"
+}

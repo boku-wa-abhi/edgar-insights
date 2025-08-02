@@ -1,0 +1,32 @@
+{
+  "cik": "0001386301",
+  "name": "Research Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RSSS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310 477 0354",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Derycz Scientific Inc",
+      "from": "2007-01-08T05:00:00.000Z",
+      "to": "2013-02-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 897,
+  "download_timestamp": "2025-08-02 07:11:58 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001131383",
+  "name": "STANTEC INC",
+  "entityType": "other",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "STN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "780-917-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 758,
+  "download_timestamp": "2025-08-02 07:07:43 UTC"
+}

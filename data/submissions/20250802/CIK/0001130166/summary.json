@@ -1,0 +1,34 @@
+{
+  "cik": "0001130166",
+  "name": "Cyclacel Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CYCC",
+    "CYCCP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "911766850",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "908-517-7330",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "XCYTE THERAPIES INC",
+      "from": "2000-12-22T05:00:00.000Z",
+      "to": "2006-03-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:40 UTC"
+}

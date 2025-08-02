@@ -1,0 +1,32 @@
+{
+  "cik": "0000887396",
+  "name": "EMPIRE PETROLEUM CORP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731238709",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(539) 444-8002",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICOMM RESOURCES CORP",
+      "from": "1996-05-08T04:00:00.000Z",
+      "to": "2001-08-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 609,
+  "download_timestamp": "2025-08-02 07:02:31 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001375365",
+  "name": "Super Micro Computer, Inc.",
+  "entityType": "operating",
+  "sic": "3571",
+  "sicDescription": "Electronic Computers",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SMCI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770353939",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-503-8000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:37 UTC"
+}

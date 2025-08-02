@@ -1,0 +1,26 @@
+{
+  "cik": "0001405513",
+  "name": "United States 12 Month Natural Gas Fund, LP",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "260431733",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(510) 522-9600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 445,
+  "download_timestamp": "2025-08-02 07:12:27 UTC"
+}

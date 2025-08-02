@@ -1,0 +1,37 @@
+{
+  "cik": "0000007084",
+  "name": "Archer-Daniels-Midland Co",
+  "entityType": "operating",
+  "sic": "2070",
+  "sicDescription": "Fats & Oils",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "410129150",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "312-634-8233",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Archer-Daniels-Midland Co",
+      "from": "2019-06-05T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "ARCHER DANIELS MIDLAND CO",
+      "from": "1994-08-31T04:00:00.000Z",
+      "to": "2019-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:10 UTC"
+}

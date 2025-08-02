@@ -1,0 +1,26 @@
+{
+  "cik": "0001668243",
+  "name": "UroGen Pharma Ltd.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "URGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "972 9 770 7601",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 497,
+  "download_timestamp": "2025-08-02 07:20:13 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001051470",
+  "name": "CROWN CASTLE INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760470458",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7135703000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CROWN CASTLE INTERNATIONAL CORP",
+      "from": "1998-01-08T05:00:00.000Z",
+      "to": "2022-07-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1012,
+  "download_timestamp": "2025-08-02 07:05:44 UTC"
+}

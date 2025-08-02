@@ -1,0 +1,26 @@
+{
+  "cik": "0001087456",
+  "name": "UNITED BANCSHARES INC/OH",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UBOH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "341516518",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "419-659-2141",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 771,
+  "download_timestamp": "2025-08-02 07:06:40 UTC"
+}

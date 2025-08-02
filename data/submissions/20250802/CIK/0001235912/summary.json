@@ -1,0 +1,32 @@
+{
+  "cik": "0001235912",
+  "name": "CVRx, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CVRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7634162850",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CVRX INC",
+      "from": "2003-05-23T04:00:00.000Z",
+      "to": "2013-07-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 287,
+  "download_timestamp": "2025-08-02 07:09:08 UTC"
+}

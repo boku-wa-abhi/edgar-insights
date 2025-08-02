@@ -1,0 +1,26 @@
+{
+  "cik": "0001345105",
+  "name": "Copa Holdings, S.A.",
+  "entityType": "other",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "R1",
+  "stateOfIncorporationDescription": "Panama",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011 507 227 2522",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 792,
+  "download_timestamp": "2025-08-02 07:10:59 UTC"
+}

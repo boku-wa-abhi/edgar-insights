@@ -1,0 +1,26 @@
+{
+  "cik": "0001339970",
+  "name": "aTYR PHARMA INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATYR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "203435077",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8587318389",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 695,
+  "download_timestamp": "2025-08-02 07:10:51 UTC"
+}

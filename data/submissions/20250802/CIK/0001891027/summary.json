@@ -1,0 +1,32 @@
+{
+  "cik": "0001891027",
+  "name": "MNTN, Inc.",
+  "entityType": "other",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNTN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(310) 895-2110",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MNTN Digital, Inc.",
+      "from": "2021-12-17T05:00:00.000Z",
+      "to": "2022-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 47,
+  "download_timestamp": "2025-08-02 07:28:53 UTC"
+}

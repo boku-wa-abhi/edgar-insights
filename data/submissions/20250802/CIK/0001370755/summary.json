@@ -1,0 +1,37 @@
+{
+  "cik": "0001370755",
+  "name": "BlackRock TCP Capital Corp.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TCPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "562594706",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "310-566-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TCP Capital Corp.",
+      "from": "2011-05-26T04:00:00.000Z",
+      "to": "2018-06-20T04:00:00.000Z"
+    },
+    {
+      "name": "Special Value Continuation Fund, LLC",
+      "from": "2006-08-01T04:00:00.000Z",
+      "to": "2012-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 805,
+  "download_timestamp": "2025-08-02 07:11:30 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000892450",
+  "name": "KT CORP",
+  "entityType": "other",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "82-31-727-0114",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KOREA TELECOM CORP",
+      "from": "2002-01-18T05:00:00.000Z",
+      "to": "2002-01-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 808,
+  "download_timestamp": "2025-08-02 07:02:42 UTC"
+}

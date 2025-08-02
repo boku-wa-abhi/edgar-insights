@@ -1,0 +1,26 @@
+{
+  "cik": "0001070296",
+  "name": "FIRST CAPITAL INC",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FCAP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "352056949",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8127382198",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 717,
+  "download_timestamp": "2025-08-02 07:06:14 UTC"
+}

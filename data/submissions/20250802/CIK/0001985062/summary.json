@@ -1,0 +1,28 @@
+{
+  "cik": "0001985062",
+  "name": "PSYENCE BIOMEDICAL LTD.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PBM",
+    "PBMWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "27744604171",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 123,
+  "download_timestamp": "2025-08-02 07:31:05 UTC"
+}

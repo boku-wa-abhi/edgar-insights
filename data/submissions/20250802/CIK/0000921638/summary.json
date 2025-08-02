@@ -1,0 +1,34 @@
+{
+  "cik": "0000921638",
+  "name": "SSR MINING INC.",
+  "entityType": "operating",
+  "sic": "6795",
+  "sicDescription": "Mineral Royalty Traders",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSRM",
+    "SSRGF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "303-391-3060",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SILVER STANDARD RESOURCES INC",
+      "from": "1997-11-07T05:00:00.000Z",
+      "to": "2017-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:40 UTC"
+}

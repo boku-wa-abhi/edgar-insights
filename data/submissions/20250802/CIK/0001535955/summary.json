@@ -1,0 +1,32 @@
+{
+  "cik": "0001535955",
+  "name": "Lipocine Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LPCN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "990370688",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "801 994 7383",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARATHON BAR CORP",
+      "from": "2011-11-30T05:00:00.000Z",
+      "to": "2013-07-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 752,
+  "download_timestamp": "2025-08-02 07:16:23 UTC"
+}

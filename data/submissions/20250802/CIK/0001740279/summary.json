@@ -1,0 +1,32 @@
+{
+  "cik": "0001740279",
+  "name": "IN8BIO, INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INAB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "825462585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(646) 600-6438",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Incysus Therapeutics, Inc.",
+      "from": "2018-05-22T04:00:00.000Z",
+      "to": "2018-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 341,
+  "download_timestamp": "2025-08-02 07:22:31 UTC"
+}

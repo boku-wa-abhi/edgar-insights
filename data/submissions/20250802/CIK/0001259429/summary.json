@@ -1,0 +1,46 @@
+{
+  "cik": "0001259429",
+  "name": "Oxford Square Capital Corp.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OXSQ",
+    "OXSQG",
+    "OXSQZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "200118736",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "2039835275",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Oxford Street Capital Corp.",
+      "from": "2018-03-19T04:00:00.000Z",
+      "to": "2018-03-19T04:00:00.000Z"
+    },
+    {
+      "name": "TICC Capital Corp.",
+      "from": "2005-03-01T05:00:00.000Z",
+      "to": "2018-03-14T04:00:00.000Z"
+    },
+    {
+      "name": "TECHNOLOGY INVESTMENT CAPITAL CORP",
+      "from": "2003-09-23T04:00:00.000Z",
+      "to": "2007-12-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:14 UTC"
+}

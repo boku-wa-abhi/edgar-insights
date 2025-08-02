@@ -1,0 +1,32 @@
+{
+  "cik": "0001484612",
+  "name": "Outset Medical, Inc.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "200514392",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "669-231-8200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Home Dialysis Plus, Ltd.",
+      "from": "2010-02-26T05:00:00.000Z",
+      "to": "2011-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 638,
+  "download_timestamp": "2025-08-02 07:14:35 UTC"
+}

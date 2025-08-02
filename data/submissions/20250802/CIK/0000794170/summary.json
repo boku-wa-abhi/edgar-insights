@@ -1,0 +1,32 @@
+{
+  "cik": "0000794170",
+  "name": "Toll Brothers, Inc.",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "TOL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "232416878",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2159388000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TOLL BROTHERS INC",
+      "from": "1994-01-10T05:00:00.000Z",
+      "to": "2019-03-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:22 UTC"
+}

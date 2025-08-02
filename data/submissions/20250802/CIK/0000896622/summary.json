@@ -1,0 +1,32 @@
+{
+  "cik": "0000896622",
+  "name": "APTARGROUP, INC.",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363853103",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8154770424",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "APTARGROUP INC",
+      "from": "1995-10-17T04:00:00.000Z",
+      "to": "2021-12-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:52 UTC"
+}

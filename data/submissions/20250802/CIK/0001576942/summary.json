@@ -1,0 +1,26 @@
+{
+  "cik": "0001576942",
+  "name": "Stitch Fix, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0802",
+  "tickers": [
+    "SFIX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "275026540",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "415-882-7765",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 751,
+  "download_timestamp": "2025-08-02 07:17:31 UTC"
+}

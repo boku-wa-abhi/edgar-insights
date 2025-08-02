@@ -1,0 +1,32 @@
+{
+  "cik": "0000842023",
+  "name": "BIO-TECHNE Corp",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "TECH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411427402",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6123798854",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TECHNE CORP /MN/",
+      "from": "1995-09-20T04:00:00.000Z",
+      "to": "2014-10-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:20 UTC"
+}

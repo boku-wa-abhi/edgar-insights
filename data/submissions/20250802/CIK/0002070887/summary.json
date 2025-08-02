@@ -1,0 +1,26 @@
+{
+  "cik": "0002070887",
+  "name": "Crown Reserve Acquisition Corp. I",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRAC"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5167139590",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:33:43 UTC"
+}

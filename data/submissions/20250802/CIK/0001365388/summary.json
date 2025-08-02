@@ -1,0 +1,32 @@
+{
+  "cik": "0001365388",
+  "name": "High Sierra Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HSTI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841344320",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "775-224-4700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gulf & Orient Steamship Company, Ltd.",
+      "from": "2006-06-07T00:00:00.000Z",
+      "to": "2019-03-28T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 147,
+  "download_timestamp": "2025-08-02 07:11:22 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001281926",
+  "name": "Eaton Vance Tax-Advantaged Global Dividend Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "ETO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON VANCE TAX ADVANTAGED GLOBAL DIVIDEND OPPORTUNITIES FUN",
+      "from": "2004-02-27T05:00:00.000Z",
+      "to": "2005-02-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 487,
+  "download_timestamp": "2025-08-02 07:09:37 UTC"
+}

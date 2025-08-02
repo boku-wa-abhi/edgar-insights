@@ -1,0 +1,42 @@
+{
+  "cik": "0001107280",
+  "name": "OCULUS INC.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OVTZ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "061576391",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6046851017",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OCULUS VISIONTECH INC.",
+      "from": "2012-02-06T05:00:00.000Z",
+      "to": "2024-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "OCULUS VISION TECH INC.",
+      "from": "2012-02-02T05:00:00.000Z",
+      "to": "2012-02-02T05:00:00.000Z"
+    },
+    {
+      "name": "USA VIDEO INTERACTIVE CORP",
+      "from": "2000-03-24T05:00:00.000Z",
+      "to": "2012-01-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 698,
+  "download_timestamp": "2025-08-02 07:07:09 UTC"
+}

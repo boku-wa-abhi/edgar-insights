@@ -1,0 +1,28 @@
+{
+  "cik": "0001947244",
+  "name": "U.S. GoldMining Inc.",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USGO",
+    "USGOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "371792147",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(604) 388 9788",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 155,
+  "download_timestamp": "2025-08-02 07:30:07 UTC"
+}

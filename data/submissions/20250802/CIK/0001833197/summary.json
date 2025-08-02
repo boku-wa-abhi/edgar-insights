@@ -1,0 +1,32 @@
+{
+  "cik": "0001833197",
+  "name": "Latham Group, Inc.",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SWIM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "832797583",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "800-833-3800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Latham Topco, Inc.",
+      "from": "2020-12-15T05:00:00.000Z",
+      "to": "2021-02-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 318,
+  "download_timestamp": "2025-08-02 07:26:10 UTC"
+}

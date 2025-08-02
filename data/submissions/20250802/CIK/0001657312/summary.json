@@ -1,0 +1,26 @@
+{
+  "cik": "0001657312",
+  "name": "Verona Pharma plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRNA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011-44-0-2032834200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 525,
+  "download_timestamp": "2025-08-02 07:19:59 UTC"
+}

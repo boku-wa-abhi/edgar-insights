@@ -1,0 +1,26 @@
+{
+  "cik": "0001108205",
+  "name": "CURIS INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRIS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043505116",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-503-6500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:10 UTC"
+}

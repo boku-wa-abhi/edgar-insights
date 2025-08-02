@@ -1,0 +1,28 @@
+{
+  "cik": "0001951089",
+  "name": "Critical Metals Corp.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CRML",
+    "CRMLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "61 (8) 6181 9792",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:30:12 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001802156",
+  "name": "Xponential Fitness, Inc.",
+  "entityType": "operating",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XPOF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "844395129",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "949.346.3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 348,
+  "download_timestamp": "2025-08-02 07:24:34 UTC"
+}

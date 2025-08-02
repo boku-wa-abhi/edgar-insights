@@ -1,0 +1,26 @@
+{
+  "cik": "0001829959",
+  "name": "Docebo Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DCBO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(800) 681-4601",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 103,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

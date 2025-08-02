@@ -1,0 +1,32 @@
+{
+  "cik": "0000093556",
+  "name": "STANLEY BLACK & DECKER, INC.",
+  "entityType": "operating",
+  "sic": "3420",
+  "sicDescription": "Cutlery, Handtools & General Hardware",
+  "stateOfIncorporation": "CT",
+  "stateOfIncorporationDescription": "CT",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "SWK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "060548860",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8602255111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STANLEY WORKS",
+      "from": "1994-03-11T05:00:00.000Z",
+      "to": "2010-03-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:03 UTC"
+}

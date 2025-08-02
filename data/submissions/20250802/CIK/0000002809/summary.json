@@ -1,0 +1,26 @@
+{
+  "cik": "0000002809",
+  "name": "AGNICO EAGLE MINES LTD",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large Accelerated",
+  "phone": "4169471212",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 750,
+  "download_timestamp": "2025-08-02 06:56:03 UTC"
+}

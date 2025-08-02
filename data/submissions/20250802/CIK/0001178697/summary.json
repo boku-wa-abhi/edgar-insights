@@ -1,0 +1,26 @@
+{
+  "cik": "0001178697",
+  "name": "SONIM TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3661",
+  "sicDescription": "Telephone & Telegraph Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SONM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943336783",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-378-8100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 474,
+  "download_timestamp": "2025-08-02 07:08:42 UTC"
+}

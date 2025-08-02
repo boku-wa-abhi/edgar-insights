@@ -1,0 +1,26 @@
+{
+  "cik": "0001367644",
+  "name": "Emergent BioSolutions Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EBS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "141902018",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "240-631-3200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:24 UTC"
+}

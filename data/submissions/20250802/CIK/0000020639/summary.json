@@ -1,0 +1,26 @@
+{
+  "cik": "0000020639",
+  "name": "AmBase Corp",
+  "entityType": "operating",
+  "sic": "6512",
+  "sicDescription": "Opeators of  Nonresidential Buildings",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABCP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "952962743",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2012650163",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 439,
+  "download_timestamp": "2025-08-02 06:56:30 UTC"
+}

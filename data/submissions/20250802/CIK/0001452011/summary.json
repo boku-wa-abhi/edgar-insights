@@ -1,0 +1,32 @@
+{
+  "cik": "0001452011",
+  "name": "Tanke Biosciences Corp",
+  "entityType": "operating",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TNBI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "263853855",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "86-20-38859025",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GREYHOUND COMMISSARY, INC.",
+      "from": "2008-12-16T00:00:00.000Z",
+      "to": "2011-02-03T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 127,
+  "download_timestamp": "2025-08-02 07:13:45 UTC"
+}

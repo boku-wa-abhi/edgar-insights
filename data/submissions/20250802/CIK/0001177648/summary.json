@@ -1,0 +1,26 @@
+{
+  "cik": "0001177648",
+  "name": "ENANTA PHARMACEUTICALS INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ENTA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043205099",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617 607 0800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 754,
+  "download_timestamp": "2025-08-02 07:08:40 UTC"
+}

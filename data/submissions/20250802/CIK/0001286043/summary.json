@@ -1,0 +1,26 @@
+{
+  "cik": "0001286043",
+  "name": "KITE REALTY GROUP TRUST",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "113715772",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3175775600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:43 UTC"
+}

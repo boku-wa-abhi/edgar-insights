@@ -1,0 +1,149 @@
+{
+  "cik": "0002043630",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "StoneBridge Acquisition II Corp",
+  "tickers": [
+    "APAC"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "ONE WORLD TRADE CENTER",
+      "street2": "SUITE 8500",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10007",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "ONE WORLD TRADE CENTER",
+      "street2": "SUITE 8500",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10007",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "646-314-3555",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001829126-25-005702",
+        "0001829126-25-004915",
+        "0001829126-25-003414",
+        "0001829126-24-007304"
+      ],
+      "filingDate": [
+        "2025-08-01",
+        "2025-07-07",
+        "2025-05-05",
+        "2024-11-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-08-01T20:21:05.000Z",
+        "2025-07-07T21:06:13.000Z",
+        "2025-05-05T21:29:00.000Z",
+        "2024-11-06T17:59:43.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-286983",
+        "333-286983",
+        "333-286983",
+        "377-07539"
+      ],
+      "filmNumber": [
+        "251176480",
+        "251108760",
+        "25914296",
+        "241430009"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "size": [
+        3959872,
+        2264967,
+        2821440,
+        2285883
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "stonebridgeacq2_s1a2.htm",
+        "stonebridgeacq2_s1a.htm",
+        "stonebridgeacq2_s1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001359519",
+  "name": "SEVEN & I HOLDINGS CO LTD",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SVNDY",
+    "SVNDF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "011-81-3-6238-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SEVEN & I HOLDNGS CO LTD",
+      "from": "2006-09-01T04:00:00.000Z",
+      "to": "2008-10-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 22,
+  "download_timestamp": "2025-08-02 07:11:15 UTC"
+}

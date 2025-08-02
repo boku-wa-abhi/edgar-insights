@@ -1,0 +1,32 @@
+{
+  "cik": "0001598110",
+  "name": "CyberArk Software Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CYBR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "97239180000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cyber-Ark Software Ltd.",
+      "from": "2014-03-24T04:00:00.000Z",
+      "to": "2014-07-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 339,
+  "download_timestamp": "2025-08-02 07:18:11 UTC"
+}

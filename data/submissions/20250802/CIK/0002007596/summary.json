@@ -1,0 +1,26 @@
+{
+  "cik": "0002007596",
+  "name": "TWFG, Inc.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TWFG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "281.367.3424",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 108,
+  "download_timestamp": "2025-08-02 07:31:48 UTC"
+}

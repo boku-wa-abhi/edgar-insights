@@ -1,0 +1,32 @@
+{
+  "cik": "0000859796",
+  "name": "JAPAN SMALLER CAPITALIZATION FUND INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "JOF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133553469",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8008330018",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JAPAN OTC EQUITY FUND INC",
+      "from": "1996-04-23T04:00:00.000Z",
+      "to": "2002-04-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 418,
+  "download_timestamp": "2025-08-02 07:01:39 UTC"
+}

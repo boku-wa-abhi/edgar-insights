@@ -1,0 +1,32 @@
+{
+  "cik": "0001297107",
+  "name": "CoastalSouth Bancshares, Inc.",
+  "entityType": "other",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COSO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "571184730",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "678-396-4605",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Coastal South Bancshares Inc",
+      "from": "2004-07-09T04:00:00.000Z",
+      "to": "2004-07-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 44,
+  "download_timestamp": "2025-08-02 07:09:59 UTC"
+}

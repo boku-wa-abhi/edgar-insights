@@ -1,0 +1,28 @@
+{
+  "cik": "0001645590",
+  "name": "Hewlett Packard Enterprise Co",
+  "entityType": "operating",
+  "sic": "3570",
+  "sicDescription": "Computer & office Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "HPE",
+    "HPE-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "473298624",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "678-259-9860",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:19:38 UTC"
+}

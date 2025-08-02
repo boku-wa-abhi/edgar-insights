@@ -1,0 +1,39 @@
+{
+  "cik": "0000831609",
+  "name": "C21 Investments Inc.",
+  "entityType": "other",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "CXXIF",
+    "CWLXF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "604-336-8613",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CURLEW LAKE RESOURCES INC",
+      "from": "2012-11-29T05:00:00.000Z",
+      "to": "2012-11-29T05:00:00.000Z"
+    },
+    {
+      "name": "CURLEW LAKE RESOURCES INC                               /FI",
+      "from": "2002-06-27T04:00:00.000Z",
+      "to": "2007-01-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 288,
+  "download_timestamp": "2025-08-02 07:01:09 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0000718940",
+  "name": "BCE INC",
+  "entityType": "other",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCE",
+    "BECEF",
+    "BCAEF",
+    "BCEFF",
+    "BCEIF",
+    "BCENF",
+    "BCEPF",
+    "BCEXF",
+    "BCPPF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "514-786-3891",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 854,
+  "download_timestamp": "2025-08-02 06:59:20 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001900679",
+  "name": "Technology & Telecommunication Acquisition Corp",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "TETEF",
+    "TETUF",
+    "TETWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(786) 823-2821",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 102,
+  "download_timestamp": "2025-08-02 07:29:09 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001711754",
+  "name": "Inmune Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INMB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475205835",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8589643720",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 535,
+  "download_timestamp": "2025-08-02 07:21:35 UTC"
+}

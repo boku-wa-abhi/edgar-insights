@@ -1,0 +1,26 @@
+{
+  "cik": "0001736946",
+  "name": "Arlo Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3651",
+  "sicDescription": "Household Audio & Video Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARLO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "384061754",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 890-3900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 473,
+  "download_timestamp": "2025-08-02 07:22:23 UTC"
+}

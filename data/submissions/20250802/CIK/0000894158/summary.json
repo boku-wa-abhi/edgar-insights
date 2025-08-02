@@ -1,0 +1,52 @@
+{
+  "cik": "0000894158",
+  "name": "Theriva Biologics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TOVX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133808303",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(734) 332-7800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Synthetic Biologics, Inc.",
+      "from": "2012-03-12T04:00:00.000Z",
+      "to": "2022-10-12T04:00:00.000Z"
+    },
+    {
+      "name": "ADEONA PHARMACEUTICALS, INC.",
+      "from": "2008-08-26T04:00:00.000Z",
+      "to": "2012-02-17T05:00:00.000Z"
+    },
+    {
+      "name": "PIPEX PHARMACEUTICALS, INC.",
+      "from": "2006-12-14T05:00:00.000Z",
+      "to": "2008-10-16T04:00:00.000Z"
+    },
+    {
+      "name": "SHEFFIELD PHARMACEUTICALS INC",
+      "from": "1997-09-10T04:00:00.000Z",
+      "to": "2006-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "SHEFFIELD MEDICAL TECHNOLOGIES INC",
+      "from": "1996-05-07T04:00:00.000Z",
+      "to": "1997-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 970,
+  "download_timestamp": "2025-08-02 07:02:45 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001418135",
+  "name": "Keurig Dr Pepper Inc.",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KDP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "753258232",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "877-208-9991",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Dr Pepper Snapple Group, Inc.",
+      "from": "2007-12-17T05:00:00.000Z",
+      "to": "2018-07-02T04:00:00.000Z"
+    },
+    {
+      "name": "CSAB Inc.",
+      "from": "2007-11-13T05:00:00.000Z",
+      "to": "2007-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:48 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001557523",
+  "name": "Principal Real Estate Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "PGZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "303-623-2577",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Principal Commercial Mortgage Backed Securities Income Fund",
+      "from": "2012-09-07T04:00:00.000Z",
+      "to": "2013-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 276,
+  "download_timestamp": "2025-08-02 07:16:54 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001771226",
+  "name": "RiverNorth Managed Duration Municipal Income Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0120",
+  "tickers": [
+    "RMM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-445-2251",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RiverNorth Opportunistic Municipal Income Fund II",
+      "from": "2019-03-20T04:00:00.000Z",
+      "to": "2019-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 148,
+  "download_timestamp": "2025-08-02 07:23:30 UTC"
+}

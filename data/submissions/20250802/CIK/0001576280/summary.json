@@ -1,0 +1,26 @@
+{
+  "cik": "0001576280",
+  "name": "Guardant Health, Inc.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "454139254",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "855-698-8887",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 935,
+  "download_timestamp": "2025-08-02 07:17:30 UTC"
+}

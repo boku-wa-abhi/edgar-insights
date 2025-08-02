@@ -1,0 +1,32 @@
+{
+  "cik": "0001261333",
+  "name": "DOCUSIGN, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "DOCU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "912183967",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-489-4940",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DOCUSIGN INC",
+      "from": "2003-08-25T04:00:00.000Z",
+      "to": "2019-03-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 960,
+  "download_timestamp": "2025-08-02 07:09:16 UTC"
+}

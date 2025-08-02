@@ -1,0 +1,47 @@
+{
+  "cik": "0000933136",
+  "name": "Mr. Cooper Group Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COOP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911653725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "469-549-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WMIH CORP.",
+      "from": "2015-05-13T04:00:00.000Z",
+      "to": "2018-09-14T04:00:00.000Z"
+    },
+    {
+      "name": "WMI HOLDINGS CORP.",
+      "from": "2012-01-25T05:00:00.000Z",
+      "to": "2015-05-08T04:00:00.000Z"
+    },
+    {
+      "name": "WASHINGTON MUTUAL, INC",
+      "from": "2006-09-19T04:00:00.000Z",
+      "to": "2012-03-20T04:00:00.000Z"
+    },
+    {
+      "name": "WASHINGTON MUTUAL INC",
+      "from": "1995-03-29T05:00:00.000Z",
+      "to": "2006-10-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:59 UTC"
+}

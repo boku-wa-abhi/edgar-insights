@@ -1,0 +1,32 @@
+{
+  "cik": "0001888980",
+  "name": "LEAD REAL ESTATE CO., LTD",
+  "entityType": "other",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LRE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "81 7014805120",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LEAD REAL ESTATE CO., LTD.",
+      "from": "2022-04-08T04:00:00.000Z",
+      "to": "2022-07-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:28:49 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001835385",
+  "name": "Marathon Bancorp, Inc. /MD/",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MBBC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "862191258",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(715) 845-7331",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:26:16 UTC"
+}

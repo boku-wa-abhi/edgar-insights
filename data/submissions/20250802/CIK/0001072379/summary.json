@@ -1,0 +1,26 @@
+{
+  "cik": "0001072379",
+  "name": "NORTHWEST BIOTHERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NWBO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "943306718",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(240) 497-9024",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 777,
+  "download_timestamp": "2025-08-02 07:06:20 UTC"
+}

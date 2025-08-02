@@ -1,0 +1,28 @@
+{
+  "cik": "0002007191",
+  "name": "Telix Pharmaceuticals Ltd",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLX",
+    "TLPPF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "61 3 9093 3855",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 54,
+  "download_timestamp": "2025-08-02 07:31:48 UTC"
+}

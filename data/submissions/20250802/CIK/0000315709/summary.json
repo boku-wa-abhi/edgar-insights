@@ -1,0 +1,26 @@
+{
+  "cik": "0000315709",
+  "name": "INTERNATIONAL BANCSHARES CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBOC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "742157138",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9567227611",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 911,
+  "download_timestamp": "2025-08-02 06:58:42 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001170311",
+  "name": "PIMCO NEW YORK MUNICIPAL INCOME FUND II",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-739-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 511,
+  "download_timestamp": "2025-08-02 07:08:27 UTC"
+}

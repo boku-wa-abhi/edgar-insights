@@ -1,0 +1,26 @@
+{
+  "cik": "0001970544",
+  "name": "Pheton Holdings Ltd",
+  "entityType": "other",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PTHL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "010-84817665",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 51,
+  "download_timestamp": "2025-08-02 07:30:44 UTC"
+}

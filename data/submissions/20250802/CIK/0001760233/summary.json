@@ -1,0 +1,42 @@
+{
+  "cik": "0001760233",
+  "name": "GIFTIFY, INC.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GIFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "452482974",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "630-948-0716",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RDE, Inc.",
+      "from": "2020-08-31T00:00:00.000Z",
+      "to": "2024-10-25T00:00:00.000Z"
+    },
+    {
+      "name": "uBid Holdings, Inc./New",
+      "from": "2019-08-06T00:00:00.000Z",
+      "to": "2020-06-24T00:00:00.000Z"
+    },
+    {
+      "name": "Incumaker, Inc.",
+      "from": "2018-11-28T00:00:00.000Z",
+      "to": "2019-06-13T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:23:10 UTC"
+}

@@ -1,0 +1,79 @@
+{
+  "cik": "0001058307",
+  "name": "NextPlat Corp",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXPL",
+    "NXPLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "650783722",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "1-305-560-5355",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ORBSAT CORP",
+      "from": "2019-08-19T04:00:00.000Z",
+      "to": "2022-01-20T05:00:00.000Z"
+    },
+    {
+      "name": "Orbital Tracking Corp.",
+      "from": "2015-01-09T05:00:00.000Z",
+      "to": "2019-08-14T04:00:00.000Z"
+    },
+    {
+      "name": "Great West Resources, Inc.",
+      "from": "2014-05-14T04:00:00.000Z",
+      "to": "2015-01-21T05:00:00.000Z"
+    },
+    {
+      "name": "SILVER HORN MINING LTD.",
+      "from": "2011-05-03T04:00:00.000Z",
+      "to": "2014-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "ECLIPS MEDIA TECHNOLOGIES, INC.",
+      "from": "2010-05-17T04:00:00.000Z",
+      "to": "2011-04-29T04:00:00.000Z"
+    },
+    {
+      "name": "ECLIPS ENERGY TECHNOLOGIES, INC.",
+      "from": "2009-03-25T04:00:00.000Z",
+      "to": "2010-04-30T04:00:00.000Z"
+    },
+    {
+      "name": "WORLD ENERGY SOLUTIONS, INC.",
+      "from": "2005-11-15T05:00:00.000Z",
+      "to": "2009-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "ADVANCED 3-D ULTRASOUND SERVICES INC",
+      "from": "2005-08-19T04:00:00.000Z",
+      "to": "2005-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "YSEEK INC",
+      "from": "2001-04-13T04:00:00.000Z",
+      "to": "2005-08-09T04:00:00.000Z"
+    },
+    {
+      "name": "SWIFTY CARWASH & QUIK LUBE INC",
+      "from": "1998-11-23T05:00:00.000Z",
+      "to": "2001-03-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 759,
+  "download_timestamp": "2025-08-02 07:05:53 UTC"
+}

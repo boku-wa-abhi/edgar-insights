@@ -1,0 +1,26 @@
+{
+  "cik": "0001512920",
+  "name": "SPROTT INC.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SII"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "416-943-4065",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 351,
+  "download_timestamp": "2025-08-02 07:15:32 UTC"
+}

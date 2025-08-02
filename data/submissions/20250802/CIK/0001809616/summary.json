@@ -1,0 +1,26 @@
+{
+  "cik": "0001809616",
+  "name": "Universe Pharmaceuticals INC",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "UPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-0796-8403309",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 88,
+  "download_timestamp": "2025-08-02 07:24:54 UTC"
+}

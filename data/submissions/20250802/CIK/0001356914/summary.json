@@ -1,0 +1,26 @@
+{
+  "cik": "0001356914",
+  "name": "ECOPLUS INC",
+  "entityType": "other",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ECPL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "855-955-3275",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:11:12 UTC"
+}

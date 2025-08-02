@@ -1,0 +1,26 @@
+{
+  "cik": "0001819576",
+  "name": "Liquidia Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LQDA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851710962",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "919.328.4400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 489,
+  "download_timestamp": "2025-08-02 07:25:22 UTC"
+}

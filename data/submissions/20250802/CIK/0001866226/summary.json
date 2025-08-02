@@ -1,0 +1,30 @@
+{
+  "cik": "0001866226",
+  "name": "Welsbach Technology Metals Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WTMA",
+    "WTMAR",
+    "WTMAU"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "871006702",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "251-280-1980",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 191,
+  "download_timestamp": "2025-08-02 07:27:59 UTC"
+}

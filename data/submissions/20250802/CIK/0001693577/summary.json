@@ -1,0 +1,28 @@
+{
+  "cik": "0001693577",
+  "name": "MainStreet Bancshares, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNSB",
+    "MNSBP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "812871064",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(703) 481-4567",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 406,
+  "download_timestamp": "2025-08-02 07:20:57 UTC"
+}

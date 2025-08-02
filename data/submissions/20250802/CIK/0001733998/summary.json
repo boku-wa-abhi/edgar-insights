@@ -1,0 +1,26 @@
+{
+  "cik": "0001733998",
+  "name": "Northwest Natural Holding Co",
+  "entityType": "operating",
+  "sic": "4924",
+  "sicDescription": "Natural Gas Distribution",
+  "stateOfIncorporation": "OR",
+  "stateOfIncorporationDescription": "OR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NWN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "824710680",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "503-226-4211",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 540,
+  "download_timestamp": "2025-08-02 07:22:18 UTC"
+}

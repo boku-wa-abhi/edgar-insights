@@ -1,0 +1,30 @@
+{
+  "cik": "0002010930",
+  "name": "Centurion Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALF",
+    "ALFUU",
+    "ALFUW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981772942",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "212-209-6126",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 56,
+  "download_timestamp": "2025-08-02 07:31:53 UTC"
+}

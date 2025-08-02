@@ -1,0 +1,32 @@
+{
+  "cik": "0001514946",
+  "name": "AXIM BIOTECHNOLOGIES, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AXIM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "274092986",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(212) 751-0001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AXIM INTERNATIONAL INC.",
+      "from": "2011-03-10T00:00:00.000Z",
+      "to": "2014-08-13T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 306,
+  "download_timestamp": "2025-08-02 07:15:36 UTC"
+}

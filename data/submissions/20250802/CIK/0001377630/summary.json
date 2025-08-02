@@ -1,0 +1,26 @@
+{
+  "cik": "0001377630",
+  "name": "National CineMedia, Inc.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0101",
+  "tickers": [
+    "NCMI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205665602",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(303) 792-3600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:40 UTC"
+}

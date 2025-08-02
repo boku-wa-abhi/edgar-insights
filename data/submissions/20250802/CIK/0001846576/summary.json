@@ -1,0 +1,26 @@
+{
+  "cik": "0001846576",
+  "name": "FIGS, Inc.",
+  "entityType": "operating",
+  "sic": "2300",
+  "sicDescription": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FIGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "420-500-8209",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 341,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

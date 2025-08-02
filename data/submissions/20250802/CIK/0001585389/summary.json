@@ -1,0 +1,36 @@
+{
+  "cik": "0001585389",
+  "name": "SmartStop Self Storage REIT, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMA",
+    "STSFF",
+    "SSST"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "461722812",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "949 429 6600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Strategic Storage Trust II, Inc.",
+      "from": "2013-09-04T04:00:00.000Z",
+      "to": "2019-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 564,
+  "download_timestamp": "2025-08-02 07:17:50 UTC"
+}

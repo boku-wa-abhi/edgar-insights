@@ -1,0 +1,42 @@
+{
+  "cik": "0000090896",
+  "name": "Champion Homes, Inc.",
+  "entityType": "operating",
+  "sic": "2451",
+  "sicDescription": "Mobile Homes",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "0329",
+  "tickers": [
+    "SKY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "351038277",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "248 614 8211",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Champion Homes, Inc.",
+      "from": "2024-08-05T04:00:00.000Z",
+      "to": "2025-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "Skyline Champion Corp",
+      "from": "2018-06-04T04:00:00.000Z",
+      "to": "2024-08-05T04:00:00.000Z"
+    },
+    {
+      "name": "SKYLINE CORP",
+      "from": "1994-08-02T04:00:00.000Z",
+      "to": "2018-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:58 UTC"
+}

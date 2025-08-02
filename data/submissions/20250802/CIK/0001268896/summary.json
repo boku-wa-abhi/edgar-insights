@@ -1,0 +1,26 @@
+{
+  "cik": "0001268896",
+  "name": "CHINA LIFE INSURANCE CO LTD",
+  "entityType": "other",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CILJF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "861063633333",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:22 UTC"
+}

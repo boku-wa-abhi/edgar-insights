@@ -1,0 +1,26 @@
+{
+  "cik": "0000027367",
+  "name": "DAXOR CORP",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DXR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "132682108",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-330-8500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 686,
+  "download_timestamp": "2025-08-02 06:56:39 UTC"
+}

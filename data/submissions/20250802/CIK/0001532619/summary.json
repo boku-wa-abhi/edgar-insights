@@ -1,0 +1,28 @@
+{
+  "cik": "0001532619",
+  "name": "Power REIT",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PW",
+    "PW-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "453116572",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212-750-0373",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 508,
+  "download_timestamp": "2025-08-02 07:16:14 UTC"
+}

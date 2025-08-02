@@ -1,0 +1,42 @@
+{
+  "cik": "0001321834",
+  "name": "TNF Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TNFA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "856-848-8698",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MyMD Pharmaceuticals, Inc.",
+      "from": "2021-04-16T04:00:00.000Z",
+      "to": "2024-07-01T04:00:00.000Z"
+    },
+    {
+      "name": "Akers Biosciences, Inc.",
+      "from": "2017-04-13T04:00:00.000Z",
+      "to": "2021-04-16T04:00:00.000Z"
+    },
+    {
+      "name": "Akers Biosciences Inc",
+      "from": "2005-03-23T05:00:00.000Z",
+      "to": "2017-04-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 540,
+  "download_timestamp": "2025-08-02 07:10:27 UTC"
+}

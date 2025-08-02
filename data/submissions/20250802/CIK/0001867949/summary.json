@@ -1,0 +1,26 @@
+{
+  "cik": "0001867949",
+  "name": "Chicago Atlantic Real Estate Finance, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REFI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "863125132",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(312) 809-7002",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 169,
+  "download_timestamp": "2025-08-02 07:28:04 UTC"
+}

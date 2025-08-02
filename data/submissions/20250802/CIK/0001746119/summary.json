@@ -1,0 +1,32 @@
+{
+  "cik": "0001746119",
+  "name": "Vanguard Green Investment Ltd",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "VGES"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "301089215",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "886 0905153139",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MU GLOBAL HOLDING Ltd",
+      "from": "2018-12-17T05:00:00.000Z",
+      "to": "2024-06-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 46,
+  "download_timestamp": "2025-08-02 07:22:42 UTC"
+}

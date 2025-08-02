@@ -1,0 +1,26 @@
+{
+  "cik": "0000846546",
+  "name": "BONSO ELECTRONICS INTERNATIONAL INC",
+  "entityType": "other",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "K3",
+  "stateOfIncorporationDescription": "Hong Kong",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "BNSOF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "01185226055822",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 248,
+  "download_timestamp": "2025-08-02 07:01:26 UTC"
+}

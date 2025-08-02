@@ -1,0 +1,32 @@
+{
+  "cik": "0000851310",
+  "name": "HARMONIC INC",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HLIT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770201147",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4084906242",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HARMONIC LIGHTWAVES INC",
+      "from": "1996-02-13T05:00:00.000Z",
+      "to": "1999-02-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:01:33 UTC"
+}

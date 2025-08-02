@@ -1,0 +1,26 @@
+{
+  "cik": "0001729149",
+  "name": "VIEMED HEALTHCARE, INC.",
+  "entityType": "operating",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "337.504.3802",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 354,
+  "download_timestamp": "2025-08-02 07:22:09 UTC"
+}

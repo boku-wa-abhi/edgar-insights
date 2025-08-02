@@ -1,0 +1,26 @@
+{
+  "cik": "0001854183",
+  "name": "Orion Bliss Corp.",
+  "entityType": "operating",
+  "sic": "2840",
+  "sicDescription": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "ORIB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981591444",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "307-298-0969",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 50,
+  "download_timestamp": "2025-08-02 07:27:25 UTC"
+}

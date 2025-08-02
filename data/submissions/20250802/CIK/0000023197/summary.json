@@ -1,0 +1,26 @@
+{
+  "cik": "0000023197",
+  "name": "COMTECH TELECOMMUNICATIONS CORP /DE/",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "CMTL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "112139466",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4803332200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:34 UTC"
+}

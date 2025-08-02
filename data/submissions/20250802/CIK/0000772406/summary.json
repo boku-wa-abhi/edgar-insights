@@ -1,0 +1,32 @@
+{
+  "cik": "0000772406",
+  "name": "CIRRUS LOGIC, INC.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0328",
+  "tickers": [
+    "CRUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770024818",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "512-851-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CIRRUS LOGIC INC",
+      "from": "1994-12-15T05:00:00.000Z",
+      "to": "2019-06-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:05 UTC"
+}

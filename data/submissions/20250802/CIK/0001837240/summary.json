@@ -1,0 +1,37 @@
+{
+  "cik": "0001837240",
+  "name": "Symbotic Inc.",
+  "entityType": "operating",
+  "sic": "3569",
+  "sicDescription": "General Industrial Machinery & Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "SYM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981572401",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978-284-2800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SVF Investment Corp. 3",
+      "from": "2021-02-05T05:00:00.000Z",
+      "to": "2022-06-03T04:00:00.000Z"
+    },
+    {
+      "name": "SVF Investment III Corp.",
+      "from": "2020-12-21T05:00:00.000Z",
+      "to": "2020-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 544,
+  "download_timestamp": "2025-08-02 07:26:24 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001063761",
+  "name": "SIMON PROPERTY GROUP INC /DE/",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPG",
+    "SPG-PJ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "046268599",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "317-636-1600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CORPORATE PROPERTY INVESTORS INC",
+      "from": "1998-09-17T04:00:00.000Z",
+      "to": "1998-09-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:03 UTC"
+}

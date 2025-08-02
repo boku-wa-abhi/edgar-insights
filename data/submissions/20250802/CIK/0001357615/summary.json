@@ -1,0 +1,26 @@
+{
+  "cik": "0001357615",
+  "name": "KBR, INC.",
+  "entityType": "operating",
+  "sic": "1600",
+  "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0102",
+  "tickers": [
+    "KBR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "204536774",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(713) 753-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:13 UTC"
+}

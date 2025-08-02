@@ -1,0 +1,26 @@
+{
+  "cik": "0001711375",
+  "name": "Loma Negra Compania Industrial Argentina Sociedad Anonima",
+  "entityType": "other",
+  "sic": "3241",
+  "sicDescription": "Cement, Hydraulic",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LOMA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "54 114-319-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 338,
+  "download_timestamp": "2025-08-02 07:21:33 UTC"
+}

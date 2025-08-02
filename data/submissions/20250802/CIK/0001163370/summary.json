@@ -1,0 +1,26 @@
+{
+  "cik": "0001163370",
+  "name": "NORTHRIM BANCORP INC",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "AK",
+  "stateOfIncorporationDescription": "AK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NRIM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "920175752",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:18 UTC"
+}

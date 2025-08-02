@@ -1,0 +1,28 @@
+{
+  "cik": "0001288268",
+  "name": "Intrepid Metals Corp.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-681-8030",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LOGAN RESOURCES LTD",
+      "from": "2004-04-26T04:00:00.000Z",
+      "to": "2016-08-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 69,
+  "download_timestamp": "2025-08-02 07:09:47 UTC"
+}

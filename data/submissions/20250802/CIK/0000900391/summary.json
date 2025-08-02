@@ -1,0 +1,32 @@
+{
+  "cik": "0000900391",
+  "name": "NATUZZI S P A",
+  "entityType": "other",
+  "sic": "2510",
+  "sicDescription": "Household Furniture",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NTZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": null,
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NATUZZI INDUSTRIES SPA",
+      "from": "1998-02-20T05:00:00.000Z",
+      "to": "2002-09-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 343,
+  "download_timestamp": "2025-08-02 07:03:00 UTC"
+}

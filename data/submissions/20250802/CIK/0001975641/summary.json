@@ -1,0 +1,26 @@
+{
+  "cik": "0001975641",
+  "name": "Zhengye Biotechnology Holding Ltd",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "F4",
+  "stateOfIncorporationDescription": "China",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ZYBT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-13844801919",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 40,
+  "download_timestamp": "2025-08-02 07:30:51 UTC"
+}

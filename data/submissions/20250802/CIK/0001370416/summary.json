@@ -1,0 +1,32 @@
+{
+  "cik": "0001370416",
+  "name": "WESTPORT FUEL SYSTEMS INC.",
+  "entityType": "other",
+  "sic": "3510",
+  "sicDescription": "Engines & Turbines",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "WPRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6047182000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WESTPORT INNOVATIONS INC",
+      "from": "2006-06-27T04:00:00.000Z",
+      "to": "2016-06-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 799,
+  "download_timestamp": "2025-08-02 07:11:28 UTC"
+}

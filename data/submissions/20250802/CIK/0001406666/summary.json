@@ -1,0 +1,32 @@
+{
+  "cik": "0001406666",
+  "name": "CALIX, INC",
+  "entityType": "operating",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CALX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "680438710",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-514-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CALIX NETWORKS INC",
+      "from": "2007-07-11T04:00:00.000Z",
+      "to": "2010-03-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1017,
+  "download_timestamp": "2025-08-02 07:12:28 UTC"
+}

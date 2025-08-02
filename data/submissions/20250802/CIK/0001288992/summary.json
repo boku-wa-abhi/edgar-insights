@@ -1,0 +1,26 @@
+{
+  "cik": "0001288992",
+  "name": "Eaton Vance Floating-Rate Income Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "EFT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 566,
+  "download_timestamp": "2025-08-02 07:09:50 UTC"
+}

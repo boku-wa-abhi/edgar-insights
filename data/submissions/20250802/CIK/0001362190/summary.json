@@ -1,0 +1,26 @@
+{
+  "cik": "0001362190",
+  "name": "AUDIOEYE INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEYE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "866-331-5324",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 630,
+  "download_timestamp": "2025-08-02 07:11:19 UTC"
+}

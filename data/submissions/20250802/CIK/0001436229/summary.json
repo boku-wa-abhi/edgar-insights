@@ -1,0 +1,52 @@
+{
+  "cik": "0001436229",
+  "name": "BTCS Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BTCS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "262477977",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "202-430-6576",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BTCS Inc.",
+      "from": "2015-07-24T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "Bitcoin Shop, Inc.",
+      "from": "2015-04-28T04:00:00.000Z",
+      "to": "2015-07-28T04:00:00.000Z"
+    },
+    {
+      "name": "BITCOIN SHOP INC.",
+      "from": "2014-02-05T05:00:00.000Z",
+      "to": "2015-04-22T04:00:00.000Z"
+    },
+    {
+      "name": "TouchIT Technologies, Inc.",
+      "from": "2010-05-24T04:00:00.000Z",
+      "to": "2014-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "Hotel Management Systems, Inc.",
+      "from": "2008-05-29T04:00:00.000Z",
+      "to": "2010-05-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 634,
+  "download_timestamp": "2025-08-02 07:13:16 UTC"
+}

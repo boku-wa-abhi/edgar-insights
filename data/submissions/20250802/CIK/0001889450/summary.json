@@ -1,0 +1,36 @@
+{
+  "cik": "0001889450",
+  "name": "FutureTech II Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTII",
+    "FTIIU",
+    "FTIIW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "872551539",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "9143164805",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Future Tech II Acquisition Corp.",
+      "from": "2021-11-01T04:00:00.000Z",
+      "to": "2022-03-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 140,
+  "download_timestamp": "2025-08-02 07:28:51 UTC"
+}

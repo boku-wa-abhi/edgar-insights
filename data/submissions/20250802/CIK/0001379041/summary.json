@@ -1,0 +1,32 @@
+{
+  "cik": "0001379041",
+  "name": "Employers Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EIG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043850065",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "775-327-2667",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Employers Holdings, Inc.",
+      "from": "2006-10-25T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:45 UTC"
+}

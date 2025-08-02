@@ -1,0 +1,26 @@
+{
+  "cik": "0001549346",
+  "name": "Shutterstock, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSTK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "800812659",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "646-419-4452",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 784,
+  "download_timestamp": "2025-08-02 07:16:43 UTC"
+}

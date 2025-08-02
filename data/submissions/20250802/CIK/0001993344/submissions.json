@@ -1,0 +1,181 @@
+{
+  "cik": "0001993344",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Allied Gold Corp",
+  "tickers": [
+    "AAUC",
+    "AAUCD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "BAY ADELAIDE CENTRE - NORTH TOWER",
+      "street2": "40 TEMPERANCE STREET",
+      "city": "TORONTO",
+      "stateOrCountry": "A6",
+      "zipCode": "M5H 0B4",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "BAY ADELAIDE CENTRE - NORTH TOWER",
+      "street2": "40 TEMPERANCE STREET",
+      "city": "TORONTO",
+      "stateOrCountry": "A6",
+      "zipCode": "M5H 0B4",
+      "stateOrCountryDescription": "Ontario, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "416-869-5300",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0002052113-25-002131",
+        "9999999997-25-002534",
+        "0000876661-25-000411",
+        "0001104659-25-053150",
+        "0001104659-25-053139",
+        "0000950142-23-002458"
+      ],
+      "filingDate": [
+        "2025-07-02",
+        "2025-06-05",
+        "2025-06-02",
+        "2025-05-28",
+        "2025-05-28",
+        "2023-09-21"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-02T22:34:24.000Z",
+        "2025-06-05T17:00:03.000Z",
+        "2025-06-02T13:19:38.000Z",
+        "2025-05-28T00:19:03.000Z",
+        "2025-05-27T23:27:32.000Z",
+        "2023-09-21T20:57:06.000Z"
+      ],
+      "act": [
+        "34",
+        "",
+        "34",
+        "33",
+        "34",
+        "33"
+      ],
+      "form": [
+        "SCHEDULE 13G",
+        "SEC STAFF ACTION",
+        "CERT",
+        "F-X",
+        "40FR12B",
+        "D"
+      ],
+      "fileNumber": [
+        "005-95098",
+        "",
+        "001-42672",
+        "001-42672",
+        "001-42672",
+        "021-492747"
+      ],
+      "filmNumber": [
+        "251103052",
+        "",
+        "251013300",
+        "25990596",
+        "25990469",
+        "231269615"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "06b"
+      ],
+      "core_type": [
+        "SCHEDULE 13G",
+        "ORDER",
+        "CERT",
+        "F-X",
+        "40FR12B",
+        "D"
+      ],
+      "size": [
+        10671,
+        4190,
+        37955,
+        23676,
+        29598507,
+        18228
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslSCHEDULE_13G_X01/primary_doc.xml",
+        "filename1.pdf",
+        "AAUC060225.pdf",
+        "tm2514599d2_fx.htm",
+        "tm2514599d1_40fr12b.htm",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "NYSE CERTIFICATION",
+        "FORM F-X",
+        "40FR12B",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

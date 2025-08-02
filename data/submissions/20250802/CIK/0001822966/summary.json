@@ -1,0 +1,32 @@
+{
+  "cik": "0001822966",
+  "name": "NUSCALE POWER Corp",
+  "entityType": "operating",
+  "sic": "3443",
+  "sicDescription": "Fabricated Plate Work (Boiler Shops)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SMR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "852715384",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(971) 371-1592",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPRING VALLEY ACQUISITION CORP.",
+      "from": "2020-09-02T04:00:00.000Z",
+      "to": "2022-04-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 655,
+  "download_timestamp": "2025-08-02 07:25:34 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001157408",
+  "name": "Stride, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LRN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "954774688",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7034837000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "K12 INC",
+      "from": "2002-07-02T04:00:00.000Z",
+      "to": "2020-12-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:06 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001945711",
+  "name": "Lavoro Ltd",
+  "entityType": "other",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LVRO",
+    "LVROW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "55 11 4280-0709",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:30:05 UTC"
+}

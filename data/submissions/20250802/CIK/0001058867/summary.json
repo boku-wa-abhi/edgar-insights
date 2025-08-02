@@ -1,0 +1,26 @@
+{
+  "cik": "0001058867",
+  "name": "GUARANTY BANCSHARES INC /TX/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GNTY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "751656431",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "9035729881",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 649,
+  "download_timestamp": "2025-08-02 07:05:55 UTC"
+}

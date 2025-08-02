@@ -1,0 +1,32 @@
+{
+  "cik": "0000008947",
+  "name": "AZZ INC",
+  "entityType": "operating",
+  "sic": "3470",
+  "sicDescription": "Coating, Engraving & Allied Services",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "AZZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "750948250",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8178100095",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AZTEC MANUFACTURING CO",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2000-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:15 UTC"
+}

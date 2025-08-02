@@ -1,0 +1,26 @@
+{
+  "cik": "0001905956",
+  "name": "TREASURE GLOBAL INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "TGL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "364965082",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "6012 643 7688",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 202,
+  "download_timestamp": "2025-08-02 07:29:16 UTC"
+}

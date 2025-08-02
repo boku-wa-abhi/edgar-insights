@@ -1,0 +1,28 @@
+{
+  "cik": "0001965143",
+  "name": "Nvni Group Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVNI",
+    "NVNIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "55-11-5642-3370",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 82,
+  "download_timestamp": "2025-08-02 07:30:35 UTC"
+}

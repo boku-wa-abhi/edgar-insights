@@ -1,0 +1,32 @@
+{
+  "cik": "0001932244",
+  "name": "AI Unlimited Group, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIUG"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "881455444",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "424-457-2590",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lever Global Corp",
+      "from": "2022-07-15T04:00:00.000Z",
+      "to": "2024-07-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 45,
+  "download_timestamp": "2025-08-02 07:29:43 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001075880",
+  "name": "KAZIA THERAPEUTICS LTD",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "KZIA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "01161298780088",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NOVOGEN LTD",
+      "from": "2002-03-06T05:00:00.000Z",
+      "to": "2017-11-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:25 UTC"
+}

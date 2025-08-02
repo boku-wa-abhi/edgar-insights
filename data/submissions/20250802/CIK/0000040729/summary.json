@@ -1,0 +1,42 @@
+{
+  "cik": "0000040729",
+  "name": "Ally Financial Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALLY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "380572512",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "866-710-4623",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GMAC INC.",
+      "from": "2009-07-01T04:00:00.000Z",
+      "to": "2010-05-07T04:00:00.000Z"
+    },
+    {
+      "name": "GMAC LLC",
+      "from": "2006-07-25T04:00:00.000Z",
+      "to": "2009-06-29T04:00:00.000Z"
+    },
+    {
+      "name": "GENERAL MOTORS ACCEPTANCE CORP",
+      "from": "1994-01-11T05:00:00.000Z",
+      "to": "2006-07-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:59 UTC"
+}

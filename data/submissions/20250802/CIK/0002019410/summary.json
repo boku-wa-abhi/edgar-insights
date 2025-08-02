@@ -1,0 +1,26 @@
+{
+  "cik": "0002019410",
+  "name": "Caris Life Sciences, Inc.",
+  "entityType": "other",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "852077369",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(866) 771-8946",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 44,
+  "download_timestamp": "2025-08-02 07:32:11 UTC"
+}

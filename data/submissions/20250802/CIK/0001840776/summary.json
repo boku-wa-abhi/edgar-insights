@@ -1,0 +1,32 @@
+{
+  "cik": "0001840776",
+  "name": "Hagerty, Inc.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HGTY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-922-4050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Aldel Financial Inc.",
+      "from": "2021-01-19T05:00:00.000Z",
+      "to": "2021-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 771,
+  "download_timestamp": "2025-08-02 07:26:36 UTC"
+}

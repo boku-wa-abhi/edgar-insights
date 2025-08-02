@@ -1,0 +1,42 @@
+{
+  "cik": "0000025743",
+  "name": "TherapeuticsMD, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TXMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870233535",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-961-1900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMHN, Inc.",
+      "from": "2009-09-30T00:00:00.000Z",
+      "to": "2011-09-14T00:00:00.000Z"
+    },
+    {
+      "name": "CROFF ENTERPRISES INC",
+      "from": "1997-11-17T00:00:00.000Z",
+      "to": "2009-09-04T00:00:00.000Z"
+    },
+    {
+      "name": "CROFF OIL CO",
+      "from": "1995-10-03T00:00:00.000Z",
+      "to": "1997-04-01T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:37 UTC"
+}

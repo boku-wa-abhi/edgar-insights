@@ -1,0 +1,32 @@
+{
+  "cik": "0001817004",
+  "name": "NEXTNRG, INC.",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXXT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "834260623",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "305-791-1169",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EzFill Holdings Inc",
+      "from": "2020-11-27T05:00:00.000Z",
+      "to": "2025-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 326,
+  "download_timestamp": "2025-08-02 07:25:11 UTC"
+}

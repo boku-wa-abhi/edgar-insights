@@ -1,0 +1,34 @@
+{
+  "cik": "0001657853",
+  "name": "HERTZ GLOBAL HOLDINGS, INC",
+  "entityType": "operating",
+  "sic": "7510",
+  "sicDescription": "Services-Auto Rental & Leasing (No Drivers)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HTZ",
+    "HTZWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "611770902",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(239) 301-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hertz Rental Car Holding Company, Inc.",
+      "from": "2015-12-21T05:00:00.000Z",
+      "to": "2016-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 781,
+  "download_timestamp": "2025-08-02 07:20:01 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0002005951",
+  "name": "Smurfit Westrock plc",
+  "entityType": "operating",
+  "sic": "2650",
+  "sicDescription": "Paperboard Containers & Boxes",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "353 1 202 7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Smurfit WestRock Ltd",
+      "from": "2024-02-14T05:00:00.000Z",
+      "to": "2024-06-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 229,
+  "download_timestamp": "2025-08-02 07:31:45 UTC"
+}

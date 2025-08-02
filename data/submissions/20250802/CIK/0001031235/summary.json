@@ -1,0 +1,47 @@
+{
+  "cik": "0001031235",
+  "name": "Global Self Storage, Inc.",
+  "entityType": "investment",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SELF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133926714",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2127850900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Self Storage Group, Inc.",
+      "from": "2013-11-19T05:00:00.000Z",
+      "to": "2016-02-09T05:00:00.000Z"
+    },
+    {
+      "name": "GLOBAL INCOME FUND, INC.",
+      "from": "2006-02-28T05:00:00.000Z",
+      "to": "2013-10-25T04:00:00.000Z"
+    },
+    {
+      "name": "GLOBAL INCOME FUND INC",
+      "from": "1999-09-17T04:00:00.000Z",
+      "to": "2006-02-10T05:00:00.000Z"
+    },
+    {
+      "name": "BULL & BEAR GLOBAL INCOME FUND INC/",
+      "from": "1997-01-23T05:00:00.000Z",
+      "to": "1999-08-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 711,
+  "download_timestamp": "2025-08-02 07:05:08 UTC"
+}

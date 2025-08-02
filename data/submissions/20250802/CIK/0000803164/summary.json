@@ -1,0 +1,32 @@
+{
+  "cik": "0000803164",
+  "name": "CHOICEONE FINANCIAL SERVICES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COFS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "382659066",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "6168877366",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "1ST COMMUNITY BANCORP INC",
+      "from": "1995-05-12T04:00:00.000Z",
+      "to": "1998-04-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:34 UTC"
+}

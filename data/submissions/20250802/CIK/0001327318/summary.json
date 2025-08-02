@@ -1,0 +1,32 @@
+{
+  "cik": "0001327318",
+  "name": "TrueCar, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRUE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043807511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "800-200-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zag com Inc",
+      "from": "2005-05-09T04:00:00.000Z",
+      "to": "2010-06-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:34 UTC"
+}

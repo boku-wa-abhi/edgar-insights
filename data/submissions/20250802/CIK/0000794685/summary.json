@@ -1,0 +1,32 @@
+{
+  "cik": "0000794685",
+  "name": "GABELLI EQUITY TRUST INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GAB",
+    "GAB-PG",
+    "GAB-PH",
+    "GAB-PK"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "222736509",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9149215070",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 684,
+  "download_timestamp": "2025-08-02 07:00:22 UTC"
+}

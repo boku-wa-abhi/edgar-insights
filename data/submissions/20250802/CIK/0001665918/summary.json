@@ -1,0 +1,26 @@
+{
+  "cik": "0001665918",
+  "name": "US Foods Holding Corp.",
+  "entityType": "operating",
+  "sic": "5140",
+  "sicDescription": "Wholesale-Groceries & Related Products",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "USFD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "260347906",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8477208000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 956,
+  "download_timestamp": "2025-08-02 07:20:09 UTC"
+}

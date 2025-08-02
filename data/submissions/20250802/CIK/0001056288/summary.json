@@ -1,0 +1,32 @@
+{
+  "cik": "0001056288",
+  "name": "FEDERATED HERMES, INC.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FHI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251111467",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4122881900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FEDERATED INVESTORS INC /PA/",
+      "from": "1998-04-24T04:00:00.000Z",
+      "to": "2020-01-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:50 UTC"
+}

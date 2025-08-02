@@ -1,0 +1,26 @@
+{
+  "cik": "0001068851",
+  "name": "PROSPERITY BANCSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "742331986",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7136939300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:10 UTC"
+}

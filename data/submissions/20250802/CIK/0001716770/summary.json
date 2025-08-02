@@ -1,0 +1,26 @@
+{
+  "cik": "0001716770",
+  "name": "Wah Fu Education Group Ltd",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "WAFU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 10 57925024",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 71,
+  "download_timestamp": "2025-08-02 07:21:44 UTC"
+}

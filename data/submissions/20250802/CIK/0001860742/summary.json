@@ -1,0 +1,26 @@
+{
+  "cik": "0001860742",
+  "name": "Bausch & Lomb Corp",
+  "entityType": "operating",
+  "sic": "3851",
+  "sicDescription": "Ophthalmic Goods",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BLCO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "908-541-5456",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 258,
+  "download_timestamp": "2025-08-02 07:27:45 UTC"
+}

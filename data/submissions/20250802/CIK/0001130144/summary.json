@@ -1,0 +1,26 @@
+{
+  "cik": "0001130144",
+  "name": "SIERRA BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BSRR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330937517",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "5597824900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:40 UTC"
+}

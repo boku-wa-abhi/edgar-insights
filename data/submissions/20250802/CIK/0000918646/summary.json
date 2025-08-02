@@ -1,0 +1,32 @@
+{
+  "cik": "0000918646",
+  "name": "EAGLE MATERIALS INC",
+  "entityType": "operating",
+  "sic": "3241",
+  "sicDescription": "Cement, Hydraulic",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "EXP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "752520779",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-432-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CENTEX CONSTRUCTION PRODUCTS INC",
+      "from": "1994-09-09T04:00:00.000Z",
+      "to": "2004-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:34 UTC"
+}

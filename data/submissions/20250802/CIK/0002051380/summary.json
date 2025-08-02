@@ -1,0 +1,28 @@
+{
+  "cik": "0002051380",
+  "name": "GrabAGun Digital Holdings Inc.",
+  "entityType": "other",
+  "sic": "5940",
+  "sicDescription": "Retail-Miscellaneous Shopping Goods Stores",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PEW",
+    "PEW-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "5618053588",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 60,
+  "download_timestamp": "2025-08-02 07:33:17 UTC"
+}

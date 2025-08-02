@@ -1,0 +1,32 @@
+{
+  "cik": "0001437226",
+  "name": "Mastech Digital, Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MHH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "262753540",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "412-787-2100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mastech Holdings, Inc.",
+      "from": "2008-06-11T04:00:00.000Z",
+      "to": "2016-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 551,
+  "download_timestamp": "2025-08-02 07:13:19 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001285550",
+  "name": "ClearPoint Neuro, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "582394628",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9499006833",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MRI INTERVENTIONS, INC.",
+      "from": "2011-07-15T04:00:00.000Z",
+      "to": "2020-02-11T05:00:00.000Z"
+    },
+    {
+      "name": "SURGIVISION INC",
+      "from": "2009-11-06T05:00:00.000Z",
+      "to": "2010-10-22T04:00:00.000Z"
+    },
+    {
+      "name": "SURGI VISION INC",
+      "from": "2004-03-30T05:00:00.000Z",
+      "to": "2007-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:42 UTC"
+}

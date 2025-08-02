@@ -1,0 +1,34 @@
+{
+  "cik": "0001844417",
+  "name": "Estrella Immunopharma, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESLA",
+    "ESLAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "861314502",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(510) 318-9098",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TradeUP Acquisition Corp.",
+      "from": "2021-02-19T05:00:00.000Z",
+      "to": "2023-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 223,
+  "download_timestamp": "2025-08-02 07:26:47 UTC"
+}

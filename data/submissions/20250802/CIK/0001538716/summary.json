@@ -1,0 +1,32 @@
+{
+  "cik": "0001538716",
+  "name": "Oportun Financial Corp",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453361983",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(650) 810-8823",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Progreso Financiero Holdings, Inc.",
+      "from": "2012-01-09T05:00:00.000Z",
+      "to": "2013-09-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 661,
+  "download_timestamp": "2025-08-02 07:16:27 UTC"
+}

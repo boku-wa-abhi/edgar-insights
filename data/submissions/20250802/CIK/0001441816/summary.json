@@ -1,0 +1,32 @@
+{
+  "cik": "0001441816",
+  "name": "MongoDB, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "MDB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "866-237-8815",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "10GEN INC",
+      "from": "2008-07-31T04:00:00.000Z",
+      "to": "2013-10-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:13:28 UTC"
+}

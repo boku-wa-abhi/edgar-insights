@@ -1,0 +1,26 @@
+{
+  "cik": "0001659617",
+  "name": "Moleculin Biotech, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MBRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474671997",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "713-300-5160",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 700,
+  "download_timestamp": "2025-08-02 07:20:03 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002000046",
+  "name": "Fidelity Ethereum Fund",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FETH"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-343-3548",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 28,
+  "download_timestamp": "2025-08-02 07:31:37 UTC"
+}

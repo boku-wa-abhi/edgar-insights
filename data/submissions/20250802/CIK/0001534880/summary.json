@@ -1,0 +1,42 @@
+{
+  "cik": "0001534880",
+  "name": "PGIM High Yield Bond Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "ISD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "973-802-5032",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PGIM Short Duration High Yield Fund, Inc.",
+      "from": "2018-07-19T04:00:00.000Z",
+      "to": "2019-03-14T04:00:00.000Z"
+    },
+    {
+      "name": "Prudential Short Duration High Yield Fund, Inc.",
+      "from": "2011-12-15T05:00:00.000Z",
+      "to": "2018-06-15T04:00:00.000Z"
+    },
+    {
+      "name": "Prudential Short Term High Yield Fund, Inc.",
+      "from": "2011-11-16T05:00:00.000Z",
+      "to": "2012-01-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 289,
+  "download_timestamp": "2025-08-02 07:16:20 UTC"
+}

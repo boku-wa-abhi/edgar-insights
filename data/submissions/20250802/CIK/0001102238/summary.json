@@ -1,0 +1,26 @@
+{
+  "cik": "0001102238",
+  "name": "AMERICAN REALTY INVESTORS INC",
+  "entityType": "operating",
+  "sic": "6510",
+  "sicDescription": "Real Estate Operators (No Developers) & Lessors",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "752847135",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4695224200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 572,
+  "download_timestamp": "2025-08-02 07:07:03 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001892316",
+  "name": "Longduoduo Co Ltd",
+  "entityType": "operating",
+  "sic": "8000",
+  "sicDescription": "Services-Health Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LDDD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "372018431",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "86 (0472) 510 4980",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 68,
+  "download_timestamp": "2025-08-02 07:28:55 UTC"
+}

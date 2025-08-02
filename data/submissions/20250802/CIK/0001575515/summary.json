@@ -1,0 +1,32 @@
+{
+  "cik": "0001575515",
+  "name": "Sprouts Farmers Market, Inc.",
+  "entityType": "operating",
+  "sic": "5411",
+  "sicDescription": "Retail-Grocery Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "SFM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "320331600",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-814-8016",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sprouts Farmers Markets, LLC",
+      "from": "2013-05-09T04:00:00.000Z",
+      "to": "2013-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:17:27 UTC"
+}

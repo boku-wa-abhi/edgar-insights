@@ -1,0 +1,42 @@
+{
+  "cik": "0001017655",
+  "name": "PAID INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAYD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "731479833",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-861-6050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SALES ONLINE DIRECT INC",
+      "from": "1999-05-26T04:00:00.000Z",
+      "to": "2004-01-15T05:00:00.000Z"
+    },
+    {
+      "name": "SECURITIES RESOLUTION ADVISORS INC",
+      "from": "1998-08-18T04:00:00.000Z",
+      "to": "1999-02-04T05:00:00.000Z"
+    },
+    {
+      "name": "ROSE INTERNATIONAL LTD",
+      "from": "1996-11-12T05:00:00.000Z",
+      "to": "1998-06-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 493,
+  "download_timestamp": "2025-08-02 07:04:48 UTC"
+}

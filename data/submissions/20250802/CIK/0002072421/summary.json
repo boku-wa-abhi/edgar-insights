@@ -1,0 +1,26 @@
+{
+  "cik": "0002072421",
+  "name": "Seneca Bancorp, Inc.",
+  "entityType": "other",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNNF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(315) 638-0233",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:33:46 UTC"
+}

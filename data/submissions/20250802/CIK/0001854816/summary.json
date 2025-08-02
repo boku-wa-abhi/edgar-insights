@@ -1,0 +1,26 @@
+{
+  "cik": "0001854816",
+  "name": "Minerva Gold Inc.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "MINR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981588963",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(725) 225-1800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 30,
+  "download_timestamp": "2025-08-02 07:27:28 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001986817",
+  "name": "Gores Holdings X, Inc. / CI",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTEN",
+    "GTENU",
+    "GTENW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981740672",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(303) 531-3100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:31:08 UTC"
+}

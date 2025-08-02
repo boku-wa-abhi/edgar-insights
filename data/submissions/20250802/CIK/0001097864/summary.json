@@ -1,0 +1,32 @@
+{
+  "cik": "0001097864",
+  "name": "ON SEMICONDUCTOR CORP",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363840979",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6022446600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCG HOLDING CORP",
+      "from": "1999-11-05T05:00:00.000Z",
+      "to": "2000-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:57 UTC"
+}

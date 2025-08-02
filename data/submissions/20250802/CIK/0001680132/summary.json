@@ -1,0 +1,32 @@
+{
+  "cik": "0001680132",
+  "name": "CANNABIS SUISSE CORP.",
+  "entityType": "operating",
+  "sic": "2600",
+  "sicDescription": "Papers & Allied Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "CSUI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "383993849",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "904-598-5820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Geant Corp.",
+      "from": "2016-08-09T04:00:00.000Z",
+      "to": "2019-03-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 94,
+  "download_timestamp": "2025-08-02 07:20:33 UTC"
+}

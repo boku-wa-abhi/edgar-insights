@@ -1,0 +1,37 @@
+{
+  "cik": "0000799292",
+  "name": "M/I HOMES, INC.",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MHO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311210837",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6144188000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "M I HOMES INC",
+      "from": "2004-01-13T05:00:00.000Z",
+      "to": "2019-06-21T04:00:00.000Z"
+    },
+    {
+      "name": "M I SCHOTTENSTEIN HOMES INC",
+      "from": "1995-08-10T04:00:00.000Z",
+      "to": "2003-12-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:00:30 UTC"
+}

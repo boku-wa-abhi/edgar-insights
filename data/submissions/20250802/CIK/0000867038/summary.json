@@ -1,0 +1,26 @@
+{
+  "cik": "0000867038",
+  "name": "SPINDLETOP OIL & GAS CO",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPND"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "752063001",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9726442581",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 241,
+  "download_timestamp": "2025-08-02 07:01:51 UTC"
+}

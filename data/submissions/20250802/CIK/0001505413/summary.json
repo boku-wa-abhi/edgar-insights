@@ -1,0 +1,26 @@
+{
+  "cik": "0001505413",
+  "name": "VOC Energy Trust",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VOC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "806183103",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5122366599",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 153,
+  "download_timestamp": "2025-08-02 07:15:18 UTC"
+}

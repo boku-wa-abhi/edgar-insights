@@ -1,0 +1,26 @@
+{
+  "cik": "0001704711",
+  "name": "Funko, Inc.",
+  "entityType": "operating",
+  "sic": "3944",
+  "sicDescription": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FNKO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "425-783-3616",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 755,
+  "download_timestamp": "2025-08-02 07:21:18 UTC"
+}

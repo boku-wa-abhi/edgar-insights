@@ -1,0 +1,32 @@
+{
+  "cik": "0001924064",
+  "name": "RoyaLand Co Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RLNDF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "874751370",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "949-233-7869",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RoyaLand Co",
+      "from": "2022-06-03T04:00:00.000Z",
+      "to": "2022-06-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 44,
+  "download_timestamp": "2025-08-02 07:29:36 UTC"
+}

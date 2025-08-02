@@ -1,0 +1,47 @@
+{
+  "cik": "0001038186",
+  "name": "BLACKROCK MUNIHOLDINGS NEW YORK QUALITY FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MHN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223536490",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-441-7762",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLACKROCK MUNIHOLDINGS NEW YORK IQUALITY FUND, INC.",
+      "from": "2010-11-18T05:00:00.000Z",
+      "to": "2010-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "BLACKROCK MUNIHOLDINGS NEW YORK INSURED FUND, INC.",
+      "from": "2007-06-15T04:00:00.000Z",
+      "to": "2010-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "MUNIHOLDINGS NEW YORK INSURED FUND INC",
+      "from": "1997-09-15T04:00:00.000Z",
+      "to": "2007-05-10T04:00:00.000Z"
+    },
+    {
+      "name": "MUNIHOLDINGS NEW YORK FUND INC",
+      "from": "1997-05-12T04:00:00.000Z",
+      "to": "1997-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 509,
+  "download_timestamp": "2025-08-02 07:05:17 UTC"
+}

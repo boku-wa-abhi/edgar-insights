@@ -1,0 +1,26 @@
+{
+  "cik": "0001144967",
+  "name": "HDFC BANK LTD",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "K7",
+  "stateOfIncorporationDescription": "India",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "HDB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "91224957676",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 652,
+  "download_timestamp": "2025-08-02 07:08:02 UTC"
+}

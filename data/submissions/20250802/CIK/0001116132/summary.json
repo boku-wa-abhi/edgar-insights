@@ -1,0 +1,32 @@
+{
+  "cik": "0001116132",
+  "name": "TAPESTRY, INC.",
+  "entityType": "operating",
+  "sic": "3100",
+  "sicDescription": "Leather & Leather Products",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0627",
+  "tickers": [
+    "TPR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "522242751",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2129468400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COACH INC",
+      "from": "2000-10-04T04:00:00.000Z",
+      "to": "2017-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:21 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001828805",
+  "name": "Aeluma, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ALMU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "852807351",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "805-351-2707",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Parc Investments, Inc.",
+      "from": "2020-10-21T04:00:00.000Z",
+      "to": "2021-06-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 168,
+  "download_timestamp": "2025-08-02 07:25:53 UTC"
+}

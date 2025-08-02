@@ -1,0 +1,32 @@
+{
+  "cik": "0001887944",
+  "name": "Shimmick Corp",
+  "entityType": "operating",
+  "sic": "1600",
+  "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHIM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "843749368",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "949.333.1500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCCI National Holdings, Inc.",
+      "from": "2023-08-10T04:00:00.000Z",
+      "to": "2023-08-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 253,
+  "download_timestamp": "2025-08-02 07:28:46 UTC"
+}

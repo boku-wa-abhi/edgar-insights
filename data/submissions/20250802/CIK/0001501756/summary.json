@@ -1,0 +1,32 @@
+{
+  "cik": "0001501756",
+  "name": "Adverum Biotechnologies, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADVM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205258327",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(650) 649-1004",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Avalanche Biotechnologies, Inc.",
+      "from": "2013-11-26T05:00:00.000Z",
+      "to": "2016-05-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 880,
+  "download_timestamp": "2025-08-02 07:15:11 UTC"
+}

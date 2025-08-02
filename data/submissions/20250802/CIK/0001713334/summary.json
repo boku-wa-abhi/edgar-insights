@@ -1,0 +1,26 @@
+{
+  "cik": "0001713334",
+  "name": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+  "entityType": "other",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "85225983600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 198,
+  "download_timestamp": "2025-08-02 07:21:37 UTC"
+}

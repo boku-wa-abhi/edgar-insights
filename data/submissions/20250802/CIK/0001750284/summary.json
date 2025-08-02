@@ -1,0 +1,26 @@
+{
+  "cik": "0001750284",
+  "name": "Olema Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OLMA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "300409740",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(415) 651-3316",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 453,
+  "download_timestamp": "2025-08-02 07:22:48 UTC"
+}

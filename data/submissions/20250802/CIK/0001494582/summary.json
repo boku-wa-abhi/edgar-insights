@@ -1,0 +1,32 @@
+{
+  "cik": "0001494582",
+  "name": "BOSTON OMAHA Corp",
+  "entityType": "operating",
+  "sic": "6510",
+  "sicDescription": "Real Estate Operators (No Developers) & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BOC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270788438",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "857-256-0079",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REO PLUS, INC.",
+      "from": "2010-10-20T04:00:00.000Z",
+      "to": "2015-02-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 541,
+  "download_timestamp": "2025-08-02 07:14:54 UTC"
+}

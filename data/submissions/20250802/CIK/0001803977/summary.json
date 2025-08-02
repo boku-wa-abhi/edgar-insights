@@ -1,0 +1,32 @@
+{
+  "cik": "0001803977",
+  "name": "Limitless X Holdings Inc.",
+  "entityType": "operating",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LIMX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "811034163",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "720-273-0433",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIO LAB NATURALS, INC.",
+      "from": "2020-03-02T05:00:00.000Z",
+      "to": "2022-06-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 151,
+  "download_timestamp": "2025-08-02 07:24:38 UTC"
+}

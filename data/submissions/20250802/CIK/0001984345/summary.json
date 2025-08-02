@@ -1,0 +1,26 @@
+{
+  "cik": "0001984345",
+  "name": "Vestible Assets, LLC",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTBAS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "932084697",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "417-438-2561",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 18,
+  "download_timestamp": "2025-08-02 07:31:05 UTC"
+}

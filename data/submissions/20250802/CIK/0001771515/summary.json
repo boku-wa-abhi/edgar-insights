@@ -1,0 +1,26 @@
+{
+  "cik": "0001771515",
+  "name": "Grocery Outlet Holding Corp.",
+  "entityType": "operating",
+  "sic": "5411",
+  "sicDescription": "Retail-Grocery Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "GO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471874201",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(510) 845-1999",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 783,
+  "download_timestamp": "2025-08-02 07:23:30 UTC"
+}

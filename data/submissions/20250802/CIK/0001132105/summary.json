@@ -1,0 +1,32 @@
+{
+  "cik": "0001132105",
+  "name": "SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "5940",
+  "sicDescription": "Retail-Miscellaneous Shopping Goods Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "SPWH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391795614",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "801-566-6681",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPORTSMANS WAREHOUSE HOLDINGS INC",
+      "from": "2002-06-17T04:00:00.000Z",
+      "to": "2013-12-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 07:07:44 UTC"
+}

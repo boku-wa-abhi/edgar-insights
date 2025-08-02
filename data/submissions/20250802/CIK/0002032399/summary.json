@@ -1,0 +1,28 @@
+{
+  "cik": "0002032399",
+  "name": "Mycronic AB/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "V7",
+  "stateOfIncorporationDescription": "Sweden",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MYCRY",
+    "MICLF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1,
+  "download_timestamp": "2025-08-02 07:32:40 UTC"
+}

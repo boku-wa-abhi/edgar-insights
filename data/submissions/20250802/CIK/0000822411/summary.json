@@ -1,0 +1,42 @@
+{
+  "cik": "0000822411",
+  "name": "EOM Pharmaceutical Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMUC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "931301885",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "818-264-2300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ImmunoCellular Therapeutics, Ltd.",
+      "from": "2006-10-23T00:00:00.000Z",
+      "to": "2022-09-12T00:00:00.000Z"
+    },
+    {
+      "name": "Optical Molecular Imaging, Inc",
+      "from": "2006-02-06T00:00:00.000Z",
+      "to": "2006-09-20T00:00:00.000Z"
+    },
+    {
+      "name": "PATCO INDUSTRIES LTD",
+      "from": "1999-11-24T00:00:00.000Z",
+      "to": "2006-01-26T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 558,
+  "download_timestamp": "2025-08-02 07:00:57 UTC"
+}

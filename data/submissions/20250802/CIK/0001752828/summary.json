@@ -1,0 +1,34 @@
+{
+  "cik": "0001752828",
+  "name": "Celularity Inc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CELU",
+    "CELUW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "831702591",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(908) 768-2170",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GX Acquisition Corp.",
+      "from": "2018-11-05T05:00:00.000Z",
+      "to": "2021-07-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 471,
+  "download_timestamp": "2025-08-02 07:22:52 UTC"
+}

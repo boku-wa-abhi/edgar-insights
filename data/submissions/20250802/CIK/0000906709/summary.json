@@ -1,0 +1,37 @@
+{
+  "cik": "0000906709",
+  "name": "NEKTAR THERAPEUTICS",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NKTR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943134940",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4154825300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INHALE THERAPEUTIC SYSTEMS INC",
+      "from": "1998-10-15T04:00:00.000Z",
+      "to": "2003-01-10T05:00:00.000Z"
+    },
+    {
+      "name": "INHALE THERAPEUTIC SYSTEMS",
+      "from": "1996-07-11T04:00:00.000Z",
+      "to": "1998-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:03:06 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001801170",
+  "name": "CLOVER HEALTH INVESTMENTS, CORP. /DE",
+  "entityType": "operating",
+  "sic": "6324",
+  "sicDescription": "Hospital & Medical Service Plans",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLOV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981515192",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(201) 432-2133",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Social Capital Hedosophia Holdings Corp. III",
+      "from": "2020-01-31T05:00:00.000Z",
+      "to": "2021-01-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 502,
+  "download_timestamp": "2025-08-02 07:24:32 UTC"
+}

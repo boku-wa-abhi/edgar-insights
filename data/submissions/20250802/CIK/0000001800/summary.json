@@ -1,0 +1,26 @@
+{
+  "cik": "0000001800",
+  "name": "ABBOTT LABORATORIES",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "360698440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2246676100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:03 UTC"
+}

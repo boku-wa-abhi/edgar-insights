@@ -1,0 +1,186 @@
+{
+  "cik": "0001819258",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Fitzroy Minerals Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0930",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "1055 WEST HASTINGS STREET, UNIT 2250",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2E9",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1055 WEST HASTINGS STREET, UNIT 2250",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2E9",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "604-505-4554",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Norseman Silver Inc.",
+      "from": "2021-04-26T04:00:00.000Z",
+      "to": "2021-08-31T04:00:00.000Z"
+    },
+    {
+      "name": "Norseman Capital Ltd.",
+      "from": "2020-08-05T04:00:00.000Z",
+      "to": "2020-11-25T05:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001819258-25-000001",
+        "0000912282-24-000715",
+        "0001819258-21-000003",
+        "0001819258-21-000002",
+        "0001819258-20-000003",
+        "0001819258-20-000002"
+      ],
+      "filingDate": [
+        "2025-04-03",
+        "2024-10-28",
+        "2021-08-31",
+        "2021-04-26",
+        "2020-11-25",
+        "2020-08-05"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-04-03T18:23:45.000Z",
+        "2024-10-28T20:54:58.000Z",
+        "2021-08-31T17:35:01.000Z",
+        "2021-04-26T15:09:52.000Z",
+        "2020-11-25T01:21:21.000Z",
+        "2020-08-05T16:55:36.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-542883",
+        "021-527968",
+        "021-411819",
+        "021-397140",
+        "021-381481",
+        "021-372550"
+      ],
+      "filmNumber": [
+        "25808907",
+        "241401566",
+        "211226390",
+        "21852410",
+        "201346533",
+        "201076562"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        10004,
+        9372,
+        9780,
+        9439,
+        8330,
+        8225
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

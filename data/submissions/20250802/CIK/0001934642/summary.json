@@ -1,0 +1,26 @@
+{
+  "cik": "0001934642",
+  "name": "MDB Capital Holdings, LLC",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDBH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "874366624",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "310-526-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:29:46 UTC"
+}

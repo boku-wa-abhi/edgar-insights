@@ -1,0 +1,26 @@
+{
+  "cik": "0000931427",
+  "name": "GAS TRANSPORTER OF THE SOUTH INC",
+  "entityType": "other",
+  "sic": "4922",
+  "sicDescription": "Natural Gas Transmission",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "005401137515100X1093",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 731,
+  "download_timestamp": "2025-08-02 07:03:56 UTC"
+}

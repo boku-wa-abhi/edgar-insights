@@ -1,0 +1,32 @@
+{
+  "cik": "0001608092",
+  "name": "Kisses From Italy Inc.",
+  "entityType": "operating",
+  "sic": "5810",
+  "sicDescription": "Retail-Eating & Drinking Places",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KITL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "462388377",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(305) 423-7024",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kisses From Italy, Inc.",
+      "from": "2014-05-23T00:00:00.000Z",
+      "to": "2020-08-18T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 142,
+  "download_timestamp": "2025-08-02 07:18:31 UTC"
+}

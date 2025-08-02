@@ -1,0 +1,36 @@
+{
+  "cik": "0000092103",
+  "name": "SOUTHERN CALIFORNIA EDISON Co",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCE-PG",
+    "SCE-PJ",
+    "SCE-PK",
+    "SCE-PL",
+    "SCE-PM",
+    "SCE-PN"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "951240335",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "6263021212",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:00 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001101433",
+  "name": "QUOTEMEDIA INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QMCI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "912008633",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4809057311",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QUOTEMEDIA  INC",
+      "from": "2003-08-12T04:00:00.000Z",
+      "to": "2011-05-13T04:00:00.000Z"
+    },
+    {
+      "name": "QUOTEMEDIA COM INC",
+      "from": "1999-12-21T05:00:00.000Z",
+      "to": "2003-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 190,
+  "download_timestamp": "2025-08-02 07:07:03 UTC"
+}

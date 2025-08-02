@@ -1,0 +1,26 @@
+{
+  "cik": "0001596532",
+  "name": "Arista Networks, Inc.",
+  "entityType": "operating",
+  "sic": "3576",
+  "sicDescription": "Computer Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANET"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201751121",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-547-5500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:18:08 UTC"
+}

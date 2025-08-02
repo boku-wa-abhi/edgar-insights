@@ -1,0 +1,32 @@
+{
+  "cik": "0001171155",
+  "name": "RADIANT LOGISTICS, INC",
+  "entityType": "operating",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RLGT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043625550",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "425-462-1094",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOLF TWO INC",
+      "from": "2002-03-28T05:00:00.000Z",
+      "to": "2005-11-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 813,
+  "download_timestamp": "2025-08-02 07:08:28 UTC"
+}

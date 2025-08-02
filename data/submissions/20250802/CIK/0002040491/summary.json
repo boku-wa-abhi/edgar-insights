@@ -1,0 +1,32 @@
+{
+  "cik": "0002040491",
+  "name": "Ategrity Specialty Insurance Co Holdings",
+  "entityType": "other",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASIC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "824925734",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(212) 509-1600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ategrity Specialty Holdings LLC",
+      "from": "2024-11-20T05:00:00.000Z",
+      "to": "2025-06-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 25,
+  "download_timestamp": "2025-08-02 07:32:59 UTC"
+}

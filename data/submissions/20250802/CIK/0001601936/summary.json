@@ -1,0 +1,42 @@
+{
+  "cik": "0001601936",
+  "name": "Altamira Therapeutics Ltd.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CYTOF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "41 (0) 41 729 71 94",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Auris Medical Holding Ltd.",
+      "from": "2019-02-11T05:00:00.000Z",
+      "to": "2021-07-23T04:00:00.000Z"
+    },
+    {
+      "name": "Auris Medical Holding AG",
+      "from": "2014-04-15T04:00:00.000Z",
+      "to": "2019-03-14T04:00:00.000Z"
+    },
+    {
+      "name": "Auris Medical AG",
+      "from": "2014-03-18T04:00:00.000Z",
+      "to": "2014-04-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 516,
+  "download_timestamp": "2025-08-02 07:18:18 UTC"
+}

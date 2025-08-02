@@ -1,0 +1,130 @@
+{
+  "cik": "0001535759",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Kongsberg Gruppen ASA/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-25-000992",
+        "0001193805-23-000349",
+        "0001019155-11-000621"
+      ],
+      "filingDate": [
+        "2025-07-09",
+        "2023-03-17",
+        "2011-12-01"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-09T16:15:58.000Z",
+        "2023-03-17T17:29:12.000Z",
+        "2011-12-01T19:33:12.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288581",
+        "333-270641",
+        "333-178257"
+      ],
+      "filmNumber": [
+        "251112777",
+        "23741773",
+        "111236851"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        144060,
+        139625,
+        79482
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e664681_f6ef-kg.htm",
+        "e618375_f6ef-kg.htm",
+        "kongf6.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "cik": "0001437153",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Colruyt SA",
+  "tickers": [
+    "CUYTY",
+    "CUYTF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3010",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Groep Colruyt",
+      "from": "2008-10-14T04:00:00.000Z",
+      "to": "2008-10-14T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-23-112473",
+        "0001193805-23-001417",
+        "0001019155-23-000203",
+        "0001193805-17-000817",
+        "0001193805-15-000885",
+        "0001201935-10-000052",
+        "0001019155-08-001008",
+        "0001019155-08-000400"
+      ],
+      "filingDate": [
+        "2023-10-30",
+        "2023-10-17",
+        "2023-10-17",
+        "2017-05-12",
+        "2015-06-09",
+        "2010-10-20",
+        "2008-12-05",
+        "2008-10-14"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-10-30T16:01:52.000Z",
+        "2023-10-17T20:45:16.000Z",
+        "2023-10-17T15:03:45.000Z",
+        "2017-05-12T20:23:55.000Z",
+        "2015-06-09T15:37:53.000Z",
+        "2010-10-20T19:43:50.000Z",
+        "2008-12-05T15:46:14.000Z",
+        "2008-10-14T21:10:10.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "424B3",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-217945",
+        "333-204818",
+        "333-154256",
+        "333-217945",
+        "333-204818",
+        "333-154256",
+        "333-154256",
+        "333-154256"
+      ],
+      "filmNumber": [
+        "231358606",
+        "231330046",
+        "231328824",
+        "17838985",
+        "15920158",
+        "101132812",
+        "081231475",
+        "081123096"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "424B3",
+        "F-6 POS",
+        "F-6EF"
+      ],
+      "size": [
+        118607,
+        104251,
+        95047,
+        128698,
+        224901,
+        32056,
+        69898,
+        77945
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2329303d1_f6pos.htm",
+        "e619008_f6pos-colruyl.htm",
+        "colf6pos.htm",
+        "e616133_f6ef-colruyt.htm",
+        "e613758_f6ef-colruyt.htm",
+        "memo424b3colruytsa.txt",
+        "colruytpea.htm",
+        "groepcolruytunsponsoredformf.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "",
+        "F-6 POS",
+        "",
+        "",
+        "",
+        "POST EFFECTIVE AMEND NO. 1",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

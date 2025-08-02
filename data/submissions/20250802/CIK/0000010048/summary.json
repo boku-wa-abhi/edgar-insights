@@ -1,0 +1,26 @@
+{
+  "cik": "0000010048",
+  "name": "BARNWELL INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "BRN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "720496921",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "808-531-8400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 971,
+  "download_timestamp": "2025-08-02 06:56:17 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0000738214",
+  "name": "AEMETIS, INC",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "261407544",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "408-517-3304",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AE Biofuels, Inc.",
+      "from": "2011-07-15T04:00:00.000Z",
+      "to": "2011-11-16T05:00:00.000Z"
+    },
+    {
+      "name": "AE BIOFUELS, INC.",
+      "from": "2011-07-15T04:00:00.000Z",
+      "to": "2011-11-16T05:00:00.000Z"
+    },
+    {
+      "name": "MARWICH II LTD",
+      "from": "2004-12-03T05:00:00.000Z",
+      "to": "2007-12-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 819,
+  "download_timestamp": "2025-08-02 06:59:40 UTC"
+}

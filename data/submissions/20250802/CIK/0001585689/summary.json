@@ -1,0 +1,26 @@
+{
+  "cik": "0001585689",
+  "name": "Hilton Worldwide Holdings Inc.",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HLT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "274384691",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-883-1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:17:51 UTC"
+}

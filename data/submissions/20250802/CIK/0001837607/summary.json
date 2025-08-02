@@ -1,0 +1,32 @@
+{
+  "cik": "0001837607",
+  "name": "AEON Biopharma, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEON"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "853940478",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(949) 354-6499",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Priveterra Acquisition Corp.",
+      "from": "2020-12-23T05:00:00.000Z",
+      "to": "2023-07-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 294,
+  "download_timestamp": "2025-08-02 07:26:24 UTC"
+}

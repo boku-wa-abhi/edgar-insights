@@ -1,0 +1,47 @@
+{
+  "cik": "0000829323",
+  "name": "Inuvo, Inc.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INUV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "870450450",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "501-205-8508",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KOWABUNGA! INC.",
+      "from": "2008-07-03T04:00:00.000Z",
+      "to": "2009-08-06T04:00:00.000Z"
+    },
+    {
+      "name": "THINK PARTNERSHIP INC",
+      "from": "2006-03-15T05:00:00.000Z",
+      "to": "2008-09-23T04:00:00.000Z"
+    },
+    {
+      "name": "CGI HOLDING CORP",
+      "from": "1998-05-13T04:00:00.000Z",
+      "to": "2006-02-22T05:00:00.000Z"
+    },
+    {
+      "name": "GEMSTAR ENTERPRISES INC",
+      "from": "1996-11-19T05:00:00.000Z",
+      "to": "1998-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:06 UTC"
+}

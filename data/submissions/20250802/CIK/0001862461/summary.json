@@ -1,0 +1,26 @@
+{
+  "cik": "0001862461",
+  "name": "Real Brokerage Inc",
+  "entityType": "other",
+  "sic": "6531",
+  "sicDescription": "Real Estate Agents & Managers (For Others)",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REAX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "646-469-7107",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 327,
+  "download_timestamp": "2025-08-02 07:27:50 UTC"
+}

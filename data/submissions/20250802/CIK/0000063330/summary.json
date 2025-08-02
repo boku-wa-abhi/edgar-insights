@@ -1,0 +1,26 @@
+{
+  "cik": "0000063330",
+  "name": "MAUI LAND & PINEAPPLE CO INC",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "HI",
+  "stateOfIncorporationDescription": "HI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MLP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "990107542",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "808-500-8376",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 06:57:22 UTC"
+}

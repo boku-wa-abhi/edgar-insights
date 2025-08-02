@@ -1,0 +1,38 @@
+{
+  "cik": "0001875493",
+  "name": "CSLM ACQUISITION CORP.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CSLMF",
+    "CSLRF",
+    "CSLUF",
+    "CSLWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(345) 949-0100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Consilium Acquisition Corp I, Ltd.",
+      "from": "2021-08-16T04:00:00.000Z",
+      "to": "2023-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 123,
+  "download_timestamp": "2025-08-02 07:28:25 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001775194",
+  "name": "UPEXI, INC.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "UPXI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "833378978",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "701-353-5425",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GROVE, INC.",
+      "from": "2019-04-30T04:00:00.000Z",
+      "to": "2022-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 268,
+  "download_timestamp": "2025-08-02 07:23:36 UTC"
+}

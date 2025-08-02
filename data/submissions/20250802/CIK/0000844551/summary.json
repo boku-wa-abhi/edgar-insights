@@ -1,0 +1,39 @@
+{
+  "cik": "0000844551",
+  "name": "WOODSIDE ENERGY GROUP LTD",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WDS",
+    "WOPEF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(618) 9348 5036",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WOODSIDE PETROLEUM LTD",
+      "from": "2002-10-22T04:00:00.000Z",
+      "to": "2022-05-17T04:00:00.000Z"
+    },
+    {
+      "name": "WOODSIDE PETROLEUM LTD                                  /FI",
+      "from": "2002-02-26T05:00:00.000Z",
+      "to": "2002-10-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 653,
+  "download_timestamp": "2025-08-02 07:01:22 UTC"
+}

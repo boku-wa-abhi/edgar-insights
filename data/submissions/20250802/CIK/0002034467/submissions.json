@@ -1,0 +1,100 @@
+{
+  "cik": "0002034467",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "PT Barito Renewables Energy Tbk/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "K8",
+  "stateOfIncorporationDescription": "Indonesia",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10013",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "WISMA BARITO PACIFIC II, 23RD FLOOR",
+      "street2": "JL. LET. JEND. S. PARMAN KAV. 60",
+      "city": "JAKARTA",
+      "stateOrCountry": "K8",
+      "zipCode": "11410",
+      "stateOrCountryDescription": "Indonesia",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-24-001054"
+      ],
+      "filingDate": [
+        "2024-08-20"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-08-20T19:36:28.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-281659"
+      ],
+      "filmNumber": [
+        "241224861"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "size": [
+        140973
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "e663848_f6ef-bre.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

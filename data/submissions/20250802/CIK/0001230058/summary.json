@@ -1,0 +1,26 @@
+{
+  "cik": "0001230058",
+  "name": "KAANAPALI LAND LLC",
+  "entityType": "operating",
+  "sic": "6552",
+  "sicDescription": "Land Subdividers & Developers (No Cemeteries)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KANP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "010731997",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "312-915-1987",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 149,
+  "download_timestamp": "2025-08-02 07:09:04 UTC"
+}

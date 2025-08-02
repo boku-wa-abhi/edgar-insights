@@ -1,0 +1,26 @@
+{
+  "cik": "0001751783",
+  "name": "Rhinebeck Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RBKB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "845-454-8555",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 236,
+  "download_timestamp": "2025-08-02 07:22:51 UTC"
+}

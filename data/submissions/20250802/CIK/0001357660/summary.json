@@ -1,0 +1,26 @@
+{
+  "cik": "0001357660",
+  "name": "STRATS(SM) Trust for Allstate Corp Securities, Series 2006-3",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GJT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7047152337",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 266,
+  "download_timestamp": "2025-08-02 07:11:13 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002004024",
+  "name": "Lianhe Sowell International Group Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "LHSW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "86 4006169629",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:31:43 UTC"
+}

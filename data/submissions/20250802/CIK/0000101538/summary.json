@@ -1,0 +1,26 @@
+{
+  "cik": "0000101538",
+  "name": "UNITED STATES ANTIMONY CORP",
+  "entityType": "operating",
+  "sic": "3330",
+  "sicDescription": "Primary Smelting & Refining of  Nonferrous Metals",
+  "stateOfIncorporation": "MT",
+  "stateOfIncorporationDescription": "MT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UAMY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "810305822",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4068273523",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 561,
+  "download_timestamp": "2025-08-02 06:58:15 UTC"
+}

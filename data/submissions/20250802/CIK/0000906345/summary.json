@@ -1,0 +1,26 @@
+{
+  "cik": "0000906345",
+  "name": "CAMDEN PROPERTY TRUST",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "766088377",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7133542500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:04 UTC"
+}

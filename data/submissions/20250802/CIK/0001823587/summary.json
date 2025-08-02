@@ -1,0 +1,34 @@
+{
+  "cik": "0001823587",
+  "name": "Sky Harbour Group Corp",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SKYH",
+    "SKYH-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "852732947",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(402) 225-6511",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Yellowstone Acquisition Co",
+      "from": "2020-09-10T04:00:00.000Z",
+      "to": "2022-01-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 326,
+  "download_timestamp": "2025-08-02 07:25:36 UTC"
+}

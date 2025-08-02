@@ -1,0 +1,26 @@
+{
+  "cik": "0001487798",
+  "name": "ECA Marcellus Trust I",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECTM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "276522024",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "512-236-6555",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 188,
+  "download_timestamp": "2025-08-02 07:14:40 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001028357",
+  "name": "BITTERROOT RESOURCES LTD",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "BITTF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604.922.1351",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 18,
+  "download_timestamp": "2025-08-02 07:05:05 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001413329",
+  "name": "Philip Morris International Inc.",
+  "entityType": "operating",
+  "sic": "2111",
+  "sicDescription": "Cigarettes",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133435103",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "203-905-2410",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:12:39 UTC"
+}

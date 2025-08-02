@@ -1,0 +1,26 @@
+{
+  "cik": "0001122993",
+  "name": "BROOKMOUNT EXPLORATIONS INC",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "BMXI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980382063",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604.643.1745",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 124,
+  "download_timestamp": "2025-08-02 07:07:29 UTC"
+}

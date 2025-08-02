@@ -1,0 +1,32 @@
+{
+  "cik": "0001895249",
+  "name": "ConnectM Technology Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNTM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-395-1333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Monterey Capital Acquisition Corp",
+      "from": "2022-01-20T05:00:00.000Z",
+      "to": "2024-07-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 201,
+  "download_timestamp": "2025-08-02 07:28:59 UTC"
+}

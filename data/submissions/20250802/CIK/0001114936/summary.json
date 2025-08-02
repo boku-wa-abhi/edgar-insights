@@ -1,0 +1,32 @@
+{
+  "cik": "0001114936",
+  "name": "UMeWorld Ltd",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "UMEWF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980177440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(852) 8191 5550",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALPHARX INC",
+      "from": "2000-07-18T00:00:00.000Z",
+      "to": "2013-04-15T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 287,
+  "download_timestamp": "2025-08-02 07:07:20 UTC"
+}

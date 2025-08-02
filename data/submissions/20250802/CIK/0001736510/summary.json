@@ -1,0 +1,26 @@
+{
+  "cik": "0001736510",
+  "name": "Variant Alternative Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "NICHX"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4142992200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 165,
+  "download_timestamp": "2025-08-02 07:22:23 UTC"
+}

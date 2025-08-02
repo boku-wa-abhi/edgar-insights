@@ -1,0 +1,32 @@
+{
+  "cik": "0002052959",
+  "name": "Lionsgate Studios Corp.",
+  "entityType": "operating",
+  "sic": "7812",
+  "sicDescription": "Services-Motion Picture & Video Tape Production",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "LION"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "310-255-4948",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lionsgate Studios Holding Corp.",
+      "from": "2025-01-27T05:00:00.000Z",
+      "to": "2025-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 83,
+  "download_timestamp": "2025-08-02 07:33:19 UTC"
+}

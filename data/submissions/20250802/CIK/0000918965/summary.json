@@ -1,0 +1,32 @@
+{
+  "cik": "0000918965",
+  "name": "SCANSOURCE, INC.",
+  "entityType": "operating",
+  "sic": "5045",
+  "sicDescription": "Wholesale-Computers & Peripheral Equipment & Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SCSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "570965380",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "800.944.2432",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SCANSOURCE INC",
+      "from": "1996-09-24T04:00:00.000Z",
+      "to": "2016-12-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:03:34 UTC"
+}

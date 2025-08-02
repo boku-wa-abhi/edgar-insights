@@ -1,0 +1,32 @@
+{
+  "cik": "0001372612",
+  "name": "BOX INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "BOX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "202714444",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "877-729-4269",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BOX.NET INC",
+      "from": "2006-08-10T04:00:00.000Z",
+      "to": "2011-10-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1015,
+  "download_timestamp": "2025-08-02 07:11:33 UTC"
+}

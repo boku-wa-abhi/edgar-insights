@@ -1,0 +1,34 @@
+{
+  "cik": "0001899287",
+  "name": "Amprius Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMPX",
+    "AMPX-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "981591811",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(800) 425-8803",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kensington Capital Acquisition Corp. IV",
+      "from": "2021-12-15T05:00:00.000Z",
+      "to": "2022-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:29:07 UTC"
+}

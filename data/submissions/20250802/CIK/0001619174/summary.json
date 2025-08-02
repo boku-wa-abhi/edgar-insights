@@ -1,0 +1,32 @@
+{
+  "cik": "0001619174",
+  "name": "BLOCKHOLD CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BHLD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "463856798",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "502-295-7424",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Moms Online, Inc.",
+      "from": "2014-09-25T00:00:00.000Z",
+      "to": "2018-04-20T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 62,
+  "download_timestamp": "2025-08-02 07:18:52 UTC"
+}

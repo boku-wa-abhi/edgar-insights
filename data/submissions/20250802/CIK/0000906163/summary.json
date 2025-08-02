@@ -1,0 +1,26 @@
+{
+  "cik": "0000906163",
+  "name": "NVR INC",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541394360",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7039564000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:04 UTC"
+}

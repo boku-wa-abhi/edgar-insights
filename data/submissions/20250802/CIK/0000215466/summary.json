@@ -1,0 +1,32 @@
+{
+  "cik": "0000215466",
+  "name": "Coeur Mining, Inc.",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "820109423",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "312-489-5800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COEUR D ALENE MINES CORP",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2013-05-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:30 UTC"
+}

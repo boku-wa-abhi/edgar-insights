@@ -1,0 +1,37 @@
+{
+  "cik": "0001679817",
+  "name": "OZOP ENERGY SOLUTIONS, INC.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OZSC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "352540672",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(845) 544-5112",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OZOP SURGICAL CORP.",
+      "from": "2018-05-21T04:00:00.000Z",
+      "to": "2020-11-13T05:00:00.000Z"
+    },
+    {
+      "name": "Newmarkt Corp.",
+      "from": "2016-08-01T04:00:00.000Z",
+      "to": "2018-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 227,
+  "download_timestamp": "2025-08-02 07:20:31 UTC"
+}

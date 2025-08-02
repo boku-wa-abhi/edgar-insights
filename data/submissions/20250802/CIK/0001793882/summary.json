@@ -1,0 +1,26 @@
+{
+  "cik": "0001793882",
+  "name": "Cohen & Steers Tax-Advantaged Preferred Securities & Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "PTA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-832-3232",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 122,
+  "download_timestamp": "2025-08-02 07:24:17 UTC"
+}

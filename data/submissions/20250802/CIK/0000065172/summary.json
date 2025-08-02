@@ -1,0 +1,26 @@
+{
+  "cik": "0000065172",
+  "name": "MESABI TRUST",
+  "entityType": "operating",
+  "sic": "6795",
+  "sicDescription": "Mineral Royalty Traders",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "MSB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "136022277",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "904-271-2520",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 348,
+  "download_timestamp": "2025-08-02 06:57:25 UTC"
+}

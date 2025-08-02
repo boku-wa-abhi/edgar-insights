@@ -1,0 +1,32 @@
+{
+  "cik": "0000100591",
+  "name": "ARGAN INC",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "AGX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "131947195",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "301 315-0027",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PUROFLOW INC",
+      "from": "1995-09-19T04:00:00.000Z",
+      "to": "2003-10-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:12 UTC"
+}

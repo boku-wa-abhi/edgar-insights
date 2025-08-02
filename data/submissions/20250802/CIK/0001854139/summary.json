@@ -1,0 +1,26 @@
+{
+  "cik": "0001854139",
+  "name": "Zevia PBC",
+  "entityType": "operating",
+  "sic": "2086",
+  "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZVIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "862862492",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "203-331-7639",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 303,
+  "download_timestamp": "2025-08-02 07:27:23 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001286973",
+  "name": "Americas Gold & Silver Corp",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "USAS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "604-678-9639",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Americas Silver Corp",
+      "from": "2015-09-10T04:00:00.000Z",
+      "to": "2020-01-15T05:00:00.000Z"
+    },
+    {
+      "name": "SCORPIO MINING CORP",
+      "from": "2004-04-13T04:00:00.000Z",
+      "to": "2010-04-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 301,
+  "download_timestamp": "2025-08-02 07:09:45 UTC"
+}

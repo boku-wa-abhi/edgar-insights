@@ -1,0 +1,28 @@
+{
+  "cik": "0000353991",
+  "name": "NITTO DENKO CORP / ADR/",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NDEKY",
+    "NDEKF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2122502500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 20,
+  "download_timestamp": "2025-08-02 06:58:54 UTC"
+}

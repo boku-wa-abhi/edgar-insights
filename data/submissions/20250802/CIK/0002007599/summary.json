@@ -1,0 +1,26 @@
+{
+  "cik": "0002007599",
+  "name": "Robot Consulting Co., Ltd.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "LAWR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "81 3-6280-547",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 20,
+  "download_timestamp": "2025-08-02 07:31:48 UTC"
+}

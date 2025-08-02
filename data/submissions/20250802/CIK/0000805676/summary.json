@@ -1,0 +1,26 @@
+{
+  "cik": "0000805676",
+  "name": "PARK NATIONAL CORP /OH/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311179518",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6143498451",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:37 UTC"
+}

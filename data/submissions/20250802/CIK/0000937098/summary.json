@@ -1,0 +1,37 @@
+{
+  "cik": "0000937098",
+  "name": "TRINET GROUP, INC.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TNET"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953359658",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5103525000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TRINET GROUP INC",
+      "from": "2000-09-22T04:00:00.000Z",
+      "to": "2019-08-19T04:00:00.000Z"
+    },
+    {
+      "name": "TRINET EMPLOYER GROUP INC",
+      "from": "2000-03-02T05:00:00.000Z",
+      "to": "2000-03-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:04 UTC"
+}

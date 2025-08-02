@@ -1,0 +1,32 @@
+{
+  "cik": "0001870600",
+  "name": "Solo Brands, Inc.",
+  "entityType": "operating",
+  "sic": "3949",
+  "sicDescription": "Sporting & Athletic Goods, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTC",
+    "DTCB",
+    "DTCBD",
+    "SBDS"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "NYSE"
+  ],
+  "ein": "871360865",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(817) 900-2664",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 255,
+  "download_timestamp": "2025-08-02 07:28:12 UTC"
+}

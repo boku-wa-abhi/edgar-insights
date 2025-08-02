@@ -1,0 +1,30 @@
+{
+  "cik": "0001913577",
+  "name": "Denali Capital Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DNQAF",
+    "DNQUF",
+    "DNQWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "6469785180",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 154,
+  "download_timestamp": "2025-08-02 07:29:24 UTC"
+}

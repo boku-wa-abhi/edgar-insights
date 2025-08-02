@@ -1,0 +1,26 @@
+{
+  "cik": "0000080420",
+  "name": "POWELL INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3613",
+  "sicDescription": "Switchgear & Switchboard Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "POWL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "880106100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7139446900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:49 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001949257",
+  "name": "Radiopharm Theranostics Ltd",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RADX",
+    "RDPTF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "61 3 9824 5254",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 71,
+  "download_timestamp": "2025-08-02 07:30:09 UTC"
+}

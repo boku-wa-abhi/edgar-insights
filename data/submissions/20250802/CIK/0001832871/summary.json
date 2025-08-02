@@ -1,0 +1,32 @@
+{
+  "cik": "0001832871",
+  "name": "BlackRock 2037 Municipal Target Term Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BMN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800 882 0052",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BlackRock 2040 Municipal Target Term Trust",
+      "from": "2020-11-19T05:00:00.000Z",
+      "to": "2020-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 83,
+  "download_timestamp": "2025-08-02 07:26:07 UTC"
+}

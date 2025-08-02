@@ -1,0 +1,26 @@
+{
+  "cik": "0001836934",
+  "name": "Zenvia Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZENV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "55 11 4837-7440",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:26:21 UTC"
+}

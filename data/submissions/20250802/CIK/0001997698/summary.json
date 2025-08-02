@@ -1,0 +1,26 @@
+{
+  "cik": "0001997698",
+  "name": "IGTA Merger Sub Ltd",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PRGY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(315) 636-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 20,
+  "download_timestamp": "2025-08-02 07:31:32 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001411579",
+  "name": "AMC ENTERTAINMENT HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "7830",
+  "sicDescription": "Services-Motion Picture Theaters",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "260303916",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "913-213-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:36 UTC"
+}

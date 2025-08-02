@@ -1,0 +1,26 @@
+{
+  "cik": "0001472879",
+  "name": "WHITECAP RESOURCES INC.",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPGYF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "833600422",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(403) 266-0767",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:14:14 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002002453",
+  "name": "STAK Inc.",
+  "entityType": "other",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "STAK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "86 519 8880 2609",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 29,
+  "download_timestamp": "2025-08-02 07:31:42 UTC"
+}

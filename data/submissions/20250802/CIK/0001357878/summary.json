@@ -1,0 +1,47 @@
+{
+  "cik": "0001357878",
+  "name": "REGENEREX PHARMA, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "RGPX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980479983",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "305-927-5191",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PEPTIDE TECHNOLOGIES, INC.",
+      "from": "2011-10-13T04:00:00.000Z",
+      "to": "2021-12-22T05:00:00.000Z"
+    },
+    {
+      "name": "Eternelle Skincare Products Inc.",
+      "from": "2017-06-23T04:00:00.000Z",
+      "to": "2018-02-08T05:00:00.000Z"
+    },
+    {
+      "name": "CREENERGY Corp",
+      "from": "2010-06-29T04:00:00.000Z",
+      "to": "2011-10-06T04:00:00.000Z"
+    },
+    {
+      "name": "ONLINE ORIGINALS, INC",
+      "from": "2006-04-18T04:00:00.000Z",
+      "to": "2010-07-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 154,
+  "download_timestamp": "2025-08-02 07:11:14 UTC"
+}

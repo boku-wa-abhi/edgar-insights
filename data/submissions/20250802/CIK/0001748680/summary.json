@@ -1,0 +1,26 @@
+{
+  "cik": "0001748680",
+  "name": "1WS Credit Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "OWSCX"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-377-4810",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 141,
+  "download_timestamp": "2025-08-02 07:22:45 UTC"
+}

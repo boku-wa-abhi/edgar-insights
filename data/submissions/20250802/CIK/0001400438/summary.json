@@ -1,0 +1,32 @@
+{
+  "cik": "0001400438",
+  "name": "Largo Inc.",
+  "entityType": "other",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "LGO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "4168619797",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Largo Resources Ltd.",
+      "from": "2007-05-14T04:00:00.000Z",
+      "to": "2021-11-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:12:18 UTC"
+}

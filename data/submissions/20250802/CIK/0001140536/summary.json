@@ -1,0 +1,37 @@
+{
+  "cik": "0001140536",
+  "name": "WILLIS TOWERS WATSON PLC",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WTW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44-20-3124-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WILLIS GROUP HOLDINGS PLC",
+      "from": "2010-01-19T05:00:00.000Z",
+      "to": "2016-01-05T05:00:00.000Z"
+    },
+    {
+      "name": "WILLIS GROUP HOLDINGS LTD",
+      "from": "2001-07-31T04:00:00.000Z",
+      "to": "2010-01-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:07:57 UTC"
+}

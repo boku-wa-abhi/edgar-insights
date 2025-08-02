@@ -1,0 +1,170 @@
+{
+  "cik": "0001905688",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "AERO ENERGY Ltd",
+  "tickers": [
+    "AAUGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0430",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "1030 WEST GEORGIA STREET. SUITE 918",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2Y3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1030 WEST GEORGIA STREET. SUITE 918",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2Y3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "604-288-8005",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Angold Resources Ltd.",
+      "from": "2022-01-20T00:00:00.000Z",
+      "to": "2024-01-16T00:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001062993-24-007804",
+        "0001062993-24-000884",
+        "0001062993-23-006778",
+        "0001062993-22-011582",
+        "0001062993-22-001269"
+      ],
+      "filingDate": [
+        "2024-04-03",
+        "2024-01-16",
+        "2023-03-14",
+        "2022-05-05",
+        "2022-01-20"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-04-02T18:15:25.000Z",
+        "2024-01-16T12:29:15.000Z",
+        "2023-03-13T18:28:28.000Z",
+        "2022-05-04T18:59:41.000Z",
+        "2022-01-20T12:18:47.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-509433",
+        "021-502486",
+        "021-475723",
+        "021-444495",
+        "021-430091"
+      ],
+      "filmNumber": [
+        "24816099",
+        "24534391",
+        "23728629",
+        "22893312",
+        "22541494"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        8770,
+        8367,
+        8605,
+        9772,
+        10923
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

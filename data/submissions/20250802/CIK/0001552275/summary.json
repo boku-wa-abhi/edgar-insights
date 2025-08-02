@@ -1,0 +1,32 @@
+{
+  "cik": "0001552275",
+  "name": "Sunoco LP",
+  "entityType": "operating",
+  "sic": "2911",
+  "sicDescription": "Petroleum Refining",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SUN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "300740483",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(832) 234-3600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Susser Petroleum Partners LP",
+      "from": "2012-06-22T04:00:00.000Z",
+      "to": "2014-10-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 769,
+  "download_timestamp": "2025-08-02 07:16:48 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001479094",
+  "name": "STAG Industrial, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STAG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "273099608",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(617)574-4777",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:14:27 UTC"
+}

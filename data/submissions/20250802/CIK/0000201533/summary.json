@@ -1,0 +1,32 @@
+{
+  "cik": "0000201533",
+  "name": "CONSUMERS ENERGY CO",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMS-PB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "380442310",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5177880550",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CONSUMERS POWER CO",
+      "from": "1994-02-15T05:00:00.000Z",
+      "to": "1997-01-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 988,
+  "download_timestamp": "2025-08-02 06:58:28 UTC"
+}

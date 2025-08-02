@@ -1,0 +1,34 @@
+{
+  "cik": "0000109380",
+  "name": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZION",
+    "ZIONP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "870227400",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8018447637",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZIONS BANCORPORATION /UT/",
+      "from": "1994-03-29T05:00:00.000Z",
+      "to": "2018-09-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1017,
+  "download_timestamp": "2025-08-02 06:58:26 UTC"
+}

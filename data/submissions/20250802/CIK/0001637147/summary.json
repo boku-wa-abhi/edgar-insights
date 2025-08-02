@@ -1,0 +1,26 @@
+{
+  "cik": "0001637147",
+  "name": "zSpace, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZSPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "352284050",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(408)498-4050",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 122,
+  "download_timestamp": "2025-08-02 07:19:21 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001789832",
+  "name": "Hess Midstream LP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HESM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2125368039",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 369,
+  "download_timestamp": "2025-08-02 07:24:09 UTC"
+}

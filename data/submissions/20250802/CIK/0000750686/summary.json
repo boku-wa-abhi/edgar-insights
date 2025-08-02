@@ -1,0 +1,26 @@
+{
+  "cik": "0000750686",
+  "name": "CAMDEN NATIONAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "ME",
+  "stateOfIncorporationDescription": "ME",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "010413282",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2072368821",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:50 UTC"
+}

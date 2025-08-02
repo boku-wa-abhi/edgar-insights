@@ -1,0 +1,26 @@
+{
+  "cik": "0000786298",
+  "name": "FORESIGHT FINANCIAL GROUP INC",
+  "entityType": "other",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FGFH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "363371610",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8152352500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:00:12 UTC"
+}

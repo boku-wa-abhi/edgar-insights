@@ -1,0 +1,37 @@
+{
+  "cik": "0001692819",
+  "name": "Vistra Corp.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VST"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364833255",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-812-4600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Vistra Energy Corp.",
+      "from": "2017-12-27T05:00:00.000Z",
+      "to": "2020-06-29T04:00:00.000Z"
+    },
+    {
+      "name": "Vistra Energy Corp",
+      "from": "2016-05-04T04:00:00.000Z",
+      "to": "2018-01-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 846,
+  "download_timestamp": "2025-08-02 07:20:57 UTC"
+}

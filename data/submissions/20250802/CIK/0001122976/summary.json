@@ -1,0 +1,32 @@
+{
+  "cik": "0001122976",
+  "name": "AVIENT CORP",
+  "entityType": "operating",
+  "sic": "2821",
+  "sicDescription": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVNT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "341730488",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "440-930-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "POLYONE CORP",
+      "from": "2000-09-06T04:00:00.000Z",
+      "to": "2020-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:29 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0002003977",
+  "name": "Cre8 Enterprise Ltd",
+  "entityType": "other",
+  "sic": "2750",
+  "sicDescription": "Commercial Printing",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CRE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "00852 3693 2688",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cre8 Enterpise Ltd",
+      "from": "2023-12-22T05:00:00.000Z",
+      "to": "2024-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:31:43 UTC"
+}

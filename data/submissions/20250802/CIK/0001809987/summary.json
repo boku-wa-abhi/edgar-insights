@@ -1,0 +1,32 @@
+{
+  "cik": "0001809987",
+  "name": "Mirion Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MIR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "830974996",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(770) 432-2744",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GS Acquisition Holdings Corp II",
+      "from": "2020-04-20T04:00:00.000Z",
+      "to": "2021-10-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 449,
+  "download_timestamp": "2025-08-02 07:24:54 UTC"
+}

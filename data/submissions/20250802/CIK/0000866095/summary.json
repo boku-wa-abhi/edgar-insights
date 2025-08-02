@@ -1,0 +1,37 @@
+{
+  "cik": "0000866095",
+  "name": "ABRDN JAPAN EQUITY FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "JEQ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223060893",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "215-405-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ABERDEEN JAPAN EQUITY FUND, INC.",
+      "from": "2014-05-01T04:00:00.000Z",
+      "to": "2022-06-06T04:00:00.000Z"
+    },
+    {
+      "name": "JAPAN EQUITY FUND INC",
+      "from": "1994-06-29T04:00:00.000Z",
+      "to": "2014-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 482,
+  "download_timestamp": "2025-08-02 07:01:48 UTC"
+}

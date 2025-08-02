@@ -1,0 +1,32 @@
+{
+  "cik": "0000929351",
+  "name": "STARZ ENTERTAINMENT CORP /CN/",
+  "entityType": "operating",
+  "sic": "7812",
+  "sicDescription": "Services-Motion Picture & Video Tape Production",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "STRZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "877-848-3866",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LIONS GATE ENTERTAINMENT CORP /CN/",
+      "from": "1999-03-10T05:00:00.000Z",
+      "to": "2025-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:53 UTC"
+}

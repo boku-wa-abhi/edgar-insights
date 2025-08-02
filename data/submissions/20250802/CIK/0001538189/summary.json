@@ -1,0 +1,33 @@
+{
+  "cik": "0001538189",
+  "name": "Sonoro Gold Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-632-1764",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sonoro Metals Corp.",
+      "from": "2014-12-02T05:00:00.000Z",
+      "to": "2020-08-27T04:00:00.000Z"
+    },
+    {
+      "name": "Becker Gold Mines Ltd.",
+      "from": "2011-12-29T05:00:00.000Z",
+      "to": "2011-12-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 13,
+  "download_timestamp": "2025-08-02 07:16:26 UTC"
+}

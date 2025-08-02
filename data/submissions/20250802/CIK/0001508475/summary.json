@@ -1,0 +1,37 @@
+{
+  "cik": "0001508475",
+  "name": "VNET Group, Inc.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "VNET"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(86 10) 8456-2121",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "21Vianet Group, Inc.",
+      "from": "2011-04-06T04:00:00.000Z",
+      "to": "2021-10-08T04:00:00.000Z"
+    },
+    {
+      "name": "21 Vianet Group, Inc.",
+      "from": "2011-04-04T04:00:00.000Z",
+      "to": "2011-04-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 383,
+  "download_timestamp": "2025-08-02 07:15:24 UTC"
+}

@@ -1,0 +1,51 @@
+{
+  "cik": "0000072971",
+  "name": "WELLS FARGO & COMPANY/MN",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WFC",
+    "WFC-PY",
+    "WFC-PL",
+    "WFC-PC",
+    "WFCNP",
+    "WFC-PA",
+    "WFC-PD",
+    "WFC-PZ"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "410449260",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8008693557",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WELLS FARGO & CO/MN",
+      "from": "1998-11-30T05:00:00.000Z",
+      "to": "2012-04-10T04:00:00.000Z"
+    },
+    {
+      "name": "NORWEST CORP",
+      "from": "1994-09-12T04:00:00.000Z",
+      "to": "1998-10-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:38 UTC"
+}

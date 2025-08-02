@@ -1,0 +1,26 @@
+{
+  "cik": "0001795586",
+  "name": "Chime Financial, Inc.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHYM"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "460925388",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "844-244-6363",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:24:21 UTC"
+}

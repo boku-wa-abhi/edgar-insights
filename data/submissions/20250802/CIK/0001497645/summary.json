@@ -1,0 +1,30 @@
+{
+  "cik": "0001497645",
+  "name": "Summit Hotel Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INN",
+    "INN-PE",
+    "INN-PF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "272962512",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "512-538-2300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 797,
+  "download_timestamp": "2025-08-02 07:15:01 UTC"
+}

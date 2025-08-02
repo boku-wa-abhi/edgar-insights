@@ -1,0 +1,32 @@
+{
+  "cik": "0000069633",
+  "name": "NAPCO SECURITY TECHNOLOGIES, INC",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NSSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "112277818",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "631-842-9400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NAPCO SECURITY SYSTEMS INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2009-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 729,
+  "download_timestamp": "2025-08-02 06:57:32 UTC"
+}

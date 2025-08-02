@@ -1,0 +1,32 @@
+{
+  "cik": "0001318025",
+  "name": "PIMCO Global StocksPLUS & Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PGP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "202726382",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 739-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIMCO Global StocksPLUS Income Fund",
+      "from": "2005-03-24T05:00:00.000Z",
+      "to": "2005-03-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 417,
+  "download_timestamp": "2025-08-02 07:10:19 UTC"
+}

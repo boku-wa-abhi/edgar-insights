@@ -1,0 +1,26 @@
+{
+  "cik": "0001800667",
+  "name": "JFrog Ltd",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FROG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 329-1540",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 671,
+  "download_timestamp": "2025-08-02 07:24:32 UTC"
+}

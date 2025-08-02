@@ -1,0 +1,32 @@
+{
+  "cik": "0000068505",
+  "name": "Motorola Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "361115800",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8475765000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MOTOROLA INC",
+      "from": "1994-08-10T04:00:00.000Z",
+      "to": "2011-01-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:31 UTC"
+}

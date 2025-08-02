@@ -1,0 +1,26 @@
+{
+  "cik": "0001468174",
+  "name": "Hyatt Hotels Corp",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "H"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201480589",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(312) 750-1234",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:14:05 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001768267",
+  "name": "Cerence Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "CRNC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "834719946",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-580-0843",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cerence LLC",
+      "from": "2019-05-21T04:00:00.000Z",
+      "to": "2019-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 423,
+  "download_timestamp": "2025-08-02 07:23:24 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001855781",
+  "name": "Invesco Galaxy Bitcoin ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BTCO"
+  ],
+  "exchanges": [
+    "CBOE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "212-390-9216",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Galaxy Bitcoin ETF",
+      "from": "2021-04-12T04:00:00.000Z",
+      "to": "2021-04-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:27:34 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000003453",
+  "name": "Matson, Inc.",
+  "entityType": "operating",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "HI",
+  "stateOfIncorporationDescription": "HI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MATX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "990032630",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "808-848-1211",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALEXANDER & BALDWIN INC",
+      "from": "1994-11-15T05:00:00.000Z",
+      "to": "2012-06-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:56:04 UTC"
+}

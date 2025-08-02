@@ -1,0 +1,37 @@
+{
+  "cik": "0001528129",
+  "name": "Vital Energy, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTLE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "453007926",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "918-513-4570",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Laredo Petroleum, Inc.",
+      "from": "2014-01-06T05:00:00.000Z",
+      "to": "2023-01-04T05:00:00.000Z"
+    },
+    {
+      "name": "Laredo Petroleum Holdings, Inc.",
+      "from": "2011-08-24T04:00:00.000Z",
+      "to": "2013-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:16:04 UTC"
+}

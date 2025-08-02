@@ -1,0 +1,47 @@
+{
+  "cik": "0001074828",
+  "name": "KNOW LABS, INC.",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "KNW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "900273142",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "206-903-1351",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VISUALANT INC",
+      "from": "2007-02-07T05:00:00.000Z",
+      "to": "2018-05-09T04:00:00.000Z"
+    },
+    {
+      "name": "Visualant, INC",
+      "from": "2005-01-07T05:00:00.000Z",
+      "to": "2007-02-14T05:00:00.000Z"
+    },
+    {
+      "name": "STARBERRYS CORP",
+      "from": "2002-12-31T05:00:00.000Z",
+      "to": "2004-09-24T04:00:00.000Z"
+    },
+    {
+      "name": "CIGAR KING CORP",
+      "from": "1999-03-11T05:00:00.000Z",
+      "to": "2002-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:22 UTC"
+}

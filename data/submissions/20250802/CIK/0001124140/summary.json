@@ -1,0 +1,32 @@
+{
+  "cik": "0001124140",
+  "name": "EXACT SCIENCES CORP",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXAS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "204782291",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "608-284-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EXACT CORP",
+      "from": "2000-12-07T05:00:00.000Z",
+      "to": "2001-01-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:32 UTC"
+}

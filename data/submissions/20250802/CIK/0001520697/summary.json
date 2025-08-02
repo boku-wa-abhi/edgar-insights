@@ -1,0 +1,26 @@
+{
+  "cik": "0001520697",
+  "name": "Acadia Healthcare Company, Inc.",
+  "entityType": "operating",
+  "sic": "8093",
+  "sicDescription": "Services-Specialty Outpatient Facilities, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-861-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:15:52 UTC"
+}

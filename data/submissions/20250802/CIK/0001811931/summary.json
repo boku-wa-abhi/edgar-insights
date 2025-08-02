@@ -1,0 +1,38 @@
+{
+  "cik": "0001811931",
+  "name": "Apollo Silver Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-428-6128",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Apollo Gold & Silver Corp",
+      "from": "2021-07-22T04:00:00.000Z",
+      "to": "2021-07-22T04:00:00.000Z"
+    },
+    {
+      "name": "Apollo Gold Corp.",
+      "from": "2020-06-09T04:00:00.000Z",
+      "to": "2020-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "Inform Resources Corp.",
+      "from": "2020-05-13T04:00:00.000Z",
+      "to": "2020-05-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:24:58 UTC"
+}

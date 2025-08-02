@@ -1,0 +1,34 @@
+{
+  "cik": "0001981662",
+  "name": "NewGenIvf Group Ltd",
+  "entityType": "other",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NIVF",
+    "NIVFW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "852-2861-1666",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ASPAC I Mini Acquisition Corp.",
+      "from": "2023-06-16T04:00:00.000Z",
+      "to": "2024-03-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 101,
+  "download_timestamp": "2025-08-02 07:31:01 UTC"
+}

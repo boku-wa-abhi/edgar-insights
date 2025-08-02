@@ -1,0 +1,32 @@
+{
+  "cik": "0001832483",
+  "name": "Serve Robotics Inc. /DE/",
+  "entityType": "operating",
+  "sic": "3569",
+  "sicDescription": "General Industrial Machinery & Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SERV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "853844872",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "818-860-1352",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Patricia Acquisition Corp.",
+      "from": "2021-01-04T05:00:00.000Z",
+      "to": "2023-08-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 332,
+  "download_timestamp": "2025-08-02 07:26:07 UTC"
+}

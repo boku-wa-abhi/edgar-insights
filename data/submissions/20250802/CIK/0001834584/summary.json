@@ -1,0 +1,26 @@
+{
+  "cik": "0001834584",
+  "name": "Coupang, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPNG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "272810505",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "12063333839",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 341,
+  "download_timestamp": "2025-08-02 07:26:13 UTC"
+}

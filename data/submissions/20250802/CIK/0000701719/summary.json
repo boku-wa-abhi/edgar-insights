@@ -1,0 +1,37 @@
+{
+  "cik": "0000701719",
+  "name": "Envela Corp",
+  "entityType": "operating",
+  "sic": "5944",
+  "sicDescription": "Retail-Jewelry Stores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ELA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "880097334",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9725874049",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DGSE COMPANIES INC",
+      "from": "2003-07-11T04:00:00.000Z",
+      "to": "2019-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "DALLAS GOLD & SILVER EXCHANGE INC /NV/",
+      "from": "1995-08-02T04:00:00.000Z",
+      "to": "2003-07-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 788,
+  "download_timestamp": "2025-08-02 06:59:01 UTC"
+}

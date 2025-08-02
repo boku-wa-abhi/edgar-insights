@@ -1,0 +1,26 @@
+{
+  "cik": "0001577670",
+  "name": "Ladder Capital Corp",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LADR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "800925494",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-715-3170",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 665,
+  "download_timestamp": "2025-08-02 07:17:33 UTC"
+}

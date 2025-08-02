@@ -1,0 +1,32 @@
+{
+  "cik": "0001133421",
+  "name": "NORTHROP GRUMMAN CORP /DE/",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "800640649",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-280-2900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NNG INC",
+      "from": "2001-02-01T05:00:00.000Z",
+      "to": "2001-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:48 UTC"
+}

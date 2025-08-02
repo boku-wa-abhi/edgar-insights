@@ -1,0 +1,26 @@
+{
+  "cik": "0002013792",
+  "name": "EWSB Bancorp, Inc. /MD/",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EWSB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(920) 766-4646",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 49,
+  "download_timestamp": "2025-08-02 07:32:01 UTC"
+}

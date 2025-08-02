@@ -1,0 +1,32 @@
+{
+  "cik": "0000910406",
+  "name": "HAIN CELESTIAL GROUP INC",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "HAIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "223240619",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5165875000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HAIN FOOD GROUP INC",
+      "from": "1996-12-04T05:00:00.000Z",
+      "to": "2000-03-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:03:12 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001958489",
+  "name": "Cortigent, Inc.",
+  "entityType": "other",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRGT"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "818-833-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 29,
+  "download_timestamp": "2025-08-02 07:30:26 UTC"
+}

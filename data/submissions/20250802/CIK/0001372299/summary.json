@@ -1,0 +1,32 @@
+{
+  "cik": "0001372299",
+  "name": "Ocugen, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OCGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "484-328-4701",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HISTOGENICS CORP",
+      "from": "2006-08-07T04:00:00.000Z",
+      "to": "2019-09-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 822,
+  "download_timestamp": "2025-08-02 07:11:33 UTC"
+}

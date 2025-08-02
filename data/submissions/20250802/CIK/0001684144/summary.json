@@ -1,0 +1,32 @@
+{
+  "cik": "0001684144",
+  "name": "Zomedica Corp.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZOMDF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(734) 369-2555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zomedica Pharmaceuticals Corp.",
+      "from": "2016-09-08T04:00:00.000Z",
+      "to": "2020-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 442,
+  "download_timestamp": "2025-08-02 07:20:42 UTC"
+}

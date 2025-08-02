@@ -1,0 +1,32 @@
+{
+  "cik": "0001227636",
+  "name": "Neuronetics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STIM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "877-600-7555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEURONETICS INC",
+      "from": "2003-04-15T04:00:00.000Z",
+      "to": "2006-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 606,
+  "download_timestamp": "2025-08-02 07:09:02 UTC"
+}

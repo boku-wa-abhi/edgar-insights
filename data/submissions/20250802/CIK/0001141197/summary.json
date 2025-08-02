@@ -1,0 +1,42 @@
+{
+  "cik": "0001141197",
+  "name": "PEDEVCO CORP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PED"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223755993",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "855-733-3826",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLAST ENERGY SERVICES, INC.",
+      "from": "2005-06-10T04:00:00.000Z",
+      "to": "2012-08-02T04:00:00.000Z"
+    },
+    {
+      "name": "VERDISYS INC",
+      "from": "2003-09-29T04:00:00.000Z",
+      "to": "2005-05-05T04:00:00.000Z"
+    },
+    {
+      "name": "RECONSTRUCTION DATA GROUP INC",
+      "from": "2001-12-17T05:00:00.000Z",
+      "to": "2003-08-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 961,
+  "download_timestamp": "2025-08-02 07:07:57 UTC"
+}

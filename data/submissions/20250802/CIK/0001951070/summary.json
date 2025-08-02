@@ -1,0 +1,26 @@
+{
+  "cik": "0001951070",
+  "name": "McGraw Hill, Inc.",
+  "entityType": "other",
+  "sic": "2741",
+  "sicDescription": "Miscellaneous Publishing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "871259704",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "614 430 4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:30:12 UTC"
+}

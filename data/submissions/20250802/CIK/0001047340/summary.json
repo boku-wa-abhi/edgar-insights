@@ -1,0 +1,26 @@
+{
+  "cik": "0001047340",
+  "name": "FRESH DEL MONTE PRODUCE INC",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1226",
+  "tickers": [
+    "FDP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3055208400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:05:37 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000920371",
+  "name": "Simpson Manufacturing Co., Inc.",
+  "entityType": "operating",
+  "sic": "3420",
+  "sicDescription": "Cutlery, Handtools & General Hardware",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "943196943",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9255609000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIMPSON MANUFACTURING CO INC /CA/",
+      "from": "1996-11-06T05:00:00.000Z",
+      "to": "2019-08-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:03:37 UTC"
+}

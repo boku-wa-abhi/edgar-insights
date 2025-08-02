@@ -1,0 +1,34 @@
+{
+  "cik": "0001855612",
+  "name": "Grab Holdings Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "U0",
+  "stateOfIncorporationDescription": "Singapore",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRAB",
+    "GRABW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "855-739-7864",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "J1 Holdings Inc.",
+      "from": "2021-04-13T04:00:00.000Z",
+      "to": "2021-04-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 278,
+  "download_timestamp": "2025-08-02 07:27:31 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001937441",
+  "name": "Ambipar Emergency Response",
+  "entityType": "other",
+  "sic": "4955",
+  "sicDescription": "Hazardous Waste Management",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMBI",
+    "AMBI-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "55-11-3429-5022",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 92,
+  "download_timestamp": "2025-08-02 07:29:50 UTC"
+}

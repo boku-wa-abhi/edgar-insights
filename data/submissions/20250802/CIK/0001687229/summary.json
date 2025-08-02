@@ -1,0 +1,26 @@
+{
+  "cik": "0001687229",
+  "name": "Invitation Homes Inc.",
+  "entityType": "operating",
+  "sic": "6510",
+  "sicDescription": "Real Estate Operators (No Developers) & Lessors",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INVH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "900939055",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(972) 421-3600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 663,
+  "download_timestamp": "2025-08-02 07:20:45 UTC"
+}

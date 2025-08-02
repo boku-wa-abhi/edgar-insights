@@ -1,0 +1,41 @@
+{
+  "cik": "0000846617",
+  "name": "Dime Community Bancshares, Inc. /NY/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DCOM",
+    "DCOMG",
+    "DCOMP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "112934195",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6315371000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BRIDGE BANCORP, INC.",
+      "from": "2019-08-22T04:00:00.000Z",
+      "to": "2021-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "BRIDGE BANCORP INC",
+      "from": "1996-08-05T04:00:00.000Z",
+      "to": "2019-08-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:27 UTC"
+}

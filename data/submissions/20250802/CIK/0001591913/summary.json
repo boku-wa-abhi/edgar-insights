@@ -1,0 +1,37 @@
+{
+  "cik": "0001591913",
+  "name": "Innovative Payment Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IPSI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(866) 477-4729",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QPAGOS",
+      "from": "2016-06-17T04:00:00.000Z",
+      "to": "2019-11-04T05:00:00.000Z"
+    },
+    {
+      "name": "Asiya Pearls, Inc.",
+      "from": "2013-12-16T05:00:00.000Z",
+      "to": "2016-06-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 265,
+  "download_timestamp": "2025-08-02 07:18:01 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001847706",
+  "name": "Psyched Wellness Ltd.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "PSYCF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "647-400-8494",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:27:00 UTC"
+}

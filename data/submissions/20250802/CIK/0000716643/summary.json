@@ -1,0 +1,32 @@
+{
+  "cik": "0000716643",
+  "name": "REGIS CORP",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RGS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "410749934",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9529477777",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REGIS CORPORATION",
+      "from": "1994-02-08T05:00:00.000Z",
+      "to": "1994-02-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:59:16 UTC"
+}

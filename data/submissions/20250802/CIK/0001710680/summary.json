@@ -1,0 +1,46 @@
+{
+  "cik": "0001710680",
+  "name": "HIGHLAND OPPORTUNITIES & INCOME FUND",
+  "entityType": "investment",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "HFRO",
+    "HFRO-PA",
+    "HFRO-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "456245636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "214-276-6300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HIGHLAND INCOME FUND\\MA",
+      "from": "2019-05-30T04:00:00.000Z",
+      "to": "2023-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "HIGHLAND FLOATING RATE OPPORTUNITIES FUND",
+      "from": "2017-08-29T04:00:00.000Z",
+      "to": "2019-05-13T04:00:00.000Z"
+    },
+    {
+      "name": "HIGHLAND FLOATING RATE OPPORTUNITIES FUND II",
+      "from": "2017-06-30T04:00:00.000Z",
+      "to": "2017-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 231,
+  "download_timestamp": "2025-08-02 07:21:32 UTC"
+}

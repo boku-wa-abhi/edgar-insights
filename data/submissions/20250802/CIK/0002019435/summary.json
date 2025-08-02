@@ -1,0 +1,28 @@
+{
+  "cik": "0002019435",
+  "name": "Blue Gold Ltd",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BGL",
+    "BGLWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(952) 456-5300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 35,
+  "download_timestamp": "2025-08-02 07:32:12 UTC"
+}

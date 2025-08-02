@@ -1,0 +1,57 @@
+{
+  "cik": "0000723533",
+  "name": "Wenyuan Group Corp.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WYGC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "953506403",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "626-872-9451",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Longwen Group Corp.",
+      "from": "2017-01-25T05:00:00.000Z",
+      "to": "2025-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "Allied Ventures Holdings Corp.",
+      "from": "2015-02-24T05:00:00.000Z",
+      "to": "2016-12-29T05:00:00.000Z"
+    },
+    {
+      "name": "Dephasium Corp.",
+      "from": "2013-03-05T05:00:00.000Z",
+      "to": "2015-01-14T05:00:00.000Z"
+    },
+    {
+      "name": "ALLIED VENTURES HOLDING CORP.",
+      "from": "2013-01-04T05:00:00.000Z",
+      "to": "2013-02-05T05:00:00.000Z"
+    },
+    {
+      "name": "Pay Mobile, Inc",
+      "from": "2011-01-03T05:00:00.000Z",
+      "to": "2012-11-13T05:00:00.000Z"
+    },
+    {
+      "name": "EXPERTELLIGENCE INC",
+      "from": "1995-09-01T04:00:00.000Z",
+      "to": "2011-03-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 261,
+  "download_timestamp": "2025-08-02 06:59:26 UTC"
+}

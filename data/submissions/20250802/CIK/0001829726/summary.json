@@ -1,0 +1,26 @@
+{
+  "cik": "0001829726",
+  "name": "Triple Flag Precious Metals Corp.",
+  "entityType": "other",
+  "sic": "6795",
+  "sicDescription": "Mineral Royalty Traders",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TFPM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(416) 304-9741",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 105,
+  "download_timestamp": "2025-08-02 07:25:56 UTC"
+}

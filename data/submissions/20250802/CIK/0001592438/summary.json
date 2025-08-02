@@ -1,0 +1,28 @@
+{
+  "cik": "0001592438",
+  "name": "Royal Mail plc/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ROYMY",
+    "ROYMF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-250-1905",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:18:02 UTC"
+}

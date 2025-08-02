@@ -1,0 +1,26 @@
+{
+  "cik": "0001722684",
+  "name": "WYNDHAM HOTELS & RESORTS, INC.",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "823356232",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "973-753-7791",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 948,
+  "download_timestamp": "2025-08-02 07:21:55 UTC"
+}

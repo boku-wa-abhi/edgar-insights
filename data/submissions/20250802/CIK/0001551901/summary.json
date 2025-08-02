@@ -1,0 +1,26 @@
+{
+  "cik": "0001551901",
+  "name": "Stellus Capital Investment Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(713) 292-5400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 402,
+  "download_timestamp": "2025-08-02 07:16:46 UTC"
+}

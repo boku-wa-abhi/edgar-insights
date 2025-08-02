@@ -1,0 +1,26 @@
+{
+  "cik": "0001736730",
+  "name": "Camp4 Therapeutics Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAMP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-651-8867",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 95,
+  "download_timestamp": "2025-08-02 07:22:23 UTC"
+}

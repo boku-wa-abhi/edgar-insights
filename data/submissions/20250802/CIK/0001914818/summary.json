@@ -1,0 +1,26 @@
+{
+  "cik": "0001914818",
+  "name": "Starbox Group Holdings Ltd.",
+  "entityType": "other",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "STBXF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "603 2781 9066",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 146,
+  "download_timestamp": "2025-08-02 07:29:26 UTC"
+}

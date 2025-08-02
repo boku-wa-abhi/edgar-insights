@@ -1,0 +1,26 @@
+{
+  "cik": "0001981792",
+  "name": "Howard Hughes Holdings Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HHH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "931869991",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6463543406",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:31:02 UTC"
+}

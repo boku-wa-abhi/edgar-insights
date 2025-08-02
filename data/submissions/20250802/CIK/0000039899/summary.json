@@ -1,0 +1,32 @@
+{
+  "cik": "0000039899",
+  "name": "TEGNA INC",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGNA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "160442930",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7038736600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GANNETT CO INC /DE/",
+      "from": "1994-06-29T04:00:00.000Z",
+      "to": "2015-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1012,
+  "download_timestamp": "2025-08-02 06:56:57 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000055785",
+  "name": "KIMBERLY CLARK CORP",
+  "entityType": "operating",
+  "sic": "2670",
+  "sicDescription": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KMB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "390394230",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9722811200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:13 UTC"
+}

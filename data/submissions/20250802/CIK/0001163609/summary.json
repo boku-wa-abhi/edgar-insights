@@ -1,0 +1,32 @@
+{
+  "cik": "0001163609",
+  "name": "SOUTH DAKOTA SOYBEAN PROCESSORS LLC",
+  "entityType": "operating",
+  "sic": "2070",
+  "sicDescription": "Fats & Oils",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SDSYA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "6056279240",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SOYBEAN PROCESSORS LLC",
+      "from": "2001-12-21T05:00:00.000Z",
+      "to": "2002-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 427,
+  "download_timestamp": "2025-08-02 07:08:18 UTC"
+}

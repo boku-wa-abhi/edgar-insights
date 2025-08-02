@@ -1,0 +1,26 @@
+{
+  "cik": "0000887028",
+  "name": "RIO TINTO LTD",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RTNTF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "801-204-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 757,
+  "download_timestamp": "2025-08-02 07:02:29 UTC"
+}

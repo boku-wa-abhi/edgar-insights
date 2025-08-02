@@ -1,0 +1,37 @@
+{
+  "cik": "0000087050",
+  "name": "Neonode Inc.",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "941517641",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "46 0 8 667 17 17",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Neonode, Inc",
+      "from": "2007-08-13T04:00:00.000Z",
+      "to": "2018-05-25T04:00:00.000Z"
+    },
+    {
+      "name": "SBE INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2007-08-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:54 UTC"
+}

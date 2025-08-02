@@ -1,0 +1,32 @@
+{
+  "cik": "0002012593",
+  "name": "Rapport Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RAPP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "880724208",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "857-321-8020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rapport Therapeutics, Inc.",
+      "from": "2024-03-27T04:00:00.000Z",
+      "to": "2025-07-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 109,
+  "download_timestamp": "2025-08-02 07:31:57 UTC"
+}

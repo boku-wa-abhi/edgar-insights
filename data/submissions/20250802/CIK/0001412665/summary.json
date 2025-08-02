@@ -1,0 +1,32 @@
+{
+  "cik": "0001412665",
+  "name": "MidWestOne Financial Group, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "IA",
+  "stateOfIncorporationDescription": "IA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MOFG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "421206172",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "319-356-5800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ISB Financial Corp.",
+      "from": "2007-09-24T04:00:00.000Z",
+      "to": "2008-03-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:12:39 UTC"
+}

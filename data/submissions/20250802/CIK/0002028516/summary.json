@@ -1,0 +1,30 @@
+{
+  "cik": "0002028516",
+  "name": "Archimedes Tech SPAC Partners II Co.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATII",
+    "ATIIU",
+    "ATIIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(725) 312-2430",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:32:32 UTC"
+}

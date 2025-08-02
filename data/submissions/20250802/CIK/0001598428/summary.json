@@ -1,0 +1,32 @@
+{
+  "cik": "0001598428",
+  "name": "Metallus Inc.",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTUS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464024951",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "330-471-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TimkenSteel Corp",
+      "from": "2014-02-11T05:00:00.000Z",
+      "to": "2024-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 758,
+  "download_timestamp": "2025-08-02 07:18:12 UTC"
+}

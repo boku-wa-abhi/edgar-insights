@@ -1,0 +1,28 @@
+{
+  "cik": "0000814052",
+  "name": "TELEFONICA S A",
+  "entityType": "other",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "U3",
+  "stateOfIncorporationDescription": "Spain",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TEF",
+    "TEFOF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "00 34 91 584 0640",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:48 UTC"
+}

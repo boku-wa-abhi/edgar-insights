@@ -1,0 +1,32 @@
+{
+  "cik": "0001454741",
+  "name": "Eaton Vance National Municipal Opportunities Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "EOT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Eaton Vance National Municipal Trust",
+      "from": "2009-01-26T05:00:00.000Z",
+      "to": "2009-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 316,
+  "download_timestamp": "2025-08-02 07:13:48 UTC"
+}

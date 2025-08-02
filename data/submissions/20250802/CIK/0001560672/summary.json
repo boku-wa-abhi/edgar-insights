@@ -1,0 +1,32 @@
+{
+  "cik": "0001560672",
+  "name": "Ellington Credit Co",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "EARN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "460687599",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(203) 698-1200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ellington Residential Mortgage REIT",
+      "from": "2012-10-22T04:00:00.000Z",
+      "to": "2024-04-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 530,
+  "download_timestamp": "2025-08-02 07:17:00 UTC"
+}

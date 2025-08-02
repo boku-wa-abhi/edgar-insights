@@ -1,0 +1,34 @@
+{
+  "cik": "0001610853",
+  "name": "HELIUS MEDICAL TECHNOLOGIES, INC.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HSDT",
+    "HSDTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "364787690",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "215-944-6100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HELIUS MEDICAL TECHNOLOGIES, INC",
+      "from": "2018-05-17T04:00:00.000Z",
+      "to": "2018-05-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 638,
+  "download_timestamp": "2025-08-02 07:18:37 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001138118",
+  "name": "CBRE GROUP, INC.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBRE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "943391143",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-979-6100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CB RICHARD ELLIS GROUP INC",
+      "from": "2004-02-18T05:00:00.000Z",
+      "to": "2011-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "CB RICHARD ELLIS SERVICES INC",
+      "from": "2004-02-17T05:00:00.000Z",
+      "to": "2004-02-17T05:00:00.000Z"
+    },
+    {
+      "name": "CBRE HOLDING INC",
+      "from": "2001-07-16T04:00:00.000Z",
+      "to": "2003-12-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:07:54 UTC"
+}

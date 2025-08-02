@@ -1,0 +1,26 @@
+{
+  "cik": "0001891856",
+  "name": "GEN Restaurant Group, Inc.",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GENK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(562) 356-9929",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 159,
+  "download_timestamp": "2025-08-02 07:28:54 UTC"
+}

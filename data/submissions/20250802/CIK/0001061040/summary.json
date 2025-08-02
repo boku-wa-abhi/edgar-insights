@@ -1,0 +1,32 @@
+{
+  "cik": "0001061040",
+  "name": "New Generation Consumer Group, Inc.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NGCG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "113118271",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "13025878719",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MEGAWORLD INC",
+      "from": "2000-08-14T04:00:00.000Z",
+      "to": "2005-07-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 18,
+  "download_timestamp": "2025-08-02 07:05:58 UTC"
+}

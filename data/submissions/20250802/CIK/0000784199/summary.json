@@ -1,0 +1,32 @@
+{
+  "cik": "0000784199",
+  "name": "ARTIVION, INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AORT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "592417093",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7704193355",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CRYOLIFE INC",
+      "from": "1996-06-10T04:00:00.000Z",
+      "to": "2022-01-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:10 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001785279",
+  "name": "Metagenomi, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813909017",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(510) 871-4880",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Metagenomi Technologies, LLC",
+      "from": "2019-08-16T04:00:00.000Z",
+      "to": "2024-01-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 107,
+  "download_timestamp": "2025-08-02 07:23:56 UTC"
+}

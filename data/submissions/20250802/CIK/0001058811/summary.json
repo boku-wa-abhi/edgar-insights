@@ -1,0 +1,26 @@
+{
+  "cik": "0001058811",
+  "name": "IMMERSION CORP",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMMR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943180138",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "408-467-1900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:54 UTC"
+}

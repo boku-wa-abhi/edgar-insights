@@ -1,0 +1,32 @@
+{
+  "cik": "0001012477",
+  "name": "AVADEL PHARMACEUTICALS PLC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVDL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "636-449-1830",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FLAMEL TECHNOLOGIES SA",
+      "from": "1997-02-25T05:00:00.000Z",
+      "to": "2016-12-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:39 UTC"
+}

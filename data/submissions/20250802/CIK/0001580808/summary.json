@@ -1,0 +1,26 @@
+{
+  "cik": "0001580808",
+  "name": "A10 Networks, Inc.",
+  "entityType": "operating",
+  "sic": "3576",
+  "sicDescription": "Computer Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATEN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201446869",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 325-8668",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 833,
+  "download_timestamp": "2025-08-02 07:17:41 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000926423",
+  "name": "MIND TECHNOLOGY, INC",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "MIND"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "760210849",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "281-353-4475",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MITCHAM INDUSTRIES INC",
+      "from": "1996-06-20T04:00:00.000Z",
+      "to": "2020-08-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 989,
+  "download_timestamp": "2025-08-02 07:03:49 UTC"
+}

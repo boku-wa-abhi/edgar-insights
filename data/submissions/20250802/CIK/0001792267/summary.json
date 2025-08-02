@@ -1,0 +1,26 @@
+{
+  "cik": "0001792267",
+  "name": "Burning Rock Biotech Ltd",
+  "entityType": "other",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BNR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86 18501641666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 149,
+  "download_timestamp": "2025-08-02 07:24:13 UTC"
+}

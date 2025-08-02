@@ -1,0 +1,47 @@
+{
+  "cik": "0001360604",
+  "name": "Healthcare Realty Trust Inc",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-269-8175",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HEALTHCARE TRUST OF AMERICA, INC.",
+      "from": "2009-08-24T04:00:00.000Z",
+      "to": "2022-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "Healthcare Trust of America Holdings, LP",
+      "from": "2016-08-02T04:00:00.000Z",
+      "to": "2016-08-02T04:00:00.000Z"
+    },
+    {
+      "name": "Grubb & Ellis Healthcare REIT, Inc.",
+      "from": "2007-12-10T05:00:00.000Z",
+      "to": "2009-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "NNN Healthcare/Office REIT, Inc.",
+      "from": "2006-04-28T04:00:00.000Z",
+      "to": "2007-12-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:17 UTC"
+}

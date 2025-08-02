@@ -1,0 +1,42 @@
+{
+  "cik": "0001492617",
+  "name": "FLYWHEEL ADVANCED TECHNOLOGY, INC.",
+  "entityType": "operating",
+  "sic": "7380",
+  "sicDescription": "Services-Miscellaneous Business Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "FWFW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272473958",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-983-1623",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PAN GLOBAL, CORP.",
+      "from": "2012-10-16T04:00:00.000Z",
+      "to": "2022-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "SAVVY BUSINESS SUPPORT INC",
+      "from": "2010-06-08T04:00:00.000Z",
+      "to": "2013-04-25T04:00:00.000Z"
+    },
+    {
+      "name": "SAAVY BUSINESS SUPPORT INC",
+      "from": "2010-05-27T04:00:00.000Z",
+      "to": "2010-05-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:14:48 UTC"
+}

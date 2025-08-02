@@ -1,0 +1,32 @@
+{
+  "cik": "0001845815",
+  "name": "Payoneer Global Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAYO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "861778671",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-600-9272",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Starship Parent, Inc.",
+      "from": "2021-02-16T05:00:00.000Z",
+      "to": "2021-06-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 486,
+  "download_timestamp": "2025-08-02 07:26:53 UTC"
+}

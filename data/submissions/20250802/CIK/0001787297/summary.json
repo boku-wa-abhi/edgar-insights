@@ -1,0 +1,26 @@
+{
+  "cik": "0001787297",
+  "name": "Passage BIO, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PASG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "822729751",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2678660312",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 391,
+  "download_timestamp": "2025-08-02 07:24:02 UTC"
+}

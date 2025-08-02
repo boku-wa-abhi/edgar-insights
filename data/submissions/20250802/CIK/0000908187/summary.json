@@ -1,0 +1,32 @@
+{
+  "cik": "0000908187",
+  "name": "PCM FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PCM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "521834031",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 -739-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIMCO COMMERCIAL MORTGAGE SECURITIES TRUST INC",
+      "from": "1994-02-28T05:00:00.000Z",
+      "to": "2007-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 505,
+  "download_timestamp": "2025-08-02 07:03:06 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001855756",
+  "name": "Lilium N.V.",
+  "entityType": "other",
+  "sic": "3721",
+  "sicDescription": "Aircraft",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LILMF",
+    "LILWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "49 160 9704 6857",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lilium B.V.",
+      "from": "2021-05-05T04:00:00.000Z",
+      "to": "2021-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 254,
+  "download_timestamp": "2025-08-02 07:27:34 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001013488",
+  "name": "BJs RESTAURANTS INC",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "BJRI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330485615",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(714) 500-2440",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CHICAGO PIZZA & BREWERY INC",
+      "from": "1996-08-01T04:00:00.000Z",
+      "to": "2004-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:04:41 UTC"
+}

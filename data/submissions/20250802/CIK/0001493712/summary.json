@@ -1,0 +1,42 @@
+{
+  "cik": "0001493712",
+  "name": "Stimcell Energetics Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "STME"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "383939625",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(844) 238-2692",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cell MedX Corp.",
+      "from": "2014-10-17T04:00:00.000Z",
+      "to": "2024-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "Sports Asylum, Inc.",
+      "from": "2014-04-14T04:00:00.000Z",
+      "to": "2014-10-09T04:00:00.000Z"
+    },
+    {
+      "name": "Plandel Resources, Inc.",
+      "from": "2010-07-13T04:00:00.000Z",
+      "to": "2014-03-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 261,
+  "download_timestamp": "2025-08-02 07:14:51 UTC"
+}

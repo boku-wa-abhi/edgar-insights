@@ -1,0 +1,32 @@
+{
+  "cik": "0001423210",
+  "name": "ARYZTA AG (fka IAWS GROUP PLC)",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ARZTD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 238-3010",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IAWS GROUP PLC",
+      "from": "2007-12-10T05:00:00.000Z",
+      "to": "2010-06-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:12:57 UTC"
+}

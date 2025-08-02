@@ -1,0 +1,26 @@
+{
+  "cik": "0001846017",
+  "name": "Blue Foundry Bancorp",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BLFY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "862831373",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "201-939-6600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 297,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

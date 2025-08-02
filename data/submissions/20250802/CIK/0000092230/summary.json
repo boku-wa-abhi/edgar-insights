@@ -1,0 +1,43 @@
+{
+  "cik": "0000092230",
+  "name": "TRUIST FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TFC",
+    "TFC-PI",
+    "TFC-PO",
+    "TFC-PR"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "560939887",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8444878478",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BB&T CORP",
+      "from": "1997-06-06T04:00:00.000Z",
+      "to": "2019-12-06T05:00:00.000Z"
+    },
+    {
+      "name": "SOUTHERN NATIONAL CORP /NC/",
+      "from": "1994-05-19T04:00:00.000Z",
+      "to": "1997-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:02 UTC"
+}

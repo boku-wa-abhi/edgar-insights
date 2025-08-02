@@ -1,0 +1,34 @@
+{
+  "cik": "0002001557",
+  "name": "Innventure, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INV",
+    "INVLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "934440048",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(321) 209-6787",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Learn SPAC HoldCo, Inc.",
+      "from": "2024-01-26T05:00:00.000Z",
+      "to": "2024-10-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:31:40 UTC"
+}

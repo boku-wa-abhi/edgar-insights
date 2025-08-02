@@ -1,0 +1,26 @@
+{
+  "cik": "0000862668",
+  "name": "ESCALON MEDICAL CORP",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ESMC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "330272839",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6106886830",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 456,
+  "download_timestamp": "2025-08-02 07:01:45 UTC"
+}

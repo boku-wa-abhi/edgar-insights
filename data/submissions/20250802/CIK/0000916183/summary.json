@@ -1,0 +1,47 @@
+{
+  "cik": "0000916183",
+  "name": "PIMCO STRATEGIC INCOME FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RCS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "943194834",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 739 4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIMCO STRATEGIC INCOME FUND, INC",
+      "from": "2014-03-27T04:00:00.000Z",
+      "to": "2024-08-30T04:00:00.000Z"
+    },
+    {
+      "name": "PIMCO LOW DURATION OPPORTUNITIES FUND",
+      "from": "2023-11-28T05:00:00.000Z",
+      "to": "2023-11-28T05:00:00.000Z"
+    },
+    {
+      "name": "PIMCO STRATEGIC GLOBAL GOVERNMENT FUND INC",
+      "from": "2004-10-05T04:00:00.000Z",
+      "to": "2014-03-20T04:00:00.000Z"
+    },
+    {
+      "name": "RCM STRATEGIC GLOBAL GOVERNMENT FUND INC",
+      "from": "1994-09-29T04:00:00.000Z",
+      "to": "2004-09-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 487,
+  "download_timestamp": "2025-08-02 07:03:28 UTC"
+}

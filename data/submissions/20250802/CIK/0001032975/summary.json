@@ -1,0 +1,32 @@
+{
+  "cik": "0001032975",
+  "name": "LOGITECH INTERNATIONAL S.A.",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "LOGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5107958500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LOGITECH INTERNATIONAL SA",
+      "from": "1997-11-14T05:00:00.000Z",
+      "to": "2019-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:05:11 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0000909108",
+  "name": "DIAMOND HILL INVESTMENT GROUP INC",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DHIL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "650190407",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "6142553333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BANC STOCK GROUP INC",
+      "from": "1997-12-01T05:00:00.000Z",
+      "to": "2001-01-19T05:00:00.000Z"
+    },
+    {
+      "name": "HEARTLAND GROUP OF COMPANIES INC",
+      "from": "1996-04-25T04:00:00.000Z",
+      "to": "1997-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:09 UTC"
+}

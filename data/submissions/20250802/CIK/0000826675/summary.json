@@ -1,0 +1,34 @@
+{
+  "cik": "0000826675",
+  "name": "DYNEX CAPITAL INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DX",
+    "DX-PC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "521549373",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8042175800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RESOURCE MORTGAGE CAPITAL INC/VA",
+      "from": "1994-01-28T05:00:00.000Z",
+      "to": "1997-03-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:03 UTC"
+}

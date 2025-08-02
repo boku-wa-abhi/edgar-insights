@@ -1,0 +1,37 @@
+{
+  "cik": "0001377121",
+  "name": "Protagonist Therapeutics, Inc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PTGX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980505495",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(510) 474-0170",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Protagonist Therapeutics Inc",
+      "from": "2013-06-11T04:00:00.000Z",
+      "to": "2013-06-11T04:00:00.000Z"
+    },
+    {
+      "name": "Protagonist Inc",
+      "from": "2006-09-28T04:00:00.000Z",
+      "to": "2006-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 07:11:40 UTC"
+}

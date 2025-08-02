@@ -1,0 +1,28 @@
+{
+  "cik": "0001962746",
+  "name": "Lotus Technology Inc.",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LOT",
+    "LOTWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86 27 84990199",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 141,
+  "download_timestamp": "2025-08-02 07:30:30 UTC"
+}

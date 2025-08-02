@@ -1,0 +1,32 @@
+{
+  "cik": "0001175535",
+  "name": "Whitestone REIT",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WSR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760594970",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "713-827-9595",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HARTMAN COMMERCIAL PROPERTIES REIT",
+      "from": "2002-06-06T04:00:00.000Z",
+      "to": "2007-04-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:36 UTC"
+}

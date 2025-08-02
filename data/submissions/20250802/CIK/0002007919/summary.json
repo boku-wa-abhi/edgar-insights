@@ -1,0 +1,26 @@
+{
+  "cik": "0002007919",
+  "name": "Inhibrx Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INBX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "990613523",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858) 795-4220",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 100,
+  "download_timestamp": "2025-08-02 07:31:51 UTC"
+}

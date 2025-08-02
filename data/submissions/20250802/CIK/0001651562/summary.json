@@ -1,0 +1,26 @@
+{
+  "cik": "0001651562",
+  "name": "Coursera, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COUR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "453560292",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6509639884",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 722,
+  "download_timestamp": "2025-08-02 07:19:48 UTC"
+}

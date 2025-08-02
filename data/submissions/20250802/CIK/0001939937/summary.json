@@ -1,0 +1,32 @@
+{
+  "cik": "0001939937",
+  "name": "LAMY",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "LMMY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "372039216",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "657-315-8312",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "L A M Y",
+      "from": "2022-07-27T04:00:00.000Z",
+      "to": "2024-04-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 40,
+  "download_timestamp": "2025-08-02 07:29:54 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002019505",
+  "name": "Health In Tech, Inc.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HIT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "888-373-0333",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:32:12 UTC"
+}

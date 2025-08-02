@@ -1,0 +1,26 @@
+{
+  "cik": "0001033767",
+  "name": "UNITED MICROELECTRONICS CORP",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "F5",
+  "stateOfIncorporationDescription": "Taiwan, Province of China",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UMC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "886-2-2658-9168",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 628,
+  "download_timestamp": "2025-08-02 07:05:11 UTC"
+}

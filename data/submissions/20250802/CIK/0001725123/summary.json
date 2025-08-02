@@ -1,0 +1,26 @@
+{
+  "cik": "0001725123",
+  "name": "Cango Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CANG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86-21-3183-0016",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 156,
+  "download_timestamp": "2025-08-02 07:22:01 UTC"
+}

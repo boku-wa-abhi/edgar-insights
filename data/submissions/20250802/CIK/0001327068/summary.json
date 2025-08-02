@@ -1,0 +1,32 @@
+{
+  "cik": "0001327068",
+  "name": "United States Oil Fund, LP",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "202830691",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "510-522-9600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New York Oil ETF, LP",
+      "from": "2005-05-16T04:00:00.000Z",
+      "to": "2005-07-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 613,
+  "download_timestamp": "2025-08-02 07:10:34 UTC"
+}

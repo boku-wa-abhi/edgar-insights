@@ -1,0 +1,32 @@
+{
+  "cik": "0001637715",
+  "name": "OnKure Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OKUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472309515",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(720) 307-2892",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reneo Pharmaceuticals, Inc.",
+      "from": "2018-01-08T05:00:00.000Z",
+      "to": "2024-10-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 312,
+  "download_timestamp": "2025-08-02 07:19:22 UTC"
+}

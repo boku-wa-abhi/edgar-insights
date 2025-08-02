@@ -1,0 +1,32 @@
+{
+  "cik": "0001600033",
+  "name": "e.l.f. Beauty, Inc.",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ELF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464464131",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(510) 778-7787",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "J.A. Cosmetics Holdings, Inc.",
+      "from": "2014-02-14T05:00:00.000Z",
+      "to": "2014-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 876,
+  "download_timestamp": "2025-08-02 07:18:15 UTC"
+}

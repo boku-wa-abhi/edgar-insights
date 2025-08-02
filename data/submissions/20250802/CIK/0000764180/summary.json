@@ -1,0 +1,37 @@
+{
+  "cik": "0000764180",
+  "name": "ALTRIA GROUP, INC.",
+  "entityType": "operating",
+  "sic": "2111",
+  "sicDescription": "Cigarettes",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133260245",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(804) 274-2200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALTRIA GROUP INC",
+      "from": "2003-01-29T05:00:00.000Z",
+      "to": "2006-02-07T05:00:00.000Z"
+    },
+    {
+      "name": "PHILIP MORRIS COMPANIES INC",
+      "from": "1994-04-13T04:00:00.000Z",
+      "to": "2003-01-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:57 UTC"
+}

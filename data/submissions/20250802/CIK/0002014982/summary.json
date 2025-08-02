@@ -1,0 +1,30 @@
+{
+  "cik": "0002014982",
+  "name": "SIM Acquisition Corp. I",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SIMA",
+    "SIMAU",
+    "SIMAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "2039402657",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:32:02 UTC"
+}

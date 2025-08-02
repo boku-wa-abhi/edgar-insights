@@ -1,0 +1,37 @@
+{
+  "cik": "0001309082",
+  "name": "CAMBER ENERGY, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CEIN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "202660243",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(281) 404-4387",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LUCAS ENERGY, INC.",
+      "from": "2005-09-08T04:00:00.000Z",
+      "to": "2017-01-05T05:00:00.000Z"
+    },
+    {
+      "name": "Panorama Investments Corp",
+      "from": "2004-11-17T05:00:00.000Z",
+      "to": "2006-06-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 997,
+  "download_timestamp": "2025-08-02 07:10:13 UTC"
+}

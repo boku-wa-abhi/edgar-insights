@@ -1,0 +1,32 @@
+{
+  "cik": "0001584618",
+  "name": "Atacama Resources International, Inc.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACRL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "463105245",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "780-512-3805",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Arrakis Mining Research Inc.",
+      "from": "2013-08-16T00:00:00.000Z",
+      "to": "2015-01-22T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 81,
+  "download_timestamp": "2025-08-02 07:17:49 UTC"
+}

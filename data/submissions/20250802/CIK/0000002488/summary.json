@@ -1,0 +1,26 @@
+{
+  "cik": "0000002488",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "AMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "941692300",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(408) 749-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:03 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001328581",
+  "name": "BOISE CASCADE Co",
+  "entityType": "operating",
+  "sic": "5030",
+  "sicDescription": "Wholesale-Lumber & Other Construction Materials",
+  "stateOfIncorporation": "ID",
+  "stateOfIncorporationDescription": "ID",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201496201",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(208) 384-6161",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BOISE CASCADE, L.L.C.",
+      "from": "2005-06-13T04:00:00.000Z",
+      "to": "2013-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 808,
+  "download_timestamp": "2025-08-02 07:10:37 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001934850",
+  "name": "F&G Annuities & Life, Inc.",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FG",
+    "FGN",
+    "FGSN"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "852487422",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "866-846-4660",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:29:46 UTC"
+}

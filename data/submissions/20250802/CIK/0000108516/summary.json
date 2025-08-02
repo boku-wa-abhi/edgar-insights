@@ -1,0 +1,32 @@
+{
+  "cik": "0000108516",
+  "name": "WORTHINGTON ENTERPRISES, INC.",
+  "entityType": "operating",
+  "sic": "3310",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "WOR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311189815",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6144383210",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WORTHINGTON INDUSTRIES INC",
+      "from": "1994-02-11T05:00:00.000Z",
+      "to": "2023-11-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:25 UTC"
+}

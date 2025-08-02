@@ -1,0 +1,26 @@
+{
+  "cik": "0002046216",
+  "name": "Beta FinTech Holdings Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BTFT"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 3590 9488",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 8,
+  "download_timestamp": "2025-08-02 07:33:10 UTC"
+}

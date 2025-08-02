@@ -1,0 +1,32 @@
+{
+  "cik": "0001606909",
+  "name": "Pangaea Logistics Solutions Ltd.",
+  "entityType": "operating",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PANL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "401-457-9552",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Quartet Holdco Ltd.",
+      "from": "2014-05-01T04:00:00.000Z",
+      "to": "2014-10-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 582,
+  "download_timestamp": "2025-08-02 07:18:30 UTC"
+}

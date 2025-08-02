@@ -1,0 +1,32 @@
+{
+  "cik": "0001883685",
+  "name": "DraftKings Inc.",
+  "entityType": "operating",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DKNG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(617) 986-6744",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Duke Holdco, Inc.",
+      "from": "2021-10-08T04:00:00.000Z",
+      "to": "2022-05-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 650,
+  "download_timestamp": "2025-08-02 07:28:39 UTC"
+}

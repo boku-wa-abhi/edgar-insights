@@ -1,0 +1,28 @@
+{
+  "cik": "0001974044",
+  "name": "MoneyHero Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNY",
+    "MNYWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65-6322-4392",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:30:50 UTC"
+}

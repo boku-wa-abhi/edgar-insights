@@ -1,0 +1,32 @@
+{
+  "cik": "0001866838",
+  "name": "Inception Growth Acquisition Ltd",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IGTA",
+    "IGTAR",
+    "IGTAU",
+    "IGTAW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "862648456",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "315-636-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 187,
+  "download_timestamp": "2025-08-02 07:28:02 UTC"
+}

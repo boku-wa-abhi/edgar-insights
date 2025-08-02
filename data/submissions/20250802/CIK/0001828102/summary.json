@@ -1,0 +1,32 @@
+{
+  "cik": "0001828102",
+  "name": "Karooooo Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "U0",
+  "stateOfIncorporationDescription": "Singapore",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "KARO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "65 6255 4151",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Karooooo Pte. Ltd.",
+      "from": "2020-11-25T05:00:00.000Z",
+      "to": "2021-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 106,
+  "download_timestamp": "2025-08-02 07:25:48 UTC"
+}

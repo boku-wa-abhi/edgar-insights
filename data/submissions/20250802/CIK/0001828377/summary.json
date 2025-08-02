@@ -1,0 +1,26 @@
+{
+  "cik": "0001828377",
+  "name": "Fortitude Gold Corp",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTCO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "852602691",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "3033207708",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 92,
+  "download_timestamp": "2025-08-02 07:25:51 UTC"
+}

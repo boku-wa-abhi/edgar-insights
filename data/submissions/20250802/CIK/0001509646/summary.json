@@ -1,0 +1,26 @@
+{
+  "cik": "0001509646",
+  "name": "Phoenix New Media Ltd",
+  "entityType": "other",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "FENG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(86) 10 60676000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 220,
+  "download_timestamp": "2025-08-02 07:15:26 UTC"
+}

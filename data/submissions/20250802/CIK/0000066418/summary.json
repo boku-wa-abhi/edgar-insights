@@ -1,0 +1,26 @@
+{
+  "cik": "0000066418",
+  "name": "MEXCO ENERGY CORP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MXC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "840627918",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9156821119",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 552,
+  "download_timestamp": "2025-08-02 06:57:27 UTC"
+}

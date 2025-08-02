@@ -1,0 +1,32 @@
+{
+  "cik": "0001278021",
+  "name": "MARKETAXESS HOLDINGS INC",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MKTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "522230784",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-831-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARKETAXESS HOLDING INC",
+      "from": "2004-02-11T05:00:00.000Z",
+      "to": "2004-04-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:09:31 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001783407",
+  "name": "Sound Group Inc.",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOGP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 62021360",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LIZHI INC.",
+      "from": "2019-08-06T04:00:00.000Z",
+      "to": "2024-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 105,
+  "download_timestamp": "2025-08-02 07:23:53 UTC"
+}

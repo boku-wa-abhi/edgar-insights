@@ -1,0 +1,32 @@
+{
+  "cik": "0001253689",
+  "name": "CRESCENT BIOPHARMA, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-430-5595",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GLYCOMIMETICS INC",
+      "from": "2003-07-10T04:00:00.000Z",
+      "to": "2025-06-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 576,
+  "download_timestamp": "2025-08-02 07:09:11 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001220754",
+  "name": "ModivCare Inc",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MODV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860845127",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "720-258-2130",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PROVIDENCE SERVICE CORP",
+      "from": "2003-06-19T04:00:00.000Z",
+      "to": "2021-01-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:58 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001564180",
+  "name": "KNOT Offshore Partners LP",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KNOP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "44 1224 618420",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:17:07 UTC"
+}

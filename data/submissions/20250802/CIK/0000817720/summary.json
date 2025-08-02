@@ -1,0 +1,26 @@
+{
+  "cik": "0000817720",
+  "name": "SYNAPTICS Inc",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0626",
+  "tickers": [
+    "SYNA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770118518",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-904-1100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:52 UTC"
+}

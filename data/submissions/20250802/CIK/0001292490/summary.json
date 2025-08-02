@@ -1,0 +1,32 @@
+{
+  "cik": "0001292490",
+  "name": "Synbio International, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SYIN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "043588066",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "646-359-4854",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Natural Harmony Foods Inc",
+      "from": "2004-06-01T00:00:00.000Z",
+      "to": "2004-06-01T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:09:54 UTC"
+}

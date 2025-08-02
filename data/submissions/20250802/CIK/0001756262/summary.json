@@ -1,0 +1,26 @@
+{
+  "cik": "0001756262",
+  "name": "TransMedics Group, Inc.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TMDX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9785520900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 566,
+  "download_timestamp": "2025-08-02 07:22:59 UTC"
+}

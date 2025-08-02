@@ -1,0 +1,26 @@
+{
+  "cik": "0001674910",
+  "name": "VALVOLINE INC",
+  "entityType": "operating",
+  "sic": "2990",
+  "sicDescription": "Miscellaneous Products of  Petroleum & Coal",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "VVV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "300939371",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "859-357-2591",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 863,
+  "download_timestamp": "2025-08-02 07:20:25 UTC"
+}

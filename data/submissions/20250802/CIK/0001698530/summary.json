@@ -1,0 +1,32 @@
+{
+  "cik": "0001698530",
+  "name": "EXICURE, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XCUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "815333008",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "847-673-1707",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Max-1 Acquisition Corp",
+      "from": "2017-03-21T04:00:00.000Z",
+      "to": "2017-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 490,
+  "download_timestamp": "2025-08-02 07:21:03 UTC"
+}

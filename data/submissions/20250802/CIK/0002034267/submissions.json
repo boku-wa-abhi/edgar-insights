@@ -1,0 +1,115 @@
+{
+  "cik": "0002034267",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Cantor Equity Partners IV, Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "110 EAST 59TH STREET",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10022",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "110 EAST 59TH STREET",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10022",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "2129385000",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-065675",
+        "0001213900-25-026004"
+      ],
+      "filingDate": [
+        "2025-07-18",
+        "2025-03-31"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-18T20:16:55.000Z",
+        "2025-03-31T16:50:39.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288768",
+        "377-07840"
+      ],
+      "filmNumber": [
+        "251134700",
+        "25790722"
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "core_type": [
+        "XBRL",
+        "DRS"
+      ],
+      "size": [
+        10696431,
+        3795809
+      ],
+      "isXBRL": [
+        1,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        0
+      ],
+      "primaryDocument": [
+        "ea0235814-02.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

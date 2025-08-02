@@ -1,0 +1,32 @@
+{
+  "cik": "0001873835",
+  "name": "Immix Biopharma, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMMX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "454869378",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(888) 958-1084",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Immix Biopharma, Inc.",
+      "from": "2021-07-20T04:00:00.000Z",
+      "to": "2025-06-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:28:21 UTC"
+}

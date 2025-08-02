@@ -1,0 +1,32 @@
+{
+  "cik": "0002020455",
+  "name": "Grayscale Ethereum Mini Trust ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ETH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "996547880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(212) 668-1427",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Grayscale Ethereum Mini Trust (ETH)",
+      "from": "2024-04-23T04:00:00.000Z",
+      "to": "2024-11-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:32:13 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000945828",
+  "name": "AMERITYRE CORP",
+  "entityType": "operating",
+  "sic": "3011",
+  "sicDescription": "Tires & Inner Tubes",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AMTY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870535207",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7022931930",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICAN TIRE CORP",
+      "from": "1996-10-15T00:00:00.000Z",
+      "to": "2001-01-29T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 706,
+  "download_timestamp": "2025-08-02 07:04:11 UTC"
+}

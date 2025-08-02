@@ -1,0 +1,26 @@
+{
+  "cik": "0000878518",
+  "name": "TASEKO MINES LTD",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "778-373-4533",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 746,
+  "download_timestamp": "2025-08-02 07:02:05 UTC"
+}

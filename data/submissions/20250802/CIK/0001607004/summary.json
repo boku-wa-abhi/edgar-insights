@@ -1,0 +1,32 @@
+{
+  "cik": "0001607004",
+  "name": "METATRON APPS, INC.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRNJ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "270298575",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(302) 861-0431",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "METATRON, INC.",
+      "from": "2014-05-01T00:00:00.000Z",
+      "to": "2014-07-11T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 12,
+  "download_timestamp": "2025-08-02 07:18:30 UTC"
+}

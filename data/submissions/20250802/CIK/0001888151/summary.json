@@ -1,0 +1,32 @@
+{
+  "cik": "0001888151",
+  "name": "Femto Technologies Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FMTOF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "16048336820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BYND CANNASOFT ENTERPRISES INC.",
+      "from": "2022-01-12T05:00:00.000Z",
+      "to": "2024-07-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 129,
+  "download_timestamp": "2025-08-02 07:28:46 UTC"
+}

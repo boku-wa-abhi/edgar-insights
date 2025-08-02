@@ -1,0 +1,220 @@
+{
+  "cik": "0001717695",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "VR Resources Ltd.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0331",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "1750-700 WEST PENDER STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6C 1G8",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1750-700 WEST PENDER STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6C 1G8",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(604)262-1104",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001717695-24-000001",
+        "0001717695-21-000001",
+        "0001717695-20-000001",
+        "0001717695-19-000001",
+        "0001023109-18-000005",
+        "0001717695-18-000003",
+        "0001717695-18-000002",
+        "0001717695-18-000001",
+        "0001717695-17-000001"
+      ],
+      "filingDate": [
+        "2024-12-16",
+        "2021-02-04",
+        "2020-06-19",
+        "2019-08-23",
+        "2018-12-06",
+        "2018-04-20",
+        "2018-04-20",
+        "2018-03-28",
+        "2017-10-03"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-12-16T14:47:02.000Z",
+        "2021-02-04T21:38:44.000Z",
+        "2020-06-19T17:16:05.000Z",
+        "2019-08-22T23:47:30.000Z",
+        "2018-12-06T22:24:52.000Z",
+        "2018-04-20T20:28:01.000Z",
+        "2018-04-20T20:03:47.000Z",
+        "2018-03-28T14:02:14.000Z",
+        "2017-10-03T20:13:46.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-532148",
+        "021-388506",
+        "021-369339",
+        "021-347253",
+        "021-310715",
+        "021-310729",
+        "021-310715",
+        "021-308741",
+        "021-295912"
+      ],
+      "filmNumber": [
+        "241550355",
+        "21591726",
+        "20975129",
+        "191046932",
+        "181221611",
+        "18767069",
+        "18766668",
+        "18717237",
+        "171117986"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        9874,
+        11488,
+        11494,
+        10090,
+        9349,
+        9843,
+        9257,
+        9848,
+        9068
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

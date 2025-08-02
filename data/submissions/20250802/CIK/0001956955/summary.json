@@ -1,0 +1,26 @@
+{
+  "cik": "0001956955",
+  "name": "Unusual Machines, Inc.",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UMAC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "660927642",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "720-383-8983",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 214,
+  "download_timestamp": "2025-08-02 07:30:22 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001828318",
+  "name": "Enovix Corp",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "ENVX",
+    "ENVXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "853174357",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "510 695-2350",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rodgers Silicon Valley Acquisition Corp",
+      "from": "2020-10-14T04:00:00.000Z",
+      "to": "2021-07-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 609,
+  "download_timestamp": "2025-08-02 07:25:51 UTC"
+}

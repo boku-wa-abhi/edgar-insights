@@ -1,0 +1,26 @@
+{
+  "cik": "0000025895",
+  "name": "CROWN CRAFTS INC",
+  "entityType": "operating",
+  "sic": "2211",
+  "sicDescription": "Broadwoven Fabric Mills, Cotton",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0330",
+  "tickers": [
+    "CRWS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "580678148",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "225-647-9100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:37 UTC"
+}

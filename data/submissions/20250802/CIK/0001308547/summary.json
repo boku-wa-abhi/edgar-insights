@@ -1,0 +1,26 @@
+{
+  "cik": "0001308547",
+  "name": "Dolby Laboratories, Inc.",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "DLB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "900199783",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415 558 0200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:12 UTC"
+}

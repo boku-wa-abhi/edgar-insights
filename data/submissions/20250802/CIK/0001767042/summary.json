@@ -1,0 +1,32 @@
+{
+  "cik": "0001767042",
+  "name": "Kodiak Gas Services, Inc.",
+  "entityType": "operating",
+  "sic": "4922",
+  "sicDescription": "Natural Gas Transmission",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "833013440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "936-539-3300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Frontier TopCo, Inc.",
+      "from": "2019-02-07T05:00:00.000Z",
+      "to": "2019-02-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 222,
+  "download_timestamp": "2025-08-02 07:23:21 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001017303",
+  "name": "TRANSACT TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TACT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "061456680",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "203-859-6800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:04:47 UTC"
+}

@@ -1,0 +1,47 @@
+{
+  "cik": "0000764038",
+  "name": "SouthState Corp",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SSB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "570799315",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8632934710",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SOUTH STATE Corp",
+      "from": "2014-07-03T04:00:00.000Z",
+      "to": "2021-09-03T04:00:00.000Z"
+    },
+    {
+      "name": "FIRST FINANCIAL HOLDINGS, INC.",
+      "from": "2013-05-17T04:00:00.000Z",
+      "to": "2014-06-25T04:00:00.000Z"
+    },
+    {
+      "name": "SCBT FINANCIAL CORP",
+      "from": "2004-03-04T05:00:00.000Z",
+      "to": "2013-07-26T04:00:00.000Z"
+    },
+    {
+      "name": "FIRST NATIONAL CORP /SC/",
+      "from": "1995-11-13T05:00:00.000Z",
+      "to": "2004-02-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:56 UTC"
+}

@@ -1,0 +1,36 @@
+{
+  "cik": "0001546066",
+  "name": "PEMBINA PIPELINE CORP",
+  "entityType": "other",
+  "sic": "1382",
+  "sicDescription": "Oil & Gas Field Exploration Services",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PBA",
+    "PBNAF",
+    "PMBPF",
+    "PMMBF",
+    "PPLAF",
+    "PPLOF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "403-231-7500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 598,
+  "download_timestamp": "2025-08-02 07:16:37 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001026785",
+  "name": "HIGHWAY HOLDINGS LTD",
+  "entityType": "other",
+  "sic": "3490",
+  "sicDescription": "Miscellaneous Fabricated Metal Products",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "HIHO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "011-86-755-2813-6056",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 267,
+  "download_timestamp": "2025-08-02 07:05:02 UTC"
+}

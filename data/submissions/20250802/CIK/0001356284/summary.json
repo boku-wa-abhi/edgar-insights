@@ -1,0 +1,26 @@
+{
+  "cik": "0001356284",
+  "name": "STRATS(SM) Trust for Goldman Sachs Group Securities, Series 2006-2",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GJS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7047152337",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:11:11 UTC"
+}

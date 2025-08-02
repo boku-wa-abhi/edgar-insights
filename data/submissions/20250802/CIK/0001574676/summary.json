@@ -1,0 +1,26 @@
+{
+  "cik": "0001574676",
+  "name": "Galenfeha, Inc.",
+  "entityType": "operating",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NGHI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "462283393",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-494-7934",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 149,
+  "download_timestamp": "2025-08-02 07:17:26 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0000037808",
+  "name": "FNB CORP/PA/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FNB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251255406",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "800-555-5455",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FNB CORP/FL/",
+      "from": "2001-07-17T04:00:00.000Z",
+      "to": "2016-09-09T04:00:00.000Z"
+    },
+    {
+      "name": "FNB CORP/PA",
+      "from": "1995-10-11T04:00:00.000Z",
+      "to": "2001-03-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:56:54 UTC"
+}

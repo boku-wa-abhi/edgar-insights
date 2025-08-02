@@ -1,0 +1,34 @@
+{
+  "cik": "0000067887",
+  "name": "MOOG INC.",
+  "entityType": "operating",
+  "sic": "3590",
+  "sicDescription": "Misc Industrial & Commercial Machinery & Equipment",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "MOG-A",
+    "MOG-B"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "160757636",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "716 652 2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MOOG INC",
+      "from": "1994-06-30T04:00:00.000Z",
+      "to": "2013-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:30 UTC"
+}

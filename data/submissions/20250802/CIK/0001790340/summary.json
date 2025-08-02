@@ -1,0 +1,26 @@
+{
+  "cik": "0001790340",
+  "name": "Immuneering Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-500-8080",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 247,
+  "download_timestamp": "2025-08-02 07:24:10 UTC"
+}

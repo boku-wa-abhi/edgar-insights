@@ -1,0 +1,32 @@
+{
+  "cik": "0001708599",
+  "name": "Serina Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "AL",
+  "stateOfIncorporationDescription": "AL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SER"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "821436829",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(256) 327-9630",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AgeX Therapeutics, Inc.",
+      "from": "2017-07-10T04:00:00.000Z",
+      "to": "2024-04-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 410,
+  "download_timestamp": "2025-08-02 07:21:27 UTC"
+}

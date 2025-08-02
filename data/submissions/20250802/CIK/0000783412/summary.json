@@ -1,0 +1,26 @@
+{
+  "cik": "0000783412",
+  "name": "DAILY JOURNAL CORP",
+  "entityType": "operating",
+  "sic": "2711",
+  "sicDescription": "Newspapers: Publishing or  Publishing & Printing",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "DJCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954133299",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2132295300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 410,
+  "download_timestamp": "2025-08-02 07:00:10 UTC"
+}

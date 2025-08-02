@@ -1,0 +1,37 @@
+{
+  "cik": "0001036044",
+  "name": "Identiv, Inc.",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INVE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770444317",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "949-250-8888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IDENTIVE GROUP, INC.",
+      "from": "2010-06-17T04:00:00.000Z",
+      "to": "2014-05-23T04:00:00.000Z"
+    },
+    {
+      "name": "SCM MICROSYSTEMS INC",
+      "from": "1997-06-12T04:00:00.000Z",
+      "to": "2010-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:14 UTC"
+}

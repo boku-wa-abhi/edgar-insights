@@ -1,0 +1,42 @@
+{
+  "cik": "0001498382",
+  "name": "TuHURA Biosciences, Inc./NV",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HURA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "990360497",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "813-875-6600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kintara Therapeutics, Inc.",
+      "from": "2020-08-21T04:00:00.000Z",
+      "to": "2024-10-22T04:00:00.000Z"
+    },
+    {
+      "name": "DelMar Pharmaceuticals, Inc.",
+      "from": "2013-01-23T05:00:00.000Z",
+      "to": "2020-08-18T04:00:00.000Z"
+    },
+    {
+      "name": "Berry Only Inc.",
+      "from": "2010-08-17T04:00:00.000Z",
+      "to": "2013-01-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 853,
+  "download_timestamp": "2025-08-02 07:15:03 UTC"
+}

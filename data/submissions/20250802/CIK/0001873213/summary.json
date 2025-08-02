@@ -1,0 +1,26 @@
+{
+  "cik": "0001873213",
+  "name": "Birdie Win Corp",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "BRWC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "384179726",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "60327764841",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:28:18 UTC"
+}

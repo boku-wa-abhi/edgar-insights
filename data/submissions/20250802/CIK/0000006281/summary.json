@@ -1,0 +1,26 @@
+{
+  "cik": "0000006281",
+  "name": "ANALOG DEVICES INC",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1101",
+  "tickers": [
+    "ADI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042348234",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7813294700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:09 UTC"
+}

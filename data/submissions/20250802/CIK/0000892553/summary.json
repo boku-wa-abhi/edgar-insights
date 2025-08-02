@@ -1,0 +1,28 @@
+{
+  "cik": "0000892553",
+  "name": "CHART INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3443",
+  "sicDescription": "Fabricated Plate Work (Boiler Shops)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTLS",
+    "GTLS-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "341712937",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "770-721-8800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:42 UTC"
+}

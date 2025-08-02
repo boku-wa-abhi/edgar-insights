@@ -1,0 +1,32 @@
+{
+  "cik": "0001558740",
+  "name": "Winvest Group Ltd",
+  "entityType": "operating",
+  "sic": "7812",
+  "sicDescription": "Services-Motion Picture & Video Tape Production",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WNLV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272052033",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(775) 996-0288",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZYROX MINING INTERNATIONAL INC",
+      "from": "2012-09-26T04:00:00.000Z",
+      "to": "2021-11-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 100,
+  "download_timestamp": "2025-08-02 07:16:56 UTC"
+}

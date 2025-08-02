@@ -1,0 +1,26 @@
+{
+  "cik": "0001679788",
+  "name": "Coinbase Global, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "464707224",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3026365401",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:20:31 UTC"
+}

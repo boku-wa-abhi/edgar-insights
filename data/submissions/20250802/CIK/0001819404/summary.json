@@ -1,0 +1,32 @@
+{
+  "cik": "0001819404",
+  "name": "Nerdy Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NRDY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981499860",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(314) 412-1227",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TPG Pace Tech Opportunities Corp.",
+      "from": "2020-07-29T04:00:00.000Z",
+      "to": "2021-09-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 437,
+  "download_timestamp": "2025-08-02 07:25:20 UTC"
+}

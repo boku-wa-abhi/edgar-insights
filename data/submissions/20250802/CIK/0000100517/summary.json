@@ -1,0 +1,37 @@
+{
+  "cik": "0000100517",
+  "name": "United Airlines Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UAL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "362675207",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "872-825-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "United Continental Holdings, Inc.",
+      "from": "2010-07-22T04:00:00.000Z",
+      "to": "2019-06-27T04:00:00.000Z"
+    },
+    {
+      "name": "UAL CORP /DE/",
+      "from": "1994-08-08T04:00:00.000Z",
+      "to": "2010-09-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:12 UTC"
+}

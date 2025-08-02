@@ -1,0 +1,26 @@
+{
+  "cik": "0000073309",
+  "name": "NUCOR CORP",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NUE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "131860817",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7043667000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:39 UTC"
+}

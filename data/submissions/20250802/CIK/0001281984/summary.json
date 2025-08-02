@@ -1,0 +1,37 @@
+{
+  "cik": "0001281984",
+  "name": "Decentral Life, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WDLF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "460495298",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "855-933-3277",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Social Life Network, Inc.",
+      "from": "2016-06-17T00:00:00.000Z",
+      "to": "2023-02-03T00:00:00.000Z"
+    },
+    {
+      "name": "SEW CAL LOGO INC",
+      "from": "2004-03-02T00:00:00.000Z",
+      "to": "2016-04-08T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 318,
+  "download_timestamp": "2025-08-02 07:09:37 UTC"
+}

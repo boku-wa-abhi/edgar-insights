@@ -1,0 +1,37 @@
+{
+  "cik": "0000910068",
+  "name": "WESTERN ASSET HIGH INCOME OPPORTUNITY FUND INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "HIO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133735236",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-777-0102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HIGH INCOME OPPORTUNITY FUND INC",
+      "from": "1995-11-20T05:00:00.000Z",
+      "to": "2006-08-30T04:00:00.000Z"
+    },
+    {
+      "name": "SMITH BARNEY HIGH INCOME OPPORTUNITY FUND INC",
+      "from": "1994-05-23T04:00:00.000Z",
+      "to": "1994-12-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 582,
+  "download_timestamp": "2025-08-02 07:03:11 UTC"
+}

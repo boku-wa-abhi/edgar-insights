@@ -1,0 +1,26 @@
+{
+  "cik": "0001634117",
+  "name": "Barnes & Noble Education, Inc.",
+  "entityType": "operating",
+  "sic": "5940",
+  "sicDescription": "Retail-Miscellaneous Shopping Goods Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0503",
+  "tickers": [
+    "BNED"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "460599018",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "908-991-2665",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 863,
+  "download_timestamp": "2025-08-02 07:19:17 UTC"
+}

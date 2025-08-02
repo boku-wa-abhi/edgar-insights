@@ -1,0 +1,28 @@
+{
+  "cik": "0001761640",
+  "name": "INSURAGUEST TECHNOLOGIES INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0630",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6046854745",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MANADO GOLD CORP.",
+      "from": "2018-12-13T05:00:00.000Z",
+      "to": "2018-12-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:23:13 UTC"
+}

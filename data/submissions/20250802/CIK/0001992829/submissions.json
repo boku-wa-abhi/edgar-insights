@@ -1,0 +1,115 @@
+{
+  "cik": "0001992829",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "SANDOZ GROUP AG",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "addresses": {
+    "mailing": {
+      "street1": "SUURSTOFFI 14",
+      "street2": null,
+      "city": "ROTKREUZ",
+      "stateOrCountry": "V8",
+      "zipCode": "6343",
+      "stateOrCountryDescription": "Switzerland",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "SUURSTOFFI 14",
+      "street2": null,
+      "city": "ROTKREUZ",
+      "stateOrCountry": "V8",
+      "zipCode": "6343",
+      "stateOrCountryDescription": "Switzerland",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "41 61 324 11 11",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "9999999995-23-002680",
+        "0001104659-23-099221"
+      ],
+      "filingDate": [
+        "2023-09-15",
+        "2023-09-08"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-09-18T04:15:31.000Z",
+        "2023-09-08T16:53:59.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "EFFECT",
+        "F-6"
+      ],
+      "fileNumber": [
+        "333-274415",
+        "333-274415"
+      ],
+      "filmNumber": [
+        "231260023",
+        "231244563"
+      ],
+      "items": [
+        "F-6,,2023-09-15 09:00:00",
+        ""
+      ],
+      "core_type": [
+        "EFFECT",
+        "F-6"
+      ],
+      "size": [
+        1566,
+        394192
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslEFFECTX01/primary_doc.xml",
+        "tm2324873d1_f6.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

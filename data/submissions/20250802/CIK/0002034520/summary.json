@@ -1,0 +1,28 @@
+{
+  "cik": "0002034520",
+  "name": "GIBO HOLDINGS Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GIBO",
+    "GIBOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "60192886887",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:32:50 UTC"
+}

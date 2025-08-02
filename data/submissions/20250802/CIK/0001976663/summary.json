@@ -1,0 +1,26 @@
+{
+  "cik": "0001976663",
+  "name": "Nexscient, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NXNT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "922915192",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(310) 494-6620",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 26,
+  "download_timestamp": "2025-08-02 07:30:53 UTC"
+}

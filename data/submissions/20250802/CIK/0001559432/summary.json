@@ -1,0 +1,37 @@
+{
+  "cik": "0001559432",
+  "name": "TXO Partners, L.P.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TXO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "320368858",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "817-334-7800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TXO Energy Partners, L.P.",
+      "from": "2022-08-10T04:00:00.000Z",
+      "to": "2023-05-09T04:00:00.000Z"
+    },
+    {
+      "name": "MorningStar Partners, L.P.",
+      "from": "2012-10-04T04:00:00.000Z",
+      "to": "2023-01-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 157,
+  "download_timestamp": "2025-08-02 07:16:57 UTC"
+}

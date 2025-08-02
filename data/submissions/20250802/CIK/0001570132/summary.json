@@ -1,0 +1,32 @@
+{
+  "cik": "0001570132",
+  "name": "ANVI GLOBAL HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "5400",
+  "sicDescription": "Retail-Food Stores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "ANVI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "331226144",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "408 821 4491",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VETRO, INC.",
+      "from": "2013-05-16T04:00:00.000Z",
+      "to": "2017-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 75,
+  "download_timestamp": "2025-08-02 07:17:18 UTC"
+}

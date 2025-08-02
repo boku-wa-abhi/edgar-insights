@@ -1,0 +1,32 @@
+{
+  "cik": "0000024090",
+  "name": "CITIZENS, INC.",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "840755371",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "5128377100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CITIZENS INC",
+      "from": "1995-12-05T05:00:00.000Z",
+      "to": "2019-06-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:36 UTC"
+}

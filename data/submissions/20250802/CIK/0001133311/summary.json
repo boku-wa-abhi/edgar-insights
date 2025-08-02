@@ -1,0 +1,32 @@
+{
+  "cik": "0001133311",
+  "name": "TRAVELZOO",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TZOO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "364415727",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2124844900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TRAVELZOO INC",
+      "from": "2001-02-06T05:00:00.000Z",
+      "to": "2017-05-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:46 UTC"
+}

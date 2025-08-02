@@ -1,0 +1,42 @@
+{
+  "cik": "0001068897",
+  "name": "FOXBY CORP.",
+  "entityType": "investment",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FXBY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "391966806",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2127850900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FOXBY CORP",
+      "from": "2003-07-18T04:00:00.000Z",
+      "to": "2006-02-06T05:00:00.000Z"
+    },
+    {
+      "name": "INTERNET GROWTH FUND INC",
+      "from": "2002-09-10T04:00:00.000Z",
+      "to": "2003-03-03T05:00:00.000Z"
+    },
+    {
+      "name": "LCM INTERNET GROWTH FUND INC",
+      "from": "1999-10-14T04:00:00.000Z",
+      "to": "2002-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 366,
+  "download_timestamp": "2025-08-02 07:06:11 UTC"
+}

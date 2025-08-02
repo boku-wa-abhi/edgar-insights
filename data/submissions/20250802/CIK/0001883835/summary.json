@@ -1,0 +1,32 @@
+{
+  "cik": "0001883835",
+  "name": "ESG Inc.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESGH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "871918342",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "267-467-5871",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PLASMA INNOVATIVE INC.",
+      "from": "2021-09-24T04:00:00.000Z",
+      "to": "2023-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 63,
+  "download_timestamp": "2025-08-02 07:28:40 UTC"
+}

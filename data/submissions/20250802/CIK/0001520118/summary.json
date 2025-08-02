@@ -1,0 +1,44 @@
+{
+  "cik": "0001520118",
+  "name": "MedWellAI, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MWAI",
+    "INTV"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "821725385",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "813-358-4400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INTEGRATED VENTURES, INC.",
+      "from": "2017-08-03T04:00:00.000Z",
+      "to": "2025-05-16T04:00:00.000Z"
+    },
+    {
+      "name": "EMS FIND, INC.",
+      "from": "2015-03-26T04:00:00.000Z",
+      "to": "2017-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "LIGHTCOLLAR, INC.",
+      "from": "2011-06-07T04:00:00.000Z",
+      "to": "2015-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 215,
+  "download_timestamp": "2025-08-02 07:15:51 UTC"
+}

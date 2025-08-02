@@ -1,0 +1,26 @@
+{
+  "cik": "0002021688",
+  "name": "Uni-Fuels Holdings Ltd",
+  "entityType": "other",
+  "sic": "5172",
+  "sicDescription": "Wholesale-Petroleum & Petroleum Products (No Bulk Stations)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "UFG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 6027 1250",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 30,
+  "download_timestamp": "2025-08-02 07:32:15 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0000924613",
+  "name": "NOKIA CORP",
+  "entityType": "other",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "H9",
+  "stateOfIncorporationDescription": "Finland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOK",
+    "NOKBF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "358 71 400 2733",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:45 UTC"
+}

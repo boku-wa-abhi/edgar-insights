@@ -1,0 +1,26 @@
+{
+  "cik": "0001476150",
+  "name": "Terreno Realty Corp",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRNO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "271262675",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(415) 655-4580",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 675,
+  "download_timestamp": "2025-08-02 07:14:20 UTC"
+}

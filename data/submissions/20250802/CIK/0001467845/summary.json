@@ -1,0 +1,37 @@
+{
+  "cik": "0001467845",
+  "name": "Kashin, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "KUSA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "264711535",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "345-938-5360",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ONE CLEAN PLANET, INC.",
+      "from": "2014-11-07T05:00:00.000Z",
+      "to": "2015-06-25T04:00:00.000Z"
+    },
+    {
+      "name": "SINGULAR CHEF, INC.",
+      "from": "2009-08-11T04:00:00.000Z",
+      "to": "2013-09-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 86,
+  "download_timestamp": "2025-08-02 07:14:04 UTC"
+}

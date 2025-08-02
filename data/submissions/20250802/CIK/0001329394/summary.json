@@ -1,0 +1,26 @@
+{
+  "cik": "0001329394",
+  "name": "Silicon Motion Technology CORP",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SIMO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "852 2307 4768",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 402,
+  "download_timestamp": "2025-08-02 07:10:39 UTC"
+}

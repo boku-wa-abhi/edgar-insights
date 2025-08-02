@@ -1,0 +1,26 @@
+{
+  "cik": "0002054272",
+  "name": "1RT Acquisition Corp.",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ONCH"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "347-526-2969",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:33:22 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001434737",
+  "name": "SPIRITS TIME INTERNATIONAL, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SRSG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "203455830",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(801) 399-3632",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sears Oil & Gas",
+      "from": "2008-05-30T04:00:00.000Z",
+      "to": "2018-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 144,
+  "download_timestamp": "2025-08-02 07:13:13 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0002010788",
+  "name": "EXOZYMES INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXOZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "834550057",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(626) - 415 - 1488",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invizyne Technologies Inc",
+      "from": "2024-02-09T05:00:00.000Z",
+      "to": "2025-01-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 78,
+  "download_timestamp": "2025-08-02 07:31:53 UTC"
+}

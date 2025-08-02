@@ -1,0 +1,26 @@
+{
+  "cik": "0000726728",
+  "name": "REALTY INCOME CORP",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "O"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "330580106",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8582845000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:30 UTC"
+}

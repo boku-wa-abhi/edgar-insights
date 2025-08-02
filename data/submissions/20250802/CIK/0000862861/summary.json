@@ -1,0 +1,37 @@
+{
+  "cik": "0000862861",
+  "name": "ALT5 Sigma Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411454591",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-997-5968",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JanOne Inc.",
+      "from": "2019-09-12T04:00:00.000Z",
+      "to": "2024-06-21T04:00:00.000Z"
+    },
+    {
+      "name": "APPLIANCE RECYCLING CENTERS OF AMERICA INC /MN",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2019-08-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 818,
+  "download_timestamp": "2025-08-02 07:01:45 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001616543",
+  "name": "Senseonics Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SENS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "471210911",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(301) 515-7260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ASN Technologies, Inc.",
+      "from": "2014-08-15T04:00:00.000Z",
+      "to": "2015-11-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 797,
+  "download_timestamp": "2025-08-02 07:18:47 UTC"
+}

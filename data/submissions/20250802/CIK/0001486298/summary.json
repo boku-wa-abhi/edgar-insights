@@ -1,0 +1,37 @@
+{
+  "cik": "0001486298",
+  "name": "Blackstone Senior Floating Rate 2027 Term Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BSL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "272267165",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-503-2100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Blackstone Senior Floating Rate Term Fund",
+      "from": "2021-01-29T05:00:00.000Z",
+      "to": "2023-03-03T05:00:00.000Z"
+    },
+    {
+      "name": "Blackstone / GSO Senior Floating Rate Term Fund",
+      "from": "2010-03-05T05:00:00.000Z",
+      "to": "2020-11-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 310,
+  "download_timestamp": "2025-08-02 07:14:37 UTC"
+}

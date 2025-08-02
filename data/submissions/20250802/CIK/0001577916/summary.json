@@ -1,0 +1,26 @@
+{
+  "cik": "0001577916",
+  "name": "Premier, Inc.",
+  "entityType": "operating",
+  "sic": "8741",
+  "sicDescription": "Services-Management Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PINC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "704-357-0022",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 900,
+  "download_timestamp": "2025-08-02 07:17:33 UTC"
+}

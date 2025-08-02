@@ -1,0 +1,26 @@
+{
+  "cik": "0001010000",
+  "name": "RUPERT RESOURCES LTD",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "RUPRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "1 416 304 9004",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:04:36 UTC"
+}

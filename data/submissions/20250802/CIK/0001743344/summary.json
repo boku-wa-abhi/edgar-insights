@@ -1,0 +1,26 @@
+{
+  "cik": "0001743344",
+  "name": "PyroGenesis Canada Inc.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A8",
+  "stateOfIncorporationDescription": "Quebec, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PYRGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980627529",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "514-937-0002 EXT 227",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 163,
+  "download_timestamp": "2025-08-02 07:22:36 UTC"
+}

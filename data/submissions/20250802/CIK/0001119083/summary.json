@@ -1,0 +1,26 @@
+{
+  "cik": "0001119083",
+  "name": "MIND CTI LTD",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNDO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "97249936666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:07:24 UTC"
+}

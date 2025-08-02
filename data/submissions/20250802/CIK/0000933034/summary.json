@@ -1,0 +1,26 @@
+{
+  "cik": "0000933034",
+  "name": "STRATTEC SECURITY CORP",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "0629",
+  "tickers": [
+    "STRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391804239",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "4142473333",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:59 UTC"
+}

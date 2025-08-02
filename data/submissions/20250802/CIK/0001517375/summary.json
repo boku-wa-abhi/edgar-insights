@@ -1,0 +1,26 @@
+{
+  "cik": "0001517375",
+  "name": "Sprout Social, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "272404165",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "866-878-3231",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 727,
+  "download_timestamp": "2025-08-02 07:15:43 UTC"
+}

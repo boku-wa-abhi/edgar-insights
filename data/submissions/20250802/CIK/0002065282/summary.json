@@ -1,0 +1,28 @@
+{
+  "cik": "0002065282",
+  "name": "Allied Critical Metals Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACMIF",
+    "ALCMF"
+  ],
+  "exchanges": [
+    null,
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 720-2703",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:33:37 UTC"
+}

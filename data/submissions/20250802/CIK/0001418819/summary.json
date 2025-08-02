@@ -1,0 +1,32 @@
+{
+  "cik": "0001418819",
+  "name": "Iridium Communications Inc.",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IRDM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "221344998",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "301-571-6200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GHL Acquisition Corp.",
+      "from": "2007-11-30T05:00:00.000Z",
+      "to": "2009-09-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:12:49 UTC"
+}

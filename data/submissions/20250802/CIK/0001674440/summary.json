@@ -1,0 +1,37 @@
+{
+  "cik": "0001674440",
+  "name": "Connexa Sports Technologies Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "YYAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "611789640",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(443) 407-7564",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Slinger Bag Inc.",
+      "from": "2019-12-10T05:00:00.000Z",
+      "to": "2022-05-02T04:00:00.000Z"
+    },
+    {
+      "name": "LAZEX INC.",
+      "from": "2016-11-07T05:00:00.000Z",
+      "to": "2019-09-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 265,
+  "download_timestamp": "2025-08-02 07:20:23 UTC"
+}

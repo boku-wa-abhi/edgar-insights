@@ -1,0 +1,100 @@
+{
+  "cik": "0001988900",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Kobe Bussan Co., Ltd./ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10013",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "125-1 HIRANO, KAKOGAWA-CHO",
+      "street2": "KAKOGAWA-SHI",
+      "city": "HYOGO",
+      "stateOrCountry": "M0",
+      "zipCode": "675-0063",
+      "stateOrCountryDescription": "Japan",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-816-2456",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-23-001104"
+      ],
+      "filingDate": [
+        "2023-08-07"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-08-07T16:06:53.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-273759"
+      ],
+      "filmNumber": [
+        "231146442"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "size": [
+        110756
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "e618836_f6ef-kb.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

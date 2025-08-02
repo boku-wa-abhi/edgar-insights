@@ -1,0 +1,32 @@
+{
+  "cik": "0001707925",
+  "name": "LINDE PLC",
+  "entityType": "operating",
+  "sic": "2810",
+  "sicDescription": "Industrial Inorganic Chemicals",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "00441483242200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZAMALIGHT PLC",
+      "from": "2017-06-01T04:00:00.000Z",
+      "to": "2017-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 678,
+  "download_timestamp": "2025-08-02 07:21:24 UTC"
+}

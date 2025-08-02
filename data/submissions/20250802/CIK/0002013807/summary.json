@@ -1,0 +1,34 @@
+{
+  "cik": "0002013807",
+  "name": "Foxx Development Holdings Inc.",
+  "entityType": "operating",
+  "sic": "3576",
+  "sicDescription": "Computer Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FOXX",
+    "FOXXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "512-666-1277",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Acri Capital Merger Sub I Inc.",
+      "from": "2024-04-08T04:00:00.000Z",
+      "to": "2024-07-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 50,
+  "download_timestamp": "2025-08-02 07:32:02 UTC"
+}

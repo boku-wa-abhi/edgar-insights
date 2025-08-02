@@ -1,0 +1,26 @@
+{
+  "cik": "0001611647",
+  "name": "Freshpet, Inc.",
+  "entityType": "operating",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FRPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "201884894",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "201-520-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 891,
+  "download_timestamp": "2025-08-02 07:18:40 UTC"
+}

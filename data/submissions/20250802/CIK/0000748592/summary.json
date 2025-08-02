@@ -1,0 +1,47 @@
+{
+  "cik": "0000748592",
+  "name": "Ernexa Therapeutics Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ERNA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "311103425",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(617) 798-6700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Eterna Therapeutics Inc.",
+      "from": "2022-10-24T04:00:00.000Z",
+      "to": "2025-04-04T04:00:00.000Z"
+    },
+    {
+      "name": "Brooklyn ImmunoTherapeutics, Inc.",
+      "from": "2021-03-26T04:00:00.000Z",
+      "to": "2022-10-14T04:00:00.000Z"
+    },
+    {
+      "name": "NTN BUZZTIME INC",
+      "from": "2005-09-01T04:00:00.000Z",
+      "to": "2021-03-23T04:00:00.000Z"
+    },
+    {
+      "name": "NTN COMMUNICATIONS INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2005-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:59:47 UTC"
+}

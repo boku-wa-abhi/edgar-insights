@@ -1,0 +1,26 @@
+{
+  "cik": "0000069422",
+  "name": "INTERGROUP CORP",
+  "entityType": "operating",
+  "sic": "6513",
+  "sicDescription": "Operators of  Apartment Buildings",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "INTG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133293645",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(310) 889-2511",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 582,
+  "download_timestamp": "2025-08-02 06:57:31 UTC"
+}

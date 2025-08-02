@@ -1,0 +1,26 @@
+{
+  "cik": "0001530249",
+  "name": "FS Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSBW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "454585178",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "425-771-5299",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 847,
+  "download_timestamp": "2025-08-02 07:16:10 UTC"
+}

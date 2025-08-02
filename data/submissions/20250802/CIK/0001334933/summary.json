@@ -1,0 +1,26 @@
+{
+  "cik": "0001334933",
+  "name": "URANIUM ENERGY CORP",
+  "entityType": "operating",
+  "sic": "1090",
+  "sicDescription": "Miscellaneous Metal Ores",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "UEC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980399476",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "361-888-8235",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:45 UTC"
+}

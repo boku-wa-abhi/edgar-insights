@@ -1,0 +1,37 @@
+{
+  "cik": "0001071840",
+  "name": "SolarWindow Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "WNDW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "593509694",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-213-0689",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEW ENERGY TECHNOLOGIES, INC.",
+      "from": "2009-01-14T05:00:00.000Z",
+      "to": "2015-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "OCTILLION CORP",
+      "from": "2005-08-30T04:00:00.000Z",
+      "to": "2009-01-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 548,
+  "download_timestamp": "2025-08-02 07:06:19 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001903870",
+  "name": "Forafric Global PLC",
+  "entityType": "other",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "J1",
+  "stateOfIncorporationDescription": "Gibraltar",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AFRI",
+    "AFRIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "011 350 20072505",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Globis NV Merger Corp.",
+      "from": "2022-01-12T05:00:00.000Z",
+      "to": "2022-06-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 70,
+  "download_timestamp": "2025-08-02 07:29:14 UTC"
+}

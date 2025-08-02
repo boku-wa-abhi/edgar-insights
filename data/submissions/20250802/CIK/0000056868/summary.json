@@ -1,0 +1,32 @@
+{
+  "cik": "0000056868",
+  "name": "PRIMEENERGY RESOURCES CORP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNRG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "840637348",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2033585700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRIMEENERGY CORP",
+      "from": "1995-11-14T05:00:00.000Z",
+      "to": "2018-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 06:57:15 UTC"
+}

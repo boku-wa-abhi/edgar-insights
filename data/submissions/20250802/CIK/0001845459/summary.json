@@ -1,0 +1,34 @@
+{
+  "cik": "0001845459",
+  "name": "NKGen Biotech, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NKGN",
+    "NKGNW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(949) 396-6830",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Graf Acquisition Corp. IV",
+      "from": "2021-02-23T05:00:00.000Z",
+      "to": "2023-09-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 260,
+  "download_timestamp": "2025-08-02 07:26:52 UTC"
+}

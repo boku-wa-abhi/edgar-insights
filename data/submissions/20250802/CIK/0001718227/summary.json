@@ -1,0 +1,26 @@
+{
+  "cik": "0001718227",
+  "name": "Construction Partners, Inc.",
+  "entityType": "operating",
+  "sic": "1600",
+  "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ROAD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "260758017",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "334.673.9763",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 505,
+  "download_timestamp": "2025-08-02 07:21:47 UTC"
+}

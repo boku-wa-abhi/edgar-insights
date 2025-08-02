@@ -1,0 +1,28 @@
+{
+  "cik": "0001279967",
+  "name": "CREDIT AGRICOLE S A",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CRARY",
+    "CRARF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 50,
+  "download_timestamp": "2025-08-02 07:09:34 UTC"
+}

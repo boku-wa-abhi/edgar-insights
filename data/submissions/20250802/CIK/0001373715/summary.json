@@ -1,0 +1,32 @@
+{
+  "cik": "0001373715",
+  "name": "ServiceNow, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "202056195",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-501-8550",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SERVICE-NOW.COM",
+      "from": "2006-08-22T04:00:00.000Z",
+      "to": "2012-05-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:11:34 UTC"
+}

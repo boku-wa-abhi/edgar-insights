@@ -1,0 +1,26 @@
+{
+  "cik": "0001014473",
+  "name": "VERISIGN INC/CA",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRSN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943221585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7039483200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:04:44 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001021860",
+  "name": "NOV Inc.",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NOV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760475815",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "346-223-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NATIONAL OILWELL VARCO INC",
+      "from": "2005-03-11T05:00:00.000Z",
+      "to": "2020-12-22T05:00:00.000Z"
+    },
+    {
+      "name": "NATIONAL OILWELL INC",
+      "from": "1996-10-04T04:00:00.000Z",
+      "to": "2005-03-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:04:53 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001415921",
+  "name": "Navios Maritime Partners L.P.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NMM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980384348",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "37797982140",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 394,
+  "download_timestamp": "2025-08-02 07:12:44 UTC"
+}

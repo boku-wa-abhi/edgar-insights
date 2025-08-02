@@ -1,0 +1,28 @@
+{
+  "cik": "0001812727",
+  "name": "Reliance Global Group, Inc.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RELI",
+    "RELIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "463390293",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "732-780-4647",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 287,
+  "download_timestamp": "2025-08-02 07:25:00 UTC"
+}

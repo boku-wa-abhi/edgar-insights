@@ -1,0 +1,37 @@
+{
+  "cik": "0001803914",
+  "name": "Playboy, Inc.",
+  "entityType": "operating",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PLBY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "371958714",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310-424-1800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PLBY Group, Inc.",
+      "from": "2020-12-04T05:00:00.000Z",
+      "to": "2025-06-16T04:00:00.000Z"
+    },
+    {
+      "name": "Mountain Crest Acquisition Corp.",
+      "from": "2020-02-21T05:00:00.000Z",
+      "to": "2021-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 475,
+  "download_timestamp": "2025-08-02 07:24:38 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002041338",
+  "name": "Dreamland Ltd",
+  "entityType": "other",
+  "sic": "8741",
+  "sicDescription": "Services-Management Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "TDIC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 5628 6281",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 14,
+  "download_timestamp": "2025-08-02 07:33:01 UTC"
+}

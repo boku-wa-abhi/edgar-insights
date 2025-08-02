@@ -1,0 +1,26 @@
+{
+  "cik": "0001610682",
+  "name": "USD Partners LP",
+  "entityType": "operating",
+  "sic": "4013",
+  "sicDescription": "Railroad Switching & Terminal Establishments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USDP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "713-249-0426",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 445,
+  "download_timestamp": "2025-08-02 07:18:38 UTC"
+}

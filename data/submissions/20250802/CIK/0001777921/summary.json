@@ -1,0 +1,32 @@
+{
+  "cik": "0001777921",
+  "name": "AvePoint, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "834461709",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(201) 793-1111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Apex Technology Acquisition Corp",
+      "from": "2019-07-16T04:00:00.000Z",
+      "to": "2021-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 483,
+  "download_timestamp": "2025-08-02 07:23:40 UTC"
+}

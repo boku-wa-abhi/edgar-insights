@@ -1,0 +1,26 @@
+{
+  "cik": "0000070502",
+  "name": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/",
+  "entityType": "operating",
+  "sic": "6159",
+  "sicDescription": "Miscellaneous Business Credit Institution",
+  "stateOfIncorporation": "DC",
+  "stateOfIncorporationDescription": "DC",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "NRUC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "520891669",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "7034671800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 06:57:34 UTC"
+}

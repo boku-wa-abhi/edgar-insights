@@ -1,0 +1,32 @@
+{
+  "cik": "0000839470",
+  "name": "WESTWATER RESOURCES, INC.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WWR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "752212772",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(303) 531-0470",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "URANIUM RESOURCES INC /DE/",
+      "from": "1995-01-26T05:00:00.000Z",
+      "to": "2017-08-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:18 UTC"
+}

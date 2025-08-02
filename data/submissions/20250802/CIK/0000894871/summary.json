@@ -1,0 +1,37 @@
+{
+  "cik": "0000894871",
+  "name": "Arena Group Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AREN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "680232575",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212 321 5002",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "theMaven, Inc.",
+      "from": "2017-01-30T05:00:00.000Z",
+      "to": "2022-02-07T05:00:00.000Z"
+    },
+    {
+      "name": "INTEGRATED SURGICAL SYSTEMS INC",
+      "from": "1996-07-30T04:00:00.000Z",
+      "to": "2016-12-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 892,
+  "download_timestamp": "2025-08-02 07:02:46 UTC"
+}

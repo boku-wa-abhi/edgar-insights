@@ -1,0 +1,32 @@
+{
+  "cik": "0000731122",
+  "name": "MUNCY COLUMBIA FINANCIAL Corp",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCFN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "232254643",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5707844400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CCFNB BANCORP INC",
+      "from": "1995-11-14T05:00:00.000Z",
+      "to": "2023-11-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 431,
+  "download_timestamp": "2025-08-02 06:59:35 UTC"
+}

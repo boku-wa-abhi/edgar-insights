@@ -1,0 +1,32 @@
+{
+  "cik": "0001035983",
+  "name": "COMFORT SYSTEMS USA INC",
+  "entityType": "operating",
+  "sic": "1731",
+  "sicDescription": "Electrical Work",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FIX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760526487",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7138309600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COMFORT SYSTEMS USA INC",
+      "from": "1997-06-02T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:14 UTC"
+}

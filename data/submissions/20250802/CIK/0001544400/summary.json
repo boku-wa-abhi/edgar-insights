@@ -1,0 +1,32 @@
+{
+  "cik": "0001544400",
+  "name": "NFiniTi inc.",
+  "entityType": "operating",
+  "sic": "1382",
+  "sicDescription": "Oil & Gas Field Exploration Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "NFTN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "990372611",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "778-372-9794",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "American Oil & Gas Inc.",
+      "from": "2012-03-16T04:00:00.000Z",
+      "to": "2021-12-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 99,
+  "download_timestamp": "2025-08-02 07:16:35 UTC"
+}

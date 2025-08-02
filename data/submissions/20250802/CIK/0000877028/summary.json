@@ -1,0 +1,43 @@
+{
+  "cik": "0000877028",
+  "name": "T2 Metals Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0430",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 685-9316",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AGUILA COPPER CORP.",
+      "from": "2021-12-08T05:00:00.000Z",
+      "to": "2022-10-05T04:00:00.000Z"
+    },
+    {
+      "name": "AGUILA AMERICAN GOLD LTD",
+      "from": "2020-10-08T04:00:00.000Z",
+      "to": "2021-10-29T04:00:00.000Z"
+    },
+    {
+      "name": "AGUILA AMERICAN RESOURCES LTD /FI",
+      "from": "2002-05-14T04:00:00.000Z",
+      "to": "2011-05-19T04:00:00.000Z"
+    },
+    {
+      "name": "BRAZILIAN GOLDFIELDS LTD                                /FI",
+      "from": "2002-04-19T04:00:00.000Z",
+      "to": "2002-04-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 30,
+  "download_timestamp": "2025-08-02 07:02:03 UTC"
+}

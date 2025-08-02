@@ -1,0 +1,37 @@
+{
+  "cik": "0001309402",
+  "name": "Green Plains Inc.",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "IA",
+  "stateOfIncorporationDescription": "IA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GPRE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "841652107",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "402-884-8700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Green Plains Renewable Energy, Inc.",
+      "from": "2005-01-13T05:00:00.000Z",
+      "to": "2014-05-09T04:00:00.000Z"
+    },
+    {
+      "name": "GREEN PLAINS RENEWABLE ENERGY, INC.",
+      "from": "2005-01-13T05:00:00.000Z",
+      "to": "2014-05-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:13 UTC"
+}

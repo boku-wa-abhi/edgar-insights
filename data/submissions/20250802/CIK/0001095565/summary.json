@@ -1,0 +1,26 @@
+{
+  "cik": "0001095565",
+  "name": "HEALTHSTREAM INC",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HSTM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "621443555",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "6153013100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:53 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001997859",
+  "name": "WEBTOON Entertainment Inc.",
+  "entityType": "operating",
+  "sic": "2741",
+  "sicDescription": "Miscellaneous Publishing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WBTN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "213-347-4841",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 79,
+  "download_timestamp": "2025-08-02 07:31:32 UTC"
+}

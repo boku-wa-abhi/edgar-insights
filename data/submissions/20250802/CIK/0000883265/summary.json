@@ -1,0 +1,47 @@
+{
+  "cik": "0000883265",
+  "name": "Invesco Trust for Investment Grade New York Municipals",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "VTN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "366981632",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Van Kampen Trust for Investment Grade New York Municipals",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN TRUST FOR INVESTMENT GRADE NEW YORK MUNICIPALS",
+      "from": "1998-12-23T05:00:00.000Z",
+      "to": "2010-04-12T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL TRUST FOR INVT GRADE NEW YORK MU",
+      "from": "1996-06-28T04:00:00.000Z",
+      "to": "1998-06-17T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN MERRITT TRUST FOR INVESTMENT GRADE NEW YORK MUNIC",
+      "from": "1994-12-29T05:00:00.000Z",
+      "to": "1995-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 565,
+  "download_timestamp": "2025-08-02 07:02:17 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001371128",
+  "name": "NewHydrogen, Inc.",
+  "entityType": "operating",
+  "sic": "3081",
+  "sicDescription": "Unsupported Plastics Film & Sheet",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEWH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6612510001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BioSolar Inc",
+      "from": "2006-11-22T05:00:00.000Z",
+      "to": "2021-04-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 306,
+  "download_timestamp": "2025-08-02 07:11:30 UTC"
+}

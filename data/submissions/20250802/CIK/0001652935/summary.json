@@ -1,0 +1,26 @@
+{
+  "cik": "0001652935",
+  "name": "ACTUATE THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACTU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473044785",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "847-986-4190",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 130,
+  "download_timestamp": "2025-08-02 07:19:51 UTC"
+}

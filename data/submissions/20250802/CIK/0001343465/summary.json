@@ -1,0 +1,52 @@
+{
+  "cik": "0001343465",
+  "name": "Sun Pacific Holding Corp.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNPW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "901119774",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "732-845-0906",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EXOlifestyle, Inc.",
+      "from": "2016-11-14T00:00:00.000Z",
+      "to": "2017-09-15T00:00:00.000Z"
+    },
+    {
+      "name": "PF Hospitality Group, Inc.",
+      "from": "2015-11-16T00:00:00.000Z",
+      "to": "2016-09-28T00:00:00.000Z"
+    },
+    {
+      "name": "KALAHARI GREENTECH INC.",
+      "from": "2008-12-31T00:00:00.000Z",
+      "to": "2015-10-13T00:00:00.000Z"
+    },
+    {
+      "name": "NEXTGEN BIOSCIENCE INC.",
+      "from": "2007-11-01T00:00:00.000Z",
+      "to": "2008-04-09T00:00:00.000Z"
+    },
+    {
+      "name": "INFRABLUE (US) INC.",
+      "from": "2005-12-16T00:00:00.000Z",
+      "to": "2007-10-17T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 210,
+  "download_timestamp": "2025-08-02 07:10:56 UTC"
+}

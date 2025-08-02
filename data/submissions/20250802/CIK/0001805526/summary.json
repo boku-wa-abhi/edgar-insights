@@ -1,0 +1,37 @@
+{
+  "cik": "0001805526",
+  "name": "DeFi Development Corp.",
+  "entityType": "operating",
+  "sic": "6163",
+  "sicDescription": "Loan Brokers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DFDV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "832676794",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "5615594111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Janover Inc.",
+      "from": "2021-04-07T04:00:00.000Z",
+      "to": "2025-04-15T04:00:00.000Z"
+    },
+    {
+      "name": "Janover Ventures LLC",
+      "from": "2020-05-26T04:00:00.000Z",
+      "to": "2020-12-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 172,
+  "download_timestamp": "2025-08-02 07:24:43 UTC"
+}

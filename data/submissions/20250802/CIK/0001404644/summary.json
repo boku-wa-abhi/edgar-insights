@@ -1,0 +1,42 @@
+{
+  "cik": "0001404644",
+  "name": "Neurogene Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NGNE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980542593",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(877) 237-5020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Neoleukin Therapeutics, Inc.",
+      "from": "2019-08-12T04:00:00.000Z",
+      "to": "2023-12-06T05:00:00.000Z"
+    },
+    {
+      "name": "AQUINOX PHARMACEUTICALS, INC",
+      "from": "2013-12-19T05:00:00.000Z",
+      "to": "2019-08-12T04:00:00.000Z"
+    },
+    {
+      "name": "AQUINOX PHARMACEUTICALS (USA) INC",
+      "from": "2007-06-25T04:00:00.000Z",
+      "to": "2013-12-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 685,
+  "download_timestamp": "2025-08-02 07:12:25 UTC"
+}

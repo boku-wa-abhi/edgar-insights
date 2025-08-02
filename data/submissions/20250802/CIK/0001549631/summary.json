@@ -1,0 +1,26 @@
+{
+  "cik": "0001549631",
+  "name": "Quarta-Rad, Inc.",
+  "entityType": "operating",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QURT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "454232089",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-859-7071",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 116,
+  "download_timestamp": "2025-08-02 07:16:43 UTC"
+}

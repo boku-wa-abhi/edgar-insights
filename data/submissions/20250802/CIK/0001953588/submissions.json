@@ -1,0 +1,149 @@
+{
+  "cik": "0001953588",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Pan American Energy Corp. (Canada)",
+  "tickers": [
+    "PAANF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0331",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "100 - 521 3RD AVENUE SW",
+      "street2": null,
+      "city": "CALGARY",
+      "stateOrCountry": "A0",
+      "zipCode": "T2P 3T3",
+      "stateOrCountryDescription": "Alberta, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "100 - 521 3RD AVENUE SW",
+      "street2": null,
+      "city": "CALGARY",
+      "stateOrCountry": "A0",
+      "zipCode": "T2P 3T3",
+      "stateOrCountryDescription": "Alberta, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "587-885-5970",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001953588-24-000001",
+        "0001953588-23-000001",
+        "0001953588-22-000002",
+        "0001953588-22-000001"
+      ],
+      "filingDate": [
+        "2024-02-16",
+        "2023-12-28",
+        "2022-11-22",
+        "2022-11-22"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-02-16T13:50:57.000Z",
+        "2023-12-28T17:14:30.000Z",
+        "2022-11-22T13:47:07.000Z",
+        "2022-11-22T13:34:28.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-505486",
+        "021-501059",
+        "021-465600",
+        "021-465594"
+      ],
+      "filmNumber": [
+        "24647372",
+        "231523460",
+        "221409353",
+        "221409274"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        9036,
+        9037,
+        8252,
+        8248
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

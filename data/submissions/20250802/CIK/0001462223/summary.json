@@ -1,0 +1,49 @@
+{
+  "cik": "0001462223",
+  "name": "Nixxy, Inc.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NIXX",
+    "NIXXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "263090646",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "877-708-8868",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Recruiter.com Group, Inc.",
+      "from": "2019-05-14T04:00:00.000Z",
+      "to": "2024-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "TRULI TECHNOLOGIES, INC.",
+      "from": "2018-06-27T04:00:00.000Z",
+      "to": "2019-05-02T04:00:00.000Z"
+    },
+    {
+      "name": "Truli Media Group, Inc.",
+      "from": "2012-08-14T04:00:00.000Z",
+      "to": "2018-06-11T04:00:00.000Z"
+    },
+    {
+      "name": "SA Recovery Corp.",
+      "from": "2009-04-27T04:00:00.000Z",
+      "to": "2012-06-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 443,
+  "download_timestamp": "2025-08-02 07:13:56 UTC"
+}

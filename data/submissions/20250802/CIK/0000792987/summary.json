@@ -1,0 +1,26 @@
+{
+  "cik": "0000792987",
+  "name": "ASTEC INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3531",
+  "sicDescription": "Construction Machinery & Equip",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASTE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "620873631",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4238995898",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:00:19 UTC"
+}

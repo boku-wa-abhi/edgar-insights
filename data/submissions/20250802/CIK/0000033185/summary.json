@@ -1,0 +1,32 @@
+{
+  "cik": "0000033185",
+  "name": "EQUIFAX INC",
+  "entityType": "operating",
+  "sic": "7320",
+  "sicDescription": "Services-Consumer Credit Reporting, Collection Agencies",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EFX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "580401110",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4048858000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EQUIFAX INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2025-07-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:56:46 UTC"
+}

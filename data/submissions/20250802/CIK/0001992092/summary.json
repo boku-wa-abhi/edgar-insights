@@ -1,0 +1,42 @@
+{
+  "cik": "0001992092",
+  "name": "Zerolimit Technology Holding Co. Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ZDAN"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "86-0755-8653-8929",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zerolimit Technology Holding Co. Ltd.",
+      "from": "2024-03-25T04:00:00.000Z",
+      "to": "2025-07-28T04:00:00.000Z"
+    },
+    {
+      "name": "Zerolimit Technology Holding Co. Ltd.",
+      "from": "2024-03-25T04:00:00.000Z",
+      "to": "2025-07-28T04:00:00.000Z"
+    },
+    {
+      "name": "Zerolimit Technology Holding Co. Ltd.",
+      "from": "2024-03-25T04:00:00.000Z",
+      "to": "2025-07-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:31:17 UTC"
+}

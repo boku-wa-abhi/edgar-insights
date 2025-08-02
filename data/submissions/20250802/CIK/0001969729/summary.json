@@ -1,0 +1,32 @@
+{
+  "cik": "0001969729",
+  "name": "Rockwool A/S/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "G7",
+  "stateOfIncorporationDescription": "Denmark",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RCWLY",
+    "RCWBY",
+    "RKWAD",
+    "RKWBD"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-2456",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 4,
+  "download_timestamp": "2025-08-02 07:30:42 UTC"
+}

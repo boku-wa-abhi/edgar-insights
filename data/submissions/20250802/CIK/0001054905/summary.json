@@ -1,0 +1,32 @@
+{
+  "cik": "0001054905",
+  "name": "INNOSPEC INC.",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IOSP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981081725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7203556451",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OCTEL CORP",
+      "from": "1998-06-09T04:00:00.000Z",
+      "to": "2006-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:48 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001088638",
+  "name": "MASTERMIND, INC.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MMND"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "823807447",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "678-420-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COCONNECT, INC.",
+      "from": "2014-05-05T00:00:00.000Z",
+      "to": "2018-08-14T00:00:00.000Z"
+    },
+    {
+      "name": "COCONNECT INC",
+      "from": "2005-06-14T00:00:00.000Z",
+      "to": "2014-04-30T00:00:00.000Z"
+    },
+    {
+      "name": "ADVANCED WIRELESS SYSTEMS INC",
+      "from": "1999-10-14T00:00:00.000Z",
+      "to": "2005-05-04T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 316,
+  "download_timestamp": "2025-08-02 07:06:41 UTC"
+}

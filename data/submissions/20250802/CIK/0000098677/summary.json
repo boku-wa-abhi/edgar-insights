@@ -1,0 +1,28 @@
+{
+  "cik": "0000098677",
+  "name": "TOOTSIE ROLL INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "2060",
+  "sicDescription": "Sugar & Confectionery Products",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TR",
+    "TROLB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "221318955",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7738383400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 06:58:10 UTC"
+}

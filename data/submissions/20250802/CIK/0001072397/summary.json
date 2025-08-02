@@ -1,0 +1,28 @@
+{
+  "cik": "0001072397",
+  "name": "BUNZL PLC",
+  "entityType": "other",
+  "sic": "5141",
+  "sicDescription": "Wholesale-Groceries, General Line",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BZLFY",
+    "BZLFF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": null,
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 591,
+  "download_timestamp": "2025-08-02 07:06:20 UTC"
+}

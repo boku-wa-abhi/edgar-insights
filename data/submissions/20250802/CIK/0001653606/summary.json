@@ -1,0 +1,32 @@
+{
+  "cik": "0001653606",
+  "name": "Ehave, Inc.",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EHVVF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(647) 490-5122",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "2304101 Ontario Inc.",
+      "from": "2015-09-24T04:00:00.000Z",
+      "to": "2015-12-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:19:54 UTC"
+}

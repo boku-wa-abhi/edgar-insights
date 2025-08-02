@@ -1,0 +1,32 @@
+{
+  "cik": "0001571949",
+  "name": "Intercontinental Exchange, Inc.",
+  "entityType": "operating",
+  "sic": "6200",
+  "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ICE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "770-857-4700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IntercontinentalExchange Group, Inc.",
+      "from": "2013-03-20T04:00:00.000Z",
+      "to": "2014-05-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:17:22 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001265521",
+  "name": "Polomar Health Services, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PMHS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "861006313",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-490-7454",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Trustfeed Corp.",
+      "from": "2023-05-31T04:00:00.000Z",
+      "to": "2024-10-11T04:00:00.000Z"
+    },
+    {
+      "name": "HEALTHMED SERVICES LTD",
+      "from": "2003-09-30T04:00:00.000Z",
+      "to": "2011-04-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 105,
+  "download_timestamp": "2025-08-02 07:09:19 UTC"
+}

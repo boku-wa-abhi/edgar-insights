@@ -1,0 +1,32 @@
+{
+  "cik": "0001808805",
+  "name": "Nautilus Biotechnology, Inc.",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NAUT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981541723",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "206-333-2001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ARYA Sciences Acquisition Corp III",
+      "from": "2020-04-17T04:00:00.000Z",
+      "to": "2021-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 283,
+  "download_timestamp": "2025-08-02 07:24:50 UTC"
+}

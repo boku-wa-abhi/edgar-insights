@@ -1,0 +1,28 @@
+{
+  "cik": "0002032966",
+  "name": "ACUREN CORP",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TIC",
+    "TICAW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-218-7450",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:32:43 UTC"
+}

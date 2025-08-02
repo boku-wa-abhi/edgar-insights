@@ -1,0 +1,26 @@
+{
+  "cik": "0001333822",
+  "name": "SemiLEDs Corp",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "LEDS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "202735523",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "886-37-586788",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 462,
+  "download_timestamp": "2025-08-02 07:10:44 UTC"
+}

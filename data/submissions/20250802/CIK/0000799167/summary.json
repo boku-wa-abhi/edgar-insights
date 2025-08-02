@@ -1,0 +1,26 @@
+{
+  "cik": "0000799167",
+  "name": "MARTEN TRANSPORT LTD",
+  "entityType": "operating",
+  "sic": "4213",
+  "sicDescription": "Trucking (No Local)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRTN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391140809",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "715-926-4216",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:29 UTC"
+}

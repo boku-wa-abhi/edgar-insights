@@ -1,0 +1,26 @@
+{
+  "cik": "0000802481",
+  "name": "PILGRIMS PRIDE CORP",
+  "entityType": "operating",
+  "sic": "2015",
+  "sicDescription": "Poultry Slaughtering and Processing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "PPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "751285071",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9705068000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:34 UTC"
+}

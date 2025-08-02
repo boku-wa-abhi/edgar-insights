@@ -1,0 +1,32 @@
+{
+  "cik": "0001434868",
+  "name": "Esperion Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESPR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "734-887-3903",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HDL THERAPEUTICS INC",
+      "from": "2008-05-07T04:00:00.000Z",
+      "to": "2008-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 828,
+  "download_timestamp": "2025-08-02 07:13:14 UTC"
+}

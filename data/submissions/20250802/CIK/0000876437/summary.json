@@ -1,0 +1,26 @@
+{
+  "cik": "0000876437",
+  "name": "MGIC INVESTMENT CORP",
+  "entityType": "operating",
+  "sic": "6351",
+  "sicDescription": "Surety Insurance",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "391486475",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4143476480",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 07:02:02 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001600641",
+  "name": "1stdibs.com, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DIBS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "212-627-3929",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 435,
+  "download_timestamp": "2025-08-02 07:18:16 UTC"
+}

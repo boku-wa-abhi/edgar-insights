@@ -1,0 +1,34 @@
+{
+  "cik": "0000842180",
+  "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBVA",
+    "BBVXF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "133491492",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011 34 91 537 8172",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BANCO BILBAO VIZCAYA ARGENTARIA S A",
+      "from": "2002-02-21T05:00:00.000Z",
+      "to": "2006-10-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:20 UTC"
+}

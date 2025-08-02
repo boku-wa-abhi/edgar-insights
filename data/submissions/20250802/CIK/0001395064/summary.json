@@ -1,0 +1,28 @@
+{
+  "cik": "0001395064",
+  "name": "TAKEDA PHARMACEUTICAL CO LTD",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "TAK",
+    "TKPHF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81332782111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 551,
+  "download_timestamp": "2025-08-02 07:12:10 UTC"
+}

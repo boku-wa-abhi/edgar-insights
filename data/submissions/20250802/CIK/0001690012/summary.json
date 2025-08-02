@@ -1,0 +1,28 @@
+{
+  "cik": "0001690012",
+  "name": "InPoint Commercial Real Estate Income, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ICR-PA",
+    "ICRP"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "320506267",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "630-218-8000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 492,
+  "download_timestamp": "2025-08-02 07:20:50 UTC"
+}

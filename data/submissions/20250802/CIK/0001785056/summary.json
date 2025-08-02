@@ -1,0 +1,26 @@
+{
+  "cik": "0001785056",
+  "name": "Interactive Strength, Inc.",
+  "entityType": "operating",
+  "sic": "3600",
+  "sicDescription": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRNR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821432916",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "3106978655",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:23:56 UTC"
+}

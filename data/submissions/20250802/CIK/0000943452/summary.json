@@ -1,0 +1,37 @@
+{
+  "cik": "0000943452",
+  "name": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+  "entityType": "operating",
+  "sic": "3743",
+  "sicDescription": "Railroad Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WAB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251615902",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4128251000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WABTEC CORP",
+      "from": "2000-01-14T05:00:00.000Z",
+      "to": "2000-01-14T05:00:00.000Z"
+    },
+    {
+      "name": "WESTINGHOUSE AIR BRAKE CO /DE/",
+      "from": "1996-08-07T04:00:00.000Z",
+      "to": "1999-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:08 UTC"
+}

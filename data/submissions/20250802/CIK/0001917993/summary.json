@@ -1,0 +1,26 @@
+{
+  "cik": "0001917993",
+  "name": "Growth Stalk Holdings Corp",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "OK",
+  "stateOfIncorporationDescription": "OK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GSTK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "873145742",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4054560207",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 32,
+  "download_timestamp": "2025-08-02 07:29:29 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001364250",
+  "name": "Douglas Emmett Inc",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DEI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "203073047",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "310-255-7700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 919,
+  "download_timestamp": "2025-08-02 07:11:21 UTC"
+}

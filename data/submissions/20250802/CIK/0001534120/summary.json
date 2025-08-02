@@ -1,0 +1,32 @@
+{
+  "cik": "0001534120",
+  "name": "Avalo Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "450705648",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "410-522-8707",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cerecor Inc.",
+      "from": "2012-04-04T04:00:00.000Z",
+      "to": "2021-08-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:16:17 UTC"
+}

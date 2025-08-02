@@ -1,0 +1,32 @@
+{
+  "cik": "0000911421",
+  "name": "PARTNERRE LTD",
+  "entityType": "operating",
+  "sic": "6321",
+  "sicDescription": "Accident & Health Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PREJF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "14412920888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PARTNERRE HOLDINGS LTD",
+      "from": "1995-02-14T00:00:00.000Z",
+      "to": "1995-02-14T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:03:15 UTC"
+}

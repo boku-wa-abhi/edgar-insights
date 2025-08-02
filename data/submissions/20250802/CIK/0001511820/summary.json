@@ -1,0 +1,32 @@
+{
+  "cik": "0001511820",
+  "name": "Stemtech Corp",
+  "entityType": "operating",
+  "sic": "5122",
+  "sicDescription": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STEK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "872151440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(954) 715-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Globe Net Wireless Corp.",
+      "from": "2011-02-11T05:00:00.000Z",
+      "to": "2021-09-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 149,
+  "download_timestamp": "2025-08-02 07:15:29 UTC"
+}

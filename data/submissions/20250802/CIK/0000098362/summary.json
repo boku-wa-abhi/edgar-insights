@@ -1,0 +1,26 @@
+{
+  "cik": "0000098362",
+  "name": "TIMKEN CO",
+  "entityType": "operating",
+  "sic": "3562",
+  "sicDescription": "Ball & Roller Bearings",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TKR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340577130",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(234) 262-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:10 UTC"
+}

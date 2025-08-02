@@ -1,0 +1,26 @@
+{
+  "cik": "0001879754",
+  "name": "EShallGo Inc.",
+  "entityType": "other",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "EHGO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "011864006005800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 87,
+  "download_timestamp": "2025-08-02 07:28:33 UTC"
+}

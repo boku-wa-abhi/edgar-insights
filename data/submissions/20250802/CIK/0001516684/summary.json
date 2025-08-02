@@ -1,0 +1,28 @@
+{
+  "cik": "0001516684",
+  "name": "SMA Solar Technology AG/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SMTGY",
+    "SMTGF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3010",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 2,
+  "download_timestamp": "2025-08-02 07:15:41 UTC"
+}

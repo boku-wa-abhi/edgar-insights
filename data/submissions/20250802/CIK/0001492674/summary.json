@@ -1,0 +1,26 @@
+{
+  "cik": "0001492674",
+  "name": "T2 Biosystems, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TTOO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "204827488",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "781-457-1200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 809,
+  "download_timestamp": "2025-08-02 07:14:49 UTC"
+}

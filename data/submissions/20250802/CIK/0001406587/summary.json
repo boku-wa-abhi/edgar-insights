@@ -1,0 +1,37 @@
+{
+  "cik": "0001406587",
+  "name": "Forestar Group Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "FOR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "261336998",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "817-769-1860",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Forestar Real Estate Group Inc.",
+      "from": "2007-11-13T05:00:00.000Z",
+      "to": "2008-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "Forestar Real Estate Group LLC",
+      "from": "2007-08-10T04:00:00.000Z",
+      "to": "2007-10-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:12:27 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001824204",
+  "name": "Park View OZ REIT Inc",
+  "entityType": "other",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PVOZ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "851631598",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617 917 8807",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:25:39 UTC"
+}

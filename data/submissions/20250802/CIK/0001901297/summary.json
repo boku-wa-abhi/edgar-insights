@@ -1,0 +1,37 @@
+{
+  "cik": "0001901297",
+  "name": "ZRCN Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ZRCN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "832756695",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(212) 602 1188",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZRCN, Inc.",
+      "from": "2023-04-25T04:00:00.000Z",
+      "to": "2023-05-18T04:00:00.000Z"
+    },
+    {
+      "name": "Harmony Energy Technologies Corp",
+      "from": "2021-12-27T05:00:00.000Z",
+      "to": "2023-04-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 89,
+  "download_timestamp": "2025-08-02 07:29:10 UTC"
+}

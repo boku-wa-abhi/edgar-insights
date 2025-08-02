@@ -1,0 +1,37 @@
+{
+  "cik": "0000890821",
+  "name": "Enveric Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ENVB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954484725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "239-302-1707",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERI Holdings, Inc.",
+      "from": "2015-05-28T04:00:00.000Z",
+      "to": "2020-12-30T05:00:00.000Z"
+    },
+    {
+      "name": "SPATIALIZER AUDIO LABORATORIES INC",
+      "from": "1996-09-16T04:00:00.000Z",
+      "to": "2015-05-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 963,
+  "download_timestamp": "2025-08-02 07:02:39 UTC"
+}

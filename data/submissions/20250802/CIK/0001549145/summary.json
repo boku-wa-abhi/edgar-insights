@@ -1,0 +1,37 @@
+{
+  "cik": "0001549145",
+  "name": "BLUE BIOFUELS, INC.",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIOF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "454944960",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(888)607-3555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLIANCE BIOENERGY PLUS, INC.",
+      "from": "2014-12-05T05:00:00.000Z",
+      "to": "2021-06-24T04:00:00.000Z"
+    },
+    {
+      "name": "Alliance Media Group Holdings, Inc.",
+      "from": "2012-05-23T04:00:00.000Z",
+      "to": "2014-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 279,
+  "download_timestamp": "2025-08-02 07:16:42 UTC"
+}

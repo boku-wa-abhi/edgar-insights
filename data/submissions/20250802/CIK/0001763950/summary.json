@@ -1,0 +1,32 @@
+{
+  "cik": "0001763950",
+  "name": "Lantern Pharma Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LTRN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "463973463",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "972-277-1136",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lantern Pharma",
+      "from": "2019-01-14T05:00:00.000Z",
+      "to": "2019-01-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 207,
+  "download_timestamp": "2025-08-02 07:23:18 UTC"
+}

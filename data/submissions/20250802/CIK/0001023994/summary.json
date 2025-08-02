@@ -1,0 +1,42 @@
+{
+  "cik": "0001023994",
+  "name": "SAFE & GREEN HOLDINGS CORP.",
+  "entityType": "operating",
+  "sic": "5030",
+  "sicDescription": "Wholesale-Lumber & Other Construction Materials",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SGBX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954463937",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(646) 240-4235",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SG BLOCKS, INC.",
+      "from": "2011-11-23T05:00:00.000Z",
+      "to": "2022-12-06T05:00:00.000Z"
+    },
+    {
+      "name": "CDSI HOLDINGS INC",
+      "from": "1999-04-14T04:00:00.000Z",
+      "to": "2011-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "PC411 INC",
+      "from": "1997-05-12T04:00:00.000Z",
+      "to": "1998-12-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 853,
+  "download_timestamp": "2025-08-02 07:04:59 UTC"
+}

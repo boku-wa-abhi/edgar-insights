@@ -1,0 +1,36 @@
+{
+  "cik": "0001462418",
+  "name": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+  "entityType": "operating",
+  "sic": "7380",
+  "sicDescription": "Services-Miscellaneous Business Services",
+  "stateOfIncorporation": "N4",
+  "stateOfIncorporationDescription": "Luxembourg",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASPS",
+    "ASPSW",
+    "ASPSZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "352 24 69 79 00",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Altisource Portfolio Solutions S.a.r.l.",
+      "from": "2009-05-13T04:00:00.000Z",
+      "to": "2009-05-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 986,
+  "download_timestamp": "2025-08-02 07:13:56 UTC"
+}

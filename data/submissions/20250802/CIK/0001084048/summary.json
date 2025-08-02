@@ -1,0 +1,42 @@
+{
+  "cik": "0001084048",
+  "name": "ZIFF DAVIS, INC.",
+  "entityType": "operating",
+  "sic": "4822",
+  "sicDescription": "Telegraph & Other Message Communications",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471053457",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-503-3500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "J2 GLOBAL, INC.",
+      "from": "2011-12-06T05:00:00.000Z",
+      "to": "2021-10-04T04:00:00.000Z"
+    },
+    {
+      "name": "J2 GLOBAL COMMUNICATIONS INC",
+      "from": "2000-12-29T05:00:00.000Z",
+      "to": "2011-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "JFAX COM INC",
+      "from": "1999-08-05T04:00:00.000Z",
+      "to": "2000-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:34 UTC"
+}

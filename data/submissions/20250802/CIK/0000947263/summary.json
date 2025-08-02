@@ -1,0 +1,32 @@
+{
+  "cik": "0000947263",
+  "name": "TORONTO DOMINION BANK",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "TD",
+    "TDBCP",
+    "TDBKF",
+    "TDOMF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "135640479",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-944-6367",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 2522,
+  "download_timestamp": "2025-08-02 07:04:14 UTC"
+}

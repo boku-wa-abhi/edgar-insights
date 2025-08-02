@@ -1,0 +1,26 @@
+{
+  "cik": "0001048477",
+  "name": "BIOMARIN PHARMACEUTICAL INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BMRN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "680397820",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4155066700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:38 UTC"
+}

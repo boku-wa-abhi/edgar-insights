@@ -1,0 +1,26 @@
+{
+  "cik": "0001288770",
+  "name": "XTRA-GOLD RESOURCES CORP",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XTGRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(416) 628-2881",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:09:48 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001904501",
+  "name": "Zentek Ltd.",
+  "entityType": "other",
+  "sic": "2890",
+  "sicDescription": "Miscellaneous Chemical Products",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ZTEK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(844) 730-9822",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 142,
+  "download_timestamp": "2025-08-02 07:29:14 UTC"
+}

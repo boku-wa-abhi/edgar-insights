@@ -1,0 +1,26 @@
+{
+  "cik": "0001817241",
+  "name": "Artiva Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARTV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "863614316",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858) 267-4467",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 101,
+  "download_timestamp": "2025-08-02 07:25:12 UTC"
+}

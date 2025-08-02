@@ -1,0 +1,28 @@
+{
+  "cik": "0001864943",
+  "name": "FGI Industries Ltd.",
+  "entityType": "operating",
+  "sic": "3430",
+  "sicDescription": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FGI",
+    "FGIWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "973-428-0400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 130,
+  "download_timestamp": "2025-08-02 07:27:56 UTC"
+}

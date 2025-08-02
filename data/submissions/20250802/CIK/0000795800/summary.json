@@ -1,0 +1,56 @@
+{
+  "cik": "0000795800",
+  "name": "NexMetals Mining Corp.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEXM",
+    "PRMLF",
+    "PRMLD"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "604-770-4334",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Premium Resources Ltd.",
+      "from": "2024-12-06T05:00:00.000Z",
+      "to": "2025-06-13T04:00:00.000Z"
+    },
+    {
+      "name": "Premium Nickel Resources Ltd.",
+      "from": "2022-08-30T04:00:00.000Z",
+      "to": "2024-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "North American Nickel Inc.",
+      "from": "2010-04-27T04:00:00.000Z",
+      "to": "2022-05-31T04:00:00.000Z"
+    },
+    {
+      "name": "Widescope Resources Inc.",
+      "from": "2005-09-13T04:00:00.000Z",
+      "to": "2010-04-20T04:00:00.000Z"
+    },
+    {
+      "name": "INTERNATIONAL GEMINI TECHNOLOGY INC",
+      "from": "2002-06-25T04:00:00.000Z",
+      "to": "2006-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 231,
+  "download_timestamp": "2025-08-02 07:00:23 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000769520",
+  "name": "MIDDLEBY Corp",
+  "entityType": "operating",
+  "sic": "3580",
+  "sicDescription": "Refrigeration & Service Industry Machinery",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "MIDD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "363352497",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8477413300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:02 UTC"
+}

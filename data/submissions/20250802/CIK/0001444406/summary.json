@@ -1,0 +1,26 @@
+{
+  "cik": "0001444406",
+  "name": "ECOPETROL S.A.",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "F8",
+  "stateOfIncorporationDescription": "Colombia",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5712345000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 898,
+  "download_timestamp": "2025-08-02 07:13:32 UTC"
+}

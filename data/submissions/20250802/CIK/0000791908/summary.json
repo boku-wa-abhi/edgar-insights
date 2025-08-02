@@ -1,0 +1,46 @@
+{
+  "cik": "0000791908",
+  "name": "XOMA Royalty Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XOMA",
+    "XOMAO",
+    "XOMAP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "522154066",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "510-204-7239",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "XOMA Corp",
+      "from": "2012-02-14T05:00:00.000Z",
+      "to": "2024-07-09T04:00:00.000Z"
+    },
+    {
+      "name": "XOMA LTD /DE/",
+      "from": "2001-12-13T05:00:00.000Z",
+      "to": "2012-01-17T05:00:00.000Z"
+    },
+    {
+      "name": "XOMA CORP /DE/",
+      "from": "1996-04-23T04:00:00.000Z",
+      "to": "1998-03-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:18 UTC"
+}

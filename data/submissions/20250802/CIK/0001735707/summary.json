@@ -1,0 +1,32 @@
+{
+  "cik": "0001735707",
+  "name": "Garrett Motion Inc.",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "824873189",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "41-21-695-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Garrett Transportation Systems Inc.",
+      "from": "2018-05-01T04:00:00.000Z",
+      "to": "2018-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 878,
+  "download_timestamp": "2025-08-02 07:22:22 UTC"
+}

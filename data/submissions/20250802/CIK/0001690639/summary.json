@@ -1,0 +1,26 @@
+{
+  "cik": "0001690639",
+  "name": "VersaBank",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "VBNK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "519-645-1919",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 122,
+  "download_timestamp": "2025-08-02 07:20:51 UTC"
+}

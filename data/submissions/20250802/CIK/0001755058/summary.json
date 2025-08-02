@@ -1,0 +1,32 @@
+{
+  "cik": "0001755058",
+  "name": "ATIF Holdings Ltd",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "ZBAI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "308-888-8888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Asia Times Holdings Ltd",
+      "from": "2018-10-15T04:00:00.000Z",
+      "to": "2019-02-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:22:57 UTC"
+}

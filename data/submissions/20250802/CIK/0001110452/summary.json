@@ -1,0 +1,34 @@
+{
+  "cik": "0001110452",
+  "name": "AIR FRANCE-KLM /FI",
+  "entityType": "other",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AFLYY",
+    "AFRAF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "330141567800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AIR FRANCE                                              /FI",
+      "from": "2002-02-12T00:00:00.000Z",
+      "to": "2004-12-07T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 262,
+  "download_timestamp": "2025-08-02 07:07:14 UTC"
+}

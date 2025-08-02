@@ -1,0 +1,32 @@
+{
+  "cik": "0001537137",
+  "name": "STANDARD LITHIUM LTD.",
+  "entityType": "other",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "870-393-2885",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Patriot Petroleum Corp.",
+      "from": "2011-12-15T05:00:00.000Z",
+      "to": "2011-12-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:16:24 UTC"
+}

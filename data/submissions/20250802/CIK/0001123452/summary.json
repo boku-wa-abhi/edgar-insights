@@ -1,0 +1,28 @@
+{
+  "cik": "0001123452",
+  "name": "SOUTHEAST AIRPORT GROUP",
+  "entityType": "other",
+  "sic": "4581",
+  "sicDescription": "Airports, Flying Fields & Airport Terminal Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ASR",
+    "ASRMF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011525552840400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 704,
+  "download_timestamp": "2025-08-02 07:07:30 UTC"
+}

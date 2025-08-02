@@ -1,0 +1,26 @@
+{
+  "cik": "0001826168",
+  "name": "TIM S.A.",
+  "entityType": "other",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TIMB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(55) 21-4109-4167",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 461,
+  "download_timestamp": "2025-08-02 07:25:43 UTC"
+}

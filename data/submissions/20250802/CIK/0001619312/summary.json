@@ -1,0 +1,32 @@
+{
+  "cik": "0001619312",
+  "name": "Lightstone Value Plus REIT IV, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LTSV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "471796830",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "732-367-0129",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lightstone Real Estate Income Trust Inc.",
+      "from": "2014-09-12T00:00:00.000Z",
+      "to": "2021-08-19T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 142,
+  "download_timestamp": "2025-08-02 07:18:52 UTC"
+}

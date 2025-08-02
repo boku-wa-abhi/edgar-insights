@@ -1,0 +1,42 @@
+{
+  "cik": "0001496454",
+  "name": "CNL Healthcare Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHTH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272876363",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(407) 650-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CNL Healthcare Trust, Inc.",
+      "from": "2012-02-09T05:00:00.000Z",
+      "to": "2012-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "CNL Properties Trust, Inc.",
+      "from": "2010-08-13T04:00:00.000Z",
+      "to": "2011-12-20T05:00:00.000Z"
+    },
+    {
+      "name": "CNL Diversified Lifestyle Properties, Inc.",
+      "from": "2010-07-15T04:00:00.000Z",
+      "to": "2010-10-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 462,
+  "download_timestamp": "2025-08-02 07:14:59 UTC"
+}

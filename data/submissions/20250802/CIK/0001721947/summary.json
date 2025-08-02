@@ -1,0 +1,32 @@
+{
+  "cik": "0001721947",
+  "name": "Jamf Holding Corp.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JAMF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "823031543",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "612-605-6625",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JUNO TOPCO, INC.",
+      "from": "2017-11-13T05:00:00.000Z",
+      "to": "2020-06-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 483,
+  "download_timestamp": "2025-08-02 07:21:53 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000798287",
+  "name": "PAMT CORP",
+  "entityType": "operating",
+  "sic": "4213",
+  "sicDescription": "Trucking (No Local)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAMT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "710633135",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "479-361-9111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PAM TRANSPORTATION SERVICES INC",
+      "from": "1995-05-15T04:00:00.000Z",
+      "to": "2024-11-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 860,
+  "download_timestamp": "2025-08-02 07:00:27 UTC"
+}

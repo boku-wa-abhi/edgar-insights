@@ -1,0 +1,39 @@
+{
+  "cik": "0001490349",
+  "name": "PhenixFIN Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "PFX",
+    "PFXNZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "274576073",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "212-759-0777",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Medley Capital Corp",
+      "from": "2010-06-24T04:00:00.000Z",
+      "to": "2021-01-04T05:00:00.000Z"
+    },
+    {
+      "name": "Medley Capital BDC LLC",
+      "from": "2010-05-03T04:00:00.000Z",
+      "to": "2011-01-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 858,
+  "download_timestamp": "2025-08-02 07:14:45 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001833498",
+  "name": "Spectral AI, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDAI",
+    "MDAIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(212) 492-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rosecliff Acquisition Corp I",
+      "from": "2020-12-23T05:00:00.000Z",
+      "to": "2023-09-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 253,
+  "download_timestamp": "2025-08-02 07:26:10 UTC"
+}

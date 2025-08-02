@@ -1,0 +1,26 @@
+{
+  "cik": "0000714562",
+  "name": "FIRST FINANCIAL CORP /IN/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "THFF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "351546989",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(812) 238-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 955,
+  "download_timestamp": "2025-08-02 06:59:12 UTC"
+}

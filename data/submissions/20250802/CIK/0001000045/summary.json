@@ -1,0 +1,32 @@
+{
+  "cik": "0001000045",
+  "name": "OLD MARKET CAPITAL Corp",
+  "entityType": "operating",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "OMCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "593019317",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "727-726-0763",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NICHOLAS FINANCIAL INC",
+      "from": "1996-09-27T04:00:00.000Z",
+      "to": "2024-09-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 875,
+  "download_timestamp": "2025-08-02 07:04:17 UTC"
+}

@@ -1,0 +1,130 @@
+{
+  "cik": "0001620857",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Synthomer plc/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-23-001397",
+        "0001193805-14-002066",
+        "0001019155-14-000358"
+      ],
+      "filingDate": [
+        "2023-10-12",
+        "2014-11-05",
+        "2014-09-29"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-10-12T15:58:40.000Z",
+        "2014-11-05T21:36:43.000Z",
+        "2014-09-29T18:56:40.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-199889",
+        "333-199889",
+        "333-199002"
+      ],
+      "filmNumber": [
+        "231322123",
+        "141197412",
+        "141126681"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        104080,
+        308507,
+        81229
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e618997_f6pos-synthomer.htm",
+        "e612819_f6ef-synthomer.htm",
+        "synthomerf6.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

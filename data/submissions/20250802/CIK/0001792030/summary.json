@@ -1,0 +1,26 @@
+{
+  "cik": "0001792030",
+  "name": "IM Cannabis Corp.",
+  "entityType": "other",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "416-256-4202",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 241,
+  "download_timestamp": "2025-08-02 07:24:12 UTC"
+}

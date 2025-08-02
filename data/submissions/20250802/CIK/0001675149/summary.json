@@ -1,0 +1,32 @@
+{
+  "cik": "0001675149",
+  "name": "Alcoa Corp",
+  "entityType": "operating",
+  "sic": "3334",
+  "sicDescription": "Primary Production of  Aluminum",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "811789115",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "412-315-2900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alcoa Upstream Corp",
+      "from": "2016-06-29T04:00:00.000Z",
+      "to": "2016-10-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 750,
+  "download_timestamp": "2025-08-02 07:20:25 UTC"
+}

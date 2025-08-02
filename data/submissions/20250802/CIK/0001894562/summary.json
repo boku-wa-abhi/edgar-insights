@@ -1,0 +1,26 @@
+{
+  "cik": "0001894562",
+  "name": "Prime Medicine, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRME"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-465-0013",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 246,
+  "download_timestamp": "2025-08-02 07:28:59 UTC"
+}

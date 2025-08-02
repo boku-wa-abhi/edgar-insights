@@ -1,0 +1,28 @@
+{
+  "cik": "0001956827",
+  "name": "Abivax S.A.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABVX",
+    "AAVXF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "01 53 83 09 63",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 72,
+  "download_timestamp": "2025-08-02 07:30:21 UTC"
+}

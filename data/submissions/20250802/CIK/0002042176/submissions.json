@@ -1,0 +1,194 @@
+{
+  "cik": "0002042176",
+  "entityType": "other",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "SPECTRAL IP, INC.",
+  "tickers": [
+    "SMIP"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "991775118",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "addresses": {
+    "mailing": {
+      "street1": "2515 MCKINNEY AVE",
+      "street2": "SUITE 1000",
+      "city": "DALLAS",
+      "stateOrCountry": "TX",
+      "zipCode": "75201",
+      "stateOrCountryDescription": "TX",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "2515 MCKINNEY AVE",
+      "street2": "SUITE 1000",
+      "city": "DALLAS",
+      "stateOrCountry": "TX",
+      "zipCode": "75201",
+      "stateOrCountryDescription": "TX",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "972-499-4934",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-061431",
+        "0001213900-25-056073",
+        "0001213900-25-051605",
+        "0001213900-25-040355",
+        "0001213900-25-025266",
+        "0001213900-24-114102",
+        "0001213900-24-094689"
+      ],
+      "filingDate": [
+        "2025-07-03",
+        "2025-06-20",
+        "2025-06-05",
+        "2025-05-07",
+        "2025-03-20",
+        "2024-12-31",
+        "2024-11-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-03T19:02:35.000Z",
+        "2025-06-20T18:31:34.000Z",
+        "2025-06-05T20:42:38.000Z",
+        "2025-05-07T01:30:07.000Z",
+        "2025-03-20T10:17:35.000Z",
+        "2024-12-31T22:09:01.000Z",
+        "2024-11-05T23:55:18.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "333-285935",
+        "377-07538",
+        "377-07538"
+      ],
+      "filmNumber": [
+        "251105227",
+        "251060894",
+        "251027726",
+        "25919000",
+        "25754391",
+        "241593697",
+        "241428856"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        9042470,
+        8696836,
+        8855498,
+        8033649,
+        7926298,
+        7251100,
+        2812295
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0218945-13.htm",
+        "ea0218945-10.htm",
+        "ea0218945-08.htm",
+        "ea0218945-06.htm",
+        "ea0218945-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "AMENDMENT NO. 3 TO FORM S-1",
+        "AMENDMENT NO. 2 TO FORM S-1",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

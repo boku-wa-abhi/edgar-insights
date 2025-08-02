@@ -1,0 +1,26 @@
+{
+  "cik": "0000024741",
+  "name": "CORNING INC /NY",
+  "entityType": "operating",
+  "sic": "3357",
+  "sicDescription": "Drawing & Insulating of  Nonferrous Wire",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "160393470",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6079749000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:56:36 UTC"
+}

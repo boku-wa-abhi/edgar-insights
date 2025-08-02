@@ -1,0 +1,37 @@
+{
+  "cik": "0001974138",
+  "name": "NCR Atleos Corp",
+  "entityType": "operating",
+  "sic": "3578",
+  "sicDescription": "Calculating & Accounting Machines (No Electronic Computers)",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NATL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "923588560",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(832) 308-4999",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NCR Atleos, LLC",
+      "from": "2023-06-06T04:00:00.000Z",
+      "to": "2023-10-10T04:00:00.000Z"
+    },
+    {
+      "name": "NCR ATMCo, LLC",
+      "from": "2023-05-10T04:00:00.000Z",
+      "to": "2023-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 178,
+  "download_timestamp": "2025-08-02 07:30:50 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001778114",
+  "name": "Virtus Artificial Intelligence & Technology Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "AIO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(866) 270-7598",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund",
+      "from": "2021-02-11T05:00:00.000Z",
+      "to": "2022-08-04T04:00:00.000Z"
+    },
+    {
+      "name": "AllianzGI Artificial Intelligence & Technology Opportunities Fund",
+      "from": "2019-07-02T04:00:00.000Z",
+      "to": "2021-02-10T05:00:00.000Z"
+    },
+    {
+      "name": "AllianzGI Artificial Intelligence Opportunities Fund",
+      "from": "2019-05-31T04:00:00.000Z",
+      "to": "2019-09-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 186,
+  "download_timestamp": "2025-08-02 07:23:41 UTC"
+}

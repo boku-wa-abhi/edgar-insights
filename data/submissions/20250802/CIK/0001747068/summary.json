@@ -1,0 +1,26 @@
+{
+  "cik": "0001747068",
+  "name": "MetroCity Bankshares, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MCBS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472528408",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "770-455-4989",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 291,
+  "download_timestamp": "2025-08-02 07:22:43 UTC"
+}

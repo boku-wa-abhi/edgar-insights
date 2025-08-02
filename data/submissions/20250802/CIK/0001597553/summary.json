@@ -1,0 +1,26 @@
+{
+  "cik": "0001597553",
+  "name": "Sage Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SAGE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-299-8380",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 815,
+  "download_timestamp": "2025-08-02 07:18:10 UTC"
+}

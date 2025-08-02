@@ -1,0 +1,32 @@
+{
+  "cik": "0000912562",
+  "name": "GIBRALTAR INDUSTRIES, INC.",
+  "entityType": "operating",
+  "sic": "3310",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ROCK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "161445150",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7168266500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GIBRALTAR STEEL CORP",
+      "from": "1996-08-26T04:00:00.000Z",
+      "to": "2004-10-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:03:18 UTC"
+}

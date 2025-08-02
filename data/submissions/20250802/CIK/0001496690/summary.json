@@ -1,0 +1,42 @@
+{
+  "cik": "0001496690",
+  "name": "BlueOne Card, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "BCRD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "260478989",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(415) 841-3570",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Manneking, Inc.",
+      "from": "2019-11-18T05:00:00.000Z",
+      "to": "2019-11-18T05:00:00.000Z"
+    },
+    {
+      "name": "TBSS International, Inc.",
+      "from": "2011-11-18T05:00:00.000Z",
+      "to": "2019-05-29T04:00:00.000Z"
+    },
+    {
+      "name": "Avenue South Ltd.",
+      "from": "2010-07-28T04:00:00.000Z",
+      "to": "2011-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 97,
+  "download_timestamp": "2025-08-02 07:14:59 UTC"
+}

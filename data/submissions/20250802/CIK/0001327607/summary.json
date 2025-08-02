@@ -1,0 +1,26 @@
+{
+  "cik": "0001327607",
+  "name": "First Western Financial Inc",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MYFW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "371442266",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "303-531-8100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 462,
+  "download_timestamp": "2025-08-02 07:10:35 UTC"
+}

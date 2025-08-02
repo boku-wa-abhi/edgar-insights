@@ -1,0 +1,32 @@
+{
+  "cik": "0001799207",
+  "name": "AUNA S.A.",
+  "entityType": "other",
+  "sic": "8011",
+  "sicDescription": "Services-Offices & Clinics of  Doctors of  Medicine",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "AUNA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "51 (205-3500)",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AUNA S.A.A.",
+      "from": "2020-09-30T04:00:00.000Z",
+      "to": "2022-03-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 87,
+  "download_timestamp": "2025-08-02 07:24:27 UTC"
+}

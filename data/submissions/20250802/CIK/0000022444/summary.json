@@ -1,0 +1,26 @@
+{
+  "cik": "0000022444",
+  "name": "COMMERCIAL METALS Co",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "CMC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "750725338",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2146894300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:33 UTC"
+}

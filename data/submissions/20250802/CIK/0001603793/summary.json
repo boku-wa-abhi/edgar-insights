@@ -1,0 +1,32 @@
+{
+  "cik": "0001603793",
+  "name": "Norris Industries, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "NRIS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "465034746",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8558096900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INTERNATIONAL WESTERN PETROLEUM, INC.",
+      "from": "2014-06-03T04:00:00.000Z",
+      "to": "2018-01-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 98,
+  "download_timestamp": "2025-08-02 07:18:21 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001838413",
+  "name": "Full Truck Alliance Co. Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YMM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "86-025-66920156",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 91,
+  "download_timestamp": "2025-08-02 07:26:27 UTC"
+}

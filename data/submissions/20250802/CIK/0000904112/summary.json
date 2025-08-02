@@ -1,0 +1,32 @@
+{
+  "cik": "0000904112",
+  "name": "MORGAN STANLEY EMERGING MARKETS DEBT FUND INC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133713706",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-231-2608",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MORGAN STANLEY DEAN WITTER EMERGING MARKETS DEBT FUND INC",
+      "from": "2000-05-04T04:00:00.000Z",
+      "to": "2008-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 414,
+  "download_timestamp": "2025-08-02 07:03:03 UTC"
+}

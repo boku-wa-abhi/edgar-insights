@@ -1,0 +1,26 @@
+{
+  "cik": "0001336706",
+  "name": "NORTHPOINTE BANCSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NPB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "616-974-8491",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 61,
+  "download_timestamp": "2025-08-02 07:10:47 UTC"
+}

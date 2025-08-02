@@ -1,0 +1,32 @@
+{
+  "cik": "0001754323",
+  "name": "X3 Holdings Co., Ltd.",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XTKG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-756-339-5666",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Powerbridge Technologies Co., Ltd.",
+      "from": "2018-09-26T04:00:00.000Z",
+      "to": "2024-01-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 175,
+  "download_timestamp": "2025-08-02 07:22:57 UTC"
+}

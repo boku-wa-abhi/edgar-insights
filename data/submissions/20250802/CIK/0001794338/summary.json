@@ -1,0 +1,26 @@
+{
+  "cik": "0001794338",
+  "name": "International General Insurance Holdings Ltd.",
+  "entityType": "other",
+  "sic": "6399",
+  "sicDescription": "Insurance Carriers, NEC",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IGIC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "962 6 562 2009",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 228,
+  "download_timestamp": "2025-08-02 07:24:18 UTC"
+}

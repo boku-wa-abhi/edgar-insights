@@ -1,0 +1,32 @@
+{
+  "cik": "0001533998",
+  "name": "DarioHealth Corp.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DRIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "452973162",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "972-4-770-6377",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LabStyle Innovations Corp.",
+      "from": "2011-11-01T04:00:00.000Z",
+      "to": "2016-07-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 838,
+  "download_timestamp": "2025-08-02 07:16:17 UTC"
+}

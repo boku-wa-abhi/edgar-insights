@@ -1,0 +1,26 @@
+{
+  "cik": "0001823406",
+  "name": "Affinity Bancshares, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AFBI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821147778",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(770) 786-7088",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 209,
+  "download_timestamp": "2025-08-02 07:25:34 UTC"
+}

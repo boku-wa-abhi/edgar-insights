@@ -1,0 +1,28 @@
+{
+  "cik": "0001131312",
+  "name": "ZION OIL & GAS INC",
+  "entityType": "operating",
+  "sic": "1382",
+  "sicDescription": "Oil & Gas Field Exploration Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZNOG",
+    "ZNOGW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "200065053",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2142214610",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:42 UTC"
+}

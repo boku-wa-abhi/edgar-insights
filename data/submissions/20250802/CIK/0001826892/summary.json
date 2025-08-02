@@ -1,0 +1,26 @@
+{
+  "cik": "0001826892",
+  "name": "BioAtla, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCAB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851922320",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-558-0708",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 443,
+  "download_timestamp": "2025-08-02 07:25:48 UTC"
+}

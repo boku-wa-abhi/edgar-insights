@@ -1,0 +1,28 @@
+{
+  "cik": "0001837493",
+  "name": "Inspira Technologies OXY B.H.N. Ltd",
+  "entityType": "other",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IINN",
+    "IINNW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "972-9-9664488",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 247,
+  "download_timestamp": "2025-08-02 07:26:24 UTC"
+}

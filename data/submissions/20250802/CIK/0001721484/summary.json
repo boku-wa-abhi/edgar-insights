@@ -1,0 +1,32 @@
+{
+  "cik": "0001721484",
+  "name": "Longeveron Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LGVN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472174146",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "305-302-7158",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LONGEVERON LLC",
+      "from": "2017-11-06T05:00:00.000Z",
+      "to": "2021-02-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 413,
+  "download_timestamp": "2025-08-02 07:21:52 UTC"
+}

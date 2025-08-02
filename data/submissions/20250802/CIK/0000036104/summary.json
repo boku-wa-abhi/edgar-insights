@@ -1,0 +1,44 @@
+{
+  "cik": "0000036104",
+  "name": "US BANCORP \\DE\\",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USB",
+    "USB-PA",
+    "USB-PH",
+    "USB-PP",
+    "USB-PQ",
+    "USB-PR",
+    "USB-PS"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "410255900",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "651-466-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST BANK SYSTEM INC",
+      "from": "1994-08-15T04:00:00.000Z",
+      "to": "1997-03-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:52 UTC"
+}

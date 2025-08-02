@@ -1,0 +1,26 @@
+{
+  "cik": "0001764974",
+  "name": "Turnstone Biologics Corp.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TSBX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "832909368",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "347-897-5988",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 101,
+  "download_timestamp": "2025-08-02 07:23:19 UTC"
+}

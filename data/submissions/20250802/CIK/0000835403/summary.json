@@ -1,0 +1,28 @@
+{
+  "cik": "0000835403",
+  "name": "DIAGEO PLC",
+  "entityType": "other",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DEO",
+    "DGEAF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "020 7947 9100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 759,
+  "download_timestamp": "2025-08-02 07:01:15 UTC"
+}

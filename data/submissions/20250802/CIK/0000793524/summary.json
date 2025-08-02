@@ -1,0 +1,26 @@
+{
+  "cik": "0000793524",
+  "name": "RESEARCH FRONTIERS INC",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REFR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "112103466",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5163641902",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 888,
+  "download_timestamp": "2025-08-02 07:00:20 UTC"
+}

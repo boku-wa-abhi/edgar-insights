@@ -1,0 +1,26 @@
+{
+  "cik": "0001734427",
+  "name": "Colibri Resource Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "CRUCD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(506) 383-4274",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:22:19 UTC"
+}

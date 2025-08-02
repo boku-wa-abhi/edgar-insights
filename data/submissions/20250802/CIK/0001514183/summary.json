@@ -1,0 +1,42 @@
+{
+  "cik": "0001514183",
+  "name": "Silo Pharma, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SILO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "462137136",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(718) 400-9031",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Uppercut Brands, Inc.",
+      "from": "2019-08-13T04:00:00.000Z",
+      "to": "2020-08-14T04:00:00.000Z"
+    },
+    {
+      "name": "Point Capital, Inc.",
+      "from": "2013-01-30T05:00:00.000Z",
+      "to": "2019-05-14T04:00:00.000Z"
+    },
+    {
+      "name": "Gold Swap Inc",
+      "from": "2011-03-30T04:00:00.000Z",
+      "to": "2013-01-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 322,
+  "download_timestamp": "2025-08-02 07:15:33 UTC"
+}

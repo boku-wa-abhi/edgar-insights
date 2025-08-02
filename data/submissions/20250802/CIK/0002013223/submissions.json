@@ -1,0 +1,100 @@
+{
+  "cik": "0002013223",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Highlander Silver Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0930",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "#605 - 130 BREW STREET",
+      "street2": null,
+      "city": "PORT MOODY",
+      "stateOrCountry": "A1",
+      "zipCode": "V3H 0E3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "#605 - 130 BREW STREET",
+      "street2": null,
+      "city": "PORT MOODY",
+      "stateOrCountry": "A1",
+      "zipCode": "V3H 0E3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "6042837630",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001727689-24-000030"
+      ],
+      "filingDate": [
+        "2024-03-08"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-03-08T19:43:50.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-507094"
+      ],
+      "filmNumber": [
+        "24733791"
+      ],
+      "items": [
+        "06b"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "size": [
+        10262
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

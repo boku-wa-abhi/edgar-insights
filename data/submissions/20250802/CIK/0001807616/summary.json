@@ -1,0 +1,26 @@
+{
+  "cik": "0001807616",
+  "name": "Hi-Great Group Holding Co",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "HIGR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "462218131",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "213-219-7746",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 57,
+  "download_timestamp": "2025-08-02 07:24:46 UTC"
+}

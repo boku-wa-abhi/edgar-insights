@@ -1,0 +1,37 @@
+{
+  "cik": "0001643715",
+  "name": "LITHIUM SOUTH DEVELOPMENT Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LISMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-682-2928",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NRG METALS INC.",
+      "from": "2016-03-31T00:00:00.000Z",
+      "to": "2020-04-09T00:00:00.000Z"
+    },
+    {
+      "name": "CODRINGTON RESOURCE Corp",
+      "from": "2015-06-03T00:00:00.000Z",
+      "to": "2015-06-03T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 13,
+  "download_timestamp": "2025-08-02 07:19:34 UTC"
+}

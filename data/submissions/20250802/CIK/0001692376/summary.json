@@ -1,0 +1,32 @@
+{
+  "cik": "0001692376",
+  "name": "Velocity Financial, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VEL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "866-505-3863",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Velocity Financial, LLC",
+      "from": "2016-12-16T05:00:00.000Z",
+      "to": "2020-01-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 324,
+  "download_timestamp": "2025-08-02 07:20:56 UTC"
+}

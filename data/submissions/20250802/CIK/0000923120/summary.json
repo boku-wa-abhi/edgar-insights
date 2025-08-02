@@ -1,0 +1,26 @@
+{
+  "cik": "0000923120",
+  "name": "GREENBRIER COMPANIES INC",
+  "entityType": "operating",
+  "sic": "3743",
+  "sicDescription": "Railroad Equipment",
+  "stateOfIncorporation": "OR",
+  "stateOfIncorporationDescription": "OR",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "GBX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "930816972",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5036847000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1011,
+  "download_timestamp": "2025-08-02 07:03:43 UTC"
+}

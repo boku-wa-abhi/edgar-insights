@@ -1,0 +1,32 @@
+{
+  "cik": "0001859007",
+  "name": "ZyVersa Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZVSA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "862685744",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "908-370-5102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Larkspur Health Acquisition Corp.",
+      "from": "2021-05-13T04:00:00.000Z",
+      "to": "2022-12-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 300,
+  "download_timestamp": "2025-08-02 07:27:42 UTC"
+}

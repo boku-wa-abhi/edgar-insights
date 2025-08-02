@@ -1,0 +1,32 @@
+{
+  "cik": "0001804745",
+  "name": "Driven Brands Holdings Inc.",
+  "entityType": "operating",
+  "sic": "7500",
+  "sicDescription": "Services-Automotive Repair, Services & Parking",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "DRVN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473595252",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "704-377-8855",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RC Driven Holdings LLC",
+      "from": "2020-03-26T04:00:00.000Z",
+      "to": "2020-06-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 299,
+  "download_timestamp": "2025-08-02 07:24:40 UTC"
+}

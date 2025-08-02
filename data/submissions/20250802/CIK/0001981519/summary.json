@@ -1,0 +1,32 @@
+{
+  "cik": "0001981519",
+  "name": "MIXED MARTIAL ARTS GROUP LTD",
+  "entityType": "other",
+  "sic": "7380",
+  "sicDescription": "Services-Miscellaneous Business Services",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MMA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "61 1800 151 865",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALTA GLOBAL GROUP LTD",
+      "from": "2023-09-12T04:00:00.000Z",
+      "to": "2024-12-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 76,
+  "download_timestamp": "2025-08-02 07:31:00 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001949864",
+  "name": "Mag Magna Corp",
+  "entityType": "operating",
+  "sic": "0700",
+  "sicDescription": "Agricultural Services",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "MGNC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981626237",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "8617823500944",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mag Magna Corp.",
+      "from": "2022-11-25T05:00:00.000Z",
+      "to": "2024-08-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:30:10 UTC"
+}

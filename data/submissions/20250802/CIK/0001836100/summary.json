@@ -1,0 +1,28 @@
+{
+  "cik": "0001836100",
+  "name": "Goal Acquisitions Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PUCK",
+    "PUCKW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "853660880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "512-287-1871",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 124,
+  "download_timestamp": "2025-08-02 07:26:18 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001281721",
+  "name": "SHIONOGI & CO LTD",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SGIOY",
+    "SGIOF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "510-747-3900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 26,
+  "download_timestamp": "2025-08-02 07:09:36 UTC"
+}

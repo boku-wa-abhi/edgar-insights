@@ -1,0 +1,26 @@
+{
+  "cik": "0000811596",
+  "name": "KAISER ALUMINUM CORP",
+  "entityType": "operating",
+  "sic": "3350",
+  "sicDescription": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KALU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943030279",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "949-614-1740",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:43 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0000920760",
+  "name": "LENNAR CORP /NEW/",
+  "entityType": "operating",
+  "sic": "1520",
+  "sicDescription": "General Bldg Contractors - Residential Bldgs",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "LEN",
+    "LEN-B"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "954337490",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3055594000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PACIFIC GREYSTONE CORP /DE/",
+      "from": "1996-06-27T04:00:00.000Z",
+      "to": "1997-09-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:37 UTC"
+}

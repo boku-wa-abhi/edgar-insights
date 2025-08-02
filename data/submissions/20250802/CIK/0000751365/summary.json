@@ -1,0 +1,26 @@
+{
+  "cik": "0000751365",
+  "name": "VIRCO MFG CORPORATION",
+  "entityType": "operating",
+  "sic": "2531",
+  "sicDescription": "Public Bldg & Related Furniture",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "VIRC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "951613718",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "3105330474",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 930,
+  "download_timestamp": "2025-08-02 06:59:51 UTC"
+}

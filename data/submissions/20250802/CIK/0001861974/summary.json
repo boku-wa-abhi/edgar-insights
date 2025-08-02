@@ -1,0 +1,28 @@
+{
+  "cik": "0001861974",
+  "name": "ECARX Holdings Inc.",
+  "entityType": "other",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ECX",
+    "ECXWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "0571 85306757",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 146,
+  "download_timestamp": "2025-08-02 07:27:50 UTC"
+}

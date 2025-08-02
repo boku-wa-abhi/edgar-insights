@@ -1,0 +1,32 @@
+{
+  "cik": "0001521036",
+  "name": "Lantheus Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LNTH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "352318913",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978 671-8001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lantheus MI Holdings, Inc.",
+      "from": "2014-03-25T04:00:00.000Z",
+      "to": "2014-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:15:52 UTC"
+}

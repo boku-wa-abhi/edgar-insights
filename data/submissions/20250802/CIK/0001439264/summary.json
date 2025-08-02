@@ -1,0 +1,37 @@
+{
+  "cik": "0001439264",
+  "name": "Marvion Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MVNC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "262723015",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "65 6829 7029",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bonanza Goldfields Corp.",
+      "from": "2021-10-26T04:00:00.000Z",
+      "to": "2023-05-15T04:00:00.000Z"
+    },
+    {
+      "name": "Bonanza Goldfield Corp.",
+      "from": "2008-07-11T04:00:00.000Z",
+      "to": "2017-10-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 163,
+  "download_timestamp": "2025-08-02 07:13:25 UTC"
+}

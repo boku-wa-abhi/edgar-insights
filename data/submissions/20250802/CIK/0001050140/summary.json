@@ -1,0 +1,26 @@
+{
+  "cik": "0001050140",
+  "name": "DESCARTES SYSTEMS GROUP INC",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "DSGX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "519-746-8110",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 458,
+  "download_timestamp": "2025-08-02 07:05:41 UTC"
+}

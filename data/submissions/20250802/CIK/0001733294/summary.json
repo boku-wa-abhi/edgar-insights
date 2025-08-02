@@ -1,0 +1,32 @@
+{
+  "cik": "0001733294",
+  "name": "Generation Bio Co.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "814301281",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "857-529-5908",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Generation Bio Co.",
+      "from": "2018-03-05T05:00:00.000Z",
+      "to": "2025-07-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 461,
+  "download_timestamp": "2025-08-02 07:22:16 UTC"
+}

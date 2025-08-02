@@ -1,0 +1,26 @@
+{
+  "cik": "0001729173",
+  "name": "Uxin Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UXIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "861056312700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 245,
+  "download_timestamp": "2025-08-02 07:22:10 UTC"
+}

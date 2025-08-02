@@ -1,0 +1,28 @@
+{
+  "cik": "0001545057",
+  "name": "PT XLSMART Telecom Sejahtera Tbk/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PT XL Axiata Tbk/ADR",
+      "from": "2012-03-19T04:00:00.000Z",
+      "to": "2025-05-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 10,
+  "download_timestamp": "2025-08-02 07:16:36 UTC"
+}

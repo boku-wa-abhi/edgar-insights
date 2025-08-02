@@ -1,0 +1,28 @@
+{
+  "cik": "0001859690",
+  "name": "Arqit Quantum Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ARQQ",
+    "ARQQW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "44 203 91 70155",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 277,
+  "download_timestamp": "2025-08-02 07:27:45 UTC"
+}

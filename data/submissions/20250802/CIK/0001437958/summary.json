@@ -1,0 +1,26 @@
+{
+  "cik": "0001437958",
+  "name": "COASTAL FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "425-257-1652",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 510,
+  "download_timestamp": "2025-08-02 07:13:21 UTC"
+}

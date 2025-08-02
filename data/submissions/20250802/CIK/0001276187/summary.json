@@ -1,0 +1,39 @@
+{
+  "cik": "0001276187",
+  "name": "Energy Transfer LP",
+  "entityType": "operating",
+  "sic": "4922",
+  "sicDescription": "Natural Gas Transmission",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ET",
+    "ET-PI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "300108820",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2149810700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Energy Transfer Equity, L.P.",
+      "from": "2005-09-02T04:00:00.000Z",
+      "to": "2018-09-18T04:00:00.000Z"
+    },
+    {
+      "name": "LAGRANGE ENERGY LP",
+      "from": "2004-01-22T05:00:00.000Z",
+      "to": "2005-06-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:09:29 UTC"
+}

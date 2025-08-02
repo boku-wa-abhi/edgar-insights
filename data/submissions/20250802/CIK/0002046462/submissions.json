@@ -1,0 +1,194 @@
+{
+  "cik": "0002046462",
+  "entityType": "other",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "ownerOrg": "08 Industrial Applications and Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "OTSAW Ltd",
+  "tickers": [
+    "OTSA"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0430",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "10 TAMPINES NORTH DRIVE 4",
+      "street2": "JTC SPACE @ TAMPINES NORTH #01-03",
+      "city": "SINGAPORE",
+      "stateOrCountry": "U0",
+      "zipCode": "528553",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "10 TAMPINES NORTH DRIVE 4",
+      "street2": "JTC SPACE @ TAMPINES NORTH #01-03",
+      "city": "SINGAPORE",
+      "stateOrCountry": "U0",
+      "zipCode": "528553",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "6596266726",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-067724",
+        "0001213900-25-064434",
+        "0001213900-25-061733",
+        "0001213900-25-052720",
+        "0001213900-25-047247",
+        "0001013762-25-002776",
+        "0001213900-25-007614"
+      ],
+      "filingDate": [
+        "2025-07-25",
+        "2025-07-16",
+        "2025-07-07",
+        "2025-06-09",
+        "2025-05-23",
+        "2025-03-26",
+        "2025-01-28"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-25T20:01:07.000Z",
+        "2025-07-16T01:42:42.000Z",
+        "2025-07-07T19:59:55.000Z",
+        "2025-06-09T21:31:35.000Z",
+        "2025-05-23T17:56:11.000Z",
+        "2025-03-26T20:56:10.000Z",
+        "2025-01-28T22:30:52.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287887",
+        "333-287887",
+        "333-287887",
+        "333-287887",
+        "377-07702",
+        "377-07702",
+        "377-07702"
+      ],
+      "filmNumber": [
+        "251151631",
+        "251126082",
+        "251107914",
+        "251035204",
+        "25981082",
+        "25774062",
+        "25565922"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        550248,
+        19312354,
+        16050401,
+        19978342,
+        14407272,
+        9400866,
+        10159248
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0227213-13.htm",
+        "ea0227213-10.htm",
+        "ea0227213-08.htm",
+        "ea0227213-06.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

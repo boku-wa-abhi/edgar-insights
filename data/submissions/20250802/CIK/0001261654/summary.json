@@ -1,0 +1,26 @@
+{
+  "cik": "0001261654",
+  "name": "UNIVERSAL TECHNICAL INSTITUTE INC",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "UTI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "860226984",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "623-445-9500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:09:16 UTC"
+}

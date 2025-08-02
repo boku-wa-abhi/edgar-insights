@@ -1,0 +1,34 @@
+{
+  "cik": "0001792581",
+  "name": "Kiromic Biopharma, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRBPQ",
+    "KRBP"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "464762913",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "832-968-4888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kiromic, Inc.",
+      "from": "2019-11-15T05:00:00.000Z",
+      "to": "2019-11-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 252,
+  "download_timestamp": "2025-08-02 07:24:15 UTC"
+}

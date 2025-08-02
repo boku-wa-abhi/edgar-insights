@@ -1,0 +1,39 @@
+{
+  "cik": "0001826667",
+  "name": "TriSalus Life Sciences, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLSI",
+    "TLSIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "853009869",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "415 336 8917",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MedTech Acquisition Corp",
+      "from": "2020-11-30T05:00:00.000Z",
+      "to": "2023-08-10T04:00:00.000Z"
+    },
+    {
+      "name": "MedTech Acquisition Corporation",
+      "from": "2020-10-29T04:00:00.000Z",
+      "to": "2020-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 410,
+  "download_timestamp": "2025-08-02 07:25:45 UTC"
+}

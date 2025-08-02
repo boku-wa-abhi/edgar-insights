@@ -1,0 +1,34 @@
+{
+  "cik": "0001378580",
+  "name": "Airbus SE/ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "EADSY",
+    "EADSF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 238-3128",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "European Aeronautic Defence & Space Co EADS NV Unsponsored ADR Facility",
+      "from": "2006-10-19T04:00:00.000Z",
+      "to": "2013-12-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:11:43 UTC"
+}

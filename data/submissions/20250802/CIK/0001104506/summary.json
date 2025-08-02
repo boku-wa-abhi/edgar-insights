@@ -1,0 +1,26 @@
+{
+  "cik": "0001104506",
+  "name": "INSMED Inc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INSM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541972729",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "908-977-9900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:06 UTC"
+}

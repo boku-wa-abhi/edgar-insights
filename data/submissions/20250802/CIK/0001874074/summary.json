@@ -1,0 +1,32 @@
+{
+  "cik": "0001874074",
+  "name": "MultiMetaVerse Holdings Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MMVVF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-21-61853907",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Model Performance Mini Corp.",
+      "from": "2021-08-17T04:00:00.000Z",
+      "to": "2022-12-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 93,
+  "download_timestamp": "2025-08-02 07:28:21 UTC"
+}

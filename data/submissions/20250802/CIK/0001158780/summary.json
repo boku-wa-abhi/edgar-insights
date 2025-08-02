@@ -1,0 +1,42 @@
+{
+  "cik": "0001158780",
+  "name": "Pluri Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PLUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980351734",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "972-74-710-7171",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PLURISTEM THERAPEUTICS INC",
+      "from": "2008-02-12T05:00:00.000Z",
+      "to": "2022-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "PLURISTEM LIFE SYSTEMS INC",
+      "from": "2003-07-02T04:00:00.000Z",
+      "to": "2007-12-28T05:00:00.000Z"
+    },
+    {
+      "name": "AI SOFTWARE INC",
+      "from": "2001-11-29T05:00:00.000Z",
+      "to": "2003-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 885,
+  "download_timestamp": "2025-08-02 07:08:10 UTC"
+}

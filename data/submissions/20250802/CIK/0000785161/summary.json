@@ -1,0 +1,37 @@
+{
+  "cik": "0000785161",
+  "name": "Encompass Health Corp",
+  "entityType": "operating",
+  "sic": "8060",
+  "sicDescription": "Services-Hospitals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EHC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "630860407",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "205-967-7116",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HEALTHSOUTH CORP",
+      "from": "1995-03-08T05:00:00.000Z",
+      "to": "2017-12-12T05:00:00.000Z"
+    },
+    {
+      "name": "HEALTHSOUTH REHABILITATION CORP",
+      "from": "1994-02-10T05:00:00.000Z",
+      "to": "1994-06-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:00:10 UTC"
+}

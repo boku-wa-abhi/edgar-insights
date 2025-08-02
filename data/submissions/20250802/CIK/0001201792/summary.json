@@ -1,0 +1,26 @@
+{
+  "cik": "0001201792",
+  "name": "AMERICAN PUBLIC EDUCATION INC",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APEI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "010724376",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(304) 724-3700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:51 UTC"
+}

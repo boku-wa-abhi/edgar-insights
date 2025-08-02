@@ -1,0 +1,26 @@
+{
+  "cik": "0001812477",
+  "name": "Bitfarms Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BITF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "647-259-1790",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 332,
+  "download_timestamp": "2025-08-02 07:25:00 UTC"
+}

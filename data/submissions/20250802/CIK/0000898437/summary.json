@@ -1,0 +1,37 @@
+{
+  "cik": "0000898437",
+  "name": "Anika Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANIK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043145961",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(781) 457-9000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANIKA THERAPEUTICS INC",
+      "from": "1997-05-15T04:00:00.000Z",
+      "to": "2014-03-13T04:00:00.000Z"
+    },
+    {
+      "name": "ANIKA RESEARCH INC",
+      "from": "1996-07-24T04:00:00.000Z",
+      "to": "1996-11-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:57 UTC"
+}

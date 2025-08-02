@@ -1,0 +1,28 @@
+{
+  "cik": "0001572236",
+  "name": "Electrum Discovery Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-801-5432",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Medgold Resources Corp.",
+      "from": "2013-04-22T04:00:00.000Z",
+      "to": "2021-07-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 35,
+  "download_timestamp": "2025-08-02 07:17:22 UTC"
+}

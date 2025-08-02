@@ -1,0 +1,26 @@
+{
+  "cik": "0001381197",
+  "name": "Interactive Brokers Group, Inc.",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBKR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "300390693",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "203-618-5800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:48 UTC"
+}

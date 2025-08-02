@@ -1,0 +1,32 @@
+{
+  "cik": "0000798941",
+  "name": "FIRST CITIZENS BANCSHARES INC /DE/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FCNCA",
+    "FCNCB",
+    "FCNCO",
+    "FCNCP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "561528994",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "919 716 7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:00:28 UTC"
+}

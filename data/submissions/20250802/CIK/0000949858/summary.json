@@ -1,0 +1,37 @@
+{
+  "cik": "0000949858",
+  "name": "ACHIEVE LIFE SCIENCES, INC.",
+  "entityType": "operating",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACHV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954343413",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "425-686-1500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ONCOGENEX PHARMACEUTICALS, INC.",
+      "from": "2008-08-21T04:00:00.000Z",
+      "to": "2017-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "SONUS PHARMACEUTICALS INC",
+      "from": "1996-05-24T04:00:00.000Z",
+      "to": "2008-08-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:16 UTC"
+}

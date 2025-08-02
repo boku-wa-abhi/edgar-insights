@@ -1,0 +1,28 @@
+{
+  "cik": "0001756594",
+  "name": "Inventiva S.A.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IVA",
+    "IVEVF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "33380447500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 174,
+  "download_timestamp": "2025-08-02 07:22:59 UTC"
+}

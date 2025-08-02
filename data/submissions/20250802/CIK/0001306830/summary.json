@@ -1,0 +1,26 @@
+{
+  "cik": "0001306830",
+  "name": "Celanese Corp",
+  "entityType": "operating",
+  "sic": "2820",
+  "sicDescription": "Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980420726",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972-443-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:09 UTC"
+}

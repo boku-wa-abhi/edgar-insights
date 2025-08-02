@@ -1,0 +1,34 @@
+{
+  "cik": "0001675033",
+  "name": "Great Elm Capital Corp.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GECC",
+    "GECCH",
+    "GECCI",
+    "GECCO",
+    "GECCZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "812621577",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "617-375-3006",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 710,
+  "download_timestamp": "2025-08-02 07:20:25 UTC"
+}

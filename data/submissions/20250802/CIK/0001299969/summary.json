@@ -1,0 +1,32 @@
+{
+  "cik": "0001299969",
+  "name": "Comstock Holding Companies, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHCI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "201164345",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "703-230-1985",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Comstock Homebuilding Companies, Inc.",
+      "from": "2004-08-13T04:00:00.000Z",
+      "to": "2012-06-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 767,
+  "download_timestamp": "2025-08-02 07:10:03 UTC"
+}

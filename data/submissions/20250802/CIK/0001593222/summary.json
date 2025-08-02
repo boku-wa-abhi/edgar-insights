@@ -1,0 +1,28 @@
+{
+  "cik": "0001593222",
+  "name": "City Office REIT, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIO",
+    "CIO-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "981141883",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "1-604-806-3353",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 849,
+  "download_timestamp": "2025-08-02 07:18:03 UTC"
+}

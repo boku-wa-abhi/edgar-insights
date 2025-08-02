@@ -1,0 +1,26 @@
+{
+  "cik": "0001472494",
+  "name": "United States Brent Oil Fund, LP",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BNO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270925904",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(510) 522-9600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 411,
+  "download_timestamp": "2025-08-02 07:14:14 UTC"
+}

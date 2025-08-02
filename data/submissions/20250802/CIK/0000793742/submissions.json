@@ -1,0 +1,119 @@
+{
+  "cik": "0000793742",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "HACHIJUNI BANK LTD",
+  "tickers": [
+    "HACBF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": null,
+      "street2": null,
+      "city": null,
+      "stateOrCountry": null,
+      "zipCode": null,
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "48 WALL ST",
+      "street2": "C/O NEW YORK BANK OF",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10015",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "2125301784",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-25-001106",
+        "0001019155-24-000349"
+      ],
+      "filingDate": [
+        "2025-07-25",
+        "2024-12-19"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-25T21:29:02.000Z",
+        "2024-12-19T18:28:26.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-288983",
+        "333-283930"
+      ],
+      "filmNumber": [
+        "251152497",
+        "241561978"
+      ],
+      "items": [
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        111488,
+        104144
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "e664735_f6ef-thb.htm",
+        "hachijunif6ef.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "F-6EF"
+      ]
+    },
+    "files": []
+  }
+}

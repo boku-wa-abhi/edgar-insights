@@ -1,0 +1,32 @@
+{
+  "cik": "0000072903",
+  "name": "XCEL ENERGY INC",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XEL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "410448030",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6123305500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NORTHERN STATES POWER CO /MN/",
+      "from": "1994-01-25T05:00:00.000Z",
+      "to": "2000-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:38 UTC"
+}

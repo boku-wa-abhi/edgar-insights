@@ -1,0 +1,26 @@
+{
+  "cik": "0001576427",
+  "name": "Criteo S.A.",
+  "entityType": "operating",
+  "sic": "7311",
+  "sicDescription": "Services-Advertising Agencies",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRTO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "33175850939",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 829,
+  "download_timestamp": "2025-08-02 07:17:30 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001943802",
+  "name": "First Seacoast Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSEA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "920334805",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "603-742-4680",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:29:59 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001528188",
+  "name": "Worldwide NFT Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "WNFT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "273129919",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "7028404433",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOFF, CORP",
+      "from": "2011-08-26T00:00:00.000Z",
+      "to": "2022-05-16T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 58,
+  "download_timestamp": "2025-08-02 07:16:04 UTC"
+}

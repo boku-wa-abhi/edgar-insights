@@ -1,0 +1,40 @@
+{
+  "cik": "0001004434",
+  "name": "AFFILIATED MANAGERS GROUP, INC.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMG",
+    "MGR",
+    "MGRB",
+    "MGRD",
+    "MGRE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "043218510",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(800) 345-1100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AFFILIATED MANAGERS GROUP INC",
+      "from": "1997-10-20T04:00:00.000Z",
+      "to": "2013-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 07:04:27 UTC"
+}

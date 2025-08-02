@@ -1,0 +1,32 @@
+{
+  "cik": "0001394056",
+  "name": "ONE STOP SYSTEMS, INC.",
+  "entityType": "operating",
+  "sic": "3571",
+  "sicDescription": "Electronic Computers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OSS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330885351",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "760-745-9883",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ONE STOP SYSTEMS INC",
+      "from": "2007-03-19T04:00:00.000Z",
+      "to": "2018-07-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 476,
+  "download_timestamp": "2025-08-02 07:12:09 UTC"
+}

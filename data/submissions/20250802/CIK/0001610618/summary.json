@@ -1,0 +1,32 @@
+{
+  "cik": "0001610618",
+  "name": "Cidara Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "461537286",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "858-752-6170",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "K2 THERAPEUTICS, INC.",
+      "from": "2014-06-17T04:00:00.000Z",
+      "to": "2015-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 706,
+  "download_timestamp": "2025-08-02 07:18:36 UTC"
+}

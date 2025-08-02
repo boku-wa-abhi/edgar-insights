@@ -1,0 +1,32 @@
+{
+  "cik": "0001858258",
+  "name": "Franklin Templeton Holdings Trust",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FGDL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(650) 312-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Franklin Holdings Trust",
+      "from": "2021-04-23T04:00:00.000Z",
+      "to": "2022-02-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 65,
+  "download_timestamp": "2025-08-02 07:27:39 UTC"
+}

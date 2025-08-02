@@ -1,0 +1,32 @@
+{
+  "cik": "0000109563",
+  "name": "APPLIED INDUSTRIAL TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "5080",
+  "sicDescription": "Wholesale-Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AIT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340117420",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "216-426-4753",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BEARINGS INC /OH/",
+      "from": "1994-04-29T04:00:00.000Z",
+      "to": "1997-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:58:27 UTC"
+}

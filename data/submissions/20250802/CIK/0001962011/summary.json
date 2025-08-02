@@ -1,0 +1,26 @@
+{
+  "cik": "0001962011",
+  "name": "Kairos Pharma, LTD.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KAPA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "462993314",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "818-404-5541",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 84,
+  "download_timestamp": "2025-08-02 07:30:29 UTC"
+}

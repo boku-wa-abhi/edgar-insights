@@ -1,0 +1,34 @@
+{
+  "cik": "0000752642",
+  "name": "UMH PROPERTIES, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UMH",
+    "UMH-PD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "221890929",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7325779997",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNITED MOBILE HOMES INC",
+      "from": "1995-06-27T04:00:00.000Z",
+      "to": "2006-03-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:52 UTC"
+}

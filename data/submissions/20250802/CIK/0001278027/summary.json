@@ -1,0 +1,32 @@
+{
+  "cik": "0001278027",
+  "name": "B&G Foods, Inc.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "BGS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133918742",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9734016500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "B&G FOODS HOLDINGS CORP",
+      "from": "2004-02-11T05:00:00.000Z",
+      "to": "2004-10-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:09:31 UTC"
+}

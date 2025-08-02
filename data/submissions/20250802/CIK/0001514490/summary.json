@@ -1,0 +1,32 @@
+{
+  "cik": "0001514490",
+  "name": "ROYCE GLOBAL TRUST, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RGT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "275491330",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-508-4500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ROYCE GLOBAL VALUE TRUST, INC.",
+      "from": "2011-03-11T05:00:00.000Z",
+      "to": "2024-04-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 311,
+  "download_timestamp": "2025-08-02 07:15:35 UTC"
+}

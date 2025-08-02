@@ -1,0 +1,42 @@
+{
+  "cik": "0001518557",
+  "name": "NYLI MacKay DefinedTerm Muni Opportunities Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "MMD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-576-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MainStay MacKay DefinedTerm Municipal Opportunities Fund",
+      "from": "2018-04-24T04:00:00.000Z",
+      "to": "2024-08-07T04:00:00.000Z"
+    },
+    {
+      "name": "MainStay DefinedTerm Municipal Opportunities Fund",
+      "from": "2012-05-18T04:00:00.000Z",
+      "to": "2018-04-03T04:00:00.000Z"
+    },
+    {
+      "name": "MainStay DefinedTerm Municipal High Income Fund",
+      "from": "2011-04-25T04:00:00.000Z",
+      "to": "2012-04-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 248,
+  "download_timestamp": "2025-08-02 07:15:47 UTC"
+}

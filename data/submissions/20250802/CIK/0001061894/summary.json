@@ -1,0 +1,32 @@
+{
+  "cik": "0001061894",
+  "name": "Gildan Activewear Inc.",
+  "entityType": "other",
+  "sic": "2300",
+  "sicDescription": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "GIL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5147352023",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GILDAN ACTIVEWEAR INC",
+      "from": "1999-04-15T04:00:00.000Z",
+      "to": "2007-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 480,
+  "download_timestamp": "2025-08-02 07:06:01 UTC"
+}

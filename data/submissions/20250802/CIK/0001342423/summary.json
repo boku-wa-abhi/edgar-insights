@@ -1,0 +1,26 @@
+{
+  "cik": "0001342423",
+  "name": "Limoneira CO",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "LMNR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770260692",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(805) 525-5541",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 859,
+  "download_timestamp": "2025-08-02 07:10:56 UTC"
+}

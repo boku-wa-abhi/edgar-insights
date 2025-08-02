@@ -1,0 +1,37 @@
+{
+  "cik": "0001671284",
+  "name": "NeueHealth, Inc.",
+  "entityType": "operating",
+  "sic": "6324",
+  "sicDescription": "Hospital & Medical Service Plans",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NEUE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "474991296",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "612-238-1321",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bright Health Group Inc.",
+      "from": "2021-03-18T04:00:00.000Z",
+      "to": "2024-01-24T05:00:00.000Z"
+    },
+    {
+      "name": "Bright Health Inc.",
+      "from": "2016-04-05T04:00:00.000Z",
+      "to": "2020-09-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 444,
+  "download_timestamp": "2025-08-02 07:20:16 UTC"
+}

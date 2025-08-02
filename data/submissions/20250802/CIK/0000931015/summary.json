@@ -1,0 +1,32 @@
+{
+  "cik": "0000931015",
+  "name": "Polaris Inc.",
+  "entityType": "operating",
+  "sic": "3790",
+  "sicDescription": "Miscellaneous Transportation Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PII"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "411790959",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(763) 542-0500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "POLARIS INDUSTRIES INC/MN",
+      "from": "1994-11-21T05:00:00.000Z",
+      "to": "2019-07-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:56 UTC"
+}

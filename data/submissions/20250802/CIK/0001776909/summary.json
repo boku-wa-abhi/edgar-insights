@@ -1,0 +1,34 @@
+{
+  "cik": "0001776909",
+  "name": "CuriosityStream Inc.",
+  "entityType": "operating",
+  "sic": "7812",
+  "sicDescription": "Services-Motion Picture & Video Tape Production",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CURI",
+    "CURIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "301-755-2050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Software Acquisition Group Inc.",
+      "from": "2019-07-15T04:00:00.000Z",
+      "to": "2020-10-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 525,
+  "download_timestamp": "2025-08-02 07:23:38 UTC"
+}

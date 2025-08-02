@@ -1,0 +1,26 @@
+{
+  "cik": "0000050863",
+  "name": "INTEL CORP",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "INTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "941672743",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4087658080",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:57:10 UTC"
+}

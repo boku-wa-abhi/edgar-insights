@@ -1,0 +1,37 @@
+{
+  "cik": "0001750106",
+  "name": "Alset Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831079861",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "3019713955",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alset EHome International Inc.",
+      "from": "2021-02-11T05:00:00.000Z",
+      "to": "2022-10-04T04:00:00.000Z"
+    },
+    {
+      "name": "HF Enterprises Inc.",
+      "from": "2018-11-13T05:00:00.000Z",
+      "to": "2021-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 308,
+  "download_timestamp": "2025-08-02 07:22:47 UTC"
+}

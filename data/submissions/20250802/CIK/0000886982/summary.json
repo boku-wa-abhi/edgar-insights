@@ -1,0 +1,40 @@
+{
+  "cik": "0000886982",
+  "name": "GOLDMAN SACHS GROUP INC",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GS",
+    "GS-PA",
+    "GS-PD",
+    "GS-PC",
+    "GSCE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "134019460",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-902-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOLDMAN SACHS GROUP INC/",
+      "from": "2001-02-07T05:00:00.000Z",
+      "to": "2008-03-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 9593,
+  "download_timestamp": "2025-08-02 07:02:30 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001437517",
+  "name": "CYBERLOQ TECHNOLOGIES, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLOQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "262118480",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "612-961-4536",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADVANCED CREDIT TECHNOLOGIES INC",
+      "from": "2008-06-10T04:00:00.000Z",
+      "to": "2019-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 153,
+  "download_timestamp": "2025-08-02 07:13:20 UTC"
+}

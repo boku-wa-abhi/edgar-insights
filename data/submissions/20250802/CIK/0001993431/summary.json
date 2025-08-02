@@ -1,0 +1,26 @@
+{
+  "cik": "0001993431",
+  "name": "Micropolis Holding Co",
+  "entityType": "other",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MCRP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "97142767008",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 32,
+  "download_timestamp": "2025-08-02 07:31:21 UTC"
+}

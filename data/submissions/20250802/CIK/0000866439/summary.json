@@ -1,0 +1,32 @@
+{
+  "cik": "0000866439",
+  "name": "DarkPulse, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DPLS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870472109",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-436-1436",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KLEVER MARKETING INC",
+      "from": "1997-06-20T04:00:00.000Z",
+      "to": "2018-07-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 545,
+  "download_timestamp": "2025-08-02 07:01:50 UTC"
+}

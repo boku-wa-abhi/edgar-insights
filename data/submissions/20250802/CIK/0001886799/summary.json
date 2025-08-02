@@ -1,0 +1,26 @@
+{
+  "cik": "0001886799",
+  "name": "Bright Green Corp",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BGXXQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(201)370-1140",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 162,
+  "download_timestamp": "2025-08-02 07:28:45 UTC"
+}

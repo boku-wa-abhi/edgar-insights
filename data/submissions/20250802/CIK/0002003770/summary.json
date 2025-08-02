@@ -1,0 +1,26 @@
+{
+  "cik": "0002003770",
+  "name": "Kumyang Co., Ltd./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "M5",
+  "stateOfIncorporationDescription": "Korea, Republic of",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KMYGY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:31:43 UTC"
+}

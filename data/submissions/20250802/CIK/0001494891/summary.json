@@ -1,0 +1,32 @@
+{
+  "cik": "0001494891",
+  "name": "Sensus Healthcare, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SRTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271647271",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-922-5808",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sensus Healthcare, LLC",
+      "from": "2010-07-02T04:00:00.000Z",
+      "to": "2015-12-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 366,
+  "download_timestamp": "2025-08-02 07:14:54 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0000930245",
+  "name": "Agassi Sports Entertainment Corp.",
+  "entityType": "operating",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AASP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "880203976",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-400-4005",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GLOBAL ACQUISITIONS Corp",
+      "from": "2021-03-09T05:00:00.000Z",
+      "to": "2025-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "ALL AMERICAN SPORTPARK INC",
+      "from": "1999-01-21T05:00:00.000Z",
+      "to": "2021-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "SAINT ANDREWS GOLF CORP",
+      "from": "1996-10-01T04:00:00.000Z",
+      "to": "1999-01-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 268,
+  "download_timestamp": "2025-08-02 07:03:55 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000056701",
+  "name": "KOSS CORP",
+  "entityType": "operating",
+  "sic": "3651",
+  "sicDescription": "Household Audio & Video Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "KOSS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391168275",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4149645000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 684,
+  "download_timestamp": "2025-08-02 06:57:15 UTC"
+}

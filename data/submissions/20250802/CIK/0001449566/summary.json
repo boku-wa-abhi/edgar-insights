@@ -1,0 +1,28 @@
+{
+  "cik": "0001449566",
+  "name": "Wilmar International Ltd",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "WLMIY",
+    "WLMIF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3010",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:13:41 UTC"
+}

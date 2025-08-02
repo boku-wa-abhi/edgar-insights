@@ -1,0 +1,32 @@
+{
+  "cik": "0001103982",
+  "name": "Mondelez International, Inc.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDLZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "522284372",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "847-943-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KRAFT FOODS INC",
+      "from": "2000-01-24T05:00:00.000Z",
+      "to": "2012-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:07:05 UTC"
+}

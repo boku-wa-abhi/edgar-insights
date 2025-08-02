@@ -1,0 +1,32 @@
+{
+  "cik": "0001472215",
+  "name": "Nuveen Mortgage & Income Fund/MA/",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JLS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nuveen Mortgage Opportunity Term Fund",
+      "from": "2009-09-16T04:00:00.000Z",
+      "to": "2019-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 411,
+  "download_timestamp": "2025-08-02 07:14:13 UTC"
+}

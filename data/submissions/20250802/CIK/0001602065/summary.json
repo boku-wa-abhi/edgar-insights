@@ -1,0 +1,32 @@
+{
+  "cik": "0001602065",
+  "name": "Viper Energy, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VNOM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465001985",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "432-221-7400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Viper Energy Partners LP",
+      "from": "2014-03-21T04:00:00.000Z",
+      "to": "2023-11-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 548,
+  "download_timestamp": "2025-08-02 07:18:19 UTC"
+}

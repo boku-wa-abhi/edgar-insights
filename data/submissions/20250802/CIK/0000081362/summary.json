@@ -1,0 +1,26 @@
+{
+  "cik": "0000081362",
+  "name": "QUAKER CHEMICAL CORP",
+  "entityType": "operating",
+  "sic": "2990",
+  "sicDescription": "Miscellaneous Products of  Petroleum & Coal",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KWR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "230993790",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6108324000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:57:50 UTC"
+}

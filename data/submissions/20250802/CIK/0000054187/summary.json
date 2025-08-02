@@ -1,0 +1,26 @@
+{
+  "cik": "0000054187",
+  "name": "MAYS J W INC",
+  "entityType": "operating",
+  "sic": "6512",
+  "sicDescription": "Opeators of  Nonresidential Buildings",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "MAYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "111059070",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7186247400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 329,
+  "download_timestamp": "2025-08-02 06:57:12 UTC"
+}

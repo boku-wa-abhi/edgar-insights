@@ -1,0 +1,47 @@
+{
+  "cik": "0000788611",
+  "name": "NextTrip, Inc.",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "NTRP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "820404220",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(954) 526-9688",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIGMA ADDITIVE SOLUTIONS, INC.",
+      "from": "2022-08-12T04:00:00.000Z",
+      "to": "2024-03-12T04:00:00.000Z"
+    },
+    {
+      "name": "SIGMA LABS, INC.",
+      "from": "2010-10-14T04:00:00.000Z",
+      "to": "2022-08-11T04:00:00.000Z"
+    },
+    {
+      "name": "FRAMEWAVES INC",
+      "from": "2001-11-07T05:00:00.000Z",
+      "to": "2010-10-14T04:00:00.000Z"
+    },
+    {
+      "name": "MESSIDOR LTD",
+      "from": "2001-01-26T05:00:00.000Z",
+      "to": "2001-01-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 642,
+  "download_timestamp": "2025-08-02 07:00:13 UTC"
+}

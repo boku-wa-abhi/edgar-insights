@@ -1,0 +1,26 @@
+{
+  "cik": "0000737468",
+  "name": "WASHINGTON TRUST BANCORP INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "RI",
+  "stateOfIncorporationDescription": "RI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WASH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "050404671",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4013481200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 06:59:40 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0000924805",
+  "name": "Freedom Holding Corp.",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FRHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "300233726",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-212-980-4400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BMB MUNAI INC",
+      "from": "2003-12-18T05:00:00.000Z",
+      "to": "2017-09-05T04:00:00.000Z"
+    },
+    {
+      "name": "INTERUNION FINANCIAL CORP",
+      "from": "1996-11-14T05:00:00.000Z",
+      "to": "2003-12-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 640,
+  "download_timestamp": "2025-08-02 07:03:46 UTC"
+}

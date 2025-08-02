@@ -1,0 +1,32 @@
+{
+  "cik": "0000354950",
+  "name": "HOME DEPOT, INC.",
+  "entityType": "operating",
+  "sic": "5211",
+  "sicDescription": "Retail-Lumber & Other Building Materials Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "HD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953261426",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "770-433-8211",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HOME DEPOT INC",
+      "from": "1994-06-06T04:00:00.000Z",
+      "to": "2019-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:56 UTC"
+}

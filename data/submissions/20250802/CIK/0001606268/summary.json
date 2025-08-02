@@ -1,0 +1,32 @@
+{
+  "cik": "0001606268",
+  "name": "Via Renewables, Inc.",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VIASP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "465453215",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(713) 600-2600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Spark Energy, Inc.",
+      "from": "2014-04-25T04:00:00.000Z",
+      "to": "2021-08-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 953,
+  "download_timestamp": "2025-08-02 07:18:29 UTC"
+}

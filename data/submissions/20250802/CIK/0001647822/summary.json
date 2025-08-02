@@ -1,0 +1,32 @@
+{
+  "cik": "0001647822",
+  "name": "Jingbo Technology, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "SVMB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "473240707",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "571-8719-7085",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SavMobi Technology Inc.",
+      "from": "2015-09-08T04:00:00.000Z",
+      "to": "2024-01-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 117,
+  "download_timestamp": "2025-08-02 07:19:40 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000883618",
+  "name": "NUVEEN SELECT TAX FREE INCOME PORTFOLIO",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "NXP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363806843",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 425,
+  "download_timestamp": "2025-08-02 07:02:17 UTC"
+}

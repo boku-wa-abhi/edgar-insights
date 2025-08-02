@@ -1,0 +1,26 @@
+{
+  "cik": "0001487712",
+  "name": "AIR LEASE CORP",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "271840403",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(310) 553-0555",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:14:40 UTC"
+}

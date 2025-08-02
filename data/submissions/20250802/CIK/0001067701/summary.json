@@ -1,0 +1,32 @@
+{
+  "cik": "0001067701",
+  "name": "UNITED RENTALS, INC.",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "URI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "061522496",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2036223131",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNITED RENTALS INC /DE",
+      "from": "1998-11-16T05:00:00.000Z",
+      "to": "2019-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:06:09 UTC"
+}

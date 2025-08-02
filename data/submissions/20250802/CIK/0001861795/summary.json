@@ -1,0 +1,26 @@
+{
+  "cik": "0001861795",
+  "name": "Definitive Healthcare Corp.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "508-720-4224",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 321,
+  "download_timestamp": "2025-08-02 07:27:50 UTC"
+}

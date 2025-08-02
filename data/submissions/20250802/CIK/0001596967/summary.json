@@ -1,0 +1,26 @@
+{
+  "cik": "0001596967",
+  "name": "Moelis & Co",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464500216",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 883-3800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:18:08 UTC"
+}

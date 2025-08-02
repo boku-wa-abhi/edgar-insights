@@ -1,0 +1,26 @@
+{
+  "cik": "0000354963",
+  "name": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHEN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541162807",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5409844141",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:56 UTC"
+}

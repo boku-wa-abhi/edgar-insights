@@ -1,0 +1,26 @@
+{
+  "cik": "0000764622",
+  "name": "PINNACLE WEST CAPITAL CORP",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "AZ",
+  "stateOfIncorporationDescription": "AZ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PNW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "860512431",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "602 250 1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:59:58 UTC"
+}

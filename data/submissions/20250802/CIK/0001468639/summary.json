@@ -1,0 +1,28 @@
+{
+  "cik": "0001468639",
+  "name": "Vicapsys Life Sciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "621153426",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "470-514-4013",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SSGI, INC.",
+      "from": "2009-07-17T04:00:00.000Z",
+      "to": "2016-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 92,
+  "download_timestamp": "2025-08-02 07:14:06 UTC"
+}

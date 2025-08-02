@@ -1,0 +1,32 @@
+{
+  "cik": "0001083522",
+  "name": "JONES SODA CO",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JSDA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "911696175",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "206 624-3357",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "URBAN JUICE & SODA CO LTD /WY/",
+      "from": "1999-08-17T04:00:00.000Z",
+      "to": "2000-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:33 UTC"
+}

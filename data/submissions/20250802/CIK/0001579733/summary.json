@@ -1,0 +1,26 @@
+{
+  "cik": "0001579733",
+  "name": "Vital Farms, Inc.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VITL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "270496985",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(877) 455-3063",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 543,
+  "download_timestamp": "2025-08-02 07:17:37 UTC"
+}

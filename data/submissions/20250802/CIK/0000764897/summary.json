@@ -1,0 +1,47 @@
+{
+  "cik": "0000764897",
+  "name": "Broad Street Realty, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "363361229",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-617-8050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MedAmerica Properties Inc.",
+      "from": "2017-07-19T04:00:00.000Z",
+      "to": "2019-12-03T05:00:00.000Z"
+    },
+    {
+      "name": "Banyan Rail Services Inc.",
+      "from": "2010-01-06T05:00:00.000Z",
+      "to": "2017-06-19T04:00:00.000Z"
+    },
+    {
+      "name": "BHIT INC",
+      "from": "1999-08-10T04:00:00.000Z",
+      "to": "2009-12-21T05:00:00.000Z"
+    },
+    {
+      "name": "BANYAN HOTEL INVESTMENT FUND",
+      "from": "1995-02-22T05:00:00.000Z",
+      "to": "1999-05-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 696,
+  "download_timestamp": "2025-08-02 06:59:58 UTC"
+}

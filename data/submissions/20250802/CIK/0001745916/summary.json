@@ -1,0 +1,32 @@
+{
+  "cik": "0001745916",
+  "name": "PennyMac Financial Services, Inc.",
+  "entityType": "operating",
+  "sic": "6162",
+  "sicDescription": "Mortgage Bankers & Loan Correspondents",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PFSI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "831098934",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(818) 224-7442",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New PennyMac Financial Services, Inc.",
+      "from": "2018-08-02T04:00:00.000Z",
+      "to": "2018-10-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 954,
+  "download_timestamp": "2025-08-02 07:22:41 UTC"
+}

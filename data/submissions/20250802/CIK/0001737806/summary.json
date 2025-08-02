@@ -1,0 +1,37 @@
+{
+  "cik": "0001737806",
+  "name": "PDD Holdings Inc.",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PDD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "353 1 5397938",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Pinduoduo Inc.",
+      "from": "2018-06-08T04:00:00.000Z",
+      "to": "2023-02-03T05:00:00.000Z"
+    },
+    {
+      "name": "Walnut Street Group Holding Ltd",
+      "from": "2018-05-07T04:00:00.000Z",
+      "to": "2018-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 187,
+  "download_timestamp": "2025-08-02 07:22:26 UTC"
+}

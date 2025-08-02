@@ -1,0 +1,26 @@
+{
+  "cik": "0001844450",
+  "name": "Electrovaya Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ELVA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "905-855-4627",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 129,
+  "download_timestamp": "2025-08-02 07:26:49 UTC"
+}

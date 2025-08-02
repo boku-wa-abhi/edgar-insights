@@ -1,0 +1,38 @@
+{
+  "cik": "0001830033",
+  "name": "PureCycle Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "2821",
+  "sicDescription": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCT",
+    "PCTB",
+    "PCTTU",
+    "PCTTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "877-648-3565",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Roth CH Acquisition I Co. Parent Corp.",
+      "from": "2020-11-20T05:00:00.000Z",
+      "to": "2021-03-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 434,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

@@ -1,0 +1,115 @@
+{
+  "cik": "0001953624",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "CARLYLE COMMODITIES CORP.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0228",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "5803 - 1151 WEST GEORGIA STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 0B3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "5803 - 1151 WEST GEORGIA STREET",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 0B3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "604-715-4751",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001953624-23-000001",
+        "0001085037-22-000083"
+      ],
+      "filingDate": [
+        "2023-09-01",
+        "2022-11-09"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-09-01T16:51:49.000Z",
+        "2022-11-09T02:37:57.000Z"
+      ],
+      "act": [
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-491230",
+        "021-464317"
+      ],
+      "filmNumber": [
+        "231231721",
+        "221370477"
+      ],
+      "items": [
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "D",
+        "D"
+      ],
+      "size": [
+        12827,
+        9262
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

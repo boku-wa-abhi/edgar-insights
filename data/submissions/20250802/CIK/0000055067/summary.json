@@ -1,0 +1,32 @@
+{
+  "cik": "0000055067",
+  "name": "KELLANOVA",
+  "entityType": "operating",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "K"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "380710690",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2699612000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KELLOGG CO",
+      "from": "1994-04-29T04:00:00.000Z",
+      "to": "2023-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:13 UTC"
+}

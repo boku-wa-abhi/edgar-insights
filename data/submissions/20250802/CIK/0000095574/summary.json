@@ -1,0 +1,37 @@
+{
+  "cik": "0000095574",
+  "name": "SUPERIOR GROUP OF COMPANIES, INC.",
+  "entityType": "operating",
+  "sic": "2300",
+  "sicDescription": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SGC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "111385670",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "7273979611",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUPERIOR UNIFORM GROUP INC",
+      "from": "1998-11-12T05:00:00.000Z",
+      "to": "2018-05-04T04:00:00.000Z"
+    },
+    {
+      "name": "SUPERIOR SURGICAL MANUFACTURING CO INC",
+      "from": "1994-08-10T04:00:00.000Z",
+      "to": "1998-05-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:05 UTC"
+}

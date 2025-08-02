@@ -1,0 +1,32 @@
+{
+  "cik": "0001766526",
+  "name": "Tectonic Financial, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TECTP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "820764846",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "972-720-9000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "T Acquisition, Inc.",
+      "from": "2019-02-13T05:00:00.000Z",
+      "to": "2019-04-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 119,
+  "download_timestamp": "2025-08-02 07:23:21 UTC"
+}

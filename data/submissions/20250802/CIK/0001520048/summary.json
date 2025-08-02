@@ -1,0 +1,32 @@
+{
+  "cik": "0001520048",
+  "name": "Permianville Royalty Trust",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PVL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "456259461",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5122366555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Enduro Royalty Trust",
+      "from": "2011-05-16T04:00:00.000Z",
+      "to": "2018-09-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 356,
+  "download_timestamp": "2025-08-02 07:15:50 UTC"
+}

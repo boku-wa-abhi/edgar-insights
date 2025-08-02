@@ -1,0 +1,26 @@
+{
+  "cik": "0001877971",
+  "name": "POMDOCTOR Ltd",
+  "entityType": "other",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "POM"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8602062312277",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 16,
+  "download_timestamp": "2025-08-02 07:28:30 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001293135",
+  "name": "VERMILION ENERGY INC.",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VET"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "403-269-4884",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VERMILION ENERGY TRUST",
+      "from": "2004-07-02T04:00:00.000Z",
+      "to": "2010-09-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 620,
+  "download_timestamp": "2025-08-02 07:09:55 UTC"
+}

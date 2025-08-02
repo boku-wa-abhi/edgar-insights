@@ -1,0 +1,26 @@
+{
+  "cik": "0001680581",
+  "name": "Fulcrum Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FULC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474839948",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-651-8851",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 437,
+  "download_timestamp": "2025-08-02 07:20:34 UTC"
+}

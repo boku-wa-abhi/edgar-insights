@@ -1,0 +1,32 @@
+{
+  "cik": "0001030469",
+  "name": "OFG BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PR",
+  "stateOfIncorporationDescription": "PR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OFG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "660538893",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7877716800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ORIENTAL FINANCIAL GROUP INC",
+      "from": "1997-01-10T05:00:00.000Z",
+      "to": "2013-05-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:06 UTC"
+}

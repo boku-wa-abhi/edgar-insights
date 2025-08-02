@@ -1,0 +1,26 @@
+{
+  "cik": "0001005731",
+  "name": "IDT CORP",
+  "entityType": "operating",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "IDT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223415036",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "973 438 1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:04:31 UTC"
+}

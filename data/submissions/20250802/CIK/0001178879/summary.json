@@ -1,0 +1,32 @@
+{
+  "cik": "0001178879",
+  "name": "AMICUS THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FOLD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "200422823",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(609) 662-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMICUS THERAPEUTICS INC",
+      "from": "2002-07-25T04:00:00.000Z",
+      "to": "2018-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:43 UTC"
+}

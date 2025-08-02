@@ -1,0 +1,42 @@
+{
+  "cik": "0001273441",
+  "name": "GRAN TIERRA ENERGY INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(403) 265-3221",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GRAN TIERRA ENERGY, INC.",
+      "from": "2005-12-19T05:00:00.000Z",
+      "to": "2012-08-09T04:00:00.000Z"
+    },
+    {
+      "name": "GOLDSTRIKE INC",
+      "from": "2004-03-18T05:00:00.000Z",
+      "to": "2005-11-29T05:00:00.000Z"
+    },
+    {
+      "name": "GOLKSTRIKE INC",
+      "from": "2003-12-31T05:00:00.000Z",
+      "to": "2003-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:09:25 UTC"
+}

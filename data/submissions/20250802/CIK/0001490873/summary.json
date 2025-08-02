@@ -1,0 +1,37 @@
+{
+  "cik": "0001490873",
+  "name": "ECO SCIENCE SOLUTIONS, INC.",
+  "entityType": "operating",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "ESSI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "464199032",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "833-464-3726",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON SCIENTIFIC SYSTEMS, INC.",
+      "from": "2013-05-16T04:00:00.000Z",
+      "to": "2014-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "PRISTINE SOLUTIONS INC.",
+      "from": "2010-05-04T04:00:00.000Z",
+      "to": "2013-05-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 177,
+  "download_timestamp": "2025-08-02 07:14:46 UTC"
+}

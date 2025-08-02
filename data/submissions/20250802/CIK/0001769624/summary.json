@@ -1,0 +1,39 @@
+{
+  "cik": "0001769624",
+  "name": "Triller Group Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ILLR",
+    "ILLRW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "310-893-5090",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AGBA Group Holding Ltd.",
+      "from": "2022-02-15T05:00:00.000Z",
+      "to": "2024-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "AGBA Acquisition Ltd",
+      "from": "2019-03-11T04:00:00.000Z",
+      "to": "2022-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 315,
+  "download_timestamp": "2025-08-02 07:23:26 UTC"
+}

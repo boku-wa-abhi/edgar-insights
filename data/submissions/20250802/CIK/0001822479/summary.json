@@ -1,0 +1,32 @@
+{
+  "cik": "0001822479",
+  "name": "Sotera Health Co",
+  "entityType": "operating",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SHC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473531161",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "440-262-1410",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sotera Health Topco, Inc.",
+      "from": "2020-09-02T04:00:00.000Z",
+      "to": "2020-10-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 276,
+  "download_timestamp": "2025-08-02 07:25:31 UTC"
+}

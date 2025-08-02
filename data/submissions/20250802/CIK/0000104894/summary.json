@@ -1,0 +1,32 @@
+{
+  "cik": "0000104894",
+  "name": "Elme Communities",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ELME"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "530261100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2027743200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WASHINGTON REAL ESTATE INVESTMENT TRUST",
+      "from": "1994-11-14T05:00:00.000Z",
+      "to": "2022-10-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:19 UTC"
+}

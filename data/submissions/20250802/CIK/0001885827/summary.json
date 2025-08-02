@@ -1,0 +1,32 @@
+{
+  "cik": "0001885827",
+  "name": "Virax Biolabs Group Ltd",
+  "entityType": "other",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "VRAX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "44 020 7788 7414",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Virax Biolabs (Cayman) Ltd",
+      "from": "2021-12-27T05:00:00.000Z",
+      "to": "2021-12-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 116,
+  "download_timestamp": "2025-08-02 07:28:44 UTC"
+}

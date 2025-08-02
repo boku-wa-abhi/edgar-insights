@@ -1,0 +1,32 @@
+{
+  "cik": "0001172052",
+  "name": "SAFETY INSURANCE GROUP INC",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SAFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "134181699",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-951-0600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SAFETY HOLDINGS INC",
+      "from": "2002-12-10T05:00:00.000Z",
+      "to": "2002-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:30 UTC"
+}

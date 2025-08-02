@@ -1,0 +1,26 @@
+{
+  "cik": "0000720500",
+  "name": "AMTECH SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "3559",
+  "sicDescription": "Special Industry Machinery, NEC",
+  "stateOfIncorporation": "AZ",
+  "stateOfIncorporationDescription": "AZ",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ASYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860411215",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "4809675146",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 927,
+  "download_timestamp": "2025-08-02 06:59:23 UTC"
+}

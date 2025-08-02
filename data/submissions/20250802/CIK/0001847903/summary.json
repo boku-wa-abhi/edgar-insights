@@ -1,0 +1,32 @@
+{
+  "cik": "0001847903",
+  "name": "Centessa Pharmaceuticals plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNTA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "44 7391 789784",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Centessa Pharmaceuticals Ltd",
+      "from": "2021-03-15T04:00:00.000Z",
+      "to": "2021-05-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 482,
+  "download_timestamp": "2025-08-02 07:27:01 UTC"
+}

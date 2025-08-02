@@ -1,0 +1,26 @@
+{
+  "cik": "0000094344",
+  "name": "STEWART INFORMATION SERVICES CORP",
+  "entityType": "operating",
+  "sic": "6361",
+  "sicDescription": "Title Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741677330",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7136258100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:04 UTC"
+}

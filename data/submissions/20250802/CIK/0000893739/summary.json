@@ -1,0 +1,32 @@
+{
+  "cik": "0000893739",
+  "name": "180 DEGREE CAPITAL CORP. /NY/",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TURN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133119827",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "973-746-4500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HARRIS & HARRIS GROUP INC /NY/",
+      "from": "1995-08-29T04:00:00.000Z",
+      "to": "2017-03-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:02:43 UTC"
+}

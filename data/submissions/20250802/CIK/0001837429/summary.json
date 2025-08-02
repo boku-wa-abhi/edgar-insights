@@ -1,0 +1,37 @@
+{
+  "cik": "0001837429",
+  "name": "Brookfield Wealth Solutions Ltd.",
+  "entityType": "other",
+  "sic": "6399",
+  "sicDescription": "Insurance Carriers, NEC",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BNT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-405-7811",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Brookfield Reinsurance Ltd.",
+      "from": "2022-12-15T05:00:00.000Z",
+      "to": "2024-09-06T04:00:00.000Z"
+    },
+    {
+      "name": "Brookfield Asset Management Reinsurance Partners Ltd.",
+      "from": "2020-12-29T05:00:00.000Z",
+      "to": "2022-12-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 172,
+  "download_timestamp": "2025-08-02 07:26:24 UTC"
+}

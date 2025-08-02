@@ -1,0 +1,28 @@
+{
+  "cik": "0001918661",
+  "name": "ESH Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ESHA",
+    "ESHAR"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "874000684",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "2129918332",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 57,
+  "download_timestamp": "2025-08-02 07:29:29 UTC"
+}

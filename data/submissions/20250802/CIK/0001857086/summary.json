@@ -1,0 +1,32 @@
+{
+  "cik": "0001857086",
+  "name": "TruGolf Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3949",
+  "sicDescription": "Sporting & Athletic Goods, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRUG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "853269086",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "9544242345",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Deep Medicine Acquisition Corp.",
+      "from": "2021-08-03T04:00:00.000Z",
+      "to": "2024-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 190,
+  "download_timestamp": "2025-08-02 07:27:37 UTC"
+}

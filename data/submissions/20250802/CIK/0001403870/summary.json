@@ -1,0 +1,26 @@
+{
+  "cik": "0001403870",
+  "name": "Golden Arrow Resources Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GARWF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-687-1828",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:12:24 UTC"
+}

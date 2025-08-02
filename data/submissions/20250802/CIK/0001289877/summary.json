@@ -1,0 +1,32 @@
+{
+  "cik": "0001289877",
+  "name": "SFL Corp Ltd.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SFL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-295-9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ship Finance International LTD",
+      "from": "2004-05-21T04:00:00.000Z",
+      "to": "2019-08-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 559,
+  "download_timestamp": "2025-08-02 07:09:52 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000018255",
+  "name": "CATO CORP",
+  "entityType": "operating",
+  "sic": "5621",
+  "sicDescription": "Retail-Women's Clothing Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CATO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "560484485",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "7045517352",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:27 UTC"
+}

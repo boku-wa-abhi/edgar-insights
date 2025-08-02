@@ -1,0 +1,32 @@
+{
+  "cik": "0000886346",
+  "name": "KADANT INC",
+  "entityType": "operating",
+  "sic": "3550",
+  "sicDescription": "Special Industry Machinery (No Metalworking Machinery)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "KAI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "521762325",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(978) 776-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "THERMO FIBERTEK INC",
+      "from": "1996-05-03T04:00:00.000Z",
+      "to": "2001-04-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:02:27 UTC"
+}

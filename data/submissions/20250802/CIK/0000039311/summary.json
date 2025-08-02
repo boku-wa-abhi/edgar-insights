@@ -1,0 +1,26 @@
+{
+  "cik": "0000039311",
+  "name": "INDEPENDENT BANK CORP /MI/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBCP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "382032782",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8003550641",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:56:56 UTC"
+}

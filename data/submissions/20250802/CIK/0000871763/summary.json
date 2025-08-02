@@ -1,0 +1,32 @@
+{
+  "cik": "0000871763",
+  "name": "ManpowerGroup Inc.",
+  "entityType": "operating",
+  "sic": "7363",
+  "sicDescription": "Services-Help Supply Services",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MAN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "391672779",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "414 961-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MANPOWER INC /WI/",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2013-01-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:54 UTC"
+}

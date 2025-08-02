@@ -1,0 +1,200 @@
+{
+  "cik": "0002058349",
+  "entityType": "other",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "ETOILES CAPITAL GROUP CO., LTD",
+  "tickers": [
+    "EFTY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "ROOM 1109, 11/F, TAI YAU BUILDING",
+      "street2": "NO. 181 JOHNSON ROAD",
+      "city": "WANCHAI",
+      "stateOrCountry": null,
+      "zipCode": null,
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": null,
+      "country": "Hong Kong",
+      "countryCode": "K3"
+    },
+    "business": {
+      "street1": "ROOM 1109, 11/F, TAI YAU BUILDING",
+      "street2": "NO. 181 JOHNSON ROAD",
+      "city": "WANCHAI",
+      "stateOrCountry": null,
+      "zipCode": null,
+      "stateOrCountryDescription": null,
+      "isForeignLocation": 1,
+      "foreignStateTerritory": null,
+      "country": "Hong Kong",
+      "countryCode": "K3"
+    }
+  },
+  "phone": "852-2398-8699",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Thrive Capital Group Co., LTD",
+      "from": "2025-03-06T05:00:00.000Z",
+      "to": "2025-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-063565",
+        "0001213900-25-054130",
+        "0001213900-25-049827",
+        "0001213900-25-047284",
+        "0001213900-25-043926",
+        "0001213900-25-030196",
+        "0001213900-25-021155"
+      ],
+      "filingDate": [
+        "2025-07-14",
+        "2025-06-13",
+        "2025-06-02",
+        "2025-05-23",
+        "2025-05-15",
+        "2025-04-09",
+        "2025-03-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-14T16:07:17.000Z",
+        "2025-06-13T15:35:41.000Z",
+        "2025-06-02T16:42:12.000Z",
+        "2025-05-23T18:48:53.000Z",
+        "2025-05-15T16:34:23.000Z",
+        "2025-04-09T16:27:01.000Z",
+        "2025-03-06T20:52:42.000Z"
+      ],
+      "act": [
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287302",
+        "333-287302",
+        "333-287302",
+        "333-287302",
+        "333-287302",
+        "377-07768",
+        "377-07768"
+      ],
+      "filmNumber": [
+        "251120689",
+        "251045230",
+        "251013909",
+        "25981400",
+        "25950685",
+        "25824460",
+        "25715046"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        261963,
+        21081146,
+        6960352,
+        10683424,
+        9842963,
+        6816964,
+        6798477
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0227995-10.htm",
+        "ea0245584-fwp_etoiles.htm",
+        "ea0227995-07.htm",
+        "ea0227995-06.htm",
+        "ea0227995-04.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "FREE WRITING PROSPECTUS",
+        "AMENDMENT NO. 2 TO FORM F-1",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

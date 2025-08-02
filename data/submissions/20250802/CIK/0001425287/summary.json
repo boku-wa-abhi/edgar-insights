@@ -1,0 +1,37 @@
+{
+  "cik": "0001425287",
+  "name": "Workhorse Group Inc.",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WKHS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "261394771",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "513-360-4704",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMP Holding Inc.",
+      "from": "2010-05-25T04:00:00.000Z",
+      "to": "2015-04-08T04:00:00.000Z"
+    },
+    {
+      "name": "Title Starts Online, Inc.",
+      "from": "2008-02-04T05:00:00.000Z",
+      "to": "2010-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 991,
+  "download_timestamp": "2025-08-02 07:13:01 UTC"
+}

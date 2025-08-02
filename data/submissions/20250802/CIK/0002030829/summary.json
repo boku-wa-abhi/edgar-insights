@@ -1,0 +1,36 @@
+{
+  "cik": "0002030829",
+  "name": "AIFEEX NEXUS ACQUISITION CORP.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIFE",
+    "AIFER",
+    "AIFEU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "302-235-3848",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Shepherd Ave Capital Acquisition Corp",
+      "from": "2024-07-24T04:00:00.000Z",
+      "to": "2025-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 57,
+  "download_timestamp": "2025-08-02 07:32:38 UTC"
+}

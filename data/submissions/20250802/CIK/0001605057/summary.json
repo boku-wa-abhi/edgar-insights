@@ -1,0 +1,26 @@
+{
+  "cik": "0001605057",
+  "name": "Vemanti Group, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VMNT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "465317552",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "949-559-7200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 98,
+  "download_timestamp": "2025-08-02 07:18:25 UTC"
+}

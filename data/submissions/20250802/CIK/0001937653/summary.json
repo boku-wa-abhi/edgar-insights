@@ -1,0 +1,32 @@
+{
+  "cik": "0001937653",
+  "name": "Zymeworks Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZYME"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "883099146",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "302-274-8744",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zymeworks Delaware Inc.",
+      "from": "2022-07-15T04:00:00.000Z",
+      "to": "2022-10-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:29:50 UTC"
+}

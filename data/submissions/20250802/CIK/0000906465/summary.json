@@ -1,0 +1,32 @@
+{
+  "cik": "0000906465",
+  "name": "QCR HOLDINGS INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QCRH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "421397595",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3097363580",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QUAD CITY HOLDINGS INC",
+      "from": "1996-09-18T04:00:00.000Z",
+      "to": "2001-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1012,
+  "download_timestamp": "2025-08-02 07:03:05 UTC"
+}

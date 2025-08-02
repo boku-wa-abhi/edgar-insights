@@ -1,0 +1,104 @@
+{
+  "cik": "0001987101",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "EL-0713 Fund I, a series of Roll Up Vehicles, LP",
+  "tickers": [
+    "CABI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "addresses": {
+    "mailing": {
+      "street1": "119 SOUTH MAIN STREET, SUITE 220",
+      "street2": null,
+      "city": "SEATTLE",
+      "stateOrCountry": "WA",
+      "zipCode": "98104",
+      "stateOrCountryDescription": "WA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "119 SOUTH MAIN STREET, SUITE 220",
+      "street2": null,
+      "city": "SEATTLE",
+      "stateOrCountry": "WA",
+      "zipCode": "98104",
+      "stateOrCountryDescription": "WA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "2068016359",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001987101-23-000002"
+      ],
+      "filingDate": [
+        "2023-08-04"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-08-04T13:25:25.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "D"
+      ],
+      "fileNumber": [
+        "021-488787"
+      ],
+      "filmNumber": [
+        "231143207"
+      ],
+      "items": [
+        "06b,3C,3C.1"
+      ],
+      "core_type": [
+        "D"
+      ],
+      "size": [
+        7016
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

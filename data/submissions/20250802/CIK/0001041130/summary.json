@@ -1,0 +1,32 @@
+{
+  "cik": "0001041130",
+  "name": "SPDR DOW JONES INDUSTRIAL AVERAGE ETF TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133574560",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-656-4440",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIAMONDS TRUST SERIES I",
+      "from": "1997-12-16T05:00:00.000Z",
+      "to": "2010-01-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 278,
+  "download_timestamp": "2025-08-02 07:05:23 UTC"
+}

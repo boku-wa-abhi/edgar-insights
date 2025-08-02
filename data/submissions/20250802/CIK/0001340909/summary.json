@@ -1,0 +1,26 @@
+{
+  "cik": "0001340909",
+  "name": "STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GJO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7047152337",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 266,
+  "download_timestamp": "2025-08-02 07:10:53 UTC"
+}

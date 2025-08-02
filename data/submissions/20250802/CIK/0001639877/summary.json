@@ -1,0 +1,32 @@
+{
+  "cik": "0001639877",
+  "name": "Ferroglobe PLC",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GSM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "34 91 590 3219",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VeloNewco Ltd",
+      "from": "2015-05-06T04:00:00.000Z",
+      "to": "2015-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 258,
+  "download_timestamp": "2025-08-02 07:19:26 UTC"
+}

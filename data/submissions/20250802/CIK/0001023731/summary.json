@@ -1,0 +1,37 @@
+{
+  "cik": "0001023731",
+  "name": "8X8 INC /DE/",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "EGHT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770142404",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "4087271885",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NETERGY NETWORKS INC",
+      "from": "2000-11-13T05:00:00.000Z",
+      "to": "2001-02-09T05:00:00.000Z"
+    },
+    {
+      "name": "8X8 INC",
+      "from": "1996-12-20T05:00:00.000Z",
+      "to": "2000-02-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:59 UTC"
+}

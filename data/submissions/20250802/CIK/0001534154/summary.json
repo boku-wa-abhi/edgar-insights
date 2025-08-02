@@ -1,0 +1,47 @@
+{
+  "cik": "0001534154",
+  "name": "authID Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AUID"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "516-274-8700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ipsidy Inc.",
+      "from": "2017-02-06T05:00:00.000Z",
+      "to": "2022-07-11T04:00:00.000Z"
+    },
+    {
+      "name": "ID Global Solutions Corp",
+      "from": "2014-11-14T05:00:00.000Z",
+      "to": "2017-02-01T05:00:00.000Z"
+    },
+    {
+      "name": "IIM Global Corp",
+      "from": "2013-03-01T05:00:00.000Z",
+      "to": "2014-10-09T04:00:00.000Z"
+    },
+    {
+      "name": "Silverwood Acquisition Corp",
+      "from": "2011-11-09T05:00:00.000Z",
+      "to": "2013-01-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 524,
+  "download_timestamp": "2025-08-02 07:16:18 UTC"
+}

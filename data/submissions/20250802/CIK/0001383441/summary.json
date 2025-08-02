@@ -1,0 +1,52 @@
+{
+  "cik": "0001383441",
+  "name": "Virtus Equity & Convertible Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "NIE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(866) 270-7598",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Virtus AllianzGI Equity & Convertible Income Fund",
+      "from": "2021-02-11T05:00:00.000Z",
+      "to": "2022-08-04T04:00:00.000Z"
+    },
+    {
+      "name": "AllianzGI Equity & Convertible Income Fund",
+      "from": "2013-05-22T04:00:00.000Z",
+      "to": "2021-02-10T05:00:00.000Z"
+    },
+    {
+      "name": "AGIC Equity & Convertible Income Fund",
+      "from": "2010-08-26T04:00:00.000Z",
+      "to": "2013-04-03T04:00:00.000Z"
+    },
+    {
+      "name": "Nicholas-Applegate Equity & Convertible Income Fund",
+      "from": "2007-01-24T05:00:00.000Z",
+      "to": "2010-06-30T04:00:00.000Z"
+    },
+    {
+      "name": "Nicholas-Applegate Equity & Income Capture Fund",
+      "from": "2006-12-14T05:00:00.000Z",
+      "to": "2006-12-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 385,
+  "download_timestamp": "2025-08-02 07:11:52 UTC"
+}

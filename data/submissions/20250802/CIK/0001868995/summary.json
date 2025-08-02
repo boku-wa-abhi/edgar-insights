@@ -1,0 +1,26 @@
+{
+  "cik": "0001868995",
+  "name": "CI&T Inc",
+  "entityType": "other",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CINT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "55 (19) 21023859",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 133,
+  "download_timestamp": "2025-08-02 07:28:10 UTC"
+}

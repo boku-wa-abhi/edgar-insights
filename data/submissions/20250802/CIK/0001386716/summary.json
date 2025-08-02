@@ -1,0 +1,26 @@
+{
+  "cik": "0001386716",
+  "name": "Star Bulk Carriers Corp.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBLK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011-30-210-617-8400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 622,
+  "download_timestamp": "2025-08-02 07:11:58 UTC"
+}

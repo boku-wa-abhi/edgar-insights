@@ -1,0 +1,26 @@
+{
+  "cik": "0001698022",
+  "name": "Farmers & Merchants Bancshares, Inc.",
+  "entityType": "operating",
+  "sic": "6036",
+  "sicDescription": "Savings Institutions, Not Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FMFG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "813605835",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4103741510",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 255,
+  "download_timestamp": "2025-08-02 07:21:02 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001819253",
+  "name": "biote Corp.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BTMD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851791125",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "972-486-9346",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Haymaker Acquisition Corp. III",
+      "from": "2020-08-06T04:00:00.000Z",
+      "to": "2022-05-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 372,
+  "download_timestamp": "2025-08-02 07:25:19 UTC"
+}

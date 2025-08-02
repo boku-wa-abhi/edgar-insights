@@ -1,0 +1,32 @@
+{
+  "cik": "0001013605",
+  "name": "PRECISION DRILLING Corp",
+  "entityType": "other",
+  "sic": "1381",
+  "sicDescription": "Drilling Oil & Gas Wells",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PDS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "403-716-4500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRECISION DRILLING TRUST",
+      "from": "2005-11-29T05:00:00.000Z",
+      "to": "2010-06-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 963,
+  "download_timestamp": "2025-08-02 07:04:41 UTC"
+}

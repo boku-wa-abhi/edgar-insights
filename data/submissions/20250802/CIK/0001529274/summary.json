@@ -1,0 +1,32 @@
+{
+  "cik": "0001529274",
+  "name": "ALKAMI TECHNOLOGY, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALKT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453060776",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972-200-1937",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALKAMI TECHNOLOGY, INC,",
+      "from": "2011-09-06T04:00:00.000Z",
+      "to": "2020-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 508,
+  "download_timestamp": "2025-08-02 07:16:07 UTC"
+}

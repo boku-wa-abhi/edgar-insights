@@ -1,0 +1,26 @@
+{
+  "cik": "0001017413",
+  "name": "CANADIAN NATURAL RESOURCES LTD",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNQ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "403-517-6700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 615,
+  "download_timestamp": "2025-08-02 07:04:47 UTC"
+}

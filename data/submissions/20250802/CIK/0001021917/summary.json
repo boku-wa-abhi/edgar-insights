@@ -1,0 +1,47 @@
+{
+  "cik": "0001021917",
+  "name": "Awaysis Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6512",
+  "sicDescription": "Opeators of  Nonresidential Buildings",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AWCA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "270514566",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-931-9244",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JV GROUP, INC.",
+      "from": "2012-11-02T04:00:00.000Z",
+      "to": "2022-05-16T04:00:00.000Z"
+    },
+    {
+      "name": "ASPI, INC.",
+      "from": "2009-11-16T05:00:00.000Z",
+      "to": "2012-10-16T04:00:00.000Z"
+    },
+    {
+      "name": "ASPEON INC",
+      "from": "2000-02-14T05:00:00.000Z",
+      "to": "2009-10-13T04:00:00.000Z"
+    },
+    {
+      "name": "JAVELIN SYSTEMS INC",
+      "from": "1996-11-04T05:00:00.000Z",
+      "to": "2000-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 347,
+  "download_timestamp": "2025-08-02 07:04:53 UTC"
+}

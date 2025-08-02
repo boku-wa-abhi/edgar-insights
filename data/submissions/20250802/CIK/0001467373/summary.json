@@ -1,0 +1,26 @@
+{
+  "cik": "0001467373",
+  "name": "Accenture plc",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "ACN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980627530",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "353-1-646-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:14:02 UTC"
+}

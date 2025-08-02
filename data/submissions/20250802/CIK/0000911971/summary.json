@@ -1,0 +1,37 @@
+{
+  "cik": "0000911971",
+  "name": "TEEKAY CORP LTD",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "604-683-3529",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TEEKAY CORP",
+      "from": "2007-07-03T04:00:00.000Z",
+      "to": "2024-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "TEEKAY SHIPPING CORP",
+      "from": "1995-12-19T05:00:00.000Z",
+      "to": "2007-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 673,
+  "download_timestamp": "2025-08-02 07:03:15 UTC"
+}

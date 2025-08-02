@@ -1,0 +1,32 @@
+{
+  "cik": "0001792580",
+  "name": "Ovintiv Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OVV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(303) 623-2300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "1847432 Alberta ULC",
+      "from": "2019-11-06T05:00:00.000Z",
+      "to": "2019-12-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 740,
+  "download_timestamp": "2025-08-02 07:24:14 UTC"
+}

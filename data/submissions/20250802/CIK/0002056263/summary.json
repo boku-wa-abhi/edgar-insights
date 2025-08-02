@@ -1,0 +1,30 @@
+{
+  "cik": "0002056263",
+  "name": "Columbus Circle Capital Corp. I",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCCM",
+    "CCCMU",
+    "CCCMW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "6467925600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 77,
+  "download_timestamp": "2025-08-02 07:33:24 UTC"
+}

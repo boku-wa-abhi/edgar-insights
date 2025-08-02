@@ -1,0 +1,32 @@
+{
+  "cik": "0001910139",
+  "name": "Mobileye Global Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "MBLY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972 2 541 7333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Mobileye Holdings Inc.",
+      "from": "2022-03-02T05:00:00.000Z",
+      "to": "2022-04-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 204,
+  "download_timestamp": "2025-08-02 07:29:21 UTC"
+}

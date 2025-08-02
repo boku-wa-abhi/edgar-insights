@@ -1,0 +1,26 @@
+{
+  "cik": "0001796209",
+  "name": "APi Group Corp",
+  "entityType": "operating",
+  "sic": "7340",
+  "sicDescription": "Services-To Dwellings & Other Buildings",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981510303",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "651-636-4320",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 451,
+  "download_timestamp": "2025-08-02 07:24:24 UTC"
+}

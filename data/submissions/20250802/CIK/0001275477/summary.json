@@ -1,0 +1,37 @@
+{
+  "cik": "0001275477",
+  "name": "BIMINI CAPITAL MANAGEMENT, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BMNM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "721571637",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "772 231 1400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Opteum Inc.",
+      "from": "2006-02-21T05:00:00.000Z",
+      "to": "2007-09-24T04:00:00.000Z"
+    },
+    {
+      "name": "BIMINI MORTGAGE MANAGEMENT INC",
+      "from": "2004-01-06T05:00:00.000Z",
+      "to": "2006-02-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 744,
+  "download_timestamp": "2025-08-02 07:09:29 UTC"
+}

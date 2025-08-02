@@ -1,0 +1,34 @@
+{
+  "cik": "0001176948",
+  "name": "Ares Management Corp",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARES",
+    "ARES-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "954656677",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3102014100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ARES MANAGEMENT LP",
+      "from": "2002-07-01T04:00:00.000Z",
+      "to": "2018-11-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:08:39 UTC"
+}

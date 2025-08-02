@@ -1,0 +1,26 @@
+{
+  "cik": "0000099106",
+  "name": "TRANS LUX Corp",
+  "entityType": "operating",
+  "sic": "3990",
+  "sicDescription": "Miscellaneous Manufacturing Industries",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TNLX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "131394750",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-243-5544",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 691,
+  "download_timestamp": "2025-08-02 06:58:10 UTC"
+}

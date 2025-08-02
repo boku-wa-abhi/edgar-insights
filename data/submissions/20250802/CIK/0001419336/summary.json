@@ -1,0 +1,37 @@
+{
+  "cik": "0001419336",
+  "name": "Appia Rare Earths & Uranium Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "APAAF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-876-3957",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Appia Energy Corp.",
+      "from": "2011-02-04T05:00:00.000Z",
+      "to": "2021-01-07T05:00:00.000Z"
+    },
+    {
+      "name": "Appia Energy Corp",
+      "from": "2007-11-21T05:00:00.000Z",
+      "to": "2008-04-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:12:49 UTC"
+}

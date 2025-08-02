@@ -1,0 +1,32 @@
+{
+  "cik": "0000935036",
+  "name": "ACI WORLDWIDE, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACIW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "470772104",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "239-403-4600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TRANSACTION SYSTEMS ARCHITECTS INC",
+      "from": "1996-02-09T05:00:00.000Z",
+      "to": "2007-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:04:01 UTC"
+}

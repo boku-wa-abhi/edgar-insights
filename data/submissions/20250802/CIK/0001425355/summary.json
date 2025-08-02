@@ -1,0 +1,32 @@
+{
+  "cik": "0001425355",
+  "name": "Mill City Ventures III, Ltd",
+  "entityType": "operating",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MCVT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "900316651",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(952) 479-1923",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "POKER MAGIC INC",
+      "from": "2008-01-29T05:00:00.000Z",
+      "to": "2012-12-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 330,
+  "download_timestamp": "2025-08-02 07:13:01 UTC"
+}

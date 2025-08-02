@@ -1,0 +1,37 @@
+{
+  "cik": "0001384365",
+  "name": "RAADR, INC.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDAR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "204622782",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-456-3191",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PITOOEY!, INC.",
+      "from": "2013-02-21T05:00:00.000Z",
+      "to": "2015-09-02T04:00:00.000Z"
+    },
+    {
+      "name": "WHITE DENTAL SUPPLY, INC.",
+      "from": "2007-01-29T05:00:00.000Z",
+      "to": "2013-01-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 185,
+  "download_timestamp": "2025-08-02 07:11:53 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001346830",
+  "name": "Tvardi Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TVRD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(713) 489-8654",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cara Therapeutics, Inc.",
+      "from": "2013-10-04T04:00:00.000Z",
+      "to": "2025-04-11T04:00:00.000Z"
+    },
+    {
+      "name": "Cara Therapeutics Inc",
+      "from": "2005-12-06T05:00:00.000Z",
+      "to": "2010-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 752,
+  "download_timestamp": "2025-08-02 07:11:00 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001812360",
+  "name": "FOXO TECHNOLOGIES INC.",
+  "entityType": "operating",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FOXO",
+    "FOXOW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "851050265",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(612) 800-0059",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Delwinds Insurance Acquisition Corp.",
+      "from": "2020-06-09T04:00:00.000Z",
+      "to": "2022-09-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 479,
+  "download_timestamp": "2025-08-02 07:25:00 UTC"
+}

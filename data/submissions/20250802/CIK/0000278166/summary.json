@@ -1,0 +1,37 @@
+{
+  "cik": "0000278166",
+  "name": "CAVCO INDUSTRIES, INC.",
+  "entityType": "operating",
+  "sic": "2451",
+  "sicDescription": "Mobile Homes",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0329",
+  "tickers": [
+    "CVCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860214910",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "602-256-6263",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAVCO INDUSTRIES INC.",
+      "from": "2018-08-06T04:00:00.000Z",
+      "to": "2025-05-16T04:00:00.000Z"
+    },
+    {
+      "name": "CAVCO INDUSTRIES INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2018-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:34 UTC"
+}

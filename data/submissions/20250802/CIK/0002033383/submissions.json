@@ -1,0 +1,224 @@
+{
+  "cik": "0002033383",
+  "entityType": "other",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "ownerOrg": "06 Technology",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "CSLM Holdings Inc.",
+  "tickers": [
+    "FUSE"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "2400 EAST COMMERCIAL BOULEVARD",
+      "street2": "SUITE 900",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33308",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "2400 EAST COMMERCIAL BOULEVARD",
+      "street2": "SUITE 900",
+      "city": "FORT LAUDERDALE",
+      "stateOrCountry": "FL",
+      "zipCode": "33308",
+      "stateOrCountryDescription": "FL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "954-315-9381",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193125-25-155516",
+        "9999999995-25-002079",
+        "0001193125-25-145727",
+        "0001193125-25-137074",
+        "0001193125-25-116165",
+        "0001193125-25-091387",
+        "0001193125-25-026198",
+        "0001193125-24-271693",
+        "0001193125-24-267259"
+      ],
+      "filingDate": [
+        "2025-07-03",
+        "2025-06-30",
+        "2025-06-24",
+        "2025-06-06",
+        "2025-05-09",
+        "2025-04-23",
+        "2025-02-13",
+        "2024-12-05",
+        "2024-11-27"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-03T20:39:54.000Z",
+        "2025-07-01T04:15:14.000Z",
+        "2025-06-24T20:09:11.000Z",
+        "2025-06-06T20:16:38.000Z",
+        "2025-05-08T23:55:00.000Z",
+        "2025-04-23T20:17:38.000Z",
+        "2025-02-13T22:23:37.000Z",
+        "2024-12-05T22:29:26.000Z",
+        "2024-11-27T22:16:32.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "34",
+        "33"
+      ],
+      "form": [
+        "424B3",
+        "EFFECT",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "425",
+        "S-4"
+      ],
+      "fileNumber": [
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520",
+        "333-283520"
+      ],
+      "filmNumber": [
+        "251106060",
+        "251094039",
+        "251069188",
+        "251030883",
+        "25927987",
+        "25861725",
+        "25621734",
+        "241530025",
+        "241512409"
+      ],
+      "items": [
+        "",
+        ",,",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "424B3",
+        "EFFECT",
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "425",
+        "XBRL"
+      ],
+      "size": [
+        6616889,
+        2596,
+        15223938,
+        15209091,
+        12223289,
+        12291171,
+        16459806,
+        44075,
+        16306233
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1
+      ],
+      "primaryDocument": [
+        "d863488d424b3.htm",
+        "xslEFFECTX01/primary_doc.xml",
+        "d863488ds4a.htm",
+        "d863488ds4a.htm",
+        "d863488ds4a.htm",
+        "d863488ds4a.htm",
+        "d863488ds4a.htm",
+        "d869352d425.htm",
+        "d863488ds4.htm"
+      ],
+      "primaryDocDescription": [
+        "424B3",
+        "",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "S-4/A",
+        "425",
+        "S-4"
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001315399",
+  "name": "PARKE BANCORP, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PKBK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "856 256-2500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 842,
+  "download_timestamp": "2025-08-02 07:10:18 UTC"
+}

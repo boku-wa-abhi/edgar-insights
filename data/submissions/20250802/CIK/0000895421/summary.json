@@ -1,0 +1,72 @@
+{
+  "cik": "0000895421",
+  "name": "MORGAN STANLEY",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MS",
+    "MS-PA",
+    "MS-PK",
+    "MS-PI",
+    "MS-PF",
+    "MS-PE",
+    "MS-PL",
+    "MS-PO",
+    "MS-PP",
+    "MS-PQ",
+    "MSTLW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "363145972",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-761-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MORGAN STANLEY",
+      "from": "1999-11-23T05:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "MORGAN STANLEY",
+      "from": "1999-11-23T05:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "MORGAN STANLEY DEAN WITTER & CO",
+      "from": "1993-11-08T05:00:00.000Z",
+      "to": "2002-07-12T04:00:00.000Z"
+    },
+    {
+      "name": "MORGAN STANLEY DEAN WITTER DISCOVER & CO",
+      "from": "1997-06-19T04:00:00.000Z",
+      "to": "1998-03-18T05:00:00.000Z"
+    },
+    {
+      "name": "DEAN WITTER DISCOVER & CO",
+      "from": "1996-08-14T04:00:00.000Z",
+      "to": "1997-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 15397,
+  "download_timestamp": "2025-08-02 07:02:49 UTC"
+}

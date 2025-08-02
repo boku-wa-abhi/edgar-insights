@@ -1,0 +1,26 @@
+{
+  "cik": "0001669162",
+  "name": "Kinsale Capital Group, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KNSL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980664337",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(804) 289-1300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 594,
+  "download_timestamp": "2025-08-02 07:20:14 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001928446",
+  "name": "Granite Ridge Resources, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRNT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "882227812",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "214-396-2850",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 289,
+  "download_timestamp": "2025-08-02 07:29:39 UTC"
+}

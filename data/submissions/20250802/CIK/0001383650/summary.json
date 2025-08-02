@@ -1,0 +1,26 @@
+{
+  "cik": "0001383650",
+  "name": "Cheniere Energy Partners, L.P.",
+  "entityType": "operating",
+  "sic": "4924",
+  "sicDescription": "Natural Gas Distribution",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CQP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "205913059",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(713) 375-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 896,
+  "download_timestamp": "2025-08-02 07:11:53 UTC"
+}

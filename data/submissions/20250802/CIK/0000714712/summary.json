@@ -1,0 +1,26 @@
+{
+  "cik": "0000714712",
+  "name": "JUNIATA VALLEY FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JUVF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "232235254",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "855-582-5101",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 717,
+  "download_timestamp": "2025-08-02 06:59:13 UTC"
+}

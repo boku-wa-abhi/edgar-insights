@@ -1,0 +1,32 @@
+{
+  "cik": "0001490596",
+  "name": "GoviEx Uranium Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GVXXF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-689-8765",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GoviEx Uranium, Inc.",
+      "from": "2010-05-04T04:00:00.000Z",
+      "to": "2010-05-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:14:45 UTC"
+}

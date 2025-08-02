@@ -1,0 +1,32 @@
+{
+  "cik": "0001753391",
+  "name": "TANCHENG GROUP CO., LTD.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QSJC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "384086827",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8613910972765",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BIGEON CORP.",
+      "from": "2018-12-14T00:00:00.000Z",
+      "to": "2022-12-12T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:22:53 UTC"
+}

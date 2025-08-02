@@ -1,0 +1,26 @@
+{
+  "cik": "0000927003",
+  "name": "ADVANCED ENERGY INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AEIS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "840846841",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9704076626",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:03:50 UTC"
+}

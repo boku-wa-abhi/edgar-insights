@@ -1,0 +1,26 @@
+{
+  "cik": "0001758730",
+  "name": "Tradeweb Markets Inc.",
+  "entityType": "operating",
+  "sic": "6200",
+  "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "646-430-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 766,
+  "download_timestamp": "2025-08-02 07:23:06 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001536394",
+  "name": "U.S. Lighting Group, Inc.",
+  "entityType": "operating",
+  "sic": "3640",
+  "sicDescription": "Electric Lighting & Wiring Equipment",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USLG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "200347908",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "216-896-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Luxurious Travel Corp.",
+      "from": "2011-12-05T05:00:00.000Z",
+      "to": "2016-09-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 124,
+  "download_timestamp": "2025-08-02 07:16:23 UTC"
+}

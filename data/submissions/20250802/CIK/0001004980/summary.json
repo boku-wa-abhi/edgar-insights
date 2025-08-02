@@ -1,0 +1,60 @@
+{
+  "cik": "0001004980",
+  "name": "PG&E Corp",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCG",
+    "PCG-PA",
+    "PCG-PB",
+    "PCG-PE",
+    "PCG-PD",
+    "PCG-PC",
+    "PCG-PH",
+    "PCG-PG",
+    "PCG-PI",
+    "PCG-PX"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "943234914",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4159731000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PG&E CORP",
+      "from": "2012-08-09T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "PG&E Corp",
+      "from": "2012-08-09T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "PG&E PARENT CO INC",
+      "from": "1996-12-06T05:00:00.000Z",
+      "to": "1996-02-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:29 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001790607",
+  "name": "Eminent Gold Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EMGDF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-288-8956",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Navy Resources Corp.",
+      "from": "2019-10-10T04:00:00.000Z",
+      "to": "2020-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:24:10 UTC"
+}

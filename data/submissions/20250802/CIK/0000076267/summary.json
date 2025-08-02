@@ -1,0 +1,32 @@
+{
+  "cik": "0000076267",
+  "name": "PARK AEROSPACE CORP",
+  "entityType": "operating",
+  "sic": "3728",
+  "sicDescription": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0301",
+  "tickers": [
+    "PKE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "111734643",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6314653600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PARK ELECTROCHEMICAL CORP",
+      "from": "1994-01-24T05:00:00.000Z",
+      "to": "2019-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 919,
+  "download_timestamp": "2025-08-02 06:57:43 UTC"
+}

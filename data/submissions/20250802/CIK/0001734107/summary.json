@@ -1,0 +1,26 @@
+{
+  "cik": "0001734107",
+  "name": "Sohu.com Ltd",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOHU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980408469",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86-10-6272-6666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 108,
+  "download_timestamp": "2025-08-02 07:22:18 UTC"
+}

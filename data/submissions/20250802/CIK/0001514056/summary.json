@@ -1,0 +1,37 @@
+{
+  "cik": "0001514056",
+  "name": "Titan Environmental Solutions Inc.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TESI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "300580318",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "425-818-0560",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TRAQIQ, INC.",
+      "from": "2017-07-26T04:00:00.000Z",
+      "to": "2023-11-16T05:00:00.000Z"
+    },
+    {
+      "name": "Thunderclap Entertainment, Inc.",
+      "from": "2011-03-07T05:00:00.000Z",
+      "to": "2017-07-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 222,
+  "download_timestamp": "2025-08-02 07:15:33 UTC"
+}

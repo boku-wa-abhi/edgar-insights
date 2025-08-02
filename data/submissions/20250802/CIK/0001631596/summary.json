@@ -1,0 +1,28 @@
+{
+  "cik": "0001631596",
+  "name": "KKR Real Estate Finance Trust Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KREF",
+    "KREF-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "472009094",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212-750-8300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 439,
+  "download_timestamp": "2025-08-02 07:19:13 UTC"
+}

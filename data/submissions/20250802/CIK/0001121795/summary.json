@@ -1,0 +1,42 @@
+{
+  "cik": "0001121795",
+  "name": "GHST World Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "GHST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "912007477",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "561-686-3307",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ghost Technology Inc.",
+      "from": "2008-09-24T04:00:00.000Z",
+      "to": "2019-08-08T04:00:00.000Z"
+    },
+    {
+      "name": "I A EUROPE GROUP INC",
+      "from": "2002-12-13T05:00:00.000Z",
+      "to": "2008-02-20T05:00:00.000Z"
+    },
+    {
+      "name": "GENERAL TELEPHONY COM INC",
+      "from": "2000-10-05T04:00:00.000Z",
+      "to": "2002-12-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:07:27 UTC"
+}

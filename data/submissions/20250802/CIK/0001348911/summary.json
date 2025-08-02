@@ -1,0 +1,42 @@
+{
+  "cik": "0001348911",
+  "name": "KalVista Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "KALV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "200915291",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(857) 999-0075",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Carbylan Therapeutics, Inc.",
+      "from": "2014-09-19T04:00:00.000Z",
+      "to": "2016-11-21T05:00:00.000Z"
+    },
+    {
+      "name": "Carbylan Biosurgery, Inc",
+      "from": "2013-01-03T05:00:00.000Z",
+      "to": "2013-01-03T05:00:00.000Z"
+    },
+    {
+      "name": "Carbylan Biosurgery Inc",
+      "from": "2005-12-29T05:00:00.000Z",
+      "to": "2005-12-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 741,
+  "download_timestamp": "2025-08-02 07:11:03 UTC"
+}

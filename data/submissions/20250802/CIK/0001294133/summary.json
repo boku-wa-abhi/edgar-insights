@@ -1,0 +1,26 @@
+{
+  "cik": "0001294133",
+  "name": "Inogen Inc",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "805-562-0500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 949,
+  "download_timestamp": "2025-08-02 07:09:56 UTC"
+}

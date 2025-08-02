@@ -1,0 +1,26 @@
+{
+  "cik": "0001026980",
+  "name": "ASIA PACIFIC WIRE & CABLE CORP LTD",
+  "entityType": "other",
+  "sic": "3357",
+  "sicDescription": "Drawing & Insulating of  Nonferrous Wire",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APWC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "886-2-2712-2558",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 241,
+  "download_timestamp": "2025-08-02 07:05:03 UTC"
+}

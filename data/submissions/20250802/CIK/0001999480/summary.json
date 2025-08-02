@@ -1,0 +1,26 @@
+{
+  "cik": "0001999480",
+  "name": "Alto Neuroscience, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANRO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "834210124",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "773-255-5012",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 122,
+  "download_timestamp": "2025-08-02 07:31:35 UTC"
+}

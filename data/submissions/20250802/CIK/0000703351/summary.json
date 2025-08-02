@@ -1,0 +1,32 @@
+{
+  "cik": "0000703351",
+  "name": "BRINKER INTERNATIONAL, INC",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0625",
+  "tickers": [
+    "EAT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "751914582",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9729809917",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BRINKER INTERNATIONAL INC",
+      "from": "1994-11-08T05:00:00.000Z",
+      "to": "2019-07-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:59:02 UTC"
+}

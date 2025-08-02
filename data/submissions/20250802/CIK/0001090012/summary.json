@@ -1,0 +1,37 @@
+{
+  "cik": "0001090012",
+  "name": "DEVON ENERGY CORP/DE",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DVN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731567067",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4055528183",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DEVON ENERGY CORP",
+      "from": "1999-11-12T05:00:00.000Z",
+      "to": "2000-05-31T04:00:00.000Z"
+    },
+    {
+      "name": "DEVON DELAWARE CORP",
+      "from": "1999-08-19T04:00:00.000Z",
+      "to": "1999-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:44 UTC"
+}

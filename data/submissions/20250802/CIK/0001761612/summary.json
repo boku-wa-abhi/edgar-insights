@@ -1,0 +1,32 @@
+{
+  "cik": "0001761612",
+  "name": "BICYCLE THERAPEUTICS PLC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCYC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011441223261503",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BICYCLE THERAPEUTICS Ltd",
+      "from": "2018-12-21T05:00:00.000Z",
+      "to": "2019-05-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 544,
+  "download_timestamp": "2025-08-02 07:23:13 UTC"
+}

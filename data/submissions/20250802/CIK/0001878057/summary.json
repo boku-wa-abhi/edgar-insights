@@ -1,0 +1,26 @@
+{
+  "cik": "0001878057",
+  "name": "Super Group (SGHC) Ltd",
+  "entityType": "other",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "Y7",
+  "stateOfIncorporationDescription": "Guernsey",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SGHC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "44 1481 822939",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 121,
+  "download_timestamp": "2025-08-02 07:28:30 UTC"
+}

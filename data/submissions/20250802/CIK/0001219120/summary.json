@@ -1,0 +1,32 @@
+{
+  "cik": "0001219120",
+  "name": "ADVENT CONVERTIBLE & INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "AVK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-827-0100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADVENT CLAYMORE CONVERTIBLE SECURITIES & INCOME FUND",
+      "from": "2003-02-19T05:00:00.000Z",
+      "to": "2019-04-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 498,
+  "download_timestamp": "2025-08-02 07:08:57 UTC"
+}

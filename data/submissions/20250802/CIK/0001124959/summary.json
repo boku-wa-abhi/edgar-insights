@@ -1,0 +1,47 @@
+{
+  "cik": "0001124959",
+  "name": "VOYA CREDIT INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XSIAX"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4804773000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Voya SENIOR INCOME FUND",
+      "from": "2014-04-25T04:00:00.000Z",
+      "to": "2022-06-03T04:00:00.000Z"
+    },
+    {
+      "name": "ING SENIOR INCOME FUND",
+      "from": "2002-04-24T04:00:00.000Z",
+      "to": "2014-04-01T04:00:00.000Z"
+    },
+    {
+      "name": "PILGRIM SENIOR INCOME FUND",
+      "from": "2001-05-04T04:00:00.000Z",
+      "to": "2002-01-08T05:00:00.000Z"
+    },
+    {
+      "name": "ING PILGRIM SENIOR INCOME FUND",
+      "from": "2000-12-15T05:00:00.000Z",
+      "to": "2001-02-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 790,
+  "download_timestamp": "2025-08-02 07:07:33 UTC"
+}

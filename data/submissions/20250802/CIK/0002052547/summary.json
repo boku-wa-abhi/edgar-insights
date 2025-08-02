@@ -1,0 +1,28 @@
+{
+  "cik": "0002052547",
+  "name": "EGH Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EGHA",
+    "EGHAU"
+  ],
+  "exchanges": [
+    null,
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "9412743811",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 22,
+  "download_timestamp": "2025-08-02 07:33:19 UTC"
+}

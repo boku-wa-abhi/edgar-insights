@@ -1,0 +1,26 @@
+{
+  "cik": "0002023658",
+  "name": "Bicara Therapeutics Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCAX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "617-785-8308",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 92,
+  "download_timestamp": "2025-08-02 07:32:19 UTC"
+}

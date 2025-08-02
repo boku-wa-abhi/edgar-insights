@@ -1,0 +1,26 @@
+{
+  "cik": "0000916076",
+  "name": "MARTIN MARIETTA MATERIALS INC",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MLM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "561848578",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "919-781-4550",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:27 UTC"
+}

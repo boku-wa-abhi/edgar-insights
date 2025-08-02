@@ -1,0 +1,32 @@
+{
+  "cik": "0001643918",
+  "name": "Biodexa Pharmaceuticals Plc",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BDRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "44 (0)1235 888300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Midatech Pharma Plc",
+      "from": "2015-06-04T04:00:00.000Z",
+      "to": "2023-03-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 586,
+  "download_timestamp": "2025-08-02 07:19:35 UTC"
+}

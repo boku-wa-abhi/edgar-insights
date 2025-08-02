@@ -1,0 +1,28 @@
+{
+  "cik": "0002030663",
+  "name": "Sizzle Acquisition Corp. II",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SZZL",
+    "SZZLU"
+  ],
+  "exchanges": [
+    null,
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2028460300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 31,
+  "download_timestamp": "2025-08-02 07:32:37 UTC"
+}

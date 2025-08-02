@@ -1,0 +1,37 @@
+{
+  "cik": "0001588489",
+  "name": "Grayscale Bitcoin Trust ETF",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GBTC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "467019388",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-668-1427",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Grayscale Bitcoin Trust (BTC)",
+      "from": "2018-11-20T05:00:00.000Z",
+      "to": "2024-11-01T04:00:00.000Z"
+    },
+    {
+      "name": "Bitcoin Investment Trust",
+      "from": "2013-10-07T04:00:00.000Z",
+      "to": "2018-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 501,
+  "download_timestamp": "2025-08-02 07:17:54 UTC"
+}

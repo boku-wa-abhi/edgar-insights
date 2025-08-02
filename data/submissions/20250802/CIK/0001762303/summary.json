@@ -1,0 +1,39 @@
+{
+  "cik": "0001762303",
+  "name": "AVITA Medical, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RCEL",
+    "AVHHL"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "202578762",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "661-568-1317",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Avita Therapeutics, Inc.",
+      "from": "2020-07-06T04:00:00.000Z",
+      "to": "2020-12-10T05:00:00.000Z"
+    },
+    {
+      "name": "Avita Medical, Ltd.",
+      "from": "2018-12-19T05:00:00.000Z",
+      "to": "2020-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 316,
+  "download_timestamp": "2025-08-02 07:23:15 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001403528",
+  "name": "Brookfield Oaktree Holdings, LLC",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OAK-PA",
+    "OAK-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(213) 830-6300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Oaktree Capital Group, LLC",
+      "from": "2007-07-26T04:00:00.000Z",
+      "to": "2024-03-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 980,
+  "download_timestamp": "2025-08-02 07:12:24 UTC"
+}

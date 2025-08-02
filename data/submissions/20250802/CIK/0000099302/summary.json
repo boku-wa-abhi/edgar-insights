@@ -1,0 +1,32 @@
+{
+  "cik": "0000099302",
+  "name": "TRANSCAT INC",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0328",
+  "tickers": [
+    "TRNS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "160874418",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5853527777",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TRANSMATION INC",
+      "from": "1995-09-14T04:00:00.000Z",
+      "to": "2002-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:11 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000726958",
+  "name": "CASEYS GENERAL STORES INC",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "IA",
+  "stateOfIncorporationDescription": "IA",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "CASY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "420935283",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "515-965-6100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:59:30 UTC"
+}

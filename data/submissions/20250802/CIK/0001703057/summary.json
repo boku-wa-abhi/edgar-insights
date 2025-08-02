@@ -1,0 +1,26 @@
+{
+  "cik": "0001703057",
+  "name": "AbCellera Biologics Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABCL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(604) 559-9005",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 267,
+  "download_timestamp": "2025-08-02 07:21:13 UTC"
+}

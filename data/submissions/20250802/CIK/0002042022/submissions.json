@@ -1,0 +1,215 @@
+{
+  "cik": "0002042022",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "ownerOrg": "09 Crypto Assets",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "WhiteFiber, Inc.",
+  "tickers": [
+    "WYFI"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "31 HUDSON YARDS",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10001",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "31 HUDSON YARDS",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10001",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-463-5121",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "White Fiber, Inc.",
+      "from": "2025-01-06T05:00:00.000Z",
+      "to": "2025-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-070709",
+        "0001213900-25-068434",
+        "0001213900-25-066839",
+        "0001213900-25-063338",
+        "0001213900-25-052267",
+        "0001213900-25-039623",
+        "0001213900-25-014417",
+        "0001213900-25-001192"
+      ],
+      "filingDate": [
+        "2025-08-01",
+        "2025-07-29",
+        "2025-07-23",
+        "2025-07-11",
+        "2025-06-09",
+        "2025-05-05",
+        "2025-02-14",
+        "2025-01-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-08-01T21:18:51.000Z",
+        "2025-07-29T12:03:27.000Z",
+        "2025-07-23T14:02:56.000Z",
+        "2025-07-11T21:11:11.000Z",
+        "2025-06-06T23:19:12.000Z",
+        "2025-05-05T18:16:13.000Z",
+        "2025-02-14T22:15:49.000Z",
+        "2025-01-06T21:40:47.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288650",
+        "333-288650",
+        "333-288650",
+        "333-288650",
+        "377-07734",
+        "377-07734",
+        "377-07734",
+        "377-07663"
+      ],
+      "filmNumber": [
+        "251177144",
+        "251157633",
+        "251141941",
+        "251119629",
+        "251032475",
+        "25912288",
+        "25630905",
+        "25511816"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS",
+        "DRS"
+      ],
+      "size": [
+        9887365,
+        10236947,
+        2622134,
+        94962271,
+        19448479,
+        2303762,
+        23435225,
+        3709168
+      ],
+      "isXBRL": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "isInlineXBRL": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "primaryDocument": [
+        "ea0249945-04.htm",
+        "ea0249945-03.htm",
+        "ea0249945-s1a1_white.htm",
+        "ea0248382-s1_white.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "AMENDMENT NO. 1 TO FORM S-1",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

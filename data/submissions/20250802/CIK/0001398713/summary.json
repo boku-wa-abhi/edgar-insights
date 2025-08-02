@@ -1,0 +1,32 @@
+{
+  "cik": "0001398713",
+  "name": "URZ3 ENERGY CORP.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "URZEF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-601-2006",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEVADA EXPLORATION INC",
+      "from": "2007-04-30T04:00:00.000Z",
+      "to": "2024-03-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:12:16 UTC"
+}

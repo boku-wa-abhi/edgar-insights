@@ -1,0 +1,39 @@
+{
+  "cik": "0001468929",
+  "name": "NEXGEL, INC.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXGL",
+    "NXGLW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "264042544",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "215 702-8550",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEXGEL, INC.",
+      "from": "2019-11-15T05:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "AquaMed Technologies, Inc.",
+      "from": "2009-08-28T04:00:00.000Z",
+      "to": "2019-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 261,
+  "download_timestamp": "2025-08-02 07:14:08 UTC"
+}

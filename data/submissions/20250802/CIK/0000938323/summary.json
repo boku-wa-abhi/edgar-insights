@@ -1,0 +1,28 @@
+{
+  "cik": "0000938323",
+  "name": "PEARSON PLC",
+  "entityType": "other",
+  "sic": "2731",
+  "sicDescription": "Books: Publishing or  Publishing & Printing",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PSO",
+    "PSORF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "442070102000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:05 UTC"
+}

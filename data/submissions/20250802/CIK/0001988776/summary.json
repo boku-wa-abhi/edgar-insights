@@ -1,0 +1,34 @@
+{
+  "cik": "0001988776",
+  "name": "Murano Global Investments Plc",
+  "entityType": "other",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "Y9",
+  "stateOfIncorporationDescription": "Jersey",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MRNO",
+    "MRNOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981743851",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "44(0)2071676440",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Murano Global Investments Ltd",
+      "from": "2023-08-09T04:00:00.000Z",
+      "to": "2024-05-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:31:11 UTC"
+}

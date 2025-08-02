@@ -1,0 +1,194 @@
+{
+  "cik": "0001570154",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "RTG Mining Inc.",
+  "tickers": [
+    "RTTGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "addresses": {
+    "mailing": {
+      "street1": "LEVEL 1, 516 HAY STREET",
+      "street2": null,
+      "city": "SUBAICO",
+      "stateOrCountry": "C3",
+      "zipCode": "6008",
+      "stateOrCountryDescription": "Australia",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "LEVEL 1, 516 HAY STREET",
+      "street2": null,
+      "city": "SUBAICO",
+      "stateOrCountry": "C3",
+      "zipCode": "6008",
+      "stateOrCountryDescription": "Australia",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "08 6489-2900",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001567619-23-006700",
+        "0001062993-22-000721",
+        "0001062993-20-002787",
+        "0001062993-18-001303",
+        "0000912282-13-000162",
+        "0000912282-13-000159",
+        "0001140361-13-008460"
+      ],
+      "filingDate": [
+        "2023-07-27",
+        "2022-01-06",
+        "2020-06-11",
+        "2018-03-22",
+        "2013-02-28",
+        "2013-02-28",
+        "2013-02-21"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-07-27T16:15:59.000Z",
+        "2022-01-06T19:32:30.000Z",
+        "2020-06-11T19:08:06.000Z",
+        "2018-03-22T14:39:09.000Z",
+        "2013-02-28T20:14:18.000Z",
+        "2013-02-28T20:09:37.000Z",
+        "2013-02-20T23:09:43.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "",
+        "",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "F-X",
+        "CB",
+        "D"
+      ],
+      "fileNumber": [
+        "021-488040",
+        "021-428181",
+        "021-368763",
+        "021-308341",
+        "",
+        "",
+        "021-192162"
+      ],
+      "filmNumber": [
+        "231116553",
+        "22514534",
+        "20957003",
+        "18705987",
+        "",
+        "",
+        "13628169"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "",
+        "",
+        "06"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D",
+        "D",
+        "F-X",
+        "CB",
+        "D"
+      ],
+      "size": [
+        11250,
+        11749,
+        11597,
+        11805,
+        24304,
+        1716238,
+        7141
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "rtgmining_formfx.htm",
+        "rtg_formcb.htm",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

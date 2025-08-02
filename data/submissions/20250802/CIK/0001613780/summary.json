@@ -1,0 +1,28 @@
+{
+  "cik": "0001613780",
+  "name": "DBV Technologies S.A.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DBVT",
+    "DBVTF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "33(0)155427878",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 512,
+  "download_timestamp": "2025-08-02 07:18:43 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000093314",
+  "name": "VOLITIONRX LTD",
+  "entityType": "operating",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VNRX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "911949078",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "1 (646) 650-1351",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STANDARD CAPITAL CORP",
+      "from": "1999-12-06T05:00:00.000Z",
+      "to": "2011-09-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:02 UTC"
+}

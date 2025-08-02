@@ -1,0 +1,32 @@
+{
+  "cik": "0001023313",
+  "name": "FORRESTER RESEARCH, INC.",
+  "entityType": "operating",
+  "sic": "8700",
+  "sicDescription": "Services-Engineering, Accounting, Research, Management",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FORR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042797789",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "6176136000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FORRESTER RESEARCH INC",
+      "from": "1996-11-26T05:00:00.000Z",
+      "to": "2013-03-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:57 UTC"
+}

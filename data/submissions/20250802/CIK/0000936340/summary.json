@@ -1,0 +1,38 @@
+{
+  "cik": "0000936340",
+  "name": "DTE ENERGY CO",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTE",
+    "DTW",
+    "DTB",
+    "DTG"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "383217752",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3132354000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DTE HOLDINGS INC",
+      "from": "1995-03-09T05:00:00.000Z",
+      "to": "1995-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:04:02 UTC"
+}

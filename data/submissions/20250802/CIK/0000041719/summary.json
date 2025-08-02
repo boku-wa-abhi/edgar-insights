@@ -1,0 +1,37 @@
+{
+  "cik": "0000041719",
+  "name": "Magnera Corp",
+  "entityType": "operating",
+  "sic": "2621",
+  "sicDescription": "Paper Mills",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "MAGN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "230628360",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "866-744-7380",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Glatfelter Corp",
+      "from": "2020-10-01T04:00:00.000Z",
+      "to": "2024-11-04T05:00:00.000Z"
+    },
+    {
+      "name": "GLATFELTER P H CO",
+      "from": "1994-11-14T05:00:00.000Z",
+      "to": "2020-08-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:57:00 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001294591",
+  "name": "Rakuten Group, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RKUNY",
+    "RKUNF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "81-50-5581-6910",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Rakuten, Inc.",
+      "from": "2004-06-30T04:00:00.000Z",
+      "to": "2021-02-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 19,
+  "download_timestamp": "2025-08-02 07:09:56 UTC"
+}

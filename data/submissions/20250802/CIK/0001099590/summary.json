@@ -1,0 +1,26 @@
+{
+  "cik": "0001099590",
+  "name": "MERCADOLIBRE INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MELI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980212790",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "598-2-2927-2770",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 751,
+  "download_timestamp": "2025-08-02 07:07:00 UTC"
+}

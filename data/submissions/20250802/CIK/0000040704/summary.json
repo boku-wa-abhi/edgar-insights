@@ -1,0 +1,26 @@
+{
+  "cik": "0000040704",
+  "name": "GENERAL MILLS INC",
+  "entityType": "operating",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0530",
+  "tickers": [
+    "GIS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "410274440",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(763) 764-7600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:59 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000780571",
+  "name": "ITRON, INC.",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ITRI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911011792",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5099249900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ITRON INC /WA/",
+      "from": "1996-10-08T04:00:00.000Z",
+      "to": "2019-07-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:09 UTC"
+}

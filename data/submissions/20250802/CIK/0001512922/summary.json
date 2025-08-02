@@ -1,0 +1,34 @@
+{
+  "cik": "0001512922",
+  "name": "PetVivo Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PETV",
+    "PETVW"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "990363559",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(952) 217-4952",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Technologies Scan Corp",
+      "from": "2011-04-18T04:00:00.000Z",
+      "to": "2014-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 613,
+  "download_timestamp": "2025-08-02 07:15:32 UTC"
+}

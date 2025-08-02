@@ -1,0 +1,32 @@
+{
+  "cik": "0001356576",
+  "name": "SUPERNUS PHARMACEUTICALS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SUPN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "301-838-2500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUPERNUS PHARMACEUTICALS INC",
+      "from": "2006-03-06T05:00:00.000Z",
+      "to": "2019-06-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:12 UTC"
+}

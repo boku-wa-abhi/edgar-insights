@@ -1,0 +1,32 @@
+{
+  "cik": "0001939965",
+  "name": "Brera Holdings PLC",
+  "entityType": "other",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BREA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "949-233-7869",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Brera Holdings Ltd",
+      "from": "2022-07-28T04:00:00.000Z",
+      "to": "2022-09-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 132,
+  "download_timestamp": "2025-08-02 07:29:54 UTC"
+}

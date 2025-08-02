@@ -1,0 +1,26 @@
+{
+  "cik": "0001601046",
+  "name": "Keysight Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3823",
+  "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "KEYS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464254555",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8774244536",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:18:17 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0002068454",
+  "name": "CSLM Digital Asset Acquisition Corp III, Ltd",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KOYN"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-207-0090",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CSLM Acquisition Corp II, Ltd",
+      "from": "2025-05-15T04:00:00.000Z",
+      "to": "2025-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:33:44 UTC"
+}

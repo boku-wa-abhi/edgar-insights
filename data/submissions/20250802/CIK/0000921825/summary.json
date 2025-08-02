@@ -1,0 +1,26 @@
+{
+  "cik": "0000921825",
+  "name": "FIRST INDUSTRIAL REALTY TRUST INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363935116",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3123444300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:03:40 UTC"
+}

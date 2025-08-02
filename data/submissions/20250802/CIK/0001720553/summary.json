@@ -1,0 +1,33 @@
+{
+  "cik": "0001720553",
+  "name": "Phenom Resources Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1130",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 340-7711",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "First Vanadium Corp.",
+      "from": "2019-01-08T05:00:00.000Z",
+      "to": "2021-05-18T04:00:00.000Z"
+    },
+    {
+      "name": "Cornerstone Metals Inc.",
+      "from": "2017-11-01T04:00:00.000Z",
+      "to": "2018-04-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 15,
+  "download_timestamp": "2025-08-02 07:21:50 UTC"
+}

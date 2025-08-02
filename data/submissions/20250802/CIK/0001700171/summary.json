@@ -1,0 +1,26 @@
+{
+  "cik": "0001700171",
+  "name": "Aena S.A./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "U3",
+  "stateOfIncorporationDescription": "Spain",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANNSD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-336-2301",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:21:08 UTC"
+}

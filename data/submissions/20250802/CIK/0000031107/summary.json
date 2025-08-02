@@ -1,0 +1,26 @@
+{
+  "cik": "0000031107",
+  "name": "EASTERN CO",
+  "entityType": "operating",
+  "sic": "3420",
+  "sicDescription": "Cutlery, Handtools & General Hardware",
+  "stateOfIncorporation": "CT",
+  "stateOfIncorporationDescription": "CT",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "EML"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "060330020",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "203-729-2255",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:45 UTC"
+}

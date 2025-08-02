@@ -1,0 +1,34 @@
+{
+  "cik": "0001517767",
+  "name": "Carlyle Credit Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "CCIF",
+    "CCIA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-813-4900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Vertical Capital Income Fund",
+      "from": "2011-05-03T04:00:00.000Z",
+      "to": "2023-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 482,
+  "download_timestamp": "2025-08-02 07:15:46 UTC"
+}

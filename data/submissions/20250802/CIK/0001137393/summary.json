@@ -1,0 +1,26 @@
+{
+  "cik": "0001137393",
+  "name": "BLACKROCK MUNICIPAL INCOME TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "BFK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "510409115",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-825-2257",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 432,
+  "download_timestamp": "2025-08-02 07:07:51 UTC"
+}

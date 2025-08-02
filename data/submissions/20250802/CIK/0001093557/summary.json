@@ -1,0 +1,26 @@
+{
+  "cik": "0001093557",
+  "name": "DEXCOM INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DXCM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330857544",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8582000200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:06:49 UTC"
+}

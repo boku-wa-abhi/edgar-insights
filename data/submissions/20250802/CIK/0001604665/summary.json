@@ -1,0 +1,26 @@
+{
+  "cik": "0001604665",
+  "name": "Westlake Chemical Partners LP",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WLKP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "320436529",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(713) 960-9111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 383,
+  "download_timestamp": "2025-08-02 07:18:24 UTC"
+}

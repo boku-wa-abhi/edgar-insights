@@ -1,0 +1,26 @@
+{
+  "cik": "0001162283",
+  "name": "MORGAN GROUP HOLDING CO",
+  "entityType": "operating",
+  "sic": "6200",
+  "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGHL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "134196940",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9149218821",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:08:16 UTC"
+}

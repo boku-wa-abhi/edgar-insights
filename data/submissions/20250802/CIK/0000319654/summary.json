@@ -1,0 +1,26 @@
+{
+  "cik": "0000319654",
+  "name": "PERMIAN BASIN ROYALTY TRUST",
+  "entityType": "operating",
+  "sic": "6792",
+  "sicDescription": "Oil Royalty Traders",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PBT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "756280532",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9729191360",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 477,
+  "download_timestamp": "2025-08-02 06:58:48 UTC"
+}

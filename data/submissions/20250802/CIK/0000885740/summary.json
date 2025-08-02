@@ -1,0 +1,26 @@
+{
+  "cik": "0000885740",
+  "name": "SAPIENS INTERNATIONAL CORP N V",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "P8",
+  "stateOfIncorporationDescription": "Netherlands Antilles",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPNS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "97289382777",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 908,
+  "download_timestamp": "2025-08-02 07:02:26 UTC"
+}

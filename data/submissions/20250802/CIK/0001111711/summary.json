@@ -1,0 +1,37 @@
+{
+  "cik": "0001111711",
+  "name": "NISOURCE INC.",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "352108964",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2196475200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NISOURCE INC/DE",
+      "from": "2000-11-03T05:00:00.000Z",
+      "to": "2019-06-26T04:00:00.000Z"
+    },
+    {
+      "name": "NEW NISOURCE INC",
+      "from": "2000-06-02T04:00:00.000Z",
+      "to": "2000-11-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:16 UTC"
+}

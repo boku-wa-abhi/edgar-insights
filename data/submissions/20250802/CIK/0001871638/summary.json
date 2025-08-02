@@ -1,0 +1,34 @@
+{
+  "cik": "0001871638",
+  "name": "Blaize Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BZAI",
+    "BZAIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(916) 347-0050",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BurTech Acquisition Corp.",
+      "from": "2021-08-19T04:00:00.000Z",
+      "to": "2025-01-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 197,
+  "download_timestamp": "2025-08-02 07:28:14 UTC"
+}

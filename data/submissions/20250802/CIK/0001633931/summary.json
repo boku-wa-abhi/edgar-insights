@@ -1,0 +1,32 @@
+{
+  "cik": "0001633931",
+  "name": "TopBuild Corp",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BLD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "473096382",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(386) 304-2200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Masco SpinCo Corp.",
+      "from": "2015-03-04T05:00:00.000Z",
+      "to": "2015-03-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 637,
+  "download_timestamp": "2025-08-02 07:19:16 UTC"
+}

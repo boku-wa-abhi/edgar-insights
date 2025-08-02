@@ -1,0 +1,37 @@
+{
+  "cik": "0001709682",
+  "name": "Custom Truck One Source, Inc.",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CTOS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(816) 241-4888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NESCO HOLDINGS, INC.",
+      "from": "2019-07-30T04:00:00.000Z",
+      "to": "2021-03-22T04:00:00.000Z"
+    },
+    {
+      "name": "Capitol Investment Corp. IV",
+      "from": "2017-07-03T04:00:00.000Z",
+      "to": "2019-07-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 545,
+  "download_timestamp": "2025-08-02 07:21:29 UTC"
+}

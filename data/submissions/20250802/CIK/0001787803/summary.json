@@ -1,0 +1,32 @@
+{
+  "cik": "0001787803",
+  "name": "Meiwu Technology Co Ltd",
+  "entityType": "other",
+  "sic": "4822",
+  "sicDescription": "Telegraph & Other Message Communications",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WNW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86 755 85250400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wunong Net Technology Co Ltd",
+      "from": "2019-12-16T05:00:00.000Z",
+      "to": "2021-07-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 100,
+  "download_timestamp": "2025-08-02 07:24:04 UTC"
+}

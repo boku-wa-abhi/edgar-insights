@@ -1,0 +1,32 @@
+{
+  "cik": "0001705843",
+  "name": "Cibus, Inc.",
+  "entityType": "operating",
+  "sic": "2870",
+  "sicDescription": "Agricultural Chemicals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271967997",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(858) 450-0008",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Calyxt, Inc.",
+      "from": "2017-05-15T04:00:00.000Z",
+      "to": "2023-06-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 654,
+  "download_timestamp": "2025-08-02 07:21:21 UTC"
+}

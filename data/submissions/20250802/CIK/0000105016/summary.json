@@ -1,0 +1,28 @@
+{
+  "cik": "0000105016",
+  "name": "WATSCO INC",
+  "entityType": "operating",
+  "sic": "5070",
+  "sicDescription": "Wholesale-Hardware & Plumbing & Heating Equipment & Supplies",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WSO",
+    "WSO-B"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "590778222",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "305-714-4100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:58:20 UTC"
+}

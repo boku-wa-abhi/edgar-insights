@@ -1,0 +1,26 @@
+{
+  "cik": "0001670076",
+  "name": "Frontier Group Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ULCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "463681866",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(720) 374-4490",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 533,
+  "download_timestamp": "2025-08-02 07:20:15 UTC"
+}

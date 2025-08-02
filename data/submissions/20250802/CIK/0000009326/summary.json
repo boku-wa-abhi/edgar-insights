@@ -1,0 +1,26 @@
+{
+  "cik": "0000009326",
+  "name": "BALCHEM CORP",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCPC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "132578432",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(845) 326-5600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:56:15 UTC"
+}

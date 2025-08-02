@@ -1,0 +1,28 @@
+{
+  "cik": "0000701818",
+  "name": "KINROSS GOLD CORP",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KGC",
+    "KGCRF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "650430083",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8013639152",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 991,
+  "download_timestamp": "2025-08-02 06:59:01 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001515001",
+  "name": "Harrison Street Real Estate Fund LLC",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "VCMIX"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "451872199",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "303-895-3773",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Versus Capital Real Estate Fund LLC",
+      "from": "2024-07-29T04:00:00.000Z",
+      "to": "2025-06-27T04:00:00.000Z"
+    },
+    {
+      "name": "Versus Capital Multi-Manager Real Estate Income Fund LLC",
+      "from": "2011-06-08T04:00:00.000Z",
+      "to": "2024-07-24T04:00:00.000Z"
+    },
+    {
+      "name": "Versus Global Multi-Manager Real Estate Income Fund LLC",
+      "from": "2011-03-18T04:00:00.000Z",
+      "to": "2011-08-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 324,
+  "download_timestamp": "2025-08-02 07:15:37 UTC"
+}

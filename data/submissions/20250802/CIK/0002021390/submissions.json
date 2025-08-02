@@ -1,0 +1,130 @@
+{
+  "cik": "0002021390",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "International Corp Fin",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Galderma Group AG/ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "addresses": {
+    "mailing": {
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10179",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "383 MADISON AVENUE",
+      "street2": "FLOOR 11",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10179",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "302-552-0866",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-25-034158",
+        "0001193805-24-000847",
+        "0001193805-24-000569"
+      ],
+      "filingDate": [
+        "2025-04-11",
+        "2024-06-25",
+        "2024-04-26"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-04-11T18:59:02.000Z",
+        "2024-06-25T15:49:51.000Z",
+        "2024-04-26T20:44:05.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-286480",
+        "333-280455",
+        "333-278963"
+      ],
+      "filmNumber": [
+        "25831203",
+        "241067378",
+        "24884633"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        130579,
+        110367,
+        142009
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2511566d3_f6ef.htm",
+        "e663739_f6ef-gga.htm",
+        "e663557_f6ef-galderma.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6EF",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

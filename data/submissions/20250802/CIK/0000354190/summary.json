@@ -1,0 +1,32 @@
+{
+  "cik": "0000354190",
+  "name": "Arthur J. Gallagher & Co.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AJG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "362151613",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "630-773-3800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GALLAGHER ARTHUR J & CO",
+      "from": "1994-01-25T05:00:00.000Z",
+      "to": "2019-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:58:55 UTC"
+}

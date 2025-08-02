@@ -1,0 +1,37 @@
+{
+  "cik": "0000908259",
+  "name": "Oncotelic Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OTLC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "133679168",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "650-635-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MATEON THERAPEUTICS INC",
+      "from": "2016-06-17T04:00:00.000Z",
+      "to": "2021-03-26T04:00:00.000Z"
+    },
+    {
+      "name": "OXIGENE INC",
+      "from": "1996-10-24T04:00:00.000Z",
+      "to": "2016-06-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:07 UTC"
+}

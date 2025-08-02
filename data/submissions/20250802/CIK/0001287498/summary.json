@@ -1,0 +1,32 @@
+{
+  "cik": "0001287498",
+  "name": "Eaton Vance Short Duration Diversified Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "EVG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON VANCE LOW DURATION DIVERSIFIED INCOME FUND",
+      "from": "2004-04-19T04:00:00.000Z",
+      "to": "2004-12-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 412,
+  "download_timestamp": "2025-08-02 07:09:46 UTC"
+}

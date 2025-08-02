@@ -132,3 +132,5 @@ dmypy.json
 # Add this line to your existing .gitignore
 .venv/
 idea/
+.vercel/
+BLOCKER.md

@@ -1,0 +1,26 @@
+{
+  "cik": "0001852025",
+  "name": "Grayscale Chainlink Trust (LINK)",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLNK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "866368584",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-668-1427",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 95,
+  "download_timestamp": "2025-08-02 07:27:15 UTC"
+}

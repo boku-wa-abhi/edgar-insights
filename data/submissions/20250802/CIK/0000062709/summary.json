@@ -1,0 +1,32 @@
+{
+  "cik": "0000062709",
+  "name": "MARSH & MCLENNAN COMPANIES, INC.",
+  "entityType": "operating",
+  "sic": "6411",
+  "sicDescription": "Insurance Agents, Brokers & Service",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MMC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "362668272",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2123455000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARSH & MCLENNAN COMPANIES INC",
+      "from": "1994-05-13T04:00:00.000Z",
+      "to": "2005-01-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:21 UTC"
+}

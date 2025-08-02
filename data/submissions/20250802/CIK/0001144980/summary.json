@@ -1,0 +1,26 @@
+{
+  "cik": "0001144980",
+  "name": "ASBURY AUTOMOTIVE GROUP INC",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "010609375",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "770-418-8200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:03 UTC"
+}

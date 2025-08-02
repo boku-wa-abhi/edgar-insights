@@ -1,0 +1,26 @@
+{
+  "cik": "0001860160",
+  "name": "Firefly Aerospace Inc.",
+  "entityType": "other",
+  "sic": "3760",
+  "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FLY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "815194980",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5122776959",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 10,
+  "download_timestamp": "2025-08-02 07:27:45 UTC"
+}

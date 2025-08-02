@@ -1,0 +1,32 @@
+{
+  "cik": "0001037976",
+  "name": "JONES LANG LASALLE INC",
+  "entityType": "operating",
+  "sic": "6531",
+  "sicDescription": "Real Estate Agents & Managers (For Others)",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JLL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364150422",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3127825800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LASALLE PARTNERS INC",
+      "from": "1997-06-23T04:00:00.000Z",
+      "to": "1999-03-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:17 UTC"
+}

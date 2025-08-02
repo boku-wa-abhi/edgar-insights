@@ -1,0 +1,39 @@
+{
+  "cik": "0000946644",
+  "name": "AIM ImmunoTech Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIM",
+    "AIMI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "520845822",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "352-448-7797",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AIM ImmunoTech Inc.",
+      "from": "2019-09-05T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "HEMISPHERX BIOPHARMA INC",
+      "from": "1996-09-30T04:00:00.000Z",
+      "to": "2019-08-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:14 UTC"
+}

@@ -1,0 +1,134 @@
+{
+  "cik": "0002047177",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Chenghe Acquisition III Co.",
+  "tickers": [
+    "CHEC"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "89 NEXUS WAY",
+      "street2": "CAMANA BAY",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-9009",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "89 NEXUS WAY",
+      "street2": "CAMANA BAY",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-9009",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "202-551-1206",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-067839",
+        "0001213900-25-061543",
+        "0001213900-25-008927"
+      ],
+      "filingDate": [
+        "2025-07-28",
+        "2025-07-03",
+        "2025-01-31"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-25T22:53:36.000Z",
+        "2025-07-03T20:57:27.000Z",
+        "2025-01-31T22:15:59.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288524",
+        "333-288524",
+        "377-07705"
+      ],
+      "filmNumber": [
+        "251152726",
+        "251106187",
+        "25579443"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL",
+        "DRS"
+      ],
+      "size": [
+        12378046,
+        10346210,
+        5619034
+      ],
+      "isXBRL": [
+        1,
+        1,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        0
+      ],
+      "primaryDocument": [
+        "ea0227747-04.htm",
+        "ea0227747-02.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

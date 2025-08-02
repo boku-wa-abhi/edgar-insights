@@ -1,0 +1,32 @@
+{
+  "cik": "0001084961",
+  "name": "ENCORE CAPITAL GROUP INC",
+  "entityType": "operating",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECPG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "481090909",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-877-345-3002",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MCM CAPITAL GROUP INC",
+      "from": "1999-07-08T04:00:00.000Z",
+      "to": "2002-03-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:06:36 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000887905",
+  "name": "LTC PROPERTIES INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LTC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "710720518",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "805-981-8655",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:32 UTC"
+}

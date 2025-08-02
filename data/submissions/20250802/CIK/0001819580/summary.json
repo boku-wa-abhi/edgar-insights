@@ -1,0 +1,26 @@
+{
+  "cik": "0001819580",
+  "name": "Yatsen Holding Ltd",
+  "entityType": "other",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YSG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86 20 38373543",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 104,
+  "download_timestamp": "2025-08-02 07:25:22 UTC"
+}

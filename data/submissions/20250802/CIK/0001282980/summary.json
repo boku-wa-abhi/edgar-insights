@@ -1,0 +1,32 @@
+{
+  "cik": "0001282980",
+  "name": "Dror Ortho-Design, Inc.",
+  "entityType": "operating",
+  "sic": "3843",
+  "sicDescription": "Dental Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DROR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "850461778",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "724-206-1500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NOVINT TECHNOLOGIES INC",
+      "from": "2004-03-05T05:00:00.000Z",
+      "to": "2023-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 228,
+  "download_timestamp": "2025-08-02 07:09:39 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001581068",
+  "name": "Brixmor Property Group Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "452433192",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 869-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 861,
+  "download_timestamp": "2025-08-02 07:17:41 UTC"
+}

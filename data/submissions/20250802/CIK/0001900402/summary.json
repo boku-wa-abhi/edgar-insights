@@ -1,0 +1,30 @@
+{
+  "cik": "0001900402",
+  "name": "Evergreen Corp",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "EGRVF",
+    "EGSVF",
+    "EGUVF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(786) 406-6082",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 107,
+  "download_timestamp": "2025-08-02 07:29:09 UTC"
+}

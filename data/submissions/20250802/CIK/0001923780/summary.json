@@ -1,0 +1,26 @@
+{
+  "cik": "0001923780",
+  "name": "Northann Corp.",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NCL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "881513509",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "916-573-3803",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 114,
+  "download_timestamp": "2025-08-02 07:29:35 UTC"
+}

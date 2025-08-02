@@ -1,0 +1,26 @@
+{
+  "cik": "0001718512",
+  "name": "Gates Industrial Corp plc",
+  "entityType": "operating",
+  "sic": "3560",
+  "sicDescription": "General Industrial Machinery & Equipment",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "GTES"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "303-744-4876",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 580,
+  "download_timestamp": "2025-08-02 07:21:47 UTC"
+}

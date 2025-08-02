@@ -1,0 +1,37 @@
+{
+  "cik": "0000718332",
+  "name": "RAVE RESTAURANT GROUP, INC.",
+  "entityType": "operating",
+  "sic": "5140",
+  "sicDescription": "Wholesale-Groceries & Related Products",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RAVE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453189287",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "469-384-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIZZA INN HOLDINGS, INC /MO/",
+      "from": "2011-09-30T04:00:00.000Z",
+      "to": "2014-11-21T05:00:00.000Z"
+    },
+    {
+      "name": "PIZZA INN INC /MO/",
+      "from": "1995-12-04T05:00:00.000Z",
+      "to": "2011-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 902,
+  "download_timestamp": "2025-08-02 06:59:18 UTC"
+}

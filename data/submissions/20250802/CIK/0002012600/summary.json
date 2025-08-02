@@ -1,0 +1,26 @@
+{
+  "cik": "0002012600",
+  "name": "rYojbaba Co., Ltd.",
+  "entityType": "other",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RYOJ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "81 (92) 553-0344",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 17,
+  "download_timestamp": "2025-08-02 07:31:57 UTC"
+}

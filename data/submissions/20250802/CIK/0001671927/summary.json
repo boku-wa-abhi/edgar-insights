@@ -1,0 +1,32 @@
+{
+  "cik": "0001671927",
+  "name": "Immunocore Holdings plc",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMCR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "01235 5430281",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Immunocore Ltd",
+      "from": "2016-04-13T04:00:00.000Z",
+      "to": "2021-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 221,
+  "download_timestamp": "2025-08-02 07:20:17 UTC"
+}

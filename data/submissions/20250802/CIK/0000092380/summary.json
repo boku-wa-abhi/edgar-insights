@@ -1,0 +1,26 @@
+{
+  "cik": "0000092380",
+  "name": "SOUTHWEST AIRLINES CO",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LUV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "741563240",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2147924000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:58:02 UTC"
+}

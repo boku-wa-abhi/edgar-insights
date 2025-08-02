@@ -1,0 +1,164 @@
+{
+  "cik": "0002049348",
+  "entityType": "other",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "ownerOrg": "01 Energy & Transportation",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "World Road Inc.",
+  "tickers": [
+    "WODO"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0331",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "45 BROADWAY",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10006",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "45 BROADWAY",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10006",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212.440.8106",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001829126-25-004273",
+        "0001829126-25-003770",
+        "0001829126-25-002439",
+        "0001829126-25-001037",
+        "0001829126-24-008495"
+      ],
+      "filingDate": [
+        "2025-06-06",
+        "2025-05-16",
+        "2025-04-07",
+        "2025-02-18",
+        "2024-12-23"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-05T22:53:32.000Z",
+        "2025-05-16T20:31:01.000Z",
+        "2025-04-07T21:08:49.000Z",
+        "2025-02-18T11:09:03.000Z",
+        "2024-12-23T19:30:24.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287366",
+        "333-287366",
+        "377-07635",
+        "377-07635",
+        "377-07635"
+      ],
+      "filmNumber": [
+        "251028536",
+        "25959810",
+        "25818958",
+        "25632519",
+        "241572543"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        3658923,
+        5193291,
+        3859860,
+        3708538,
+        3021123
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "worldroad_f1a.htm",
+        "worldroad_f1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

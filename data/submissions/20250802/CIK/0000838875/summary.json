@@ -1,0 +1,28 @@
+{
+  "cik": "0000838875",
+  "name": "WILLAMETTE VALLEY VINEYARDS INC",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "OR",
+  "stateOfIncorporationDescription": "OR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WVVI",
+    "WVVIP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "930981021",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5035889463",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 551,
+  "download_timestamp": "2025-08-02 07:01:17 UTC"
+}

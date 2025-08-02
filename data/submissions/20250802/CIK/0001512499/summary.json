@@ -1,0 +1,32 @@
+{
+  "cik": "0001512499",
+  "name": "LINDBLAD EXPEDITIONS HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LIND"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "274749725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212-261-9000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Capitol Acquisition Corp. II",
+      "from": "2011-02-15T05:00:00.000Z",
+      "to": "2015-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 923,
+  "download_timestamp": "2025-08-02 07:15:30 UTC"
+}

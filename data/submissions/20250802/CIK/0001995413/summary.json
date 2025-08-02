@@ -1,0 +1,26 @@
+{
+  "cik": "0001995413",
+  "name": "COLOMBIER ACQUISITION CORP. II",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLBR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "5618053588",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 124,
+  "download_timestamp": "2025-08-02 07:31:24 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000883984",
+  "name": "ICU MEDICAL INC/DE",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ICUI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330022692",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "949-366-2183",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:02:18 UTC"
+}

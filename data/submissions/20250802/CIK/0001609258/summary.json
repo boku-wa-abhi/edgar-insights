@@ -1,0 +1,37 @@
+{
+  "cik": "0001609258",
+  "name": "PetroGas Co",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PTCO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981153516",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(806) 375-3338",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "America Resources Exploration Inc.",
+      "from": "2015-05-26T04:00:00.000Z",
+      "to": "2016-02-17T05:00:00.000Z"
+    },
+    {
+      "name": "Alazzio Entertainment Corp",
+      "from": "2014-05-30T04:00:00.000Z",
+      "to": "2015-04-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 99,
+  "download_timestamp": "2025-08-02 07:18:33 UTC"
+}

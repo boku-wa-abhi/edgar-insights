@@ -1,0 +1,26 @@
+{
+  "cik": "0001210677",
+  "name": "FIRST ADVANTAGE CORP",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "843884690",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "678-868-4151",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 952,
+  "download_timestamp": "2025-08-02 07:08:53 UTC"
+}

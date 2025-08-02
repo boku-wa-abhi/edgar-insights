@@ -1,0 +1,26 @@
+{
+  "cik": "0001043509",
+  "name": "SONIC AUTOMOTIVE INC",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SAH"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "562010790",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "704-566-2400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:31 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0000918251",
+  "name": "MOTORCAR PARTS OF AMERICA INC",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MPAA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "112153962",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "3109724015",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MOTORCAR PARTS AMERICA INC",
+      "from": "2010-06-14T04:00:00.000Z",
+      "to": "2022-08-09T04:00:00.000Z"
+    },
+    {
+      "name": "MOTORCAR PARTS  AMERICA INC",
+      "from": "2004-01-14T05:00:00.000Z",
+      "to": "2010-06-14T04:00:00.000Z"
+    },
+    {
+      "name": "MOTORCAR PARTS & ACCESSORIES INC",
+      "from": "1995-12-12T05:00:00.000Z",
+      "to": "2003-12-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:33 UTC"
+}

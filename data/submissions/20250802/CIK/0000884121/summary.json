@@ -1,0 +1,37 @@
+{
+  "cik": "0000884121",
+  "name": "abrdn Life Sciences Investors",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "HQL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043147016",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6177728515",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TEKLA LIFE SCIENCES INVESTORS",
+      "from": "2014-10-15T04:00:00.000Z",
+      "to": "2023-10-05T04:00:00.000Z"
+    },
+    {
+      "name": "H&Q LIFE SCIENCES INVESTORS",
+      "from": "1995-12-13T05:00:00.000Z",
+      "to": "2014-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 487,
+  "download_timestamp": "2025-08-02 07:02:19 UTC"
+}

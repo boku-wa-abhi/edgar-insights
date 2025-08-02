@@ -1,0 +1,32 @@
+{
+  "cik": "0001384101",
+  "name": "VERACYTE, INC.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VCYT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205455398",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(650) 243-6300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CALDEROME INC",
+      "from": "2006-12-06T05:00:00.000Z",
+      "to": "2008-02-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:53 UTC"
+}

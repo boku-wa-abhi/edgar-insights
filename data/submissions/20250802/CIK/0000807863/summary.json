@@ -1,0 +1,26 @@
+{
+  "cik": "0000807863",
+  "name": "MITEK SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "MITK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870418827",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "619-269-6800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:39 UTC"
+}

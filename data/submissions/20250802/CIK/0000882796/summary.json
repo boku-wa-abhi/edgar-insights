@@ -1,0 +1,26 @@
+{
+  "cik": "0000882796",
+  "name": "BIOCRYST PHARMACEUTICALS INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BCRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "621413174",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "919-859-1302",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:15 UTC"
+}

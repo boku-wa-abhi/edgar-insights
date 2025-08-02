@@ -1,0 +1,26 @@
+{
+  "cik": "0001892500",
+  "name": "Clearmind Medicine Inc.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "CMND"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "972-54-5704749",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 217,
+  "download_timestamp": "2025-08-02 07:28:56 UTC"
+}

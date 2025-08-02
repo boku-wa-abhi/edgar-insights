@@ -1,0 +1,26 @@
+{
+  "cik": "0001096056",
+  "name": "LUXFER HOLDINGS PLC",
+  "entityType": "operating",
+  "sic": "2810",
+  "sicDescription": "Industrial Inorganic Chemicals",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LXFR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "441615159620",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 638,
+  "download_timestamp": "2025-08-02 07:06:54 UTC"
+}

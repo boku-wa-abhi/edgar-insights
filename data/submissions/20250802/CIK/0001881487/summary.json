@@ -1,0 +1,26 @@
+{
+  "cik": "0001881487",
+  "name": "ProFrac Holding Corp.",
+  "entityType": "operating",
+  "sic": "1389",
+  "sicDescription": "Oil & Gas Field Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACDC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "254-776-3722",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 314,
+  "download_timestamp": "2025-08-02 07:28:36 UTC"
+}

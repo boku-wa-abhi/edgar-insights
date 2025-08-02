@@ -1,0 +1,32 @@
+{
+  "cik": "0001061630",
+  "name": "BLACKSTONE MORTGAGE TRUST, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BXMT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "946181186",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2126550220",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAPITAL TRUST INC",
+      "from": "1998-05-14T04:00:00.000Z",
+      "to": "2013-04-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:06:00 UTC"
+}

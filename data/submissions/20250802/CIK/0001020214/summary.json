@@ -1,0 +1,26 @@
+{
+  "cik": "0001020214",
+  "name": "CERUS CORP",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CERS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "680262011",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "9252886000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:51 UTC"
+}

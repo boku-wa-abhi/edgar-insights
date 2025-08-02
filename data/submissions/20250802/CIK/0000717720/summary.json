@@ -1,0 +1,26 @@
+{
+  "cik": "0000717720",
+  "name": "VALUE LINE INC",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "VALU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133139843",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "212 907-1500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 361,
+  "download_timestamp": "2025-08-02 06:59:17 UTC"
+}

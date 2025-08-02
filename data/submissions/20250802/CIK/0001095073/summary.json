@@ -1,0 +1,37 @@
+{
+  "cik": "0001095073",
+  "name": "EVEREST GROUP, LTD.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980365432",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4412950006",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EVEREST RE GROUP LTD",
+      "from": "2000-04-10T04:00:00.000Z",
+      "to": "2023-07-06T04:00:00.000Z"
+    },
+    {
+      "name": "EVEREST REINSURANCE GROUP LTD",
+      "from": "1999-12-22T05:00:00.000Z",
+      "to": "2000-03-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:52 UTC"
+}

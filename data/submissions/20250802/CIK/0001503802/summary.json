@@ -1,0 +1,26 @@
+{
+  "cik": "0001503802",
+  "name": "Karyopharm Therapeutics Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KPTI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "263931704",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "617-658-0600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:15:15 UTC"
+}

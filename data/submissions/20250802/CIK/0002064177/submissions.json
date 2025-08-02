@@ -1,0 +1,149 @@
+{
+  "cik": "0002064177",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Blueport Acquisition Ltd",
+  "tickers": [
+    "BPAC"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "366 MADISON AVENUE, 3RD FLOOR",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10017",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "366 MADISON AVENUE, 3RD FLOOR",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10017",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-829-8937",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001185185-25-000740",
+        "0001185185-25-000701",
+        "0001185185-25-000502",
+        "0001185185-25-000273"
+      ],
+      "filingDate": [
+        "2025-07-08",
+        "2025-06-26",
+        "2025-05-16",
+        "2025-04-09"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-08T18:34:01.000Z",
+        "2025-06-26T21:10:48.000Z",
+        "2025-05-16T18:39:23.000Z",
+        "2025-04-08T23:45:33.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288356",
+        "333-288356",
+        "377-07872",
+        "377-07872"
+      ],
+      "filmNumber": [
+        "251110663",
+        "251081249",
+        "25958446",
+        "25823303"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        115253,
+        5126262,
+        2897019,
+        2622399
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "bpacs1a1070625.htm",
+        "blueports1060225.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "FORM S-1/A1",
+        "FORM S-1",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001628808",
+  "name": "Profound Medical Corp.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PROF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "647-476-1350",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 233,
+  "download_timestamp": "2025-08-02 07:19:09 UTC"
+}

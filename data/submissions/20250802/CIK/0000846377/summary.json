@@ -1,0 +1,62 @@
+{
+  "cik": "0000846377",
+  "name": "Totaligent, Inc.",
+  "entityType": "operating",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGNT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "800142655",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-988-2621",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLTEMP, INC.",
+      "from": "2017-04-28T04:00:00.000Z",
+      "to": "2018-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "SOURCE FINANCIAL, INC.",
+      "from": "2013-02-25T05:00:00.000Z",
+      "to": "2017-03-28T04:00:00.000Z"
+    },
+    {
+      "name": "WIKI GROUP, INC.",
+      "from": "2012-03-16T04:00:00.000Z",
+      "to": "2013-02-20T05:00:00.000Z"
+    },
+    {
+      "name": "WIKILOAN INC.",
+      "from": "2009-06-09T04:00:00.000Z",
+      "to": "2012-03-08T05:00:00.000Z"
+    },
+    {
+      "name": "SWAP-A-DEBT, INC.",
+      "from": "2008-10-02T04:00:00.000Z",
+      "to": "2009-04-17T04:00:00.000Z"
+    },
+    {
+      "name": "5 FIFTY 5.COM, INC.",
+      "from": "2006-03-14T05:00:00.000Z",
+      "to": "2006-03-14T05:00:00.000Z"
+    },
+    {
+      "name": "WINDSOR CAPITAL CORP",
+      "from": "1996-08-08T04:00:00.000Z",
+      "to": "2001-03-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 234,
+  "download_timestamp": "2025-08-02 07:01:26 UTC"
+}

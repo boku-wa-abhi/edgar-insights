@@ -1,0 +1,26 @@
+{
+  "cik": "0001499620",
+  "name": "TAL Education Group",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "TAL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "86 (10) 5292-6669",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 306,
+  "download_timestamp": "2025-08-02 07:15:05 UTC"
+}

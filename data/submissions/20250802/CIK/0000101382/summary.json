@@ -1,0 +1,36 @@
+{
+  "cik": "0000101382",
+  "name": "UMB FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UMBF",
+    "UMBFO",
+    "UMBFP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "430903811",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8168607000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNITED MISSOURI BANCSHARES INC",
+      "from": "1994-02-15T05:00:00.000Z",
+      "to": "1995-03-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 06:58:14 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002022626",
+  "name": "Upstream Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UPB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "781-208-2466",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 78,
+  "download_timestamp": "2025-08-02 07:32:18 UTC"
+}

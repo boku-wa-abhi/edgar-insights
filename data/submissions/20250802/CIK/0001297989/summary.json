@@ -1,0 +1,26 @@
+{
+  "cik": "0001297989",
+  "name": "ExlService Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXLS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "820572194",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 277-7100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:00 UTC"
+}

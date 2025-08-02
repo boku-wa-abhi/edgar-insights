@@ -1,0 +1,26 @@
+{
+  "cik": "0002034767",
+  "name": "Ultra High Point Holdings Ltd",
+  "entityType": "other",
+  "sic": "8000",
+  "sicDescription": "Services-Health Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "UHP"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "852 3101 1186",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:32:51 UTC"
+}

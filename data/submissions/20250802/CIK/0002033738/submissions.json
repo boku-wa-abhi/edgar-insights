@@ -1,0 +1,239 @@
+{
+  "cik": "0002033738",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "ownerOrg": "05 Real Estate & Construction",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "GATES GROUP Inc.",
+  "tickers": [
+    "GTSG"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "addresses": {
+    "mailing": {
+      "street1": "34FSUMITOMO FUDOSAN SHINJUKU GRAND TOWER",
+      "street2": "8-17-1 NISISHINJUKU, SHINJUKU-KU",
+      "city": "TOKYO",
+      "stateOrCountry": "M0",
+      "zipCode": "160-6134",
+      "stateOrCountryDescription": "Japan",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "34FSUMITOMO FUDOSAN SHINJUKU GRAND TOWER",
+      "street2": "8-17-1 NISISHINJUKU, SHINJUKU-KU",
+      "city": "TOKYO",
+      "stateOrCountry": "M0",
+      "zipCode": "160-6134",
+      "stateOrCountryDescription": "Japan",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "81-3-5937-0846",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-020636",
+        "0001641172-25-013177",
+        "0001493152-25-008812",
+        "0001493152-25-006410",
+        "0001493152-25-004499",
+        "0001493152-25-002564",
+        "0001493152-24-050644",
+        "0001493152-24-048276",
+        "0001493152-24-043573",
+        "0001493152-24-033043"
+      ],
+      "filingDate": [
+        "2025-07-23",
+        "2025-06-02",
+        "2025-03-03",
+        "2025-02-13",
+        "2025-01-31",
+        "2025-01-16",
+        "2024-12-18",
+        "2024-12-02",
+        "2024-11-05",
+        "2024-08-19"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-23T01:55:12.000Z",
+        "2025-06-02T10:08:28.000Z",
+        "2025-03-03T13:10:19.000Z",
+        "2025-02-13T20:38:34.000Z",
+        "2025-01-31T22:24:09.000Z",
+        "2025-01-16T21:40:48.000Z",
+        "2024-12-18T22:14:17.000Z",
+        "2024-12-02T20:24:22.000Z",
+        "2024-11-04T22:32:22.000Z",
+        "2024-08-19T18:17:39.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "34",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "333-283546",
+        "377-07394",
+        "377-07394"
+      ],
+      "filmNumber": [
+        "251141515",
+        "251013031",
+        "25693850",
+        "25619823",
+        "25579533",
+        "25536136",
+        "241560223",
+        "241518679",
+        "241424891",
+        "241219869"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "FWP",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        3906516,
+        4477120,
+        114137,
+        114226,
+        5063015,
+        5127706,
+        4680907,
+        5574958,
+        3919656,
+        2506282
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formfwp.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

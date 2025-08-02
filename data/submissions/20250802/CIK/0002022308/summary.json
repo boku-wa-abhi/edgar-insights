@@ -1,0 +1,28 @@
+{
+  "cik": "0002022308",
+  "name": "Classover Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KIDZ",
+    "KIDZW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "530-574-6789",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 81,
+  "download_timestamp": "2025-08-02 07:32:16 UTC"
+}

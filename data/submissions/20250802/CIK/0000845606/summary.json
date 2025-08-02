@@ -1,0 +1,32 @@
+{
+  "cik": "0000845606",
+  "name": "MFS HIGH INCOME MUNICIPAL TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "CXE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043039022",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-954-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COLONIAL HIGH INCOME MUNICIPAL TRUST",
+      "from": "1994-08-29T04:00:00.000Z",
+      "to": "2007-05-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 493,
+  "download_timestamp": "2025-08-02 07:01:24 UTC"
+}

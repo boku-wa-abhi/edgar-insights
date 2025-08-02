@@ -1,0 +1,28 @@
+{
+  "cik": "0001888654",
+  "name": "5E Advanced Materials, Inc.",
+  "entityType": "operating",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "FEAM",
+    "FEAV"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "873426517",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "442 292 2120",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 297,
+  "download_timestamp": "2025-08-02 07:28:48 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001275168",
+  "name": "FIVE STAR BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSBC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "753100966",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "916-626-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 382,
+  "download_timestamp": "2025-08-02 07:09:27 UTC"
+}

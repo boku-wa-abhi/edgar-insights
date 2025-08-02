@@ -1,0 +1,28 @@
+{
+  "cik": "0001973368",
+  "name": "SRIVARU Holding Ltd",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SVUHF",
+    "SVUWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(888) 227-8066",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 120,
+  "download_timestamp": "2025-08-02 07:30:49 UTC"
+}

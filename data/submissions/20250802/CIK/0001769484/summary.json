@@ -1,0 +1,26 @@
+{
+  "cik": "0001769484",
+  "name": "Bioceres Crop Solutions Corp.",
+  "entityType": "other",
+  "sic": "2870",
+  "sicDescription": "Agricultural Chemicals",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "BIOX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "54 341 486 1122",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 225,
+  "download_timestamp": "2025-08-02 07:23:24 UTC"
+}

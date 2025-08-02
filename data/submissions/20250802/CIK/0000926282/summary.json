@@ -1,0 +1,32 @@
+{
+  "cik": "0000926282",
+  "name": "ADTRAN Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3661",
+  "sicDescription": "Telephone & Telegraph Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADTN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "872164282",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "256-963-8220",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ADTRAN INC",
+      "from": "1996-05-13T04:00:00.000Z",
+      "to": "2022-07-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:49 UTC"
+}

@@ -1,0 +1,38 @@
+{
+  "cik": "0001406234",
+  "name": "Brookfield Infrastructure Partners L.P.",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BIP",
+    "BIPH",
+    "BIPI",
+    "BIPJ",
+    "BIP-PA",
+    "BIP-PB",
+    "BRIPF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441 296-4480",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 772,
+  "download_timestamp": "2025-08-02 07:12:27 UTC"
+}

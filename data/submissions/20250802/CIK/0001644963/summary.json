@@ -1,0 +1,26 @@
+{
+  "cik": "0001644963",
+  "name": "AVENUE THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATXI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "474113275",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "781-652-4500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 407,
+  "download_timestamp": "2025-08-02 07:19:36 UTC"
+}

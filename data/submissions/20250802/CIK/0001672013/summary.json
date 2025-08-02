@@ -1,0 +1,26 @@
+{
+  "cik": "0001672013",
+  "name": "Acushnet Holdings Corp.",
+  "entityType": "operating",
+  "sic": "3949",
+  "sicDescription": "Sporting & Athletic Goods, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GOLF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "455644353",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "800-225-8500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 879,
+  "download_timestamp": "2025-08-02 07:20:18 UTC"
+}

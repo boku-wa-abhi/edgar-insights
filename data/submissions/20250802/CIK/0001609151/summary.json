@@ -1,0 +1,26 @@
+{
+  "cik": "0001609151",
+  "name": "Weave Communications, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WEAV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "263302902",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "385-331-4164",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 553,
+  "download_timestamp": "2025-08-02 07:18:33 UTC"
+}

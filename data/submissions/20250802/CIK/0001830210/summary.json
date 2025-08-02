@@ -1,0 +1,32 @@
+{
+  "cik": "0001830210",
+  "name": "Benson Hill, Inc.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BHILQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "314-222-8218",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Star Peak Corp II",
+      "from": "2020-11-03T05:00:00.000Z",
+      "to": "2021-10-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 07:26:01 UTC"
+}

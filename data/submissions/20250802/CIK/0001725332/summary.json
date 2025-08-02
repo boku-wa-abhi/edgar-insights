@@ -1,0 +1,32 @@
+{
+  "cik": "0001725332",
+  "name": "Alarum Technologies Ltd.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALAR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "972-98666110",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Safe-T Group Ltd.",
+      "from": "2018-01-08T05:00:00.000Z",
+      "to": "2023-01-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 316,
+  "download_timestamp": "2025-08-02 07:22:03 UTC"
+}

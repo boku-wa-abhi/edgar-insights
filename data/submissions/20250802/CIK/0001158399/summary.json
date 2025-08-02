@@ -1,0 +1,26 @@
+{
+  "cik": "0001158399",
+  "name": "Burcon NutraScience Corp",
+  "entityType": "other",
+  "sic": "2020",
+  "sicDescription": "Dairy Products",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "BRCND"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980686585",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(604) 733-0896",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 260,
+  "download_timestamp": "2025-08-02 07:08:09 UTC"
+}

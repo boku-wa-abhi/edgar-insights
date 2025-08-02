@@ -1,0 +1,26 @@
+{
+  "cik": "0002021880",
+  "name": "HMH Holding Inc",
+  "entityType": "other",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HMH"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "992746883",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "281-449-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 8,
+  "download_timestamp": "2025-08-02 07:32:15 UTC"
+}

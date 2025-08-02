@@ -1,0 +1,37 @@
+{
+  "cik": "0001024795",
+  "name": "HELIOS TECHNOLOGIES, INC.",
+  "entityType": "operating",
+  "sic": "3490",
+  "sicDescription": "Miscellaneous Fabricated Metal Products",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1230",
+  "tickers": [
+    "HLIO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "592754337",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9413621200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SUN HYDRAULICS CORP",
+      "from": "1997-05-15T04:00:00.000Z",
+      "to": "2019-06-11T04:00:00.000Z"
+    },
+    {
+      "name": "SUN HYDRAULICS INC",
+      "from": "1996-11-07T05:00:00.000Z",
+      "to": "1997-03-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:05:00 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001974640",
+  "name": "Apogee Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APGE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "934958665",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-394-5230",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Apogee Therapeutics, LLC",
+      "from": "2023-04-28T04:00:00.000Z",
+      "to": "2023-06-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 175,
+  "download_timestamp": "2025-08-02 07:30:51 UTC"
+}

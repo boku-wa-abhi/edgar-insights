@@ -1,0 +1,32 @@
+{
+  "cik": "0001341439",
+  "name": "ORACLE CORP",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "ORCL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "542185193",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(737) 867-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ozark Holding Inc.",
+      "from": "2005-10-19T04:00:00.000Z",
+      "to": "2006-02-01T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:54 UTC"
+}

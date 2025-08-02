@@ -1,0 +1,32 @@
+{
+  "cik": "0001599617",
+  "name": "DNOW Inc.",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DNOW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464191184",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "281-823-4700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NOW Inc.",
+      "from": "2014-02-26T05:00:00.000Z",
+      "to": "2024-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 494,
+  "download_timestamp": "2025-08-02 07:18:14 UTC"
+}

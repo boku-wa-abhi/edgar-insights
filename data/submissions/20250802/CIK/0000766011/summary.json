@@ -1,0 +1,32 @@
+{
+  "cik": "0000766011",
+  "name": "Caledonia Mining Corp Plc",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMCL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "447797824164",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CALEDONIA MINING CORP",
+      "from": "2003-06-16T04:00:00.000Z",
+      "to": "2018-01-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 878,
+  "download_timestamp": "2025-08-02 06:59:59 UTC"
+}

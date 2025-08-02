@@ -1,0 +1,100 @@
+{
+  "cik": "0002014145",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Money Forward, Inc./ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH STREET",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10013",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "21 F, MSB TAMACHI STATION TOWER S",
+      "street2": "3-1-21 SHIBAURA, MINATO-KU",
+      "city": "TOKYO",
+      "stateOrCountry": "M0",
+      "zipCode": "108-0023",
+      "stateOrCountryDescription": "Japan",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-24-000303"
+      ],
+      "filingDate": [
+        "2024-03-05"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-03-05T17:56:16.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-277660"
+      ],
+      "filmNumber": [
+        "24719304"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "size": [
+        111470
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "e619323_f6ef-mf.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

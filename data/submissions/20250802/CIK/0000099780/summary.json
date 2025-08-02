@@ -1,0 +1,26 @@
+{
+  "cik": "0000099780",
+  "name": "TRINITY INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3743",
+  "sicDescription": "Railroad Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "750225040",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-631-4420",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:11 UTC"
+}

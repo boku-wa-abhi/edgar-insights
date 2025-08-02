@@ -1,0 +1,26 @@
+{
+  "cik": "0001760854",
+  "name": "Nanobiotix S.A.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NBTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "33140260470",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 252,
+  "download_timestamp": "2025-08-02 07:23:11 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002027360",
+  "name": "RedCloud Holdings plc",
+  "entityType": "other",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RCT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "4402077543735",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:32:29 UTC"
+}

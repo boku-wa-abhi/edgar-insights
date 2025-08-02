@@ -1,0 +1,26 @@
+{
+  "cik": "0001341170",
+  "name": "EUROSEAS LTD.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ESEA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "011 30 210 6105110",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 651,
+  "download_timestamp": "2025-08-02 07:10:53 UTC"
+}

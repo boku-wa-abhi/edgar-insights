@@ -1,0 +1,26 @@
+{
+  "cik": "0001817740",
+  "name": "Austin Gold Corp.",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AUST"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "604-644-6579",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 92,
+  "download_timestamp": "2025-08-02 07:25:14 UTC"
+}

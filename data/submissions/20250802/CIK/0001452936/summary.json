@@ -1,0 +1,32 @@
+{
+  "cik": "0001452936",
+  "name": "Pacific Oak Strategic Opportunity REIT, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCOK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "263842535",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "866-722-6257",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KBS Strategic Opportunity REIT, Inc.",
+      "from": "2009-01-08T05:00:00.000Z",
+      "to": "2019-11-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 580,
+  "download_timestamp": "2025-08-02 07:13:47 UTC"
+}

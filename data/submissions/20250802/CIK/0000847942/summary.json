@@ -1,0 +1,26 @@
+{
+  "cik": "0000847942",
+  "name": "STRATEGIC ACQUISITIONS INC /NV/",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STQN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "133506506",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212-878-6532",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 181,
+  "download_timestamp": "2025-08-02 07:01:29 UTC"
+}

@@ -1,0 +1,134 @@
+{
+  "cik": "0002072421",
+  "entityType": "other",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "ownerOrg": "02 Finance",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Seneca Bancorp, Inc.",
+  "tickers": [
+    "SNNF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "addresses": {
+    "mailing": {
+      "street1": "35 OSWEGO STREET",
+      "street2": null,
+      "city": "BALDWINSVILLE",
+      "stateOrCountry": "NY",
+      "zipCode": "13027",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "35 OSWEGO STREET",
+      "street2": null,
+      "city": "BALDWINSVILLE",
+      "stateOrCountry": "NY",
+      "zipCode": "13027",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(315) 638-0233",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-25-072679",
+        "0001104659-25-070825",
+        "0001104659-25-059424"
+      ],
+      "filingDate": [
+        "2025-07-31",
+        "2025-07-25",
+        "2025-06-13"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-31T20:06:25.000Z",
+        "2025-07-25T20:07:08.000Z",
+        "2025-06-13T20:52:18.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288044",
+        "333-288044",
+        "333-288044"
+      ],
+      "filmNumber": [
+        "251171685",
+        "251151751",
+        "251047398"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1"
+      ],
+      "size": [
+        5546884,
+        11662919,
+        12385089
+      ],
+      "isXBRL": [
+        0,
+        0,
+        1
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        1
+      ],
+      "primaryDocument": [
+        "tm2517671d4_s1a.htm",
+        "tm2517671d2_s1a.htm",
+        "tm2517671d1_s1.htm"
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1/A",
+        "FORM S-1"
+      ]
+    },
+    "files": []
+  }
+}

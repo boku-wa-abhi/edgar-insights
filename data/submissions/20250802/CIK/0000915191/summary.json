@@ -1,0 +1,45 @@
+{
+  "cik": "0000915191",
+  "name": "FAIRFAX FINANCIAL HOLDINGS LTD/ CAN",
+  "entityType": "other",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FRFHF",
+    "FAXXF",
+    "FRFFF",
+    "FRFXF",
+    "FAXRF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "101728897",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4163674941",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FAIRFAX FINANCIAL HOLDINGS INC",
+      "from": "1996-02-07T05:00:00.000Z",
+      "to": "1997-05-23T04:00:00.000Z"
+    },
+    {
+      "name": "FAIRFAX FINANCIAL HOLDINGS LTD",
+      "from": "1995-02-13T05:00:00.000Z",
+      "to": "1995-02-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:25 UTC"
+}

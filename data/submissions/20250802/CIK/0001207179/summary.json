@@ -1,0 +1,26 @@
+{
+  "cik": "0001207179",
+  "name": "GOLAR LNG LTD",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GLNG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-295-4705",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 784,
+  "download_timestamp": "2025-08-02 07:08:52 UTC"
+}

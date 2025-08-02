@@ -1,0 +1,26 @@
+{
+  "cik": "0001525769",
+  "name": "Dave & Buster's Entertainment, Inc.",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0202",
+  "tickers": [
+    "PLAY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "352382255",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "214-357-9588",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1016,
+  "download_timestamp": "2025-08-02 07:15:57 UTC"
+}

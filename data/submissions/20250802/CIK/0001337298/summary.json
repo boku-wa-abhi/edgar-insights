@@ -1,0 +1,32 @@
+{
+  "cik": "0001337298",
+  "name": "FutureFuel Corp.",
+  "entityType": "operating",
+  "sic": "2860",
+  "sicDescription": "Industrial Organic Chemicals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "203340900",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "314-854-8385",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Viceroy Acquisition CORP",
+      "from": "2005-09-02T04:00:00.000Z",
+      "to": "2006-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 787,
+  "download_timestamp": "2025-08-02 07:10:50 UTC"
+}

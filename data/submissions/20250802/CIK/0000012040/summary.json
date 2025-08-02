@@ -1,0 +1,26 @@
+{
+  "cik": "0000012040",
+  "name": "FLANIGANS ENTERPRISES INC",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0928",
+  "tickers": [
+    "BDL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "590877638",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-377-1961",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 302,
+  "download_timestamp": "2025-08-02 06:56:18 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000899782",
+  "name": "NUVEEN MISSOURI QUALITY MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "NOM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363880148",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN MISSOURI PREMIUM INCOME MUNICIPAL FUND",
+      "from": "1995-09-29T04:00:00.000Z",
+      "to": "2016-10-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 430,
+  "download_timestamp": "2025-08-02 07:02:59 UTC"
+}

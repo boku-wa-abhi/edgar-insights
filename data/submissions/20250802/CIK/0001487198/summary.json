@@ -1,0 +1,37 @@
+{
+  "cik": "0001487198",
+  "name": "ASPEN GROUP, INC.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "ASPU"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "271933597",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "646-448-5144",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Elite Nutritional Brands, Inc.",
+      "from": "2011-10-11T00:00:00.000Z",
+      "to": "2012-03-05T00:00:00.000Z"
+    },
+    {
+      "name": "Hidden Ladder, Inc.",
+      "from": "2010-03-25T00:00:00.000Z",
+      "to": "2011-09-30T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 766,
+  "download_timestamp": "2025-08-02 07:14:39 UTC"
+}

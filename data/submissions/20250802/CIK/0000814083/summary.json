@@ -1,0 +1,47 @@
+{
+  "cik": "0000814083",
+  "name": "Cornerstone Strategic Investment Fund, Inc.",
+  "entityType": "other",
+  "sic": "0000",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133407699",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(513) 587-3400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CORNERSTONE STRATEGIC VALUE FUND INC",
+      "from": "2009-05-22T04:00:00.000Z",
+      "to": "2024-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "CORNERSTONE STRATEGIC VALUE FUND INC/ NEW",
+      "from": "2001-06-08T04:00:00.000Z",
+      "to": "2009-03-06T05:00:00.000Z"
+    },
+    {
+      "name": "CLEMENTE STRATEGIC VALUE FUND INC",
+      "from": "1999-08-30T04:00:00.000Z",
+      "to": "2001-03-01T05:00:00.000Z"
+    },
+    {
+      "name": "CLEMENTE GLOBAL GROWTH FUND INC",
+      "from": "1995-08-23T04:00:00.000Z",
+      "to": "1999-06-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 537,
+  "download_timestamp": "2025-08-02 07:00:48 UTC"
+}

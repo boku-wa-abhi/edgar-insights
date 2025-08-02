@@ -1,0 +1,26 @@
+{
+  "cik": "0000912242",
+  "name": "MACERICH CO",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MAC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "954448705",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3103946000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:18 UTC"
+}

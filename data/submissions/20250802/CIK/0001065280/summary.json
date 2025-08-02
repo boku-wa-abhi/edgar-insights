@@ -1,0 +1,32 @@
+{
+  "cik": "0001065280",
+  "name": "NETFLIX INC",
+  "entityType": "operating",
+  "sic": "7841",
+  "sicDescription": "Services-Video Tape Rental",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NFLX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770467272",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-540-3700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NETFLIX COM INC",
+      "from": "2000-04-18T04:00:00.000Z",
+      "to": "2002-03-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:06:05 UTC"
+}

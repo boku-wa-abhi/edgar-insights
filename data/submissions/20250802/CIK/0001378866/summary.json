@@ -1,0 +1,47 @@
+{
+  "cik": "0001378866",
+  "name": "Go Green Global Technologies Corp.",
+  "entityType": "operating",
+  "sic": "3677",
+  "sicDescription": "Electronic Coils, Transformers & Other Inductors",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GOGR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "204412118",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-605-2857",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Go Green Technologies Corp",
+      "from": "2012-07-19T04:00:00.000Z",
+      "to": "2012-07-19T04:00:00.000Z"
+    },
+    {
+      "name": "DIVERSIFIED SECURE VENTURES CORP.",
+      "from": "2010-12-07T05:00:00.000Z",
+      "to": "2012-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "SECURE RUNWAY SYSTEMS CORP.",
+      "from": "2008-12-23T05:00:00.000Z",
+      "to": "2010-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "PHOTOMATICA, INC.",
+      "from": "2006-11-14T05:00:00.000Z",
+      "to": "2008-12-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 66,
+  "download_timestamp": "2025-08-02 07:11:44 UTC"
+}

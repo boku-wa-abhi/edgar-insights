@@ -1,0 +1,26 @@
+{
+  "cik": "0001331520",
+  "name": "HOME BANCSHARES INC",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "AR",
+  "stateOfIncorporationDescription": "AR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HOMB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "710682831",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "501-339-2929",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:40 UTC"
+}

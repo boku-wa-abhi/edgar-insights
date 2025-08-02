@@ -1,0 +1,37 @@
+{
+  "cik": "0000928340",
+  "name": "Consolidated Water Co. Ltd.",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "345-945-4277",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CONSOLIDATED WATER CO LTD",
+      "from": "2000-05-17T04:00:00.000Z",
+      "to": "2017-05-26T04:00:00.000Z"
+    },
+    {
+      "name": "CAYMAN WATER CO LTD",
+      "from": "1997-02-13T05:00:00.000Z",
+      "to": "1997-02-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 810,
+  "download_timestamp": "2025-08-02 07:03:52 UTC"
+}

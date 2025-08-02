@@ -1,0 +1,47 @@
+{
+  "cik": "0001279620",
+  "name": "Zoned Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6512",
+  "sicDescription": "Opeators of  Nonresidential Buildings",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZDPY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "465198242",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "877-360-8839",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Vanguard Minerals CORP",
+      "from": "2012-08-20T04:00:00.000Z",
+      "to": "2013-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "Vanguard Minerals Corp",
+      "from": "2012-08-20T04:00:00.000Z",
+      "to": "2013-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "Knewtrino, Inc.",
+      "from": "2006-07-24T04:00:00.000Z",
+      "to": "2007-08-24T04:00:00.000Z"
+    },
+    {
+      "name": "MONGOLIAN EXPLORATIONS LTD",
+      "from": "2004-02-13T05:00:00.000Z",
+      "to": "2006-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 07:09:33 UTC"
+}

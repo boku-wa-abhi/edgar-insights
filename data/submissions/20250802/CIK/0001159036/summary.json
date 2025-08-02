@@ -1,0 +1,37 @@
+{
+  "cik": "0001159036",
+  "name": "HALOZYME THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HALO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "880488686",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(858) 794-8889",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HALOZYME THERAPEUTICS INC",
+      "from": "2004-03-17T05:00:00.000Z",
+      "to": "2019-07-03T04:00:00.000Z"
+    },
+    {
+      "name": "GLOBAL YACHT SERVICES INC",
+      "from": "2001-09-21T04:00:00.000Z",
+      "to": "2004-03-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:12 UTC"
+}

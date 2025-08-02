@@ -1,0 +1,32 @@
+{
+  "cik": "0001529864",
+  "name": "Enova International, Inc.",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ENVA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "453190813",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "312-568-4200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Enova International, Inc.",
+      "from": "2011-09-15T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:16:08 UTC"
+}

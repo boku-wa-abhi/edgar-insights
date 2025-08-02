@@ -1,0 +1,32 @@
+{
+  "cik": "0001347858",
+  "name": "22nd Century Group, Inc.",
+  "entityType": "operating",
+  "sic": "2111",
+  "sicDescription": "Cigarettes",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XXII"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980468420",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(716) 270-1523",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Touchstone Mining LTD",
+      "from": "2005-12-27T05:00:00.000Z",
+      "to": "2010-11-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 840,
+  "download_timestamp": "2025-08-02 07:11:02 UTC"
+}

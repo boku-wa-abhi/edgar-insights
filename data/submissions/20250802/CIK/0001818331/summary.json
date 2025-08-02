@@ -1,0 +1,39 @@
+{
+  "cik": "0001818331",
+  "name": "GeneDx Holdings Corp.",
+  "entityType": "operating",
+  "sic": "8000",
+  "sicDescription": "Services-Health Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WGS",
+    "WGSWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "851966622",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "888-729-1206",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sema4 Holdings Corp.",
+      "from": "2021-06-02T04:00:00.000Z",
+      "to": "2023-01-05T05:00:00.000Z"
+    },
+    {
+      "name": "CM Life Sciences, Inc.",
+      "from": "2020-07-23T04:00:00.000Z",
+      "to": "2021-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 669,
+  "download_timestamp": "2025-08-02 07:25:15 UTC"
+}

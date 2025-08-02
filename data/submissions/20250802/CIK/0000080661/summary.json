@@ -1,0 +1,26 @@
+{
+  "cik": "0000080661",
+  "name": "PROGRESSIVE CORP/OH/",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PGR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340963169",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4404615000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1016,
+  "download_timestamp": "2025-08-02 06:57:49 UTC"
+}

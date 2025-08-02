@@ -1,0 +1,171 @@
+{
+  "cik": "0002018293",
+  "entityType": "other",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "RPM Interactive, Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "882940473",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "addresses": {
+    "mailing": {
+      "street1": "204 NEILSON STREET",
+      "street2": null,
+      "city": "NEW BRUNSWICK",
+      "stateOrCountry": "NJ",
+      "zipCode": "08901",
+      "stateOrCountryDescription": "NJ",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "204 NEILSON STREET",
+      "street2": null,
+      "city": "NEW BRUNSWICK",
+      "stateOrCountry": "NJ",
+      "zipCode": "08901",
+      "stateOrCountryDescription": "NJ",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(732) 374-3529",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Dragon Interact, Inc.",
+      "from": "2024-09-30T04:00:00.000Z",
+      "to": "2024-09-30T04:00:00.000Z"
+    },
+    {
+      "name": "Dragon Interactive Corp",
+      "from": "2024-06-06T04:00:00.000Z",
+      "to": "2024-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-054837",
+        "0001213900-25-034657",
+        "0001213900-25-010526",
+        "0001213900-24-082948",
+        "0001213900-24-050404"
+      ],
+      "filingDate": [
+        "2025-06-16",
+        "2025-04-23",
+        "2025-02-05",
+        "2024-09-30",
+        "2024-06-06"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-06-16T21:16:47.000Z",
+        "2025-04-23T20:34:04.000Z",
+        "2025-02-05T21:00:56.000Z",
+        "2024-09-30T12:00:10.000Z",
+        "2024-06-06T20:49:18.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "333-288092",
+        "377-07709",
+        "377-07709",
+        "021-525330",
+        "021-515371"
+      ],
+      "filmNumber": [
+        "251051106",
+        "25862067",
+        "25593128",
+        "241336704",
+        "241026155"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D",
+        "D"
+      ],
+      "size": [
+        5889387,
+        2112581,
+        2460583,
+        6860,
+        6562
+      ],
+      "isXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0243614-s1_rpminter.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001998560",
+  "name": "Mint Inc Ltd",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MIMI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "00852 28661663",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 33,
+  "download_timestamp": "2025-08-02 07:31:34 UTC"
+}

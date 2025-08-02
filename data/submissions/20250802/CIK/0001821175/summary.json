@@ -1,0 +1,32 @@
+{
+  "cik": "0001821175",
+  "name": "Motorsport Games Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSGM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831463958",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "305-507-8799",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MOTORSPORT GAMING US LLC",
+      "from": "2020-09-04T04:00:00.000Z",
+      "to": "2021-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 246,
+  "download_timestamp": "2025-08-02 07:25:28 UTC"
+}

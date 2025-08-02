@@ -1,0 +1,28 @@
+{
+  "cik": "0001998781",
+  "name": "IB Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "IBAC",
+    "IBACR"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "852946784",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "214-687-0020",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 40,
+  "download_timestamp": "2025-08-02 07:31:34 UTC"
+}

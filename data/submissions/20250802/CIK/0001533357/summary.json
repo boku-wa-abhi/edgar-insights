@@ -1,0 +1,32 @@
+{
+  "cik": "0001533357",
+  "name": "DEFENSE TECHNOLOGIES INTERNATIONAL CORP.",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "DTII"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-520-9485",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CANYON GOLD CORP.",
+      "from": "2011-11-10T05:00:00.000Z",
+      "to": "2016-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 188,
+  "download_timestamp": "2025-08-02 07:16:16 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000789019",
+  "name": "MICROSOFT CORP",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MSFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911144442",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "425-882-8080",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 07:00:14 UTC"
+}

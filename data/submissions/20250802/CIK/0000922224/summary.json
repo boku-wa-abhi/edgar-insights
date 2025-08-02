@@ -1,0 +1,32 @@
+{
+  "cik": "0000922224",
+  "name": "PPL Corp",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PPL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "232758192",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "610-774-5151",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PP&L RESOURCES INC",
+      "from": "1995-04-27T04:00:00.000Z",
+      "to": "2000-02-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:41 UTC"
+}

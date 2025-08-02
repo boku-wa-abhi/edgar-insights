@@ -1,0 +1,32 @@
+{
+  "cik": "0001473334",
+  "name": "Nova Lifestyle, Inc.",
+  "entityType": "operating",
+  "sic": "2510",
+  "sicDescription": "Household Furniture",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVFY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "270991837",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(323) 888-9999",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Stevens Resources, Inc.",
+      "from": "2009-11-10T05:00:00.000Z",
+      "to": "2011-05-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 411,
+  "download_timestamp": "2025-08-02 07:14:15 UTC"
+}

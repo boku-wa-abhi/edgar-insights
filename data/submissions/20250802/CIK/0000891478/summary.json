@@ -1,0 +1,44 @@
+{
+  "cik": "0000891478",
+  "name": "Banco Santander, S.A.",
+  "entityType": "other",
+  "sic": "6029",
+  "sicDescription": "Commercial Banks, NEC",
+  "stateOfIncorporation": "U3",
+  "stateOfIncorporationDescription": "Spain",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SAN",
+    "BCDRF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "132617929",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "34 91 289 32 80",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BANCO SANTANDER SA",
+      "from": "2007-09-25T04:00:00.000Z",
+      "to": "2007-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "BANCO SANTANDER CENTRAL HISPANO SA",
+      "from": "1999-12-14T05:00:00.000Z",
+      "to": "2007-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "BANCO SANTANDER S A",
+      "from": "1994-03-30T05:00:00.000Z",
+      "to": "1999-02-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:42 UTC"
+}

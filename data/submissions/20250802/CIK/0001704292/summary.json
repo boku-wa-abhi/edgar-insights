@@ -1,0 +1,32 @@
+{
+  "cik": "0001704292",
+  "name": "Zai Lab Ltd",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZLAB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "862161632588",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zai Lab Ltd",
+      "from": "2017-05-30T04:00:00.000Z",
+      "to": "2025-07-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 592,
+  "download_timestamp": "2025-08-02 07:21:16 UTC"
+}

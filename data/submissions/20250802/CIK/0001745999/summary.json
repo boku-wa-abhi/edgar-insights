@@ -1,0 +1,32 @@
+{
+  "cik": "0001745999",
+  "name": "Beam Therapeutics Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BEAM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "857-327-8775",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Beam Therapeutics Inc.",
+      "from": "2018-08-09T04:00:00.000Z",
+      "to": "2025-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 418,
+  "download_timestamp": "2025-08-02 07:22:41 UTC"
+}

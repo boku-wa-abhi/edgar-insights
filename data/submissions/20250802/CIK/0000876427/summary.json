@@ -1,0 +1,32 @@
+{
+  "cik": "0000876427",
+  "name": "MONRO, INC.",
+  "entityType": "operating",
+  "sic": "7500",
+  "sicDescription": "Services-Automotive Repair, Services & Parking",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "0328",
+  "tickers": [
+    "MNRO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "160838627",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-800-876-6676",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MONRO MUFFLER BRAKE INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2017-08-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:02 UTC"
+}

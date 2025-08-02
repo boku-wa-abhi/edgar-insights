@@ -1,0 +1,26 @@
+{
+  "cik": "0001597892",
+  "name": "JRSIS HEALTH CARE Corp",
+  "entityType": "operating",
+  "sic": "8060",
+  "sicDescription": "Services-Hospitals",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JRSS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "464562047",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "0760-88963658",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 163,
+  "download_timestamp": "2025-08-02 07:18:11 UTC"
+}

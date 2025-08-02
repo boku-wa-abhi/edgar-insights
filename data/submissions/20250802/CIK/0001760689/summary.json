@@ -1,0 +1,34 @@
+{
+  "cik": "0001760689",
+  "name": "Microvast Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MVST",
+    "MVSTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "832530757",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(281) 491-9595",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tuscan Holdings Corp.",
+      "from": "2018-12-07T05:00:00.000Z",
+      "to": "2021-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 347,
+  "download_timestamp": "2025-08-02 07:23:11 UTC"
+}

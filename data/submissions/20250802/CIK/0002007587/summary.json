@@ -1,0 +1,32 @@
+{
+  "cik": "0002007587",
+  "name": "American Integrity Insurance Group, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AII"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "332925846",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(813) 880-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "American Integrity Insurance Group, LLC",
+      "from": "2025-03-25T04:00:00.000Z",
+      "to": "2025-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:31:48 UTC"
+}

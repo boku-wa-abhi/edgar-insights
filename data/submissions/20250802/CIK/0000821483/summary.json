@@ -1,0 +1,37 @@
+{
+  "cik": "0000821483",
+  "name": "PAR PACIFIC HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PARR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "841060803",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(281) 899-4800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PAR PETROLEUM CORP/CO",
+      "from": "2012-09-07T04:00:00.000Z",
+      "to": "2015-10-14T04:00:00.000Z"
+    },
+    {
+      "name": "DELTA PETROLEUM CORP/CO",
+      "from": "1995-11-20T05:00:00.000Z",
+      "to": "2012-08-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:57 UTC"
+}

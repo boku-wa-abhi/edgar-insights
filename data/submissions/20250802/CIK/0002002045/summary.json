@@ -1,0 +1,28 @@
+{
+  "cik": "0002002045",
+  "name": "GCL Global Holdings Ltd",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GCL",
+    "GCLWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 80427330",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 73,
+  "download_timestamp": "2025-08-02 07:31:41 UTC"
+}

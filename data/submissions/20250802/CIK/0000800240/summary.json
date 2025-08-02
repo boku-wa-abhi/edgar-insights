@@ -1,0 +1,32 @@
+{
+  "cik": "0000800240",
+  "name": "ODP Corp",
+  "entityType": "operating",
+  "sic": "5940",
+  "sicDescription": "Retail-Miscellaneous Shopping Goods Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "ODP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "851457062",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "561-438-4800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OFFICE DEPOT INC",
+      "from": "1994-05-09T04:00:00.000Z",
+      "to": "2020-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:31 UTC"
+}

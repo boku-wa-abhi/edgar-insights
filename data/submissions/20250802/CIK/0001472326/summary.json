@@ -1,0 +1,26 @@
+{
+  "cik": "0001472326",
+  "name": "Brazil Potash Corp.",
+  "entityType": "other",
+  "sic": "1400",
+  "sicDescription": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "416-309-2963",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 85,
+  "download_timestamp": "2025-08-02 07:14:13 UTC"
+}

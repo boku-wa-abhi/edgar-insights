@@ -1,0 +1,47 @@
+{
+  "cik": "0001647088",
+  "name": "WillScot Holdings Corp",
+  "entityType": "operating",
+  "sic": "7350",
+  "sicDescription": "Services-Miscellaneous Equipment Rental & Leasing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-894-6311",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WillScot Mobile Mini Holdings Corp.",
+      "from": "2020-07-01T04:00:00.000Z",
+      "to": "2024-07-05T04:00:00.000Z"
+    },
+    {
+      "name": "WillScot Corp",
+      "from": "2017-10-04T04:00:00.000Z",
+      "to": "2020-07-01T04:00:00.000Z"
+    },
+    {
+      "name": "Double Eagle Acquisition Corp.",
+      "from": "2015-08-03T04:00:00.000Z",
+      "to": "2017-11-22T05:00:00.000Z"
+    },
+    {
+      "name": "Double Eagle Acquisitions Corp.",
+      "from": "2015-07-07T04:00:00.000Z",
+      "to": "2015-08-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 776,
+  "download_timestamp": "2025-08-02 07:19:39 UTC"
+}

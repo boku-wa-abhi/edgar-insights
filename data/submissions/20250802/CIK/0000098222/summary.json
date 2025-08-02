@@ -1,0 +1,30 @@
+{
+  "cik": "0000098222",
+  "name": "TIDEWATER INC",
+  "entityType": "operating",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TDW",
+    "TDDWW",
+    "TDGMW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "720487776",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(713) 470-5300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:58:09 UTC"
+}

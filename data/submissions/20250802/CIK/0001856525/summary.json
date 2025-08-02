@@ -1,0 +1,26 @@
+{
+  "cik": "0001856525",
+  "name": "Core & Main, Inc.",
+  "entityType": "operating",
+  "sic": "5099",
+  "sicDescription": "Wholesale-Durable Goods, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CNM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "863149194",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "314-432-4700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 394,
+  "download_timestamp": "2025-08-02 07:27:36 UTC"
+}

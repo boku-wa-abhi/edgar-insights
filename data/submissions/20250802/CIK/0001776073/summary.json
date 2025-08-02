@@ -1,0 +1,26 @@
+{
+  "cik": "0001776073",
+  "name": "CBD Life Sciences Inc.",
+  "entityType": "other",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CBDL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "205118532",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "480-410-6780",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 78,
+  "download_timestamp": "2025-08-02 07:23:37 UTC"
+}

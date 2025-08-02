@@ -1,0 +1,32 @@
+{
+  "cik": "0001538379",
+  "name": "Ibotta, Inc.",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IBTA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "352426358",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "303-593-1633",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zing Enterprises, Inc.",
+      "from": "2012-01-05T05:00:00.000Z",
+      "to": "2013-04-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 254,
+  "download_timestamp": "2025-08-02 07:16:26 UTC"
+}

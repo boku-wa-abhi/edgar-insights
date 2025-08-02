@@ -1,0 +1,37 @@
+{
+  "cik": "0001071899",
+  "name": "BLACKROCK MUNIHOLDINGS QUALITY FUND II, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MUE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223636347",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-441-7762",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLACKROCK MUNIHOLDINGS INSURED FUND II, INC.",
+      "from": "2008-06-20T04:00:00.000Z",
+      "to": "2010-11-09T05:00:00.000Z"
+    },
+    {
+      "name": "MUNIHOLDINGS INSURED FUND II INC",
+      "from": "1999-03-03T05:00:00.000Z",
+      "to": "2008-06-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 430,
+  "download_timestamp": "2025-08-02 07:06:19 UTC"
+}

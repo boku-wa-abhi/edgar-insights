@@ -1,0 +1,26 @@
+{
+  "cik": "0001839133",
+  "name": "IR-Med, Inc.",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IRME"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "844516398",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "6467684285",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 83,
+  "download_timestamp": "2025-08-02 07:26:29 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001993004",
+  "name": "NorthWestern Energy Group, Inc.",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NWE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "932020320",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "605-978-2900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 171,
+  "download_timestamp": "2025-08-02 07:31:20 UTC"
+}

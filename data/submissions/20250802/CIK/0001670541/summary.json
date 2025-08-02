@@ -1,0 +1,32 @@
+{
+  "cik": "0001670541",
+  "name": "Adient plc",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ADNT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-734-254-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Adient Ltd",
+      "from": "2016-04-26T04:00:00.000Z",
+      "to": "2016-11-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 652,
+  "download_timestamp": "2025-08-02 07:20:16 UTC"
+}

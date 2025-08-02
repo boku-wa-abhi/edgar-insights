@@ -1,0 +1,42 @@
+{
+  "cik": "0001683825",
+  "name": "trivago N.V.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TRVG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "4921154065110",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "travel B.V.",
+      "from": "2016-10-14T04:00:00.000Z",
+      "to": "2016-12-16T05:00:00.000Z"
+    },
+    {
+      "name": "Travel B.V.",
+      "from": "2016-10-14T04:00:00.000Z",
+      "to": "2016-12-16T05:00:00.000Z"
+    },
+    {
+      "name": "Turbo Travel Holding B.V.",
+      "from": "2016-09-08T04:00:00.000Z",
+      "to": "2016-09-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 268,
+  "download_timestamp": "2025-08-02 07:20:42 UTC"
+}

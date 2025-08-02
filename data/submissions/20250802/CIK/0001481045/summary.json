@@ -1,0 +1,28 @@
+{
+  "cik": "0001481045",
+  "name": "Daiwa Securities Group Inc.",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "DSEEY",
+    "DSECF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "81-3-5555-1300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 82,
+  "download_timestamp": "2025-08-02 07:14:29 UTC"
+}

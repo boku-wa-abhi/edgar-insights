@@ -1,0 +1,26 @@
+{
+  "cik": "0001666291",
+  "name": "Claros Mortgage Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CMTG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "474074900",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-484-0050",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:20:11 UTC"
+}

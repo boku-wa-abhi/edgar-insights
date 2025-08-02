@@ -1,0 +1,32 @@
+{
+  "cik": "0001743881",
+  "name": "BridgeBio Pharma, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(650) 391-9740",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BridgeBio Pharma LLC",
+      "from": "2018-06-19T04:00:00.000Z",
+      "to": "2019-05-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 664,
+  "download_timestamp": "2025-08-02 07:22:37 UTC"
+}

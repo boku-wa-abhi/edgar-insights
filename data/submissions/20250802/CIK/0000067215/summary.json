@@ -1,0 +1,26 @@
+{
+  "cik": "0000067215",
+  "name": "DYCOM INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "1623",
+  "sicDescription": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "DY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "591277135",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "561-627-7171",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:57:30 UTC"
+}

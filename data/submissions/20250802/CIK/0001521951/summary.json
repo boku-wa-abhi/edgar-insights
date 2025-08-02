@@ -1,0 +1,26 @@
+{
+  "cik": "0001521951",
+  "name": "FIRST BUSINESS FINANCIAL SERVICES, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FBIZ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "391576570",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "608-238-8008",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:15:53 UTC"
+}

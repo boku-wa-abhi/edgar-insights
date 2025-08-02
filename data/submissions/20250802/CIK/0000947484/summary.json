@@ -1,0 +1,41 @@
+{
+  "cik": "0000947484",
+  "name": "ARCH CAPITAL GROUP LTD.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACGL",
+    "ACGLO",
+    "ACGLN"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "980374481",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441-278-9250",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ARCH CAPITAL GROUP LTD",
+      "from": "2000-05-15T04:00:00.000Z",
+      "to": "2005-03-10T05:00:00.000Z"
+    },
+    {
+      "name": "RISK CAPITAL HOLDINGS INC",
+      "from": "1996-11-07T05:00:00.000Z",
+      "to": "2000-03-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:14 UTC"
+}

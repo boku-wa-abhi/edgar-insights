@@ -1,0 +1,51 @@
+{
+  "cik": "0001355096",
+  "name": "QVC Group, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QVCGA",
+    "QVCGB",
+    "QVCGP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq"
+  ],
+  "ein": "841288730",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4847011000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Qurate Retail, Inc.",
+      "from": "2018-04-09T04:00:00.000Z",
+      "to": "2025-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "Liberty Interactive Corp",
+      "from": "2011-09-23T04:00:00.000Z",
+      "to": "2018-03-16T04:00:00.000Z"
+    },
+    {
+      "name": "LIBERTY MEDIA CORP",
+      "from": "2006-03-24T05:00:00.000Z",
+      "to": "2011-09-21T04:00:00.000Z"
+    },
+    {
+      "name": "Liberty Media Holding CORP",
+      "from": "2006-03-15T05:00:00.000Z",
+      "to": "2006-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:08 UTC"
+}

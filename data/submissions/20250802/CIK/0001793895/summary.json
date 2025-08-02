@@ -1,0 +1,32 @@
+{
+  "cik": "0001793895",
+  "name": "CDT Environmental Technology Investment Holdings Ltd",
+  "entityType": "other",
+  "sic": "4950",
+  "sicDescription": "Sanitary Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDTG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-0755-86667922",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CDT Enviromental Technology Investment Holdings Ltd",
+      "from": "2019-11-15T05:00:00.000Z",
+      "to": "2019-11-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 66,
+  "download_timestamp": "2025-08-02 07:24:18 UTC"
+}

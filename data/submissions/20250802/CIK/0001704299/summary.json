@@ -1,0 +1,42 @@
+{
+  "cik": "0001704299",
+  "name": "TORTOISE SUSTAINABLE & SOCIAL IMPACT TERM FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "TEAF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "913-981-1020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ECOFIN SUSTAINABLE & SOCIAL IMPACT TERM FUND",
+      "from": "2021-07-09T04:00:00.000Z",
+      "to": "2024-09-11T04:00:00.000Z"
+    },
+    {
+      "name": "TORTOISE ESSENTIAL ASSETS INCOME TERM FUND",
+      "from": "2017-05-24T04:00:00.000Z",
+      "to": "2021-05-25T04:00:00.000Z"
+    },
+    {
+      "name": "TORTOISE ESSENTIAL ASSETS INCOME 2024 TERM FUND, INC.",
+      "from": "2017-04-24T04:00:00.000Z",
+      "to": "2018-03-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 219,
+  "download_timestamp": "2025-08-02 07:21:17 UTC"
+}

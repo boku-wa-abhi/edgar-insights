@@ -1,0 +1,28 @@
+{
+  "cik": "0001716410",
+  "name": "Global Atomic Corp",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-203-8336",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Silvermet Inc.",
+      "from": "2017-09-15T04:00:00.000Z",
+      "to": "2017-09-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 8,
+  "download_timestamp": "2025-08-02 07:21:43 UTC"
+}

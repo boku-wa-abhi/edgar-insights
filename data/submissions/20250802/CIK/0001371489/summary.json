@@ -1,0 +1,32 @@
+{
+  "cik": "0001371489",
+  "name": "Information Services Group Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "III"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205261587",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "203-517-3100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Information Services Group Inc.",
+      "from": "2006-08-11T04:00:00.000Z",
+      "to": "2025-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 859,
+  "download_timestamp": "2025-08-02 07:11:31 UTC"
+}

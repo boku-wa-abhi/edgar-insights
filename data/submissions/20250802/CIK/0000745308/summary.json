@@ -1,0 +1,37 @@
+{
+  "cik": "0000745308",
+  "name": "ST JOE Co",
+  "entityType": "operating",
+  "sic": "6552",
+  "sicDescription": "Land Subdividers & Developers (No Cemeteries)",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JOE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "590432511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "850-231-6400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ST JOE CORP",
+      "from": "1998-05-15T04:00:00.000Z",
+      "to": "1998-08-13T04:00:00.000Z"
+    },
+    {
+      "name": "ST JOE PAPER CO",
+      "from": "1994-04-05T04:00:00.000Z",
+      "to": "1998-04-24T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:59:44 UTC"
+}

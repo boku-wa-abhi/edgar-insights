@@ -1,0 +1,26 @@
+{
+  "cik": "0001755237",
+  "name": "Cyclerion Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CYCN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831895370",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "617-621-7722",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 327,
+  "download_timestamp": "2025-08-02 07:22:58 UTC"
+}

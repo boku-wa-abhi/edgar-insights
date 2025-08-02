@@ -1,0 +1,32 @@
+{
+  "cik": "0000836564",
+  "name": "Mosaic ImmunoEngineering Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPMV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841070278",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "657-208-0890",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PATRIOT SCIENTIFIC CORP",
+      "from": "1995-12-11T05:00:00.000Z",
+      "to": "2020-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 544,
+  "download_timestamp": "2025-08-02 07:01:16 UTC"
+}

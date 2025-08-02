@@ -1,0 +1,26 @@
+{
+  "cik": "0000794619",
+  "name": "AMERICAN WOODMARK CORP",
+  "entityType": "operating",
+  "sic": "2430",
+  "sicDescription": "Millwood, Veneer, Plywood, & Structural Wood Members",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "AMWD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541138147",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(540) 665-9100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:22 UTC"
+}

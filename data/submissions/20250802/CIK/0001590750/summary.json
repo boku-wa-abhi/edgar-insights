@@ -1,0 +1,42 @@
+{
+  "cik": "0001590750",
+  "name": "Viridian Therapeutics, Inc.\\DE",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRDN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471187261",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617.272.4600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MIRAGEN THERAPEUTICS, INC.",
+      "from": "2017-02-13T05:00:00.000Z",
+      "to": "2021-01-15T05:00:00.000Z"
+    },
+    {
+      "name": "SIGNAL GENETICS, INC.",
+      "from": "2013-12-06T05:00:00.000Z",
+      "to": "2017-02-10T05:00:00.000Z"
+    },
+    {
+      "name": "SIGNAL GENETICS LLC",
+      "from": "2013-11-12T05:00:00.000Z",
+      "to": "2014-07-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 736,
+  "download_timestamp": "2025-08-02 07:17:58 UTC"
+}

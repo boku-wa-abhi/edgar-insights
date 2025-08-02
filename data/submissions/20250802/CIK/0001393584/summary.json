@@ -1,0 +1,26 @@
+{
+  "cik": "0001393584",
+  "name": "American Well Corp",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMWL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "617-205-3500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 697,
+  "download_timestamp": "2025-08-02 07:12:08 UTC"
+}

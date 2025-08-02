@@ -1,0 +1,26 @@
+{
+  "cik": "0001900720",
+  "name": "EPWK Holdings Ltd.",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "EPWK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "86 400-1286688",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:29:09 UTC"
+}

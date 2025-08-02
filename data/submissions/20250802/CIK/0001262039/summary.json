@@ -1,0 +1,32 @@
+{
+  "cik": "0001262039",
+  "name": "Fortinet, Inc.",
+  "entityType": "operating",
+  "sic": "3577",
+  "sicDescription": "Computer Peripheral Equipment, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTNT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770560389",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-235-7700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FORTINET INC",
+      "from": "2003-08-29T04:00:00.000Z",
+      "to": "2019-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:17 UTC"
+}

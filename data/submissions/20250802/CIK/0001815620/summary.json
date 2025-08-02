@@ -1,0 +1,28 @@
+{
+  "cik": "0001815620",
+  "name": "Opthea Ltd",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "OPT",
+    "CKDXF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "61 3 9826 0399",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 187,
+  "download_timestamp": "2025-08-02 07:25:05 UTC"
+}

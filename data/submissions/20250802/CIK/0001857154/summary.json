@@ -1,0 +1,32 @@
+{
+  "cik": "0001857154",
+  "name": "Krispy Kreme, Inc.",
+  "entityType": "operating",
+  "sic": "5400",
+  "sicDescription": "Retail-Food Stores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "DNUT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(800) 457-4779",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Krispy Kreme Holdco Inc.",
+      "from": "2021-04-23T04:00:00.000Z",
+      "to": "2021-04-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 379,
+  "download_timestamp": "2025-08-02 07:27:37 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001505880",
+  "name": "Pandora A/S / ADR",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PNDRY",
+    "PNDZF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212 238-3010",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:15:19 UTC"
+}

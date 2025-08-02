@@ -1,0 +1,32 @@
+{
+  "cik": "0001110803",
+  "name": "ILLUMINA, INC.",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "ILMN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330804655",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8582024500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ILLUMINA INC",
+      "from": "2000-04-14T04:00:00.000Z",
+      "to": "2019-08-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:15 UTC"
+}

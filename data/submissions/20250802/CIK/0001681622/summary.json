@@ -1,0 +1,26 @@
+{
+  "cik": "0001681622",
+  "name": "Varex Imaging Corp",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1003",
+  "tickers": [
+    "VREX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813434516",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "801-972-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 465,
+  "download_timestamp": "2025-08-02 07:20:37 UTC"
+}

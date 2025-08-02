@@ -1,0 +1,26 @@
+{
+  "cik": "0001772921",
+  "name": "OneWater Marine Inc.",
+  "entityType": "operating",
+  "sic": "5531",
+  "sicDescription": "Retail-Auto & Home Supply Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ONEW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(855) 208-4359",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 474,
+  "download_timestamp": "2025-08-02 07:23:33 UTC"
+}

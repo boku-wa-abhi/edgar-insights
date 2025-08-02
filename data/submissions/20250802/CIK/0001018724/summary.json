@@ -1,0 +1,26 @@
+{
+  "cik": "0001018724",
+  "name": "AMAZON COM INC",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMZN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911646860",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2062661000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:48 UTC"
+}

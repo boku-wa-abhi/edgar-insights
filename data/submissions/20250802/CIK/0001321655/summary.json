@@ -1,0 +1,32 @@
+{
+  "cik": "0001321655",
+  "name": "Palantir Technologies Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PLTR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "680551851",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "720-358-3679",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Palantir Technologies Inc",
+      "from": "2005-03-22T05:00:00.000Z",
+      "to": "2011-09-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 851,
+  "download_timestamp": "2025-08-02 07:10:25 UTC"
+}

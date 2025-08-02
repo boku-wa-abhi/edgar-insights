@@ -1,0 +1,26 @@
+{
+  "cik": "0001582313",
+  "name": "Xenon Pharmaceuticals Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XENE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980661854",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(604) 484-3300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 701,
+  "download_timestamp": "2025-08-02 07:17:44 UTC"
+}

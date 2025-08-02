@@ -1,0 +1,32 @@
+{
+  "cik": "0001941131",
+  "name": "TORO CORP.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TORO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "0035725357768",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TANKCO SHIPPING INC.",
+      "from": "2022-08-12T04:00:00.000Z",
+      "to": "2022-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 80,
+  "download_timestamp": "2025-08-02 07:29:57 UTC"
+}

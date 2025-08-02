@@ -1,0 +1,42 @@
+{
+  "cik": "0001556801",
+  "name": "My City Builders, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "MYCB"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "273816969",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "786-553-4006",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "iMine Corp",
+      "from": "2018-03-22T04:00:00.000Z",
+      "to": "2022-12-05T05:00:00.000Z"
+    },
+    {
+      "name": "DIAMANTE MINERALS, INC.",
+      "from": "2014-06-16T04:00:00.000Z",
+      "to": "2018-03-02T05:00:00.000Z"
+    },
+    {
+      "name": "OCONN INDUSTRIES CORP",
+      "from": "2012-11-08T05:00:00.000Z",
+      "to": "2014-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 178,
+  "download_timestamp": "2025-08-02 07:16:54 UTC"
+}

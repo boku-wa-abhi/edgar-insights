@@ -1,0 +1,42 @@
+{
+  "cik": "0001672886",
+  "name": "Zhong Yuan Bio-Technology Holdings Ltd",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ZHYBF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "812310905",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "011 852 2919-8916",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CHINA BIOTECH HOLDINGS Ltd (del)",
+      "from": "2017-03-27T04:00:00.000Z",
+      "to": "2018-10-25T04:00:00.000Z"
+    },
+    {
+      "name": "CHINA BIOTECH Co CORP",
+      "from": "2017-03-16T04:00:00.000Z",
+      "to": "2017-03-16T04:00:00.000Z"
+    },
+    {
+      "name": "Agate Island Acquisition Corp",
+      "from": "2016-05-02T04:00:00.000Z",
+      "to": "2017-03-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 118,
+  "download_timestamp": "2025-08-02 07:20:20 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0000844887",
+  "name": "DIAMONDHEAD CASINO CORP",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DHCC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "592935476",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "703-683-6800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIAMONHEAD CASINO CORP",
+      "from": "2003-03-27T05:00:00.000Z",
+      "to": "2003-03-27T05:00:00.000Z"
+    },
+    {
+      "name": "EUROPA CRUISES CORP",
+      "from": "1995-08-14T04:00:00.000Z",
+      "to": "2002-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 425,
+  "download_timestamp": "2025-08-02 07:01:23 UTC"
+}

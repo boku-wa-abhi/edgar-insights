@@ -1,0 +1,52 @@
+{
+  "cik": "0000860489",
+  "name": "CENTRAL & EASTERN EUROPE FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "CEE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133556099",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-454-4500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CENTRAL EUROPE, RUSSIA & TURKEY FUND, INC.",
+      "from": "2013-05-20T04:00:00.000Z",
+      "to": "2017-06-30T04:00:00.000Z"
+    },
+    {
+      "name": "CENTRAL EUROPE & RUSSIA FUND, INC.",
+      "from": "2007-01-08T05:00:00.000Z",
+      "to": "2013-03-22T04:00:00.000Z"
+    },
+    {
+      "name": "CENTRAL EUROPE & RUSSIA FUND INC",
+      "from": "2003-08-08T04:00:00.000Z",
+      "to": "2007-01-05T05:00:00.000Z"
+    },
+    {
+      "name": "CENTRAL EUROPEAN EQUITY FUND INC /MD/",
+      "from": "1997-06-30T04:00:00.000Z",
+      "to": "2003-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "FUTURE GERMANY FUND INC",
+      "from": "1994-12-23T05:00:00.000Z",
+      "to": "1997-02-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 845,
+  "download_timestamp": "2025-08-02 07:01:41 UTC"
+}

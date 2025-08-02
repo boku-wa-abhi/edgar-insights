@@ -1,0 +1,26 @@
+{
+  "cik": "0001831828",
+  "name": "Vera Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VERA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812744449",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-770-0077",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 371,
+  "download_timestamp": "2025-08-02 07:26:04 UTC"
+}

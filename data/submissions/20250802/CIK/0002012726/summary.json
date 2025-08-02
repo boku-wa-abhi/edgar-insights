@@ -1,0 +1,26 @@
+{
+  "cik": "0002012726",
+  "name": "Fifth District Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FDSB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "514-362-7544",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:31:57 UTC"
+}

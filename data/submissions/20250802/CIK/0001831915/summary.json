@@ -1,0 +1,26 @@
+{
+  "cik": "0001831915",
+  "name": "Cytek Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CTKB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472547526",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(877) 922-9835",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 382,
+  "download_timestamp": "2025-08-02 07:26:04 UTC"
+}

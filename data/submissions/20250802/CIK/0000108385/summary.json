@@ -1,0 +1,26 @@
+{
+  "cik": "0000108385",
+  "name": "WORLD ACCEPTANCE CORP",
+  "entityType": "operating",
+  "sic": "6141",
+  "sicDescription": "Personal Credit Institutions",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "WRLD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "570425114",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "8642989800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:25 UTC"
+}

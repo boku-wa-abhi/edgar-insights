@@ -1,0 +1,32 @@
+{
+  "cik": "0001020710",
+  "name": "DXP ENTERPRISES INC",
+  "entityType": "operating",
+  "sic": "5084",
+  "sicDescription": "Wholesale-Industrial Machinery & Equipment",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DXPE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "760509661",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "7139964700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INDEX INC",
+      "from": "1996-08-13T04:00:00.000Z",
+      "to": "1997-04-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:04:51 UTC"
+}

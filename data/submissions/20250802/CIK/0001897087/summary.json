@@ -1,0 +1,32 @@
+{
+  "cik": "0001897087",
+  "name": "Super X AI Technology Ltd",
+  "entityType": "other",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SUPX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 6022 1124",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Junee Ltd",
+      "from": "2021-12-15T05:00:00.000Z",
+      "to": "2025-06-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 89,
+  "download_timestamp": "2025-08-02 07:29:03 UTC"
+}

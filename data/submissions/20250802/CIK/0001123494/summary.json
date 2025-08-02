@@ -1,0 +1,26 @@
+{
+  "cik": "0001123494",
+  "name": "HARVARD BIOSCIENCE INC",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBIO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043306140",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "5088938999",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:31 UTC"
+}

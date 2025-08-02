@@ -1,0 +1,26 @@
+{
+  "cik": "0001477641",
+  "name": "DAQO NEW ENERGY CORP.",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DQ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(86-23) 6486-6666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 338,
+  "download_timestamp": "2025-08-02 07:14:23 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000768835",
+  "name": "BIG LOTS INC",
+  "entityType": "operating",
+  "sic": "5331",
+  "sicDescription": "Retail-Variety Stores",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "BIGGQ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "061119097",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "614-278-6800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CONSOLIDATED STORES CORP /DE/",
+      "from": "1994-12-06T05:00:00.000Z",
+      "to": "2001-03-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:01 UTC"
+}

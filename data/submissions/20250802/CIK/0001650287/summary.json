@@ -1,0 +1,26 @@
+{
+  "cik": "0001650287",
+  "name": "QYOU Media Inc.",
+  "entityType": "other",
+  "sic": "7829",
+  "sicDescription": "Services-Allied To Motion Picture Distribution",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "QYOUF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "647-559-2700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 27,
+  "download_timestamp": "2025-08-02 07:19:46 UTC"
+}

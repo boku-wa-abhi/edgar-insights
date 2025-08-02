@@ -1,0 +1,26 @@
+{
+  "cik": "0001546417",
+  "name": "Bloomin' Brands, Inc.",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "BLMN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208023465",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "813-282-1225",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:16:38 UTC"
+}

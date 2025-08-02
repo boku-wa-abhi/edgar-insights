@@ -1,0 +1,26 @@
+{
+  "cik": "0002046042",
+  "name": "Jefferson Capital, Inc. / DE",
+  "entityType": "other",
+  "sic": "6153",
+  "sicDescription": "Short-Term Business Credit Institutions",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JCAP"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "331923926",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(320) 229-8505",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 26,
+  "download_timestamp": "2025-08-02 07:33:09 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001701605",
+  "name": "Baker Hughes Co",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BKR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "814403168",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "713-439-8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Baker Hughes a GE Co",
+      "from": "2017-04-26T04:00:00.000Z",
+      "to": "2019-10-10T04:00:00.000Z"
+    },
+    {
+      "name": "Bear Newco, Inc.",
+      "from": "2017-03-29T04:00:00.000Z",
+      "to": "2017-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 840,
+  "download_timestamp": "2025-08-02 07:21:11 UTC"
+}

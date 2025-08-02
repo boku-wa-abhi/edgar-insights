@@ -1,0 +1,26 @@
+{
+  "cik": "0000924717",
+  "name": "SURMODICS INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "SRDX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411356149",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "9525007000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:46 UTC"
+}

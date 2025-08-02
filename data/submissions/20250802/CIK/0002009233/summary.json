@@ -1,0 +1,26 @@
+{
+  "cik": "0002009233",
+  "name": "Agroz Inc.",
+  "entityType": "other",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AGRZ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "60182182300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:31:51 UTC"
+}

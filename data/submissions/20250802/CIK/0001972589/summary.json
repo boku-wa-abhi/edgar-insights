@@ -1,0 +1,26 @@
+{
+  "cik": "0001972589",
+  "name": "TDG Gold Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "TDGGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 536-2711",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:30:48 UTC"
+}

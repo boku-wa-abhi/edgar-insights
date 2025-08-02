@@ -1,0 +1,30 @@
+{
+  "cik": "0002054174",
+  "name": "Crane Harbor Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHAC",
+    "CHACR",
+    "CHACU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "6468499975",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:33:22 UTC"
+}

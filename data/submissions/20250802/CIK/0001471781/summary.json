@@ -1,0 +1,37 @@
+{
+  "cik": "0001471781",
+  "name": "GBT Technologies Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTCH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "270603137",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "424-238-4589",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gopher Protocol Inc.",
+      "from": "2009-10-08T04:00:00.000Z",
+      "to": "2019-08-05T04:00:00.000Z"
+    },
+    {
+      "name": "Forex International Trading Corp.",
+      "from": "2009-09-09T04:00:00.000Z",
+      "to": "2015-02-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 442,
+  "download_timestamp": "2025-08-02 07:14:11 UTC"
+}

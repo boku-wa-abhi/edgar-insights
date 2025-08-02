@@ -1,0 +1,26 @@
+{
+  "cik": "0001605607",
+  "name": "Paramount Group, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PGRE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "320439307",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-237-3100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 510,
+  "download_timestamp": "2025-08-02 07:18:27 UTC"
+}

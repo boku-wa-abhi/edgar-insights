@@ -1,0 +1,32 @@
+{
+  "cik": "0001253327",
+  "name": "Eaton Vance Tax-Advantaged Dividend Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "EVT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-482-8260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON VANCE TAX ADVANTAGED DIVIDEND INCOME FUND",
+      "from": "2003-07-15T04:00:00.000Z",
+      "to": "2024-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 459,
+  "download_timestamp": "2025-08-02 07:09:10 UTC"
+}

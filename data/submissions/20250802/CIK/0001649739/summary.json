@@ -1,0 +1,26 @@
+{
+  "cik": "0001649739",
+  "name": "BayFirst Financial Corp.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BAFN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "593665079",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "727-399-5600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 685,
+  "download_timestamp": "2025-08-02 07:19:43 UTC"
+}

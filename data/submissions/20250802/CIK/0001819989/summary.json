@@ -1,0 +1,34 @@
+{
+  "cik": "0001819989",
+  "name": "Cipher Mining Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIFR",
+    "CIFRW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "851614529",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "332-262-2300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOOD WORKS ACQUISITION CORP.",
+      "from": "2020-08-25T04:00:00.000Z",
+      "to": "2021-08-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 438,
+  "download_timestamp": "2025-08-02 07:25:25 UTC"
+}

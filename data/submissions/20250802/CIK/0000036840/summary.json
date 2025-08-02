@@ -1,0 +1,32 @@
+{
+  "cik": "0000036840",
+  "name": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "FREVS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "221697095",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2014886400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY",
+      "from": "1995-03-20T05:00:00.000Z",
+      "to": "2025-04-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 622,
+  "download_timestamp": "2025-08-02 06:56:52 UTC"
+}

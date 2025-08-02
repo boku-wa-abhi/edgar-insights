@@ -1,0 +1,32 @@
+{
+  "cik": "0001478320",
+  "name": "Adaptive Biotechnologies Corp",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADPT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "270907024",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "206-659-0067",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Adaptive TCR Corp",
+      "from": "2009-12-28T05:00:00.000Z",
+      "to": "2011-06-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 642,
+  "download_timestamp": "2025-08-02 07:14:26 UTC"
+}

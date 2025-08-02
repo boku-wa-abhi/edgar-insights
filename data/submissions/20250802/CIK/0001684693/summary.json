@@ -1,0 +1,26 @@
+{
+  "cik": "0001684693",
+  "name": "Sol-Gel Technologies Ltd.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLGL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "97289313433",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 260,
+  "download_timestamp": "2025-08-02 07:20:43 UTC"
+}

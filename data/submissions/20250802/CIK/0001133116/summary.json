@@ -1,0 +1,42 @@
+{
+  "cik": "0001133116",
+  "name": "AC Partners, Inc.",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACPS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "731602395",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "561-951-2336",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "iGlue, Inc.",
+      "from": "2004-12-10T00:00:00.000Z",
+      "to": "2016-07-06T00:00:00.000Z"
+    },
+    {
+      "name": "HARDWIRED INTERACTIVE, INC.",
+      "from": "2009-05-15T00:00:00.000Z",
+      "to": "2011-12-20T00:00:00.000Z"
+    },
+    {
+      "name": "KINGTHOMASON GROUP INC",
+      "from": "2001-05-14T00:00:00.000Z",
+      "to": "2008-11-17T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 165,
+  "download_timestamp": "2025-08-02 07:07:46 UTC"
+}

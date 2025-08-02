@@ -1,0 +1,47 @@
+{
+  "cik": "0001318220",
+  "name": "Waste Connections, Inc.",
+  "entityType": "operating",
+  "sic": "4953",
+  "sicDescription": "Refuse Systems",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WCN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(905) 532-7510",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Progressive Waste Solutions Ltd.",
+      "from": "2011-05-04T04:00:00.000Z",
+      "to": "2016-05-31T04:00:00.000Z"
+    },
+    {
+      "name": "IESI-BFC Ltd",
+      "from": "2009-05-27T04:00:00.000Z",
+      "to": "2011-05-03T04:00:00.000Z"
+    },
+    {
+      "name": "BFI Canada Ltd",
+      "from": "2008-10-17T04:00:00.000Z",
+      "to": "2009-05-14T04:00:00.000Z"
+    },
+    {
+      "name": "BFI Canada Income Fund",
+      "from": "2005-02-14T05:00:00.000Z",
+      "to": "2005-02-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:10:21 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000056679",
+  "name": "KORN FERRY",
+  "entityType": "operating",
+  "sic": "7361",
+  "sicDescription": "Services-Employment Agencies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "KFY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "952623879",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3105521834",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KORN FERRY INTERNATIONAL",
+      "from": "1998-12-24T05:00:00.000Z",
+      "to": "2018-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 06:57:15 UTC"
+}

@@ -1,0 +1,241 @@
+{
+  "cik": "0001546354",
+  "entityType": "other",
+  "sic": "8880",
+  "sicDescription": "American Depositary Receipts",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Dufry AG/ADR",
+  "tickers": [
+    "DUFRY",
+    "DFRYF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "120 BROADWAY",
+      "street2": "32ND FLOOR",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10271",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-23-120202",
+        "0001019155-23-000223",
+        "0001193805-23-001503",
+        "0001193805-23-001502",
+        "0001104659-22-092065",
+        "0001193805-20-001622",
+        "0001193805-17-001311",
+        "0001193805-14-002045",
+        "0001571049-14-005321",
+        "0001019155-12-000219"
+      ],
+      "filingDate": [
+        "2023-11-21",
+        "2023-11-20",
+        "2023-11-16",
+        "2023-11-16",
+        "2022-08-17",
+        "2020-12-28",
+        "2017-07-21",
+        "2014-11-04",
+        "2014-10-22",
+        "2012-04-04"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-11-21T16:18:02.000Z",
+        "2023-11-20T14:34:52.000Z",
+        "2023-11-16T17:06:07.000Z",
+        "2023-11-16T16:31:14.000Z",
+        "2022-08-17T15:02:08.000Z",
+        "2020-12-28T15:28:01.000Z",
+        "2017-07-21T16:00:23.000Z",
+        "2014-11-04T14:37:45.000Z",
+        "2014-10-22T19:39:52.000Z",
+        "2012-04-04T20:04:05.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-219390",
+        "333-180559",
+        "333-251757",
+        "333-199829",
+        "333-266937",
+        "333-251757",
+        "333-219390",
+        "333-199829",
+        "333-199529",
+        "333-180559"
+      ],
+      "filmNumber": [
+        "231425245",
+        "231420978",
+        "231413330",
+        "231413168",
+        "221172548",
+        "201415284",
+        "17975995",
+        "141191660",
+        "141167684",
+        "12741867"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6 POS",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF",
+        "F-6EF"
+      ],
+      "size": [
+        120306,
+        94691,
+        131231,
+        104257,
+        142887,
+        129515,
+        128999,
+        308491,
+        125594,
+        79427
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2331251d2_f6pos.htm",
+        "dufryf6pos.htm",
+        "e619064_f6pos-avolta.htm",
+        "e619063_f6pos-avolta.htm",
+        "tm2223646d2_f6ef.htm",
+        "e620149_f6ef-dufry.htm",
+        "e616395_f6ef-dufry.htm",
+        "e612814_f6ef-dufry.htm",
+        "t1401998x11_f-6ef.htm",
+        "duff6.htm"
+      ],
+      "primaryDocDescription": [
+        "F-6 POS",
+        "F-6 POS",
+        "",
+        "",
+        "F-6EF",
+        "",
+        "",
+        "",
+        "FORM F-6EF",
+        "FORM F-6"
+      ]
+    },
+    "files": []
+  }
+}

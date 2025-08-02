@@ -1,0 +1,32 @@
+{
+  "cik": "0001834975",
+  "name": "VICINITY MOTOR CORP",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VEVMQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "(604) 607-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Grande West Transportation Group Inc.",
+      "from": "2020-12-07T00:00:00.000Z",
+      "to": "2020-12-07T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 99,
+  "download_timestamp": "2025-08-02 07:26:16 UTC"
+}

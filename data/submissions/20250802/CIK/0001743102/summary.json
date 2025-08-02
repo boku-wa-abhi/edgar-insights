@@ -1,0 +1,26 @@
+{
+  "cik": "0001743102",
+  "name": "Jiayin Group Inc.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JFIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86 2160828732",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 163,
+  "download_timestamp": "2025-08-02 07:22:34 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001781162",
+  "name": "Momentus Inc.",
+  "entityType": "operating",
+  "sic": "3760",
+  "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MNTS",
+    "MNTSW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "841905538",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6505647820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Stable Road Acquisition Corp.",
+      "from": "2019-08-09T04:00:00.000Z",
+      "to": "2021-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 583,
+  "download_timestamp": "2025-08-02 07:23:46 UTC"
+}

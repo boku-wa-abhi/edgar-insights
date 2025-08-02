@@ -1,0 +1,26 @@
+{
+  "cik": "0001738906",
+  "name": "111, Inc.",
+  "entityType": "other",
+  "sic": "5912",
+  "sicDescription": "Retail-Drug Stores and Proprietary Stores",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "862120536666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:22:29 UTC"
+}

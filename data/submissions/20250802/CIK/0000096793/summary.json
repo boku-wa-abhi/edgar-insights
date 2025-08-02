@@ -1,0 +1,32 @@
+{
+  "cik": "0000096793",
+  "name": "SUNLINK HEALTH SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "8062",
+  "sicDescription": "Services-General Medical & Surgical Hospitals, NEC",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SSY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "310621189",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7709337000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KRUG INTERNATIONAL CORP",
+      "from": "1994-02-15T05:00:00.000Z",
+      "to": "2001-04-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 744,
+  "download_timestamp": "2025-08-02 06:58:07 UTC"
+}

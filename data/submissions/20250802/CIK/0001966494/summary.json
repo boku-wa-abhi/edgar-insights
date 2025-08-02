@@ -1,0 +1,26 @@
+{
+  "cik": "0001966494",
+  "name": "CARGO Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRGX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "844080422",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-499-8950",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 154,
+  "download_timestamp": "2025-08-02 07:30:36 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001830081",
+  "name": "Rumble Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RUM",
+    "RUMBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "851087461",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "212-938-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CF Acquisition Corp. VI",
+      "from": "2020-11-04T05:00:00.000Z",
+      "to": "2022-09-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 396,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

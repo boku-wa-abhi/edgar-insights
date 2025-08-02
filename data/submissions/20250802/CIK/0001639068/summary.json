@@ -1,0 +1,26 @@
+{
+  "cik": "0001639068",
+  "name": "Hubilu Venture Corp",
+  "entityType": "operating",
+  "sic": "6510",
+  "sicDescription": "Real Estate Operators (No Developers) & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBUV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "473342387",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(310) 308-7887",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 108,
+  "download_timestamp": "2025-08-02 07:19:25 UTC"
+}

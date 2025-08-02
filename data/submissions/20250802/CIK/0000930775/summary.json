@@ -1,0 +1,32 @@
+{
+  "cik": "0000930775",
+  "name": "ENCISION INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ECIA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841162056",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "303-444-2600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ELECTROSCOPE INC",
+      "from": "1996-10-31T05:00:00.000Z",
+      "to": "2000-08-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 715,
+  "download_timestamp": "2025-08-02 07:03:55 UTC"
+}

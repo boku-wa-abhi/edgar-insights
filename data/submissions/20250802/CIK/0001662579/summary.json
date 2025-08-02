@@ -1,0 +1,26 @@
+{
+  "cik": "0001662579",
+  "name": "C4 Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCCC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475617627",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(617) 231-0700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 459,
+  "download_timestamp": "2025-08-02 07:20:06 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000810332",
+  "name": "MESA AIR GROUP INC",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "MESA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "850302351",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "602.685.4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MESA AIRLINES INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "1995-02-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:40 UTC"
+}

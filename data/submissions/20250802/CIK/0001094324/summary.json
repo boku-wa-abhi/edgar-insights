@@ -1,0 +1,37 @@
+{
+  "cik": "0001094324",
+  "name": "SIFY TECHNOLOGIES LTD",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SIFY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "91 44 2254 0770",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIFY LTD",
+      "from": "2003-01-14T05:00:00.000Z",
+      "to": "2007-10-15T04:00:00.000Z"
+    },
+    {
+      "name": "SATYAM INFOWAY LTD",
+      "from": "1999-10-13T04:00:00.000Z",
+      "to": "2003-01-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 456,
+  "download_timestamp": "2025-08-02 07:06:50 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000790526",
+  "name": "RadNet, Inc.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDNT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "133326724",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3104787808",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRIMEDEX HEALTH SYSTEMS INC",
+      "from": "1996-11-01T05:00:00.000Z",
+      "to": "2006-11-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:17 UTC"
+}

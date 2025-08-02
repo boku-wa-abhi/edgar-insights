@@ -1,0 +1,26 @@
+{
+  "cik": "0001679273",
+  "name": "Lamb Weston Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2030",
+  "sicDescription": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0525",
+  "tickers": [
+    "LW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "611797411",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "208.938.1047",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 687,
+  "download_timestamp": "2025-08-02 07:20:31 UTC"
+}

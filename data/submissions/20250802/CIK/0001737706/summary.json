@@ -1,0 +1,32 @@
+{
+  "cik": "0001737706",
+  "name": "Seadrill Ltd",
+  "entityType": "operating",
+  "sic": "1381",
+  "sicDescription": "Drilling Oil & Gas Wells",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SDRL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981834031",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "441 295 9500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEW SDRL LTD.",
+      "from": "2018-04-26T04:00:00.000Z",
+      "to": "2018-07-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:22:26 UTC"
+}

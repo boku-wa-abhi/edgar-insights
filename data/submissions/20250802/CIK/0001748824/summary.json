@@ -1,0 +1,32 @@
+{
+  "cik": "0001748824",
+  "name": "Acadian Asset Management Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AAMI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "471121020",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6173697300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BrightSphere Investment Group Inc.",
+      "from": "2019-03-12T04:00:00.000Z",
+      "to": "2024-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 215,
+  "download_timestamp": "2025-08-02 07:22:46 UTC"
+}

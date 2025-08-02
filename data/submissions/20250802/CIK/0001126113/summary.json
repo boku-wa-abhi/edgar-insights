@@ -1,0 +1,28 @@
+{
+  "cik": "0001126113",
+  "name": "TELENOR ASA",
+  "entityType": "other",
+  "sic": "4813",
+  "sicDescription": "Telephone Communications (No Radiotelephone)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TELNY",
+    "TELNF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "0114722779",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 125,
+  "download_timestamp": "2025-08-02 07:07:34 UTC"
+}

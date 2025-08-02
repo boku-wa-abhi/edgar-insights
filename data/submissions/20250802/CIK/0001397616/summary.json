@@ -1,0 +1,26 @@
+{
+  "cik": "0001397616",
+  "name": "SOUTHERN SILVER EXPLORATION CORP",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "SSVFF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-684-9384",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 28,
+  "download_timestamp": "2025-08-02 07:12:15 UTC"
+}

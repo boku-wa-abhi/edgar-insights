@@ -1,0 +1,26 @@
+{
+  "cik": "0000836147",
+  "name": "MIDDLEFIELD BANC CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "OH",
+  "stateOfIncorporationDescription": "OH",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MBCN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "341585111",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4406321666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:01:15 UTC"
+}

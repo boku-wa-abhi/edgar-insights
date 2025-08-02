@@ -1,0 +1,145 @@
+{
+  "cik": "0002033315",
+  "entityType": "other",
+  "sic": "3560",
+  "sicDescription": "General Industrial Machinery & Equipment",
+  "ownerOrg": "06 Technology",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "KBAT Group Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "NO. 5999, MIZHOUDONGLU ZHUCHENG",
+      "street2": null,
+      "city": "WEIFANG CITY",
+      "stateOrCountry": "F4",
+      "zipCode": "262500",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "NO. 5999, MIZHOUDONGLU ZHUCHENG",
+      "street2": null,
+      "city": "WEIFANG CITY",
+      "stateOrCountry": "F4",
+      "zipCode": "262500",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "86 536 6083899",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-063179",
+        "0001213900-25-024060",
+        "0001213900-25-007048",
+        "0001213900-24-098921"
+      ],
+      "filingDate": [
+        "2025-07-11",
+        "2025-03-14",
+        "2025-01-27",
+        "2024-11-15"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-11T18:46:01.000Z",
+        "2025-03-14T18:50:27.000Z",
+        "2025-01-27T21:54:28.000Z",
+        "2024-11-15T18:01:59.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288635",
+        "377-07561",
+        "377-07561",
+        "377-07561"
+      ],
+      "filmNumber": [
+        "251118715",
+        "25739454",
+        "25559866",
+        "241466813"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        5454778,
+        3307105,
+        2626832,
+        2601310
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0245811-f1_kbat.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

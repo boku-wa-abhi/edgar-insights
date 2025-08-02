@@ -1,0 +1,47 @@
+{
+  "cik": "0000860543",
+  "name": "Jacksam Corp",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JKSM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "621407521",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "800-605-3580",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "China Grand Resorts, Inc.",
+      "from": "2010-01-13T00:00:00.000Z",
+      "to": "2018-11-05T00:00:00.000Z"
+    },
+    {
+      "name": "ASIA PREMIUM TELEVISION GROUP",
+      "from": "2002-11-20T00:00:00.000Z",
+      "to": "2009-12-24T00:00:00.000Z"
+    },
+    {
+      "name": "GTM HOLDINGS INC",
+      "from": "2000-08-21T00:00:00.000Z",
+      "to": "2002-11-15T00:00:00.000Z"
+    },
+    {
+      "name": "TRIAD WARRANTY CORPORATION INC",
+      "from": "2000-04-17T00:00:00.000Z",
+      "to": "2000-04-17T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 319,
+  "download_timestamp": "2025-08-02 07:01:41 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001647639",
+  "name": "Upstart Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UPST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "464332431",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(650) 204-1000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 774,
+  "download_timestamp": "2025-08-02 07:19:40 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001618921",
+  "name": "Walgreens Boots Alliance, Inc.",
+  "entityType": "operating",
+  "sic": "5912",
+  "sicDescription": "Retail-Drug Stores and Proprietary Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "WBA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471758322",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(847) 315-2500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:18:52 UTC"
+}

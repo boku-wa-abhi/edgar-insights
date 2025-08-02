@@ -1,0 +1,26 @@
+{
+  "cik": "0002017206",
+  "name": "Millrose Properties, Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MRP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "992056892",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "305-559-4000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 73,
+  "download_timestamp": "2025-08-02 07:32:07 UTC"
+}

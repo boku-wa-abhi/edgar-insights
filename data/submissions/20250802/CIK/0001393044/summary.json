@@ -1,0 +1,37 @@
+{
+  "cik": "0001393044",
+  "name": "Motomova Inc",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTMV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "205134664",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "914-674-4373",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Petrocorp Inc",
+      "from": "2008-11-14T00:00:00.000Z",
+      "to": "2012-03-30T00:00:00.000Z"
+    },
+    {
+      "name": "GD Conference Center, Inc",
+      "from": "2007-03-29T00:00:00.000Z",
+      "to": "2008-08-14T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:12:06 UTC"
+}

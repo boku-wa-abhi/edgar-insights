@@ -1,0 +1,39 @@
+{
+  "cik": "0001855485",
+  "name": "Calidi Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLDI",
+    "CLDWW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "862967193",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "858-794-9600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Calidi Biotherapeutics, Inc.",
+      "from": "2023-09-25T04:00:00.000Z",
+      "to": "2025-07-25T04:00:00.000Z"
+    },
+    {
+      "name": "First Light Acquisition Group, Inc.",
+      "from": "2021-05-17T04:00:00.000Z",
+      "to": "2023-09-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 331,
+  "download_timestamp": "2025-08-02 07:27:31 UTC"
+}

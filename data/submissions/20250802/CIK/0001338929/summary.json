@@ -1,0 +1,57 @@
+{
+  "cik": "0001338929",
+  "name": "Authentic Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "5130",
+  "sicDescription": "Wholesale-Apparel, Piece Goods & Notions",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AHRO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "113746201",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "732-695-4389",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Global Fiber Technologies, Inc.",
+      "from": "2019-05-15T04:00:00.000Z",
+      "to": "2022-11-28T05:00:00.000Z"
+    },
+    {
+      "name": "ECO TEK 360 INC",
+      "from": "2017-01-25T05:00:00.000Z",
+      "to": "2019-05-07T04:00:00.000Z"
+    },
+    {
+      "name": "Global Fashion Technologies, Inc.",
+      "from": "2014-08-07T04:00:00.000Z",
+      "to": "2017-01-24T05:00:00.000Z"
+    },
+    {
+      "name": "Premiere Opportunities Group, Inc.",
+      "from": "2011-08-22T04:00:00.000Z",
+      "to": "2014-07-16T04:00:00.000Z"
+    },
+    {
+      "name": "Premiere Publishing Group, Inc.",
+      "from": "2005-08-23T04:00:00.000Z",
+      "to": "2011-08-08T04:00:00.000Z"
+    },
+    {
+      "name": "Premier Publishing Group, Inc.",
+      "from": "2005-11-29T05:00:00.000Z",
+      "to": "2005-11-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 260,
+  "download_timestamp": "2025-08-02 07:10:50 UTC"
+}

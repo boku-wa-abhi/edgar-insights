@@ -1,0 +1,42 @@
+{
+  "cik": "0000704172",
+  "name": "PHI GROUP INC",
+  "entityType": "operating",
+  "sic": "8741",
+  "sicDescription": "Services-Management Services",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PHIL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "900114535",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7146420571",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PROVIDENTIAL HOLDINGS INC",
+      "from": "2000-04-20T04:00:00.000Z",
+      "to": "2009-03-18T04:00:00.000Z"
+    },
+    {
+      "name": "PROVIDENTIAL SECURITIES INC /NV/",
+      "from": "2000-02-22T05:00:00.000Z",
+      "to": "2000-02-23T05:00:00.000Z"
+    },
+    {
+      "name": "JR CONSULTING INC",
+      "from": "1996-05-16T04:00:00.000Z",
+      "to": "2000-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 491,
+  "download_timestamp": "2025-08-02 06:59:03 UTC"
+}

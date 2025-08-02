@@ -1,0 +1,26 @@
+{
+  "cik": "0001404804",
+  "name": "Omnitek Engineering Corp",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OMTK"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "330984450",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "760-591-0089",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 07:12:26 UTC"
+}

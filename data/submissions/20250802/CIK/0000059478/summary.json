@@ -1,0 +1,37 @@
+{
+  "cik": "0000059478",
+  "name": "ELI LILLY & Co",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LLY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "350470950",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3172762000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LILLY ELI & CO",
+      "from": "1994-10-26T04:00:00.000Z",
+      "to": "2019-10-25T04:00:00.000Z"
+    },
+    {
+      "name": "LILLY ELI & CO ET AL",
+      "from": "1994-07-27T04:00:00.000Z",
+      "to": "1994-10-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:18 UTC"
+}

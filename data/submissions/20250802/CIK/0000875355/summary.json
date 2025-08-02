@@ -1,0 +1,32 @@
+{
+  "cik": "0000875355",
+  "name": "LENDWAY, INC.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LDWY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411656308",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7633926200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INSIGNIA SYSTEMS INC/MN",
+      "from": "1996-09-10T04:00:00.000Z",
+      "to": "2023-07-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:00 UTC"
+}

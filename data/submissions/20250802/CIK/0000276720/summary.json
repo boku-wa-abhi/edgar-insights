@@ -1,0 +1,26 @@
+{
+  "cik": "0000276720",
+  "name": "PURE CYCLE CORP",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "PCYO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "840705083",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "3032923456",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 699,
+  "download_timestamp": "2025-08-02 06:58:33 UTC"
+}

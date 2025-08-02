@@ -1,0 +1,26 @@
+{
+  "cik": "0001615165",
+  "name": "Veritone, Inc.",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VERI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471161641",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "8885071737",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 535,
+  "download_timestamp": "2025-08-02 07:18:44 UTC"
+}

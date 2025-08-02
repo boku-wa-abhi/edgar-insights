@@ -1,0 +1,28 @@
+{
+  "cik": "0001505065",
+  "name": "Brainsway Ltd.",
+  "entityType": "other",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "BWAY",
+    "BRSYF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "972 2 581-3140",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 207,
+  "download_timestamp": "2025-08-02 07:15:18 UTC"
+}

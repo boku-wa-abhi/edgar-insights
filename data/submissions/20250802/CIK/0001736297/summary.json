@@ -1,0 +1,26 @@
+{
+  "cik": "0001736297",
+  "name": "Astera Labs, Inc.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALAB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "823437062",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "408-242-7319",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 241,
+  "download_timestamp": "2025-08-02 07:22:23 UTC"
+}

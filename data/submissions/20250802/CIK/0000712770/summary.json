@@ -1,0 +1,26 @@
+{
+  "cik": "0000712770",
+  "name": "ONE LIBERTY PROPERTIES INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OLP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133147497",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5164663100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:11 UTC"
+}

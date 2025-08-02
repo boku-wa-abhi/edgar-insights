@@ -1,0 +1,32 @@
+{
+  "cik": "0001338561",
+  "name": "Nuveen S&P 500 Dynamic Overwrite Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SPXX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nuveen Equity Premium & Growth Fund",
+      "from": "2005-09-23T04:00:00.000Z",
+      "to": "2014-12-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 403,
+  "download_timestamp": "2025-08-02 07:10:50 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001533743",
+  "name": "Processa Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PCSA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "451539785",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "443-776-3133",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Heatwurx, Inc.",
+      "from": "2011-10-28T04:00:00.000Z",
+      "to": "2017-10-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 572,
+  "download_timestamp": "2025-08-02 07:16:16 UTC"
+}

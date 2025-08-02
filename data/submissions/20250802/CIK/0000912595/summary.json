@@ -1,0 +1,34 @@
+{
+  "cik": "0000912595",
+  "name": "MID AMERICA APARTMENT COMMUNITIES INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "TN",
+  "stateOfIncorporationDescription": "TN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MAA",
+    "MAA-PI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "621543819",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9016826600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MID AMERICA APARTMENT COMMUNITIES INC",
+      "from": "1995-02-03T05:00:00.000Z",
+      "to": "2018-05-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:18 UTC"
+}

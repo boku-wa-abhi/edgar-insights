@@ -1,0 +1,26 @@
+{
+  "cik": "0001795139",
+  "name": "Green Thumb Industries Inc.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GTBIF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "981437430",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "312-471-6720",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 393,
+  "download_timestamp": "2025-08-02 07:24:21 UTC"
+}

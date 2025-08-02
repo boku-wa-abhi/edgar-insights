@@ -1,0 +1,194 @@
+{
+  "cik": "0002037646",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "ownerOrg": "03 Life Sciences",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "KVAC (Cayman) Ltd",
+  "tickers": [
+    "MDER"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "89 NEXUS WAY",
+      "street2": "CAMANA BAY",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-9009",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "89 NEXUS WAY",
+      "street2": "CAMANA BAY",
+      "city": "GRAND CAYMAN",
+      "stateOrCountry": "E9",
+      "zipCode": "KY1-9009",
+      "stateOrCountryDescription": "Cayman Islands",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(203) 609-1394",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-037912",
+        "0001213900-25-030950",
+        "0001213900-25-024104",
+        "0001213900-25-007189",
+        "0001213900-24-108013",
+        "0001213900-24-089064",
+        "0001213900-24-081470"
+      ],
+      "filingDate": [
+        "2025-05-01",
+        "2025-04-11",
+        "2025-03-14",
+        "2025-01-28",
+        "2024-12-12",
+        "2024-10-21",
+        "2024-09-24"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-04-30T23:33:28.000Z",
+        "2025-04-11T17:21:47.000Z",
+        "2025-03-14T20:01:08.000Z",
+        "2025-01-28T11:09:45.000Z",
+        "2024-12-12T11:36:39.000Z",
+        "2024-10-21T10:12:46.000Z",
+        "2024-09-24T21:09:05.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4"
+      ],
+      "fileNumber": [
+        "333-282312",
+        "333-282312",
+        "333-282312",
+        "333-282312",
+        "333-282312",
+        "333-282312",
+        "333-282312"
+      ],
+      "filmNumber": [
+        "25898670",
+        "25830905",
+        "25739822",
+        "25560823",
+        "241543216",
+        "241381906",
+        "241320812"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4/A",
+        "F-4"
+      ],
+      "size": [
+        8254386,
+        8301764,
+        8147511,
+        8835504,
+        6568638,
+        6247696,
+        5000051
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0239896-f4a6_kvac.htm",
+        "ea0237535-f4a5_kvac.htm",
+        "ea0232559-f4a4_kvac.htm",
+        "ea0228117-f4a3_kvac.htm",
+        "ea0223742-f4a2_kvac.htm",
+        "ea0217859-f4a1_kvac.htm",
+        "ea0214612-f4_kvac.htm"
+      ],
+      "primaryDocDescription": [
+        "AMENDMENT NO. 6 TO FORM F-4",
+        "AMENDMENT NO. 5 TO FORM F-4",
+        "AMENDMENT NO. 4 TO FORM F-4",
+        "AMENDMENT NO. 3 TO FORM F-4",
+        "AMENDMENT NO. 2 TO FORM F-4",
+        "AMENDMENT NO. 1 TO FORM F-4",
+        "REGISTRATION STATEMENT"
+      ]
+    },
+    "files": []
+  }
+}

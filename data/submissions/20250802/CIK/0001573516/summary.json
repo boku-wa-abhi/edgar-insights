@@ -1,0 +1,26 @@
+{
+  "cik": "0001573516",
+  "name": "Murphy USA Inc.",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MUSA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "462279221",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(870) 875-7600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:17:24 UTC"
+}

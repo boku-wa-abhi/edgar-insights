@@ -1,0 +1,37 @@
+{
+  "cik": "0000030625",
+  "name": "FLOWSERVE CORP",
+  "entityType": "operating",
+  "sic": "3561",
+  "sicDescription": "Pumps & Pumping Equipment",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FLS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "310267900",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9724436500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DURCO INTERNATIONAL INC",
+      "from": "1997-07-23T04:00:00.000Z",
+      "to": "1997-05-15T04:00:00.000Z"
+    },
+    {
+      "name": "DURIRON CO INC",
+      "from": "1994-05-13T04:00:00.000Z",
+      "to": "1997-03-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:43 UTC"
+}

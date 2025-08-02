@@ -1,0 +1,37 @@
+{
+  "cik": "0000818972",
+  "name": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "LEO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133426554",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2129226400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DREYFUS STRATEGIC MUNICIPALS, INC.",
+      "from": "2018-11-28T05:00:00.000Z",
+      "to": "2019-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "DREYFUS STRATEGIC MUNICIPALS INC",
+      "from": "1994-05-27T04:00:00.000Z",
+      "to": "2018-09-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 530,
+  "download_timestamp": "2025-08-02 07:00:54 UTC"
+}

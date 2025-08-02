@@ -1,0 +1,26 @@
+{
+  "cik": "0000202947",
+  "name": "CAPITAL PROPERTIES INC /RI/",
+  "entityType": "operating",
+  "sic": "6519",
+  "sicDescription": "Lessors of  Real Property, NEC",
+  "stateOfIncorporation": "RI",
+  "stateOfIncorporationDescription": "RI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPTP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "050386287",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "401-435-7171",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 355,
+  "download_timestamp": "2025-08-02 06:58:29 UTC"
+}

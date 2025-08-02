@@ -1,0 +1,49 @@
+{
+  "cik": "0001136174",
+  "name": "Ontrak, Inc.",
+  "entityType": "operating",
+  "sic": "8090",
+  "sicDescription": "Services-Misc Health & Allied Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OTRK",
+    "OTRKP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "880464853",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310 444 4300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CATASYS, INC.",
+      "from": "2005-09-29T04:00:00.000Z",
+      "to": "2020-07-06T04:00:00.000Z"
+    },
+    {
+      "name": "HYTHIAM, INC.",
+      "from": "2010-11-02T04:00:00.000Z",
+      "to": "2011-03-07T05:00:00.000Z"
+    },
+    {
+      "name": "HYTHIAM INC",
+      "from": "2003-10-07T04:00:00.000Z",
+      "to": "2010-10-20T04:00:00.000Z"
+    },
+    {
+      "name": "ALASKA FREIGHTWAYS INC",
+      "from": "2001-04-04T04:00:00.000Z",
+      "to": "2003-10-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:50 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001122020",
+  "name": "PCS Edventures!, Inc.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "ID",
+  "stateOfIncorporationDescription": "ID",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PCSV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "820475383",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "208-343-3110",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PCS EDVENTURES COM INC",
+      "from": "2001-05-02T04:00:00.000Z",
+      "to": "2017-07-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 779,
+  "download_timestamp": "2025-08-02 07:07:28 UTC"
+}

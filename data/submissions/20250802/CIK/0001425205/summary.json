@@ -1,0 +1,42 @@
+{
+  "cik": "0001425205",
+  "name": "IOVANCE BIOTHERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IOVA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "753254381",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6502607120",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lion Biotechnologies, Inc.",
+      "from": "2013-10-23T04:00:00.000Z",
+      "to": "2017-06-05T04:00:00.000Z"
+    },
+    {
+      "name": "Genesis Biopharma, Inc",
+      "from": "2010-03-19T04:00:00.000Z",
+      "to": "2013-09-23T04:00:00.000Z"
+    },
+    {
+      "name": "FREIGHT MANAGEMENT CORP",
+      "from": "2008-01-29T05:00:00.000Z",
+      "to": "2010-03-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 957,
+  "download_timestamp": "2025-08-02 07:13:01 UTC"
+}

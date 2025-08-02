@@ -1,0 +1,26 @@
+{
+  "cik": "0000003197",
+  "name": "CECO ENVIRONMENTAL CORP",
+  "entityType": "operating",
+  "sic": "3564",
+  "sicDescription": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CECO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "132566064",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(513) 458-2600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 06:56:03 UTC"
+}

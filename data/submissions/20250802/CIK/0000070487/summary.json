@@ -1,0 +1,26 @@
+{
+  "cik": "0000070487",
+  "name": "NATIONAL RESEARCH CORP",
+  "entityType": "operating",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NRC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "470634000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4024752525",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:57:34 UTC"
+}

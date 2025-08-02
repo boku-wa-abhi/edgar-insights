@@ -1,0 +1,26 @@
+{
+  "cik": "0001753162",
+  "name": "Fathom Holdings Inc.",
+  "entityType": "operating",
+  "sic": "6531",
+  "sicDescription": "Real Estate Agents & Managers (For Others)",
+  "stateOfIncorporation": "NC",
+  "stateOfIncorporationDescription": "NC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTHM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821518164",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "8884556040",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 358,
+  "download_timestamp": "2025-08-02 07:22:52 UTC"
+}

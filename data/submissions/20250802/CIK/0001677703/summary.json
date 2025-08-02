@@ -1,0 +1,26 @@
+{
+  "cik": "0001677703",
+  "name": "CONDUENT Inc",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNDT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812983623",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "844-663-2638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 616,
+  "download_timestamp": "2025-08-02 07:20:28 UTC"
+}

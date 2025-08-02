@@ -1,0 +1,34 @@
+{
+  "cik": "0001824893",
+  "name": "Surrozen, Inc./DE",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SRZN",
+    "SRZNW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "301374889",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "650-475-2820",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Consonance-HFW Acquisition Corp.",
+      "from": "2020-09-18T04:00:00.000Z",
+      "to": "2021-08-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 398,
+  "download_timestamp": "2025-08-02 07:25:40 UTC"
+}

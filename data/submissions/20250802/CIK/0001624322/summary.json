@@ -1,0 +1,26 @@
+{
+  "cik": "0001624322",
+  "name": "Business First Bancshares, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "LA",
+  "stateOfIncorporationDescription": "LA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BFST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205340628",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "225-248-7600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 736,
+  "download_timestamp": "2025-08-02 07:19:01 UTC"
+}

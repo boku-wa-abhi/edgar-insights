@@ -1,0 +1,46 @@
+{
+  "cik": "0001604174",
+  "name": "Eagle Point Credit Co Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ECC",
+    "ECCX",
+    "ECCC",
+    "ECCF",
+    "ECC-PD",
+    "ECCU",
+    "ECCV",
+    "ECCW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "465215217",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "203.862.3150",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Eagle Point Credit Co LLC",
+      "from": "2014-06-06T04:00:00.000Z",
+      "to": "2014-10-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 747,
+  "download_timestamp": "2025-08-02 07:18:23 UTC"
+}

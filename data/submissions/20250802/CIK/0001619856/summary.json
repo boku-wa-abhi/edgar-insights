@@ -1,0 +1,26 @@
+{
+  "cik": "0001619856",
+  "name": "Caribou Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRBU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453728228",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "510-982-6030",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 284,
+  "download_timestamp": "2025-08-02 07:18:54 UTC"
+}

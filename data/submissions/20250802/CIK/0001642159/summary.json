@@ -1,0 +1,37 @@
+{
+  "cik": "0001642159",
+  "name": "Sigyn Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SIGY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "472573116",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "619-368-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Reign Resources Corp",
+      "from": "2020-05-15T04:00:00.000Z",
+      "to": "2020-10-23T04:00:00.000Z"
+    },
+    {
+      "name": "Reign Sapphire Corp",
+      "from": "2015-05-27T04:00:00.000Z",
+      "to": "2020-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 167,
+  "download_timestamp": "2025-08-02 07:19:32 UTC"
+}

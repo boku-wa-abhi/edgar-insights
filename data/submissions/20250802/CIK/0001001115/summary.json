@@ -1,0 +1,32 @@
+{
+  "cik": "0001001115",
+  "name": "GEOSPACE TECHNOLOGIES CORP",
+  "entityType": "operating",
+  "sic": "3829",
+  "sicDescription": "Measuring & Controlling Devices, NEC",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "GEOS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "760447780",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "7139864444",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OYO GEOSPACE CORP",
+      "from": "1997-11-18T05:00:00.000Z",
+      "to": "2012-10-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 983,
+  "download_timestamp": "2025-08-02 07:04:21 UTC"
+}

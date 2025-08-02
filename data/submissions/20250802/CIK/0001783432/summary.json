@@ -1,0 +1,26 @@
+{
+  "cik": "0001783432",
+  "name": "Tectonic Metals Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TETOD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 633-0005",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:23:54 UTC"
+}

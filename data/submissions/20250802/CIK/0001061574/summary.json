@@ -1,0 +1,32 @@
+{
+  "cik": "0001061574",
+  "name": "CGI INC",
+  "entityType": "other",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "GIB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "514 841 3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CGI GROUP INC",
+      "from": "1999-09-07T04:00:00.000Z",
+      "to": "2019-01-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 743,
+  "download_timestamp": "2025-08-02 07:05:59 UTC"
+}

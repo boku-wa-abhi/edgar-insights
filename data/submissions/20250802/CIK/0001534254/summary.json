@@ -1,0 +1,34 @@
+{
+  "cik": "0001534254",
+  "name": "CION Investment Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CION",
+    "CICB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "453058280",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212-418-4700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "C&#298;ON Investment Corp",
+      "from": "2011-12-20T05:00:00.000Z",
+      "to": "2011-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 852,
+  "download_timestamp": "2025-08-02 07:16:19 UTC"
+}

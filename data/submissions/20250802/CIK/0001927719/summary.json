@@ -1,0 +1,28 @@
+{
+  "cik": "0001927719",
+  "name": "Freightos Ltd",
+  "entityType": "other",
+  "sic": "4731",
+  "sicDescription": "Arrangement of  Transportation of  Freight & Cargo",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRGO",
+    "CRGOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "000-000-0000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 126,
+  "download_timestamp": "2025-08-02 07:29:38 UTC"
+}

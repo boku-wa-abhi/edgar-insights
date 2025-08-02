@@ -1,0 +1,32 @@
+{
+  "cik": "0001433309",
+  "name": "Plastec Technologies, Ltd.",
+  "entityType": "other",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PLTYF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "852-21917155",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GSME Acquisition Partners I",
+      "from": "2009-10-16T04:00:00.000Z",
+      "to": "2010-12-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 223,
+  "download_timestamp": "2025-08-02 07:13:10 UTC"
+}

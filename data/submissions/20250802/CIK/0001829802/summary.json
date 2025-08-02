@@ -1,0 +1,26 @@
+{
+  "cik": "0001829802",
+  "name": "Sensei Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNSE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(240) 243-8000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 352,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

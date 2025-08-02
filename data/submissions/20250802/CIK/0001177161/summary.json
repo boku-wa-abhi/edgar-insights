@@ -1,0 +1,32 @@
+{
+  "cik": "0001177161",
+  "name": "Eaton Vance California Municipal Bond Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "EVM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6174828260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EATON VANCE INSURED CALIFORNIA MUNICIPAL BOND FUND",
+      "from": "2002-07-10T04:00:00.000Z",
+      "to": "2010-01-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 494,
+  "download_timestamp": "2025-08-02 07:08:39 UTC"
+}

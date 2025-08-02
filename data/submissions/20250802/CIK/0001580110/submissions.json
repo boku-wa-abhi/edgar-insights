@@ -1,0 +1,175 @@
+{
+  "cik": "0001580110",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Libero Copper & Gold Corp",
+  "tickers": [
+    "LBCMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "addresses": {
+    "mailing": {
+      "street1": "1111 WEST HASTINGS STREET, SUITE 905",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2J3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1111 WEST HASTINGS STREET, SUITE 905",
+      "street2": null,
+      "city": "VANCOUVER",
+      "stateOrCountry": "A1",
+      "zipCode": "V6E 2J3",
+      "stateOrCountryDescription": "British Columbia, Canada",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "778-372-2553",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Libero Mining Corp",
+      "from": "2016-03-15T00:00:00.000Z",
+      "to": "2016-03-15T00:00:00.000Z"
+    },
+    {
+      "name": "Slater Mining Corp",
+      "from": "2013-06-26T00:00:00.000Z",
+      "to": "2013-06-26T00:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001727689-24-000155",
+        "0001580110-21-000002",
+        "0001580110-16-000004",
+        "0001580110-16-000003",
+        "0001580110-13-000002"
+      ],
+      "filingDate": [
+        "2024-12-20",
+        "2021-03-09",
+        "2016-03-15",
+        "2016-03-15",
+        "2013-06-26"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-12-20T16:58:07.000Z",
+        "2021-03-09T17:24:34.000Z",
+        "2016-03-15T16:22:29.000Z",
+        "2016-03-15T15:24:55.000Z",
+        "2013-06-26T14:11:03.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "021-532986",
+        "021-391695",
+        "021-259318",
+        "021-259318",
+        "021-198623"
+      ],
+      "filmNumber": [
+        "241568711",
+        "21726997",
+        "161507189",
+        "161506712",
+        "13934101"
+      ],
+      "items": [
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06"
+      ],
+      "core_type": [
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D"
+      ],
+      "size": [
+        9706,
+        11778,
+        10792,
+        9891,
+        11377
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

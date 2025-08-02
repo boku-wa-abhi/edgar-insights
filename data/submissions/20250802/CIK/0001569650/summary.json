@@ -1,0 +1,34 @@
+{
+  "cik": "0001569650",
+  "name": "Bank OZK",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "AR",
+  "stateOfIncorporationDescription": "AR",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OZK",
+    "OZKAP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "710130170",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "501-978-2218",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bank of the Ozarks",
+      "from": "2013-02-14T05:00:00.000Z",
+      "to": "2018-08-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 74,
+  "download_timestamp": "2025-08-02 07:17:18 UTC"
+}

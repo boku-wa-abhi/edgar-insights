@@ -1,0 +1,26 @@
+{
+  "cik": "0001724521",
+  "name": "Arcus Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RCUS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "473898435",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(510) 694-6200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 498,
+  "download_timestamp": "2025-08-02 07:22:01 UTC"
+}

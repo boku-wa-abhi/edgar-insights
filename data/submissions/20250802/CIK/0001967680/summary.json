@@ -1,0 +1,26 @@
+{
+  "cik": "0001967680",
+  "name": "Veralto Corp",
+  "entityType": "operating",
+  "sic": "3825",
+  "sicDescription": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VLTO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "921941413",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7817553655",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 224,
+  "download_timestamp": "2025-08-02 07:30:39 UTC"
+}

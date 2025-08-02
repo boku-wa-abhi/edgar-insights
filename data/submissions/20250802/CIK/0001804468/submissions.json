@@ -1,0 +1,179 @@
+{
+  "cik": "0001804468",
+  "entityType": "other",
+  "sic": "7510",
+  "sicDescription": "Services-Auto Rental & Leasing (No Drivers)",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Envoy Technologies, Inc.",
+  "tickers": [
+    "EVOY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "813235132",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "addresses": {
+    "mailing": {
+      "street1": "8575 WASHINGTON BLVD.",
+      "street2": null,
+      "city": "CULVER CITY",
+      "stateOrCountry": "CA",
+      "zipCode": "90232",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "8575 WASHINGTON BLVD.",
+      "street2": null,
+      "city": "CULVER CITY",
+      "stateOrCountry": "CA",
+      "zipCode": "90232",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(888) 610-0506",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-007966",
+        "0001641172-25-002504",
+        "0001493152-25-005938",
+        "0001493152-25-004451",
+        "0001493152-24-048327",
+        "0001804468-20-000002"
+      ],
+      "filingDate": [
+        "2025-05-01",
+        "2025-04-03",
+        "2025-02-11",
+        "2025-01-31",
+        "2024-12-02",
+        "2020-11-09"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-05-01T01:23:12.000Z",
+        "2025-04-03T10:37:24.000Z",
+        "2025-02-11T21:56:53.000Z",
+        "2025-01-31T21:51:12.000Z",
+        "2024-12-02T22:25:56.000Z",
+        "2020-11-09T18:55:21.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D"
+      ],
+      "fileNumber": [
+        "333-284841",
+        "333-284841",
+        "333-284841",
+        "377-07585",
+        "377-07585",
+        "021-380068"
+      ],
+      "filmNumber": [
+        "25898971",
+        "25807455",
+        "25610635",
+        "25579116",
+        "241520211",
+        "201297037"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "06b"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D"
+      ],
+      "size": [
+        4542604,
+        5569861,
+        6284437,
+        5265878,
+        3438364,
+        8589
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "forms-1a.htm",
+        "forms-1a.htm",
+        "forms-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "null",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

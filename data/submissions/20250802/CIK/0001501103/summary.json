@@ -1,0 +1,37 @@
+{
+  "cik": "0001501103",
+  "name": "Virtus Stone Harbor Emerging Markets Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "EDF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "1-866-270-7788",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Stone Harbor Emerging Markets Income Fund",
+      "from": "2010-10-07T04:00:00.000Z",
+      "to": "2022-04-29T04:00:00.000Z"
+    },
+    {
+      "name": "Stone Harbor Emerging Markets Fixed Income Fund",
+      "from": "2010-09-14T04:00:00.000Z",
+      "to": "2010-10-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 339,
+  "download_timestamp": "2025-08-02 07:15:09 UTC"
+}

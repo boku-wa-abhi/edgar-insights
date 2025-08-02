@@ -1,0 +1,26 @@
+{
+  "cik": "0001987101",
+  "name": "EL-0713 Fund I, a series of Roll Up Vehicles, LP",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CABI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2068016359",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1,
+  "download_timestamp": "2025-08-02 07:31:09 UTC"
+}

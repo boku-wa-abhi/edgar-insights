@@ -1,0 +1,37 @@
+{
+  "cik": "0000917100",
+  "name": "INDIA FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IFN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133749070",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "215-405-5700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INDIA FUND INC",
+      "from": "2003-08-25T04:00:00.000Z",
+      "to": "2022-05-17T04:00:00.000Z"
+    },
+    {
+      "name": "INDIA FUND INC /NY NEW",
+      "from": "1994-08-29T04:00:00.000Z",
+      "to": "2003-03-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 522,
+  "download_timestamp": "2025-08-02 07:03:31 UTC"
+}

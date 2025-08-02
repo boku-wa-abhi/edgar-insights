@@ -1,0 +1,32 @@
+{
+  "cik": "0000906107",
+  "name": "EQUITY RESIDENTIAL",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EQR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "363877868",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3129281178",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EQUITY RESIDENTIAL PROPERTIES TRUST",
+      "from": "1994-02-10T05:00:00.000Z",
+      "to": "2002-10-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:04 UTC"
+}

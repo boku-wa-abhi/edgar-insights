@@ -1,0 +1,26 @@
+{
+  "cik": "0001781753",
+  "name": "Youdao, Inc.",
+  "entityType": "other",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DAO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86 0571-8985-2163",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 131,
+  "download_timestamp": "2025-08-02 07:23:48 UTC"
+}

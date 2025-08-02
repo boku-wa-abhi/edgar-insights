@@ -1,0 +1,42 @@
+{
+  "cik": "0001808665",
+  "name": "Assertio Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "850598378",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(224) 419-7106",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Assertio Therapeutics, Inc",
+      "from": "2018-08-15T04:00:00.000Z",
+      "to": "2019-05-10T04:00:00.000Z"
+    },
+    {
+      "name": "DEPOMED INC",
+      "from": "2004-06-21T04:00:00.000Z",
+      "to": "2016-05-26T04:00:00.000Z"
+    },
+    {
+      "name": "DEPOMED INC",
+      "from": "2004-06-21T04:00:00.000Z",
+      "to": "2016-05-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 356,
+  "download_timestamp": "2025-08-02 07:24:49 UTC"
+}

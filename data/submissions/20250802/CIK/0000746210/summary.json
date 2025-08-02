@@ -1,0 +1,52 @@
+{
+  "cik": "0000746210",
+  "name": "Oblong, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OBLG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770312442",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "303-640-3838",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GLOWPOINT, INC.",
+      "from": "2011-08-09T04:00:00.000Z",
+      "to": "2020-03-09T04:00:00.000Z"
+    },
+    {
+      "name": "GLOWPOINT INC",
+      "from": "2003-11-12T05:00:00.000Z",
+      "to": "2011-08-08T04:00:00.000Z"
+    },
+    {
+      "name": "WIRE ONE TECHNOLOGIES INC",
+      "from": "2000-09-15T04:00:00.000Z",
+      "to": "2003-10-23T04:00:00.000Z"
+    },
+    {
+      "name": "WIRE ONE TECHNOLOGY INC",
+      "from": "2000-06-05T04:00:00.000Z",
+      "to": "2000-06-05T04:00:00.000Z"
+    },
+    {
+      "name": "VIEW TECH INC",
+      "from": "1996-12-09T05:00:00.000Z",
+      "to": "2000-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:45 UTC"
+}

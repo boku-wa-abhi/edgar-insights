@@ -1,0 +1,26 @@
+{
+  "cik": "0001088856",
+  "name": "CORCEPT THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CORT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770487658",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650.688.8803",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:42 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001509991",
+  "name": "Kosmos Energy Ltd.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KOS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980686001",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(214) 445-9600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:15:28 UTC"
+}

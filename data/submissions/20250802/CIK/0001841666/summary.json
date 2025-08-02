@@ -1,0 +1,26 @@
+{
+  "cik": "0001841666",
+  "name": "APA Corp",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "APA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "861430562",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "713.296.6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 673,
+  "download_timestamp": "2025-08-02 07:26:41 UTC"
+}

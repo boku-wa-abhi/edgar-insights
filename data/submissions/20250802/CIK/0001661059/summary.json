@@ -1,0 +1,26 @@
+{
+  "cik": "0001661059",
+  "name": "NextCure, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475231247",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "240-399-4900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 320,
+  "download_timestamp": "2025-08-02 07:20:06 UTC"
+}

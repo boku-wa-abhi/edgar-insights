@@ -1,0 +1,26 @@
+{
+  "cik": "0001872421",
+  "name": "GACW Inc",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "AZ",
+  "stateOfIncorporationDescription": "AZ",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GACW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "843808223",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2122877756",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 24,
+  "download_timestamp": "2025-08-02 07:28:17 UTC"
+}

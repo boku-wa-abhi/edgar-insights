@@ -1,0 +1,52 @@
+{
+  "cik": "0001096759",
+  "name": "Sanwire Corp",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNWR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "943342064",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "360-223-9473",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NT MINING Corp",
+      "from": "2009-07-06T00:00:00.000Z",
+      "to": "2013-04-12T00:00:00.000Z"
+    },
+    {
+      "name": "777 Sports Entertainment, Corp.",
+      "from": "2006-03-07T00:00:00.000Z",
+      "to": "2009-04-28T00:00:00.000Z"
+    },
+    {
+      "name": "1ST GENX INC",
+      "from": "2001-05-11T00:00:00.000Z",
+      "to": "2002-11-15T00:00:00.000Z"
+    },
+    {
+      "name": "1ST GENX COM INC",
+      "from": "2000-11-13T00:00:00.000Z",
+      "to": "2001-04-13T00:00:00.000Z"
+    },
+    {
+      "name": "E VEGAS COM INC",
+      "from": "1999-10-19T00:00:00.000Z",
+      "to": "2000-08-15T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 121,
+  "download_timestamp": "2025-08-02 07:06:56 UTC"
+}

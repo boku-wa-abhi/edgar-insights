@@ -1,0 +1,32 @@
+{
+  "cik": "0001047127",
+  "name": "AMKOR TECHNOLOGY, INC.",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMKR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "231722724",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-821-5000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMKOR TECHNOLOGY INC",
+      "from": "1997-10-22T04:00:00.000Z",
+      "to": "2015-02-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:35 UTC"
+}

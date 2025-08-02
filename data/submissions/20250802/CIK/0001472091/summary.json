@@ -1,0 +1,32 @@
+{
+  "cik": "0001472091",
+  "name": "PDS Biotechnology Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PDSB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "264231384",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-208-3343",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Edge Therapeutics, Inc.",
+      "from": "2009-09-16T04:00:00.000Z",
+      "to": "2019-03-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 713,
+  "download_timestamp": "2025-08-02 07:14:12 UTC"
+}

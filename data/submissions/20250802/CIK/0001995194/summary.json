@@ -1,0 +1,28 @@
+{
+  "cik": "0001995194",
+  "name": "Heramba Electric plc",
+  "entityType": "other",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PITEF",
+    "PITWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "00 353 1 232 2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 32,
+  "download_timestamp": "2025-08-02 07:31:24 UTC"
+}

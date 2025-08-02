@@ -1,0 +1,26 @@
+{
+  "cik": "0000016058",
+  "name": "CACI INTERNATIONAL INC /DE/",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CACI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541345888",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7038417800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:24 UTC"
+}

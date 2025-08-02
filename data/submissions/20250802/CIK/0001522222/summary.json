@@ -1,0 +1,32 @@
+{
+  "cik": "0001522222",
+  "name": "CLS Holdings USA, Inc.",
+  "entityType": "operating",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "CLSH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(416) 992-4539",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Adelt Design, Inc.",
+      "from": "2011-06-03T04:00:00.000Z",
+      "to": "2014-11-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 405,
+  "download_timestamp": "2025-08-02 07:15:54 UTC"
+}

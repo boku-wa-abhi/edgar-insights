@@ -1,0 +1,28 @@
+{
+  "cik": "0001676047",
+  "name": "NutriBand Inc.",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "NTRB",
+    "NTRBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "811118176",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "407 377-6695",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 239,
+  "download_timestamp": "2025-08-02 07:20:26 UTC"
+}

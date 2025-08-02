@@ -1,0 +1,32 @@
+{
+  "cik": "0001643154",
+  "name": "iANTHUS CAPITAL HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ITHUF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "604-688-9588",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GENARCA HOLDINGS LTD",
+      "from": "2015-05-27T04:00:00.000Z",
+      "to": "2015-05-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 200,
+  "download_timestamp": "2025-08-02 07:19:32 UTC"
+}

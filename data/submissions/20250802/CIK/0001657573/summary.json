@@ -1,0 +1,26 @@
+{
+  "cik": "0001657573",
+  "name": "Xometry, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XMTR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "320415449",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "240-335-7914",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 459,
+  "download_timestamp": "2025-08-02 07:20:00 UTC"
+}

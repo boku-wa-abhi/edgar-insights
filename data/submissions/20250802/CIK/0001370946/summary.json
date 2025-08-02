@@ -1,0 +1,32 @@
+{
+  "cik": "0001370946",
+  "name": "Owens Corning",
+  "entityType": "operating",
+  "sic": "3290",
+  "sicDescription": "Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "419-248-8000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Owens Corning (Reorganized) Inc.",
+      "from": "2006-08-07T04:00:00.000Z",
+      "to": "2006-10-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 07:11:30 UTC"
+}

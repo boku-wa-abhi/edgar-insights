@@ -1,0 +1,28 @@
+{
+  "cik": "0001589150",
+  "name": "Regen BioPharma Inc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "RGBP",
+    "RGBPP"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "455192997",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "619-722-5505",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 235,
+  "download_timestamp": "2025-08-02 07:17:55 UTC"
+}

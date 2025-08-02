@@ -1,0 +1,26 @@
+{
+  "cik": "0001784254",
+  "name": "Mediaco Holding Inc.",
+  "entityType": "operating",
+  "sic": "4832",
+  "sicDescription": "Radio Broadcasting Stations",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MDIA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "842427771",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-229-9797",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 315,
+  "download_timestamp": "2025-08-02 07:23:56 UTC"
+}

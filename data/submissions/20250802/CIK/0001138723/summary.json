@@ -1,0 +1,26 @@
+{
+  "cik": "0001138723",
+  "name": "ACCURAY INC",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ARAY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "208370041",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "608-824-2800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:54 UTC"
+}

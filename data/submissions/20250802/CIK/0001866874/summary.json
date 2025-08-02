@@ -1,0 +1,32 @@
+{
+  "cik": "0001866874",
+  "name": "Cohen & Steers Real Estate Opportunities & Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0315",
+  "tickers": [
+    "RLTY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-832-3232",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cohen & Steers Real Estate Opportunities Income Fund",
+      "from": "2021-07-26T04:00:00.000Z",
+      "to": "2021-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 100,
+  "download_timestamp": "2025-08-02 07:28:03 UTC"
+}

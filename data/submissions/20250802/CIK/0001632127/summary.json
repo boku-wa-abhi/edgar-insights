@@ -1,0 +1,26 @@
+{
+  "cik": "0001632127",
+  "name": "Cable One, Inc.",
+  "entityType": "operating",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CABO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133060083",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "602-364-6000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 813,
+  "download_timestamp": "2025-08-02 07:19:14 UTC"
+}

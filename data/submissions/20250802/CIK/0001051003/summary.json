@@ -1,0 +1,42 @@
+{
+  "cik": "0001051003",
+  "name": "BLACKROCK DEBT STRATEGIES FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DSU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223564108",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-441-7762",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLACKROCK DEBT STRATEGIES FUND",
+      "from": "2007-06-15T04:00:00.000Z",
+      "to": "2008-01-29T05:00:00.000Z"
+    },
+    {
+      "name": "DEBT STRATEGIES FUND",
+      "from": "2003-04-29T04:00:00.000Z",
+      "to": "2007-05-10T04:00:00.000Z"
+    },
+    {
+      "name": "DEBT STRATEGIES FUND II INC",
+      "from": "1998-10-29T05:00:00.000Z",
+      "to": "2002-04-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 521,
+  "download_timestamp": "2025-08-02 07:05:44 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001070304",
+  "name": "ORIX CORP",
+  "entityType": "other",
+  "sic": "6159",
+  "sicDescription": "Miscellaneous Business Credit Institution",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "IX",
+    "ORXCF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81334353000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 717,
+  "download_timestamp": "2025-08-02 07:06:15 UTC"
+}

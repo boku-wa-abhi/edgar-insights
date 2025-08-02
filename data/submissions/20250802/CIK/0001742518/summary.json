@@ -1,0 +1,26 @@
+{
+  "cik": "0001742518",
+  "name": "MMTec, Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86-1056172312",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 101,
+  "download_timestamp": "2025-08-02 07:22:34 UTC"
+}

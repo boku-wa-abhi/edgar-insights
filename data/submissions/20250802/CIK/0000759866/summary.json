@@ -1,0 +1,32 @@
+{
+  "cik": "0000759866",
+  "name": "JOHN HANCOCK INCOME SECURITIES TRUST",
+  "entityType": "other",
+  "sic": "0000",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "JHS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "617-663-3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HANCOCK JOHN INCOME SECURITIES TRUST /MA",
+      "from": "1994-08-25T04:00:00.000Z",
+      "to": "2011-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 577,
+  "download_timestamp": "2025-08-02 06:59:53 UTC"
+}

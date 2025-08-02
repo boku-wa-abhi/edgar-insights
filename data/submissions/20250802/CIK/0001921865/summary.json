@@ -1,0 +1,26 @@
+{
+  "cik": "0001921865",
+  "name": "ASP Isotopes Inc.",
+  "entityType": "operating",
+  "sic": "2890",
+  "sicDescription": "Miscellaneous Chemical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASPI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "872618235",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "202-756-2245",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 230,
+  "download_timestamp": "2025-08-02 07:29:33 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001371782",
+  "name": "MV Oil Trust",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MVO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "066554331",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "512-236-6599",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 192,
+  "download_timestamp": "2025-08-02 07:11:31 UTC"
+}

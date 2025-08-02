@@ -1,0 +1,37 @@
+{
+  "cik": "0000075398",
+  "name": "Western Asset Investment Grade Income Fund Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PAI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "952808650",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8887770102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Western Asset Income Fund",
+      "from": "2005-08-25T04:00:00.000Z",
+      "to": "2018-02-27T05:00:00.000Z"
+    },
+    {
+      "name": "PACIFIC AMERICAN INCOME SHARES INC",
+      "from": "1994-08-26T04:00:00.000Z",
+      "to": "2005-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 415,
+  "download_timestamp": "2025-08-02 06:57:42 UTC"
+}

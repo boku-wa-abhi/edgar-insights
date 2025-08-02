@@ -1,0 +1,26 @@
+{
+  "cik": "0001680367",
+  "name": "Shattuck Labs, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STTK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812575858",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "512-900-4690",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 315,
+  "download_timestamp": "2025-08-02 07:20:34 UTC"
+}

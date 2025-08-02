@@ -1,0 +1,28 @@
+{
+  "cik": "0001999297",
+  "name": "Big Tree Cloud Holdings Ltd",
+  "entityType": "other",
+  "sic": "2670",
+  "sicDescription": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DSY",
+    "DSYWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-0755-27595623",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:31:35 UTC"
+}

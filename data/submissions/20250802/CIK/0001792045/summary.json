@@ -1,0 +1,34 @@
+{
+  "cik": "0001792045",
+  "name": "Technip Energies N.V.",
+  "entityType": "other",
+  "sic": "8711",
+  "sicDescription": "Services-Engineering Services",
+  "stateOfIncorporation": "P7",
+  "stateOfIncorporationDescription": "Netherlands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "THNPY",
+    "THNPF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "33147783060",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Technip Energies B.V.",
+      "from": "2020-11-10T00:00:00.000Z",
+      "to": "2021-01-19T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 55,
+  "download_timestamp": "2025-08-02 07:24:13 UTC"
+}

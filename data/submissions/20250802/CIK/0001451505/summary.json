@@ -1,0 +1,26 @@
+{
+  "cik": "0001451505",
+  "name": "Transocean Ltd.",
+  "entityType": "operating",
+  "sic": "1381",
+  "sicDescription": "Drilling Oil & Gas Wells",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RIG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980599916",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "41 41 749 0500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:13:45 UTC"
+}

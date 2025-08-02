@@ -1,0 +1,26 @@
+{
+  "cik": "0000055529",
+  "name": "KEWAUNEE SCIENTIFIC CORP /DE/",
+  "entityType": "operating",
+  "sic": "3821",
+  "sicDescription": "Laboratory Apparatus & Furniture",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "KEQU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "380715562",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7048737202",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:57:14 UTC"
+}

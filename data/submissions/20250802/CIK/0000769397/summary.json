@@ -1,0 +1,32 @@
+{
+  "cik": "0000769397",
+  "name": "Autodesk, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "ADSK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "942819853",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4155075000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AUTODESK INC",
+      "from": "1994-09-14T04:00:00.000Z",
+      "to": "2019-09-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:02 UTC"
+}

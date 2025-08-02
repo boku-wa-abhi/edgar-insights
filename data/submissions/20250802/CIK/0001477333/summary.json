@@ -1,0 +1,26 @@
+{
+  "cik": "0001477333",
+  "name": "Cloudflare, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NET"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "270805829",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "888.993.5273",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 982,
+  "download_timestamp": "2025-08-02 07:14:23 UTC"
+}

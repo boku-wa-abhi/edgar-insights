@@ -1,0 +1,26 @@
+{
+  "cik": "0001728117",
+  "name": "Gossamer Bio, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GOSS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "475461709",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(858) 684-1300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 385,
+  "download_timestamp": "2025-08-02 07:22:08 UTC"
+}

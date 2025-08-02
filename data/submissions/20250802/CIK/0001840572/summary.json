@@ -1,0 +1,37 @@
+{
+  "cik": "0001840572",
+  "name": "Lucky Strike Entertainment Corp",
+  "entityType": "operating",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "0629",
+  "tickers": [
+    "LUCK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981632024",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-417-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bowlero Corp.",
+      "from": "2021-08-20T04:00:00.000Z",
+      "to": "2024-12-09T05:00:00.000Z"
+    },
+    {
+      "name": "Isos Acquisition Corp.",
+      "from": "2021-01-21T05:00:00.000Z",
+      "to": "2021-12-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 416,
+  "download_timestamp": "2025-08-02 07:26:35 UTC"
+}

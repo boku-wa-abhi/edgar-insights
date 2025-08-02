@@ -1,0 +1,32 @@
+{
+  "cik": "0001579684",
+  "name": "Gannett Co., Inc.",
+  "entityType": "operating",
+  "sic": "2711",
+  "sicDescription": "Newspapers: Publishing or  Publishing & Printing",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GCI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(585) 598-0030",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Media Investment Group Inc.",
+      "from": "2013-09-27T04:00:00.000Z",
+      "to": "2019-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 666,
+  "download_timestamp": "2025-08-02 07:17:37 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001098482",
+  "name": "Innovaro, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INNI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "563603677",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "704-951-7087",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UTEK CORP",
+      "from": "1999-12-30T00:00:00.000Z",
+      "to": "2010-07-12T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 743,
+  "download_timestamp": "2025-08-02 07:06:58 UTC"
+}

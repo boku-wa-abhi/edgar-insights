@@ -1,0 +1,26 @@
+{
+  "cik": "0001064722",
+  "name": "GIVEMEPOWER CORP",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GMPW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870291528",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "4032876001",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 165,
+  "download_timestamp": "2025-08-02 07:06:04 UTC"
+}

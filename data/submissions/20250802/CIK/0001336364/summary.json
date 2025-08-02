@@ -1,0 +1,32 @@
+{
+  "cik": "0001336364",
+  "name": "Giga Metals Corp",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GIGGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "604-681-2300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HARD CREEK NICKEL CORP",
+      "from": "2005-08-15T04:00:00.000Z",
+      "to": "2017-08-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 321,
+  "download_timestamp": "2025-08-02 07:10:47 UTC"
+}

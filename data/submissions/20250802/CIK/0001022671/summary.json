@@ -1,0 +1,26 @@
+{
+  "cik": "0001022671",
+  "name": "STEEL DYNAMICS INC",
+  "entityType": "operating",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "STLD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "351929476",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "260 459 3553",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:56 UTC"
+}

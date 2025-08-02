@@ -1,0 +1,32 @@
+{
+  "cik": "0000071829",
+  "name": "NPK International Inc.",
+  "entityType": "operating",
+  "sic": "7350",
+  "sicDescription": "Services-Miscellaneous Equipment Rental & Leasing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NPKI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "721123385",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "281-362-6800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NEWPARK RESOURCES INC",
+      "from": "1995-08-14T04:00:00.000Z",
+      "to": "2024-12-03T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:36 UTC"
+}

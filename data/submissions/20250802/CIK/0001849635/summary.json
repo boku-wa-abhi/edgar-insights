@@ -1,0 +1,34 @@
+{
+  "cik": "0001849635",
+  "name": "Trump Media & Technology Group Corp.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DJT",
+    "DJTWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "854293042",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(941) 735-7346",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Digital World Acquisition Corp.",
+      "from": "2021-05-26T04:00:00.000Z",
+      "to": "2024-03-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 547,
+  "download_timestamp": "2025-08-02 07:27:07 UTC"
+}

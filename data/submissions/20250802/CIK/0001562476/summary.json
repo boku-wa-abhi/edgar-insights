@@ -1,0 +1,26 @@
+{
+  "cik": "0001562476",
+  "name": "Taylor Morrison Home Corp",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TMHC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "832026677",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-840-8100",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:17:04 UTC"
+}

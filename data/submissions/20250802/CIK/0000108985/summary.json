@@ -1,0 +1,26 @@
+{
+  "cik": "0000108985",
+  "name": "YORK WATER CO",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YORW"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "231242500",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7178453601",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1010,
+  "download_timestamp": "2025-08-02 06:58:25 UTC"
+}

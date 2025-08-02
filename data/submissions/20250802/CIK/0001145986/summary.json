@@ -1,0 +1,26 @@
+{
+  "cik": "0001145986",
+  "name": "ASPEN AEROGELS INC",
+  "entityType": "operating",
+  "sic": "5030",
+  "sicDescription": "Wholesale-Lumber & Other Construction Materials",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASPN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "043559972",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5086911111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 811,
+  "download_timestamp": "2025-08-02 07:08:04 UTC"
+}

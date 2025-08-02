@@ -1,0 +1,32 @@
+{
+  "cik": "0001766600",
+  "name": "SNDL Inc.",
+  "entityType": "other",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNDL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "14039485227",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sundial Growers Inc.",
+      "from": "2019-04-29T04:00:00.000Z",
+      "to": "2022-07-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 371,
+  "download_timestamp": "2025-08-02 07:23:21 UTC"
+}

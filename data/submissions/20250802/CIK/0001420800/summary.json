@@ -1,0 +1,32 @@
+{
+  "cik": "0001420800",
+  "name": "Enovis CORP",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ENOV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541887631",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(302) 252-9160",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Colfax CORP",
+      "from": "2008-01-04T05:00:00.000Z",
+      "to": "2022-03-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:12:54 UTC"
+}

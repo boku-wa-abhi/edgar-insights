@@ -1,0 +1,32 @@
+{
+  "cik": "0000783324",
+  "name": "VISTA GOLD CORP",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VGZ"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980542444",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "720-981-1185",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GRANGES INC",
+      "from": "1996-05-13T04:00:00.000Z",
+      "to": "1996-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:09 UTC"
+}

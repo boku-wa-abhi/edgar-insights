@@ -1,0 +1,32 @@
+{
+  "cik": "0001620463",
+  "name": "Athira Pharma, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATHA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "453368487",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(425) 620-8501",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "M3 Biotechnology, Inc.",
+      "from": "2014-10-03T04:00:00.000Z",
+      "to": "2019-01-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 362,
+  "download_timestamp": "2025-08-02 07:18:55 UTC"
+}

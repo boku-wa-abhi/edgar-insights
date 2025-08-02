@@ -1,0 +1,32 @@
+{
+  "cik": "0000040570",
+  "name": "GEE Group Inc.",
+  "entityType": "operating",
+  "sic": "7361",
+  "sicDescription": "Services-Employment Agencies",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "JOB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "366097429",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "904-512-7504",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GENERAL EMPLOYMENT ENTERPRISES INC",
+      "from": "1995-05-01T04:00:00.000Z",
+      "to": "2016-07-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 811,
+  "download_timestamp": "2025-08-02 06:56:58 UTC"
+}

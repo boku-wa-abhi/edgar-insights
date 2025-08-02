@@ -1,0 +1,26 @@
+{
+  "cik": "0001829948",
+  "name": "CI Financial Corp.",
+  "entityType": "other",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "A6",
+  "stateOfIncorporationDescription": "Ontario, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CIXXF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-364-1145",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:25:59 UTC"
+}

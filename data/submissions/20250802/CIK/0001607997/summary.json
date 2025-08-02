@@ -1,0 +1,32 @@
+{
+  "cik": "0001607997",
+  "name": "Nuveen Minnesota Quality Municipal Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NMS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nuveen Minnesota Municipal Income Fund",
+      "from": "2014-05-15T04:00:00.000Z",
+      "to": "2016-12-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 243,
+  "download_timestamp": "2025-08-02 07:18:31 UTC"
+}

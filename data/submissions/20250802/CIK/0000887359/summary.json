@@ -1,0 +1,32 @@
+{
+  "cik": "0000887359",
+  "name": "Vericel Corp",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VCEL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943096597",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7349305555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AASTROM BIOSCIENCES INC",
+      "from": "1996-11-01T05:00:00.000Z",
+      "to": "2014-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:02:31 UTC"
+}

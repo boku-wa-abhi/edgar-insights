@@ -1,0 +1,37 @@
+{
+  "cik": "0000844059",
+  "name": "FRP HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FRPH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "472449198",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9043965733",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PATRIOT TRANSPORTATION HOLDING INC",
+      "from": "2001-05-09T04:00:00.000Z",
+      "to": "2014-12-05T05:00:00.000Z"
+    },
+    {
+      "name": "FRP PROPERTIES INC",
+      "from": "1995-02-13T05:00:00.000Z",
+      "to": "2001-02-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:21 UTC"
+}

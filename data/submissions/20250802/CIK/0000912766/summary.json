@@ -1,0 +1,32 @@
+{
+  "cik": "0000912766",
+  "name": "LAUREATE EDUCATION, INC.",
+  "entityType": "operating",
+  "sic": "8200",
+  "sicDescription": "Services-Educational Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LAUR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "521492296",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "786-209-3368",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SYLVAN LEARNING SYSTEMS INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2004-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:19 UTC"
+}

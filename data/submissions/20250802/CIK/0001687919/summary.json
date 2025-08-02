@@ -1,0 +1,32 @@
+{
+  "cik": "0001687919",
+  "name": "FORGE INNOVATION DEVELOPMENT CORP.",
+  "entityType": "operating",
+  "sic": "6552",
+  "sicDescription": "Land Subdividers & Developers (No Cemeteries)",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "FGNV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "814635390",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "626-361-1393",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "YOU-GO ENTERPRISES, LLC",
+      "from": "2016-10-27T04:00:00.000Z",
+      "to": "2016-10-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 64,
+  "download_timestamp": "2025-08-02 07:20:46 UTC"
+}

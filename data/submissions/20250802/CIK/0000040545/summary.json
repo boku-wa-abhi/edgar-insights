@@ -1,0 +1,26 @@
+{
+  "cik": "0000040545",
+  "name": "GENERAL ELECTRIC CO",
+  "entityType": "operating",
+  "sic": "3600",
+  "sicDescription": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "140689340",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-443-3000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:56:58 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001730463",
+  "name": "Autolus Therapeutics plc",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AUTL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "44 20 3829 6230",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Autolus Therapeutics Ltd",
+      "from": "2018-02-09T05:00:00.000Z",
+      "to": "2018-06-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 254,
+  "download_timestamp": "2025-08-02 07:22:12 UTC"
+}

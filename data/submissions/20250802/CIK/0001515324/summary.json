@@ -1,0 +1,32 @@
+{
+  "cik": "0001515324",
+  "name": "Ares Dynamic Credit Allocation Fund, Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARDC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "454969053",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(310) 201-4200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ares Senior Credit Strategies Fund, Inc.",
+      "from": "2011-03-22T04:00:00.000Z",
+      "to": "2011-09-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 356,
+  "download_timestamp": "2025-08-02 07:15:38 UTC"
+}

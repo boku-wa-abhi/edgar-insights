@@ -1,0 +1,44 @@
+{
+  "cik": "0000946486",
+  "name": "WINDTREE THERAPEUTICS INC /DE/",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WINT",
+    "WINTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "943171943",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2154889300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DISCOVERY LABORATORIES INC /DE/",
+      "from": "1997-12-05T05:00:00.000Z",
+      "to": "2016-04-18T04:00:00.000Z"
+    },
+    {
+      "name": "ANSAN PHARMACEUTICALS INC",
+      "from": "1997-08-26T04:00:00.000Z",
+      "to": "1997-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "ANSAN INC",
+      "from": "1996-09-05T04:00:00.000Z",
+      "to": "1996-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:11 UTC"
+}

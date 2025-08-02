@@ -1,0 +1,26 @@
+{
+  "cik": "0001818383",
+  "name": "MediaAlpha, Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MAX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "851854133",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "619-393-9368",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 512,
+  "download_timestamp": "2025-08-02 07:25:17 UTC"
+}

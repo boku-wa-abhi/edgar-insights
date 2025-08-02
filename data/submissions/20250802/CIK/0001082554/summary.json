@@ -1,0 +1,26 @@
+{
+  "cik": "0001082554",
+  "name": "UNITED THERAPEUTICS Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UTHR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "521984749",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3016089292",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:31 UTC"
+}

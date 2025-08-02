@@ -1,0 +1,26 @@
+{
+  "cik": "0000083350",
+  "name": "RESERVE PETROLEUM CO",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RSRV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "730237060",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4058487551",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 290,
+  "download_timestamp": "2025-08-02 06:57:51 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000078749",
+  "name": "AGILYSYS INC",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AGYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "340907152",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7708107800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIONEER STANDARD ELECTRONICS INC",
+      "from": "1994-06-14T04:00:00.000Z",
+      "to": "2003-09-18T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:57:46 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001691421",
+  "name": "Lemonade, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LMND",
+    "LMND-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "320469673",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(844) 733-8666",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 399,
+  "download_timestamp": "2025-08-02 07:20:54 UTC"
+}

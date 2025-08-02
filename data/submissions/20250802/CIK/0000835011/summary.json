@@ -1,0 +1,32 @@
+{
+  "cik": "0000835011",
+  "name": "MGP INGREDIENTS INC",
+  "entityType": "operating",
+  "sic": "5180",
+  "sicDescription": "Wholesale-Beer, Wine & Distilled Alcoholic Beverages",
+  "stateOfIncorporation": "KS",
+  "stateOfIncorporationDescription": "KS",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGPI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "480531200",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9133671480",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MIDWEST GRAIN PRODUCTS INC",
+      "from": "1994-09-09T04:00:00.000Z",
+      "to": "2002-10-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:13 UTC"
+}

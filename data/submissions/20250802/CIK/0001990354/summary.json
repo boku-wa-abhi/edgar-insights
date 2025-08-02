@@ -1,0 +1,26 @@
+{
+  "cik": "0001990354",
+  "name": "Waystar Holding Corp.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WAY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "844-492-9782",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 184,
+  "download_timestamp": "2025-08-02 07:31:14 UTC"
+}

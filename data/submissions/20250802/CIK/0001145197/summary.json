@@ -1,0 +1,26 @@
+{
+  "cik": "0001145197",
+  "name": "INSULET CORP",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PODD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043523891",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "978-600-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:08:03 UTC"
+}

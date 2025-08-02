@@ -1,0 +1,38 @@
+{
+  "cik": "0001043219",
+  "name": "ANNALY CAPITAL MANAGEMENT INC",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NLY",
+    "NLY-PG",
+    "NLY-PF",
+    "NLY-PI"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "223479661",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212 696 0100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANNALY MORTGAGE MANAGEMENT INC",
+      "from": "1997-10-08T04:00:00.000Z",
+      "to": "2006-08-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:29 UTC"
+}

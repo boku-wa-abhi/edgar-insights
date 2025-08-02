@@ -1,0 +1,39 @@
+{
+  "cik": "0001278752",
+  "name": "MidCap Financial Investment Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MFIC",
+    "MFICL"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "522439556",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 822-0509",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "APOLLO INVESTMENT CORP",
+      "from": "2004-03-12T05:00:00.000Z",
+      "to": "2022-08-10T04:00:00.000Z"
+    },
+    {
+      "name": "APOLLO CAPITAL CORP",
+      "from": "2004-02-06T05:00:00.000Z",
+      "to": "2004-02-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 835,
+  "download_timestamp": "2025-08-02 07:09:32 UTC"
+}

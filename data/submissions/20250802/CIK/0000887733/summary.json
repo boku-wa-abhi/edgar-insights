@@ -1,0 +1,34 @@
+{
+  "cik": "0000887733",
+  "name": "CENTRAL GARDEN & PET CO",
+  "entityType": "operating",
+  "sic": "5190",
+  "sicDescription": "Wholesale-Miscellaneous Nondurable Goods",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0927",
+  "tickers": [
+    "CENT",
+    "CENTA"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "680275553",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9259484000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CENTRAL GARDEN & PET COMPANY",
+      "from": "1996-08-12T04:00:00.000Z",
+      "to": "2004-12-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:32 UTC"
+}

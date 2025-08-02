@@ -1,0 +1,36 @@
+{
+  "cik": "0002060337",
+  "name": "JENA ACQUISITION Corp II",
+  "entityType": "other",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JENA",
+    "JENA-RI",
+    "JENA-UN"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7023237330",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "JENA ACQUISITION CORPORARTION II",
+      "from": "2025-04-07T04:00:00.000Z",
+      "to": "2025-05-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 21,
+  "download_timestamp": "2025-08-02 07:33:31 UTC"
+}

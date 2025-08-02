@@ -1,0 +1,41 @@
+{
+  "cik": "0001080657",
+  "name": "Presidio Property Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SQFT",
+    "SQFTP",
+    "SQFTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "330841255",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "760-471-8536",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NETREIT, INC.",
+      "from": "2009-07-29T04:00:00.000Z",
+      "to": "2017-09-18T04:00:00.000Z"
+    },
+    {
+      "name": "NETREIT",
+      "from": "2005-05-16T04:00:00.000Z",
+      "to": "2010-08-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 877,
+  "download_timestamp": "2025-08-02 07:06:29 UTC"
+}

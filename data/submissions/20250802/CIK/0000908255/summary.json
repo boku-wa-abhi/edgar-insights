@@ -1,0 +1,32 @@
+{
+  "cik": "0000908255",
+  "name": "BORGWARNER INC",
+  "entityType": "operating",
+  "sic": "3714",
+  "sicDescription": "Motor Vehicle Parts & Accessories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BWA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133404508",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2487549200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BORG WARNER AUTOMOTIVE INC",
+      "from": "1995-02-15T05:00:00.000Z",
+      "to": "2000-02-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:03:07 UTC"
+}

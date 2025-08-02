@@ -1,0 +1,26 @@
+{
+  "cik": "0001666071",
+  "name": "Cardlytics, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDLX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "263039436",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "888-798-5802",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 952,
+  "download_timestamp": "2025-08-02 07:20:10 UTC"
+}

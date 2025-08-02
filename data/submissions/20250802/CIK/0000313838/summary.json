@@ -1,0 +1,34 @@
+{
+  "cik": "0000313838",
+  "name": "Sony Group Corp",
+  "entityType": "other",
+  "sic": "3651",
+  "sicDescription": "Household Audio & Video Equipment",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SONY",
+    "SNEJF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81-3-6748-2111",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SONY CORP",
+      "from": "1996-09-25T04:00:00.000Z",
+      "to": "2021-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:39 UTC"
+}

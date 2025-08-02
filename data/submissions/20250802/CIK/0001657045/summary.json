@@ -1,0 +1,42 @@
+{
+  "cik": "0001657045",
+  "name": "NEXT-ChemX Corporation.",
+  "entityType": "operating",
+  "sic": "2890",
+  "sicDescription": "Miscellaneous Chemical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHMX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "320446353",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "512-663-2690",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AllyMe Group, Inc./NV",
+      "from": "2019-01-09T05:00:00.000Z",
+      "to": "2021-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "Wewin Group Corp.",
+      "from": "2017-08-15T04:00:00.000Z",
+      "to": "2018-12-19T05:00:00.000Z"
+    },
+    {
+      "name": "Makh Group Corp.",
+      "from": "2016-02-11T05:00:00.000Z",
+      "to": "2017-08-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 127,
+  "download_timestamp": "2025-08-02 07:19:58 UTC"
+}

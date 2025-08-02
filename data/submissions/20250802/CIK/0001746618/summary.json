@@ -1,0 +1,37 @@
+{
+  "cik": "0001746618",
+  "name": "Revolve Group, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RVLV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(562) 677-9480",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Revolve Group, LLC",
+      "from": "2018-10-19T04:00:00.000Z",
+      "to": "2019-06-06T04:00:00.000Z"
+    },
+    {
+      "name": "Advance Holdings, LLC",
+      "from": "2018-07-18T04:00:00.000Z",
+      "to": "2018-10-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 385,
+  "download_timestamp": "2025-08-02 07:22:43 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001716947",
+  "name": "Ensysce Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ENSC",
+    "ENSCW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "822755287",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(858) 263-4196",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Leisure Acquisition Corp.",
+      "from": "2017-10-03T04:00:00.000Z",
+      "to": "2021-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 499,
+  "download_timestamp": "2025-08-02 07:21:44 UTC"
+}

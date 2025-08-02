@@ -1,0 +1,34 @@
+{
+  "cik": "0001805521",
+  "name": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FFAI",
+    "FFAIW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "844720320",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "646 502 9845",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Property Solutions Acquisition Corp.",
+      "from": "2020-03-11T04:00:00.000Z",
+      "to": "2021-07-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 660,
+  "download_timestamp": "2025-08-02 07:24:42 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001020859",
+  "name": "UNITED NATURAL FOODS INC",
+  "entityType": "operating",
+  "sic": "5141",
+  "sicDescription": "Wholesale-Groceries, General Line",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0731",
+  "tickers": [
+    "UNFI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "050376157",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "401-528-8634",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:52 UTC"
+}

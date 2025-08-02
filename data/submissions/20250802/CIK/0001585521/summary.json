@@ -1,0 +1,32 @@
+{
+  "cik": "0001585521",
+  "name": "Zoom Communications, Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "ZM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "611648780",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(888) 799-9666",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zoom Video Communications, Inc.",
+      "from": "2013-09-04T04:00:00.000Z",
+      "to": "2024-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:17:50 UTC"
+}

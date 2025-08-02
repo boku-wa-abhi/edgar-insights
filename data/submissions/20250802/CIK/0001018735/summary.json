@@ -1,0 +1,26 @@
+{
+  "cik": "0001018735",
+  "name": "NYMOX PHARMACEUTICAL CORP",
+  "entityType": "other",
+  "sic": "2835",
+  "sicDescription": "In Vitro & In Vivo Diagnostic Substances",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NYMXF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "1-800-936-9669",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 397,
+  "download_timestamp": "2025-08-02 07:04:49 UTC"
+}

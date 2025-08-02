@@ -1,0 +1,32 @@
+{
+  "cik": "0001315257",
+  "name": "Koppers Holdings Inc.",
+  "entityType": "operating",
+  "sic": "2400",
+  "sicDescription": "Lumber & Wood Products (No Furniture)",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KOP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "201878963",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "412-227-2001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KI Holdings Inc.",
+      "from": "2005-02-14T05:00:00.000Z",
+      "to": "2005-11-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:10:18 UTC"
+}

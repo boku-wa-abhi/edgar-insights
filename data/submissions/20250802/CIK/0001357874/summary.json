@@ -1,0 +1,26 @@
+{
+  "cik": "0001357874",
+  "name": "PRECISION BIOSCIENCES INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTIL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "919-314-5512",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 500,
+  "download_timestamp": "2025-08-02 07:11:14 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001806837",
+  "name": "Vertex, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VERX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "232081753",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(800) 355-3500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 522,
+  "download_timestamp": "2025-08-02 07:24:44 UTC"
+}

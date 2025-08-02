@@ -1,0 +1,26 @@
+{
+  "cik": "0001889956",
+  "name": "OneStream, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "873199478",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(248) 650-1490",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 170,
+  "download_timestamp": "2025-08-02 07:28:52 UTC"
+}

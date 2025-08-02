@@ -1,0 +1,47 @@
+{
+  "cik": "0001529113",
+  "name": "XTI Aerospace, Inc.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XTIA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "880434915",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-680-7412",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INPIXON",
+      "from": "2017-03-01T05:00:00.000Z",
+      "to": "2024-03-12T04:00:00.000Z"
+    },
+    {
+      "name": "Sysorex Global",
+      "from": "2016-02-16T05:00:00.000Z",
+      "to": "2017-02-28T05:00:00.000Z"
+    },
+    {
+      "name": "Sysorex Global Holdings Corp.",
+      "from": "2013-08-12T04:00:00.000Z",
+      "to": "2016-02-11T05:00:00.000Z"
+    },
+    {
+      "name": "Sysorex Global Holding Corp.",
+      "from": "2011-09-20T04:00:00.000Z",
+      "to": "2011-11-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 830,
+  "download_timestamp": "2025-08-02 07:16:07 UTC"
+}

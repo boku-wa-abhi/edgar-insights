@@ -1,0 +1,26 @@
+{
+  "cik": "0001514743",
+  "name": "IF Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "IROQ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "451834449",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(815) 432-2476",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 391,
+  "download_timestamp": "2025-08-02 07:15:36 UTC"
+}

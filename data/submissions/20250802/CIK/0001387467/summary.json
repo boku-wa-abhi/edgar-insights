@@ -1,0 +1,26 @@
+{
+  "cik": "0001387467",
+  "name": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "AOSL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "408-830-9742",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 891,
+  "download_timestamp": "2025-08-02 07:11:59 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001348362",
+  "name": "Lexaria Bioscience Corp.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "LEXX",
+    "LEXXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "202000871",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "250-765-6424",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Lexaria Corp.",
+      "from": "2008-03-03T05:00:00.000Z",
+      "to": "2016-05-11T04:00:00.000Z"
+    },
+    {
+      "name": "LEXARIA CORP.",
+      "from": "2008-03-03T05:00:00.000Z",
+      "to": "2016-05-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:02 UTC"
+}

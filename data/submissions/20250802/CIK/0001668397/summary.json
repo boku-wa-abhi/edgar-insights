@@ -1,0 +1,26 @@
+{
+  "cik": "0001668397",
+  "name": "Medpace Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MEDP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "320434904",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(513) 579-9911",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 792,
+  "download_timestamp": "2025-08-02 07:20:13 UTC"
+}

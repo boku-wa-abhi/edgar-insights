@@ -1,0 +1,37 @@
+{
+  "cik": "0000740260",
+  "name": "Ventas, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "611055020",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3126603800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VENTAS INC",
+      "from": "1998-11-19T05:00:00.000Z",
+      "to": "2019-06-25T04:00:00.000Z"
+    },
+    {
+      "name": "VENCOR INC",
+      "from": "1994-12-08T05:00:00.000Z",
+      "to": "1998-02-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:59:41 UTC"
+}

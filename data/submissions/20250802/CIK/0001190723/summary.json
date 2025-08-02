@@ -1,0 +1,28 @@
+{
+  "cik": "0001190723",
+  "name": "TENARIS SA",
+  "entityType": "other",
+  "sic": "3312",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "TS",
+    "TNRSF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-888-300-5432",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 714,
+  "download_timestamp": "2025-08-02 07:08:47 UTC"
+}

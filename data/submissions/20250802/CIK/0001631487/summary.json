@@ -1,0 +1,37 @@
+{
+  "cik": "0001631487",
+  "name": "CollPlant Biotechnologies Ltd",
+  "entityType": "other",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CLGN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "972-73-232-5600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CollPlant Biotechnologies Ltd.",
+      "from": "2019-06-20T04:00:00.000Z",
+      "to": "2019-06-20T04:00:00.000Z"
+    },
+    {
+      "name": "CollPlant Holdings Ltd.",
+      "from": "2015-02-20T05:00:00.000Z",
+      "to": "2019-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 270,
+  "download_timestamp": "2025-08-02 07:19:12 UTC"
+}

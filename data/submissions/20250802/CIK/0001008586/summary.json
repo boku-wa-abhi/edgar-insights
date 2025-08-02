@@ -1,0 +1,37 @@
+{
+  "cik": "0001008586",
+  "name": "STREAMLINE HEALTH SOLUTIONS INC.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "STRM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "311455414",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-997-8732",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STREEAMLINE HEALTH SOLUTIONS INC.",
+      "from": "2006-08-22T04:00:00.000Z",
+      "to": "2006-08-22T04:00:00.000Z"
+    },
+    {
+      "name": "LANVISION SYSTEMS INC",
+      "from": "1996-06-12T04:00:00.000Z",
+      "to": "2006-06-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:35 UTC"
+}

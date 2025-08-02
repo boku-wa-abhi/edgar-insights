@@ -1,0 +1,32 @@
+{
+  "cik": "0001053507",
+  "name": "AMERICAN TOWER CORP /MA/",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "650723837",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6173757500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AMERICAN TOWER SYSTEMS CORP",
+      "from": "1998-02-13T05:00:00.000Z",
+      "to": "1998-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:05:47 UTC"
+}

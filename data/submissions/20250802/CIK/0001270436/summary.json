@@ -1,0 +1,42 @@
+{
+  "cik": "0001270436",
+  "name": "Cohen & Co Inc.",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "COHN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "161685692",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "215-701-9555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INSTITUTIONAL FINANCIAL MARKETS, INC.",
+      "from": "2011-01-24T05:00:00.000Z",
+      "to": "2017-09-01T04:00:00.000Z"
+    },
+    {
+      "name": "ALESCO FINANCIAL INC",
+      "from": "2006-10-06T04:00:00.000Z",
+      "to": "2009-12-15T05:00:00.000Z"
+    },
+    {
+      "name": "SUNSET FINANCIAL RESOURCES INC",
+      "from": "2003-12-08T05:00:00.000Z",
+      "to": "2006-10-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:23 UTC"
+}

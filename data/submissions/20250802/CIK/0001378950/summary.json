@@ -1,0 +1,32 @@
+{
+  "cik": "0001378950",
+  "name": "CarParts.com, Inc.",
+  "entityType": "operating",
+  "sic": "5531",
+  "sicDescription": "Retail-Auto & Home Supply Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "PRTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "680623433",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(310) 735-0085",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "U.S. Auto Parts Network, Inc.",
+      "from": "2006-11-02T05:00:00.000Z",
+      "to": "2020-08-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:11:45 UTC"
+}

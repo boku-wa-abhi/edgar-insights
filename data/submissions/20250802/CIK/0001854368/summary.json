@@ -1,0 +1,32 @@
+{
+  "cik": "0001854368",
+  "name": "Digi Power X Inc.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DGXX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "647-259-1790",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Digihost Technology Inc.",
+      "from": "2021-03-31T04:00:00.000Z",
+      "to": "2025-03-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:27:26 UTC"
+}

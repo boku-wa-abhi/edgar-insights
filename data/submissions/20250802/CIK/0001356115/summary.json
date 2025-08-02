@@ -1,0 +1,49 @@
+{
+  "cik": "0001356115",
+  "name": "NEXPOINT DIVERSIFIED REAL ESTATE TRUST",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NXDT",
+    "NXDT-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "800139099",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "214-276-6300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NexPoint Strategic Opportunities Fund",
+      "from": "2018-03-22T04:00:00.000Z",
+      "to": "2021-11-17T05:00:00.000Z"
+    },
+    {
+      "name": "NexPoint Credit Strategies Fund",
+      "from": "2011-05-26T04:00:00.000Z",
+      "to": "2018-03-08T05:00:00.000Z"
+    },
+    {
+      "name": "Pyxis Credit Strategies Fund",
+      "from": "2012-02-07T05:00:00.000Z",
+      "to": "2012-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "Highland Credit Strategies Fund",
+      "from": "2006-03-15T05:00:00.000Z",
+      "to": "2012-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 934,
+  "download_timestamp": "2025-08-02 07:11:11 UTC"
+}

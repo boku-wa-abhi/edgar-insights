@@ -1,0 +1,52 @@
+{
+  "cik": "0001495648",
+  "name": "Blackwell 3D Construction Corp.",
+  "entityType": "operating",
+  "sic": "1520",
+  "sicDescription": "General Bldg Contractors - Residential Bldgs",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "BDCC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "800778461",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "888-507-4751",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Power Americas Resource Group Ltd.",
+      "from": "2022-07-20T04:00:00.000Z",
+      "to": "2023-02-17T05:00:00.000Z"
+    },
+    {
+      "name": "Brisset Beer International, Inc.",
+      "from": "2014-07-30T04:00:00.000Z",
+      "to": "2022-07-13T04:00:00.000Z"
+    },
+    {
+      "name": "Buckeye Oil & Gas, Inc.",
+      "from": "2011-06-08T04:00:00.000Z",
+      "to": "2014-07-24T04:00:00.000Z"
+    },
+    {
+      "name": "Buckeye Oil Gas, Inc.",
+      "from": "2012-08-30T04:00:00.000Z",
+      "to": "2012-08-30T04:00:00.000Z"
+    },
+    {
+      "name": "Benefit Solutions Outsourcing Corp.",
+      "from": "2010-07-01T04:00:00.000Z",
+      "to": "2011-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 192,
+  "download_timestamp": "2025-08-02 07:14:56 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001905688",
+  "name": "AERO ENERGY Ltd",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "AAUGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-288-8005",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Angold Resources Ltd.",
+      "from": "2022-01-20T00:00:00.000Z",
+      "to": "2024-01-16T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:29:16 UTC"
+}

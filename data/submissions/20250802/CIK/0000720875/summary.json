@@ -1,0 +1,26 @@
+{
+  "cik": "0000720875",
+  "name": "DYNATRONICS CORP",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DYNT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870398434",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8015687000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 884,
+  "download_timestamp": "2025-08-02 06:59:24 UTC"
+}

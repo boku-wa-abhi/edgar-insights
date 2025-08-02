@@ -1,0 +1,39 @@
+{
+  "cik": "0001820190",
+  "name": "Scilex Holding Co",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCLX",
+    "SCLXW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(650) 516-4310",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Scilex Holding Company/DE",
+      "from": "2022-06-09T04:00:00.000Z",
+      "to": "2022-11-30T05:00:00.000Z"
+    },
+    {
+      "name": "Vickers Vantage Corp. I",
+      "from": "2020-08-19T04:00:00.000Z",
+      "to": "2022-11-15T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 601,
+  "download_timestamp": "2025-08-02 07:25:25 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001477009",
+  "name": "TREES Corp (Colorado)",
+  "entityType": "operating",
+  "sic": "5912",
+  "sicDescription": "Retail-Drug Stores and Proprietary Stores",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CANN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "208096131",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "303-759-1300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GENERAL CANNABIS CORP",
+      "from": "2015-06-18T04:00:00.000Z",
+      "to": "2022-06-14T04:00:00.000Z"
+    },
+    {
+      "name": "Advanced Cannabis Solutions, Inc.",
+      "from": "2013-11-14T05:00:00.000Z",
+      "to": "2015-06-04T04:00:00.000Z"
+    },
+    {
+      "name": "Promap Corp",
+      "from": "2009-11-25T05:00:00.000Z",
+      "to": "2013-10-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 651,
+  "download_timestamp": "2025-08-02 07:14:22 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001786909",
+  "name": "Sibanye Stillwater Ltd",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "T3",
+  "stateOfIncorporationDescription": "South Africa",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SBSW",
+    "SBYSF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "01127112789600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 336,
+  "download_timestamp": "2025-08-02 07:24:02 UTC"
+}

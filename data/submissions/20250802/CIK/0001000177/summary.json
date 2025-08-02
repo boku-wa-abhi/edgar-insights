@@ -1,0 +1,32 @@
+{
+  "cik": "0001000177",
+  "name": "NORDIC AMERICAN TANKERS Ltd",
+  "entityType": "other",
+  "sic": "4400",
+  "sicDescription": "Water Transportation",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NAT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(441) 292-7202",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NORDIC AMERICAN TANKER SHIPPING LTD",
+      "from": "1997-10-14T04:00:00.000Z",
+      "to": "2011-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 571,
+  "download_timestamp": "2025-08-02 07:04:17 UTC"
+}

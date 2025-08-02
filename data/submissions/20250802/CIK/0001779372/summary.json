@@ -1,0 +1,28 @@
+{
+  "cik": "0001779372",
+  "name": "HeartBeam, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BEAT",
+    "BEATW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "474881450",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "408-899-4443",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 206,
+  "download_timestamp": "2025-08-02 07:23:43 UTC"
+}

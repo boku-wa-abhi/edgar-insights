@@ -1,0 +1,26 @@
+{
+  "cik": "0001842022",
+  "name": "DT Midstream, Inc.",
+  "entityType": "operating",
+  "sic": "4922",
+  "sicDescription": "Natural Gas Transmission",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "382663964",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "313-402-8532",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 263,
+  "download_timestamp": "2025-08-02 07:26:41 UTC"
+}

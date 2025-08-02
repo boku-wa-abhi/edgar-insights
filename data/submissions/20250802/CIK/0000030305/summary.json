@@ -1,0 +1,26 @@
+{
+  "cik": "0000030305",
+  "name": "DUCOMMUN INC /DE/",
+  "entityType": "operating",
+  "sic": "3728",
+  "sicDescription": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DCO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "950693330",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "657-335-3665",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:56:43 UTC"
+}

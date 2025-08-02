@@ -1,0 +1,32 @@
+{
+  "cik": "0001815442",
+  "name": "Kymera Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KYMR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "812992166",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "857-285-5314",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Kymera Therapeutics, Inc.",
+      "from": "2020-06-22T04:00:00.000Z",
+      "to": "2025-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 456,
+  "download_timestamp": "2025-08-02 07:25:05 UTC"
+}

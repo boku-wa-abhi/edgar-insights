@@ -1,0 +1,42 @@
+{
+  "cik": "0001084937",
+  "name": "Green Rain Energy Holdings Inc.",
+  "entityType": "operating",
+  "sic": "9995",
+  "sicDescription": "Non-Operating Establishments",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GREH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "880395372",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "310-714-2950",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NOW Corp I",
+      "from": "2025-02-25T05:00:00.000Z",
+      "to": "2025-05-21T04:00:00.000Z"
+    },
+    {
+      "name": "NOW CORPORATION/NV",
+      "from": "2025-02-10T05:00:00.000Z",
+      "to": "2025-02-18T05:00:00.000Z"
+    },
+    {
+      "name": "HEALTHCOMP EVALUATION SERVICES CORP",
+      "from": "1999-12-06T05:00:00.000Z",
+      "to": "2002-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:06:36 UTC"
+}

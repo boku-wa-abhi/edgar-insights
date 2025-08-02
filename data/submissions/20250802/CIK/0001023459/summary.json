@@ -1,0 +1,32 @@
+{
+  "cik": "0001023459",
+  "name": "Simulations Plus, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "SLP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954595609",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "661-723-7723",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIMULATIONS PLUS INC",
+      "from": "1996-12-26T05:00:00.000Z",
+      "to": "2021-02-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:04:57 UTC"
+}

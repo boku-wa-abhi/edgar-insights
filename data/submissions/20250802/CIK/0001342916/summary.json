@@ -1,0 +1,42 @@
+{
+  "cik": "0001342916",
+  "name": "HNO International, Inc.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "HNOI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "202781289",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "951-305-8872",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CLENERGEN Corp",
+      "from": "2010-03-18T04:00:00.000Z",
+      "to": "2019-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "Clenergen Corp",
+      "from": "2010-03-18T04:00:00.000Z",
+      "to": "2019-08-20T04:00:00.000Z"
+    },
+    {
+      "name": "American Bonanza Resources Corp.",
+      "from": "2005-12-13T05:00:00.000Z",
+      "to": "2009-03-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 137,
+  "download_timestamp": "2025-08-02 07:10:56 UTC"
+}

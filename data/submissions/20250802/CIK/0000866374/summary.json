@@ -1,0 +1,37 @@
+{
+  "cik": "0000866374",
+  "name": "FLEX LTD.",
+  "entityType": "operating",
+  "sic": "3672",
+  "sicDescription": "Printed Circuit Boards",
+  "stateOfIncorporation": "U0",
+  "stateOfIncorporationDescription": "Singapore",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FLEX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981773351",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(512) 425-7929",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FLEXTRONICS INTERNATIONAL LTD.",
+      "from": "2006-07-05T04:00:00.000Z",
+      "to": "2016-09-06T04:00:00.000Z"
+    },
+    {
+      "name": "FLEXTRONICS INTERNATIONAL LTD",
+      "from": "1996-12-13T05:00:00.000Z",
+      "to": "2006-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:50 UTC"
+}

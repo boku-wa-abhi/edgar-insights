@@ -1,0 +1,34 @@
+{
+  "cik": "0002057463",
+  "name": "GCI Liberty, Inc.",
+  "entityType": "other",
+  "sic": "4841",
+  "sicDescription": "Cable & Other Pay Television Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLIBA",
+    "GLIBB",
+    "GLBAV",
+    "GLBKV",
+    "GLIBK"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7208755700",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 31,
+  "download_timestamp": "2025-08-02 07:33:26 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001479615",
+  "name": "Silence Therapeutics plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "SLN",
+    "SLNCF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44-0-20-3457 6900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 217,
+  "download_timestamp": "2025-08-02 07:14:28 UTC"
+}

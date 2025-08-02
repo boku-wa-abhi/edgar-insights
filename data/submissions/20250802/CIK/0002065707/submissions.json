@@ -1,0 +1,130 @@
+{
+  "cik": "0002065707",
+  "entityType": "other",
+  "sic": "5010",
+  "sicDescription": "Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Hillhouse Frontier Holdings Inc.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "331987355",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "addresses": {
+    "mailing": {
+      "street1": "20955 LYCOMING ST",
+      "street2": "SUITE 201",
+      "city": "DIAMOND BAR",
+      "stateOrCountry": "CA",
+      "zipCode": "91789",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "20955 LYCOMING ST",
+      "street2": "SUITE 201",
+      "city": "DIAMOND BAR",
+      "stateOrCountry": "CA",
+      "zipCode": "91789",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "661-508-8888",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001477932-25-005172",
+        "0001477932-25-004631",
+        "0001477932-25-002950"
+      ],
+      "filingDate": [
+        "2025-07-21",
+        "2025-06-17",
+        "2025-04-25"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-21T19:31:01.000Z",
+        "2025-06-16T22:58:06.000Z",
+        "2025-04-24T21:56:11.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-288808",
+        "377-07939",
+        "377-07939"
+      ],
+      "filmNumber": [
+        "251137094",
+        "251051444",
+        "25869162"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "S-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        3948192,
+        3829918,
+        1349010
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "hillhouse_s1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "FORM S-1",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

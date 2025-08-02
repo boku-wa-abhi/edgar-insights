@@ -1,0 +1,26 @@
+{
+  "cik": "0001569345",
+  "name": "Sprinklr, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "CXM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "454771485",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(917) 933-7800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 597,
+  "download_timestamp": "2025-08-02 07:17:17 UTC"
+}

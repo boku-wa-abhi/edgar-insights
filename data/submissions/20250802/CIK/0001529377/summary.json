@@ -1,0 +1,26 @@
+{
+  "cik": "0001529377",
+  "name": "Ares Commercial Real Estate Corp",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ACRE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "453148087",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "212.515.3400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 617,
+  "download_timestamp": "2025-08-02 07:16:08 UTC"
+}

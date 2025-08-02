@@ -1,0 +1,26 @@
+{
+  "cik": "0001555280",
+  "name": "Zoetis Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZTS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "460696167",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "973-822-7000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1014,
+  "download_timestamp": "2025-08-02 07:16:52 UTC"
+}

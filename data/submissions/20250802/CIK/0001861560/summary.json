@@ -1,0 +1,26 @@
+{
+  "cik": "0001861560",
+  "name": "Nuvalent, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NUVL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "508-446-2272",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 420,
+  "download_timestamp": "2025-08-02 07:27:48 UTC"
+}

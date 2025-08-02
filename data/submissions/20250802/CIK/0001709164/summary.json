@@ -1,0 +1,26 @@
+{
+  "cik": "0001709164",
+  "name": "Hamilton Beach Brands Holding Co",
+  "entityType": "operating",
+  "sic": "3634",
+  "sicDescription": "Electric Housewares & Fans",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311236686",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "804-273-9777",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:21:28 UTC"
+}

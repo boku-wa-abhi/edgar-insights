@@ -1,0 +1,26 @@
+{
+  "cik": "0001434728",
+  "name": "Global Water Resources, Inc.",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GWRS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "900632193",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "480-999-3461",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:13:13 UTC"
+}

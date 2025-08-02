@@ -1,0 +1,26 @@
+{
+  "cik": "0000934549",
+  "name": "ACACIA RESEARCH CORP",
+  "entityType": "operating",
+  "sic": "6794",
+  "sicDescription": "Patent Owners & Lessors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACTG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954405754",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "332-236-8500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:04:01 UTC"
+}

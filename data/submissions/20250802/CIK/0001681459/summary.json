@@ -1,0 +1,32 @@
+{
+  "cik": "0001681459",
+  "name": "TechnipFMC plc",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981283037",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 191 295 0303",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TechnipFMC Ltd",
+      "from": "2016-08-10T04:00:00.000Z",
+      "to": "2016-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 632,
+  "download_timestamp": "2025-08-02 07:20:37 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001420108",
+  "name": "Glucose Health, Inc.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GLUC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "901117742",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Smaller reporting company",
+  "phone": "479-802-3827",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bio-Solutions Corp.",
+      "from": "2007-12-07T00:00:00.000Z",
+      "to": "2014-12-16T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 132,
+  "download_timestamp": "2025-08-02 07:12:52 UTC"
+}

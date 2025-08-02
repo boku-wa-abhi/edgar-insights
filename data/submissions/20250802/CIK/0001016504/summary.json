@@ -1,0 +1,37 @@
+{
+  "cik": "0001016504",
+  "name": "INTEGRATED BIOPHARMA INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "INBP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "222407475",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9739260816",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INTEGRATED HEALTH TECHNOLOGIES INC",
+      "from": "2002-09-12T04:00:00.000Z",
+      "to": "2003-04-16T04:00:00.000Z"
+    },
+    {
+      "name": "CHEM INTERNATIONAL INC",
+      "from": "1996-12-09T05:00:00.000Z",
+      "to": "2002-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 523,
+  "download_timestamp": "2025-08-02 07:04:47 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001160990",
+  "name": "PIMCO CORPORATE & INCOME STRATEGY FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PCN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-739-4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PIMCO CORPORATE INCOME FUND",
+      "from": "2001-10-19T04:00:00.000Z",
+      "to": "2012-02-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 538,
+  "download_timestamp": "2025-08-02 07:08:14 UTC"
+}

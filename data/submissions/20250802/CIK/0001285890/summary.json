@@ -1,0 +1,47 @@
+{
+  "cik": "0001285890",
+  "name": "Voya GLOBAL EQUITY DIVIDEND & PREMIUM OPPORTUNITY FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "IGD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "200940974",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "4804772114",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ING GLOBAL EQUITY DIVIDEND & PREMIUM Opportunity FUND",
+      "from": "2005-03-07T05:00:00.000Z",
+      "to": "2014-02-03T05:00:00.000Z"
+    },
+    {
+      "name": "ING GLOBAL EQUITY DIVIDEND & PREMIUM OPPORTUNITY FUND",
+      "from": "2005-03-07T05:00:00.000Z",
+      "to": "2014-02-03T05:00:00.000Z"
+    },
+    {
+      "name": "GLOBAL EQUITY DIVIDEND & PREMIUM OPPORTUNITY FUND",
+      "from": "2005-03-04T05:00:00.000Z",
+      "to": "2005-03-04T05:00:00.000Z"
+    },
+    {
+      "name": "ING GLOBAL DIVIDEND & INCOME FUND",
+      "from": "2004-04-08T04:00:00.000Z",
+      "to": "2005-01-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 341,
+  "download_timestamp": "2025-08-02 07:09:43 UTC"
+}

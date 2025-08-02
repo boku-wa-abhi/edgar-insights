@@ -1,0 +1,32 @@
+{
+  "cik": "0001946585",
+  "name": "Tekumo, Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TKMO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "954217605",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3034892950",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Balincan USA, Inc",
+      "from": "2022-09-23T00:00:00.000Z",
+      "to": "2023-12-19T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:30:06 UTC"
+}

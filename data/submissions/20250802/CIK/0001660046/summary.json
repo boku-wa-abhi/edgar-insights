@@ -1,0 +1,26 @@
+{
+  "cik": "0001660046",
+  "name": "Immuron Ltd",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "C3",
+  "stateOfIncorporationDescription": "Australia",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "IMRN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "61 03 9824 5254",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 348,
+  "download_timestamp": "2025-08-02 07:20:03 UTC"
+}

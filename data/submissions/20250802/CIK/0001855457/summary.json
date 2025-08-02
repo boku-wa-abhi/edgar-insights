@@ -1,0 +1,34 @@
+{
+  "cik": "0001855457",
+  "name": "KORE Group Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KORE",
+    "KORGW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "863078783",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "877-710-5673",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "King Pubco, Inc.",
+      "from": "2021-04-08T04:00:00.000Z",
+      "to": "2021-09-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 404,
+  "download_timestamp": "2025-08-02 07:27:31 UTC"
+}

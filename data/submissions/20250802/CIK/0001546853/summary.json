@@ -1,0 +1,32 @@
+{
+  "cik": "0001546853",
+  "name": "Skkynet Cloud Systems, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "SKKY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "453757848",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-702-7851",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Skyynet Cloud Systems, Inc.",
+      "from": "2012-04-26T04:00:00.000Z",
+      "to": "2012-04-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:16:39 UTC"
+}

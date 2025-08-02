@@ -1,0 +1,37 @@
+{
+  "cik": "0001172069",
+  "name": "P2 Solar, Inc.",
+  "entityType": "operating",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PTOS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980234680",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "778.321.0047",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NATCO INTERNATIONAL INC.",
+      "from": "2004-07-28T04:00:00.000Z",
+      "to": "2009-03-19T04:00:00.000Z"
+    },
+    {
+      "name": "SPECTRUM INTERNATIONAL INC",
+      "from": "2002-06-26T04:00:00.000Z",
+      "to": "2003-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 161,
+  "download_timestamp": "2025-08-02 07:08:30 UTC"
+}

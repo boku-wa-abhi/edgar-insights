@@ -1,0 +1,32 @@
+{
+  "cik": "0000275880",
+  "name": "PARSONS CORP",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PSN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "953232481",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "703-988-8500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PARSON CORP",
+      "from": "2019-02-11T05:00:00.000Z",
+      "to": "2019-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 386,
+  "download_timestamp": "2025-08-02 06:58:32 UTC"
+}

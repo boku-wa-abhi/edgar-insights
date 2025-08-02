@@ -1,0 +1,32 @@
+{
+  "cik": "0001788060",
+  "name": "Voyager Technologies, Inc./DE",
+  "entityType": "other",
+  "sic": "3760",
+  "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VOYG"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "842754888",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(303) 618-2040",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Voyager Space Holdings, Inc.",
+      "from": "2020-02-14T05:00:00.000Z",
+      "to": "2023-01-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:24:05 UTC"
+}

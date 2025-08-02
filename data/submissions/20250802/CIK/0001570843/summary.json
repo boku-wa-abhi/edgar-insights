@@ -1,0 +1,32 @@
+{
+  "cik": "0001570843",
+  "name": "Greenbriar Sustainable Living Inc.",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GEBRF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "949-903-5906",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Greenbriar Capital Corp.",
+      "from": "2013-03-01T05:00:00.000Z",
+      "to": "2023-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 102,
+  "download_timestamp": "2025-08-02 07:17:19 UTC"
+}

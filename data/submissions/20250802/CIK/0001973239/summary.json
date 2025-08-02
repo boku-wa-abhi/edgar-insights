@@ -1,0 +1,32 @@
+{
+  "cik": "0001973239",
+  "name": "ARM HOLDINGS PLC /UK",
+  "entityType": "other",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ARM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 1223 400 400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Arm Holdings Ltd",
+      "from": "2023-04-28T04:00:00.000Z",
+      "to": "2023-09-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 68,
+  "download_timestamp": "2025-08-02 07:30:49 UTC"
+}

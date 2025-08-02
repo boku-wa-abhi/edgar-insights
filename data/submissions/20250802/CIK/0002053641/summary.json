@@ -1,0 +1,26 @@
+{
+  "cik": "0002053641",
+  "name": "Elite Express Holding Inc.",
+  "entityType": "other",
+  "sic": "4210",
+  "sicDescription": "Trucking & Courier Services (No Air)",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "ETS"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "992516128",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "9497580650",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 7,
+  "download_timestamp": "2025-08-02 07:33:21 UTC"
+}

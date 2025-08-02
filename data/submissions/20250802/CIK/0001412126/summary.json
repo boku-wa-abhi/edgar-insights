@@ -1,0 +1,42 @@
+{
+  "cik": "0001412126",
+  "name": "RemSleep Holdings Inc.",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RMSL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "383759675",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(727) 955-4465",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OBICOM, INC.",
+      "from": "2014-06-02T00:00:00.000Z",
+      "to": "2014-11-10T00:00:00.000Z"
+    },
+    {
+      "name": "Kat Gold Holdings Corp.",
+      "from": "2010-08-09T00:00:00.000Z",
+      "to": "2014-05-13T00:00:00.000Z"
+    },
+    {
+      "name": "Bella Viaggio, Inc.",
+      "from": "2007-10-16T00:00:00.000Z",
+      "to": "2010-07-29T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:12:38 UTC"
+}

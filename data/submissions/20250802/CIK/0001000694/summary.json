@@ -1,0 +1,26 @@
+{
+  "cik": "0001000694",
+  "name": "NOVAVAX INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVAX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "222816046",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "240-268-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:20 UTC"
+}

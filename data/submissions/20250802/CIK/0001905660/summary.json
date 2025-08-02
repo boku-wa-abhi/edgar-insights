@@ -1,0 +1,36 @@
+{
+  "cik": "0001905660",
+  "name": "Hub Cyber Security Ltd.",
+  "entityType": "other",
+  "sic": "3576",
+  "sicDescription": "Computer Communications Equipment",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HUBC",
+    "HUBCW",
+    "HUBCZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "972 3 791 3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hub Cyber Security (Israel) Ltd.",
+      "from": "2022-03-23T04:00:00.000Z",
+      "to": "2022-12-29T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 134,
+  "download_timestamp": "2025-08-02 07:29:16 UTC"
+}

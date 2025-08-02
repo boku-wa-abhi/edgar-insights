@@ -1,0 +1,34 @@
+{
+  "cik": "0000066570",
+  "name": "MSA Safety Inc",
+  "entityType": "operating",
+  "sic": "3842",
+  "sicDescription": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSA",
+    "MNESP"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "464914539",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "724-776-8600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MINE SAFETY APPLIANCES CO",
+      "from": "1994-05-11T04:00:00.000Z",
+      "to": "2014-03-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:28 UTC"
+}

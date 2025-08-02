@@ -1,0 +1,37 @@
+{
+  "cik": "0001756655",
+  "name": "Ardent Health, Inc.",
+  "entityType": "operating",
+  "sic": "8062",
+  "sicDescription": "Services-General Medical & Surgical Hospitals, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ARDT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "611764793",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "6152963000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ardent Health Partners, Inc.",
+      "from": "2024-04-12T04:00:00.000Z",
+      "to": "2025-05-23T04:00:00.000Z"
+    },
+    {
+      "name": "Ardent Health Partners, LLC",
+      "from": "2018-10-26T04:00:00.000Z",
+      "to": "2024-07-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 113,
+  "download_timestamp": "2025-08-02 07:23:00 UTC"
+}

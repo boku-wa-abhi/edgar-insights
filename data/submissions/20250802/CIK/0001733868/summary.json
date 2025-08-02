@@ -1,0 +1,26 @@
+{
+  "cik": "0001733868",
+  "name": "CNFinance Holdings Ltd.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "86-020-62316688",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:22:17 UTC"
+}

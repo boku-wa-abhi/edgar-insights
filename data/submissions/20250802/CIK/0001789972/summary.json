@@ -1,0 +1,42 @@
+{
+  "cik": "0001789972",
+  "name": "Cullinan Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CGEM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813879991",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-410-4650",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cullinan Oncology, Inc.",
+      "from": "2021-02-26T05:00:00.000Z",
+      "to": "2024-04-02T04:00:00.000Z"
+    },
+    {
+      "name": "Cullinan Management, Inc.",
+      "from": "2020-12-01T05:00:00.000Z",
+      "to": "2021-02-22T05:00:00.000Z"
+    },
+    {
+      "name": "Cullinan Oncology, LLC",
+      "from": "2020-11-02T05:00:00.000Z",
+      "to": "2021-01-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 362,
+  "download_timestamp": "2025-08-02 07:24:10 UTC"
+}

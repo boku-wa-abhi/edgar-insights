@@ -1,0 +1,26 @@
+{
+  "cik": "0001880438",
+  "name": "AN2 Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ANTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "820606654",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(650) 331-9090",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 290,
+  "download_timestamp": "2025-08-02 07:28:35 UTC"
+}

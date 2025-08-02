@@ -1,0 +1,28 @@
+{
+  "cik": "0000063754",
+  "name": "MCCORMICK & CO INC",
+  "entityType": "operating",
+  "sic": "2090",
+  "sicDescription": "Miscellaneous Food Preparations & Kindred Products",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "MKC",
+    "MKC-V"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "520408290",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4107717301",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:57:22 UTC"
+}

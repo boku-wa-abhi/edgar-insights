@@ -1,0 +1,42 @@
+{
+  "cik": "0001876042",
+  "name": "Circle Internet Group, Inc.",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRCL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "992840247",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(332) 334-0660",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Circle Internet Financial Ltd",
+      "from": "2023-12-13T05:00:00.000Z",
+      "to": "2024-04-12T04:00:00.000Z"
+    },
+    {
+      "name": "Circle Internet Finance Public Ltd Co",
+      "from": "2021-12-23T05:00:00.000Z",
+      "to": "2022-12-05T05:00:00.000Z"
+    },
+    {
+      "name": "CIrcle Acquisition Public Ltd Co",
+      "from": "2021-08-06T04:00:00.000Z",
+      "to": "2021-10-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 86,
+  "download_timestamp": "2025-08-02 07:28:25 UTC"
+}

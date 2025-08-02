@@ -1,0 +1,41 @@
+{
+  "cik": "0000046195",
+  "name": "BANK OF HAWAII CORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BOH",
+    "BOH-PA",
+    "BOH-PB"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "990148992",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8886433888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PACIFIC CENTURY FINANCIAL CORP",
+      "from": "1997-07-11T04:00:00.000Z",
+      "to": "2002-05-01T04:00:00.000Z"
+    },
+    {
+      "name": "BANCORP HAWAII INC",
+      "from": "1994-02-09T05:00:00.000Z",
+      "to": "1997-04-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:57:04 UTC"
+}

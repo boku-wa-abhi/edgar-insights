@@ -1,0 +1,26 @@
+{
+  "cik": "0001575311",
+  "name": "Brookfield DTLA Fund Office Trust Investor Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DTLAP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "462616226",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(212) 417-7064",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 154,
+  "download_timestamp": "2025-08-02 07:17:27 UTC"
+}

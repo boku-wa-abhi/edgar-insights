@@ -1,0 +1,26 @@
+{
+  "cik": "0001538263",
+  "name": "HomeTrust Bancshares, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HTB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "828-259-3939",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 874,
+  "download_timestamp": "2025-08-02 07:16:26 UTC"
+}

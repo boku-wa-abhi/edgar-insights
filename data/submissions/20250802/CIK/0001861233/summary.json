@@ -1,0 +1,32 @@
+{
+  "cik": "0001861233",
+  "name": "illumin Holdings Inc.",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ILLMF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "416-218-9888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AcuityAds Holdings Inc.",
+      "from": "2021-06-08T00:00:00.000Z",
+      "to": "2023-06-20T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 54,
+  "download_timestamp": "2025-08-02 07:27:48 UTC"
+}

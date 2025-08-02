@@ -1,0 +1,209 @@
+{
+  "cik": "0002046216",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "ownerOrg": "02 Finance",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Beta FinTech Holdings Ltd",
+  "tickers": [
+    "BTFT"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": null,
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "addresses": {
+    "mailing": {
+      "street1": "RM3326, EAST BLOCK,CHINA MERCHANTS TOWER",
+      "street2": "168-200 CONNAUGHT ROAD CENTRAL",
+      "city": "SHEUNG WAN",
+      "stateOrCountry": "K3",
+      "zipCode": "00000",
+      "stateOrCountryDescription": "Hong Kong",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "RM3326, EAST BLOCK,CHINA MERCHANTS TOWER",
+      "street2": "168-200 CONNAUGHT ROAD CENTRAL",
+      "city": "SHEUNG WAN",
+      "stateOrCountry": "K3",
+      "zipCode": "00000",
+      "stateOrCountryDescription": "Hong Kong",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "852 3590 9488",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-065549",
+        "0001213900-25-059029",
+        "0001213900-25-050918",
+        "0001213900-25-033088",
+        "0001213900-25-020906",
+        "0001213900-25-007597",
+        "0001213900-24-111933",
+        "0001213900-24-108746"
+      ],
+      "filingDate": [
+        "2025-07-18",
+        "2025-06-27",
+        "2025-06-04",
+        "2025-04-18",
+        "2025-03-06",
+        "2025-01-28",
+        "2024-12-23",
+        "2024-12-13"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-18T18:03:02.000Z",
+        "2025-06-27T20:24:46.000Z",
+        "2025-06-04T00:30:23.000Z",
+        "2025-04-18T00:28:12.000Z",
+        "2025-03-06T02:49:13.000Z",
+        "2025-01-28T22:16:15.000Z",
+        "2024-12-23T21:34:05.000Z",
+        "2024-12-13T17:36:46.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287759",
+        "333-287759",
+        "333-287759",
+        "377-07604",
+        "377-07604",
+        "377-07604",
+        "377-07604",
+        "377-07604"
+      ],
+      "filmNumber": [
+        "251133850",
+        "251086701",
+        "251021608",
+        "25849044",
+        "25713413",
+        "25565729",
+        "241574148",
+        "241547515"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        16497652,
+        16396206,
+        19293211,
+        15299029,
+        13094224,
+        12795107,
+        12576380,
+        12391128
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0223281-14.htm",
+        "ea0223281-12.htm",
+        "ea0223281-10.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION STATEMENT",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

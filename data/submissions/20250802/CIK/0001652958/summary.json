@@ -1,0 +1,42 @@
+{
+  "cik": "0001652958",
+  "name": "Edgemode, Inc.",
+  "entityType": "operating",
+  "sic": "8082",
+  "sicDescription": "Services-Home Health Care Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EDGM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "474046237",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "707-687-9093",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FOURTH WAVE ENERGY, INC.",
+      "from": "2020-04-16T04:00:00.000Z",
+      "to": "2022-06-08T04:00:00.000Z"
+    },
+    {
+      "name": "PIERRE CORP.",
+      "from": "2018-11-13T05:00:00.000Z",
+      "to": "2020-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "Wadena Corp.",
+      "from": "2015-09-18T04:00:00.000Z",
+      "to": "2018-11-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 169,
+  "download_timestamp": "2025-08-02 07:19:52 UTC"
+}

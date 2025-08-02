@@ -1,0 +1,32 @@
+{
+  "cik": "0001505952",
+  "name": "DOMO, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "DOMO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "273687433",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "801-899-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SHACHO, INC.",
+      "from": "2010-11-19T05:00:00.000Z",
+      "to": "2010-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 460,
+  "download_timestamp": "2025-08-02 07:15:19 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001320350",
+  "name": "LENSAR, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LNSR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "320125724",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "888-536-7271",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LensAR Inc",
+      "from": "2007-06-29T04:00:00.000Z",
+      "to": "2015-01-14T05:00:00.000Z"
+    },
+    {
+      "name": "LaserSoft Vision Inc",
+      "from": "2005-03-08T05:00:00.000Z",
+      "to": "2006-06-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 273,
+  "download_timestamp": "2025-08-02 07:10:24 UTC"
+}

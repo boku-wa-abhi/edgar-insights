@@ -1,0 +1,100 @@
+{
+  "cik": "0001997081",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Asahi Intecc Co., Ltd./ADR",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0630",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "addresses": {
+    "mailing": {
+      "street1": "C/O CITIBANK, N.A.",
+      "street2": "388 GREENWICH ST",
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10013",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "ASAHI INTECC CO. LTD.",
+      "street2": "3-100 AKATSUKI-CHO",
+      "city": "SETO, AICHI",
+      "stateOrCountry": "M0",
+      "zipCode": "489-0071",
+      "stateOrCountryDescription": "Japan",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193805-23-001412"
+      ],
+      "filingDate": [
+        "2023-10-17"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-10-17T16:58:17.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "F-6EF"
+      ],
+      "fileNumber": [
+        "333-275019"
+      ],
+      "filmNumber": [
+        "231329156"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "F-6EF"
+      ],
+      "size": [
+        141309
+      ],
+      "isXBRL": [
+        0
+      ],
+      "isInlineXBRL": [
+        0
+      ],
+      "primaryDocument": [
+        "e619007_f6ef-asahi.htm"
+      ],
+      "primaryDocDescription": [
+        ""
+      ]
+    },
+    "files": []
+  }
+}

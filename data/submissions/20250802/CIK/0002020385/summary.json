@@ -1,0 +1,30 @@
+{
+  "cik": "0002020385",
+  "name": "Tavia Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TAVI",
+    "TAVIR",
+    "TAVIU"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-506-6298",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 52,
+  "download_timestamp": "2025-08-02 07:32:13 UTC"
+}

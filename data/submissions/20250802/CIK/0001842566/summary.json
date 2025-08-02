@@ -1,0 +1,34 @@
+{
+  "cik": "0001842566",
+  "name": "Airship AI Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AISP",
+    "AISPW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "934974766",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(877) 462-4250",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BYTE Acquisition Corp.",
+      "from": "2021-02-03T05:00:00.000Z",
+      "to": "2023-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 250,
+  "download_timestamp": "2025-08-02 07:26:44 UTC"
+}

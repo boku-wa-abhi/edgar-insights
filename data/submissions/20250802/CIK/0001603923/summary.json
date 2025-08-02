@@ -1,0 +1,32 @@
+{
+  "cik": "0001603923",
+  "name": "Weatherford International plc",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WFRD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "980606750",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "713.836.4000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Weatherford International Ltd",
+      "from": "2014-04-02T04:00:00.000Z",
+      "to": "2014-06-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 919,
+  "download_timestamp": "2025-08-02 07:18:22 UTC"
+}

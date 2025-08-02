@@ -1,0 +1,32 @@
+{
+  "cik": "0000028823",
+  "name": "DIEBOLD NIXDORF, Inc",
+  "entityType": "operating",
+  "sic": "3578",
+  "sicDescription": "Calculating & Accounting Machines (No Electronic Computers)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DBD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340183970",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3304904000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "DIEBOLD INC",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2016-12-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:40 UTC"
+}

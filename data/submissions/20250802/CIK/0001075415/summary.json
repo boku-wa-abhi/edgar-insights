@@ -1,0 +1,36 @@
+{
+  "cik": "0001075415",
+  "name": "DIVERSIFIED HEALTHCARE TRUST",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DHC",
+    "DHCNI",
+    "DHCNL"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "043445278",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(617) 796-8350",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SENIOR HOUSING PROPERTIES TRUST",
+      "from": "1998-12-24T05:00:00.000Z",
+      "to": "2019-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:24 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001025996",
+  "name": "KILROY REALTY CORP",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "954598246",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3104818400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:05:02 UTC"
+}

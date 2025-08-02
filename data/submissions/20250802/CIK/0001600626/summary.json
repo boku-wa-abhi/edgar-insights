@@ -1,0 +1,47 @@
+{
+  "cik": "0001600626",
+  "name": "Peakstone Realty Trust",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PKST"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "464654479",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "310-606-3200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Griffin Realty Trust",
+      "from": "2023-02-21T05:00:00.000Z",
+      "to": "2023-02-27T05:00:00.000Z"
+    },
+    {
+      "name": "Griffin Realty Trust, Inc.",
+      "from": "2021-07-06T04:00:00.000Z",
+      "to": "2023-01-20T05:00:00.000Z"
+    },
+    {
+      "name": "Griffin Capital Essential Asset REIT, Inc.",
+      "from": "2019-07-24T04:00:00.000Z",
+      "to": "2021-06-16T04:00:00.000Z"
+    },
+    {
+      "name": "Griffin Capital Essential Asset REIT II, Inc.",
+      "from": "2014-03-03T05:00:00.000Z",
+      "to": "2019-07-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 714,
+  "download_timestamp": "2025-08-02 07:18:16 UTC"
+}

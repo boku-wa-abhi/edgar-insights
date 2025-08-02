@@ -1,0 +1,32 @@
+{
+  "cik": "0001121484",
+  "name": "OIL STATES INTERNATIONAL, INC",
+  "entityType": "operating",
+  "sic": "3533",
+  "sicDescription": "Oil & Gas Field Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OIS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760476605",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "713-652-0582",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OIL STATES INTERNATIONAL INC",
+      "from": "2000-12-12T05:00:00.000Z",
+      "to": "2006-03-13T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:07:27 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001628369",
+  "name": "Cushman & Wakefield plc",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "Y9",
+  "stateOfIncorporationDescription": "Jersey",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981193584",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 20 3296 3000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cushman & Wakefield Ltd",
+      "from": "2018-07-13T04:00:00.000Z",
+      "to": "2018-07-17T04:00:00.000Z"
+    },
+    {
+      "name": "DTZ Jersey Holdings Ltd",
+      "from": "2014-12-31T05:00:00.000Z",
+      "to": "2018-07-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 570,
+  "download_timestamp": "2025-08-02 07:19:09 UTC"
+}

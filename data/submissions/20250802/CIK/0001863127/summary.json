@@ -1,0 +1,26 @@
+{
+  "cik": "0001863127",
+  "name": "Tyra Biosciences, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TYRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831476348",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(619) 728-4760",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 328,
+  "download_timestamp": "2025-08-02 07:27:52 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001774857",
+  "name": "Aardvark Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AARD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821606367",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(858) 225-7696",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 54,
+  "download_timestamp": "2025-08-02 07:23:35 UTC"
+}

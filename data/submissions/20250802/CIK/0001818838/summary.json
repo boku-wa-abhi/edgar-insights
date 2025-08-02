@@ -1,0 +1,26 @@
+{
+  "cik": "0001818838",
+  "name": "Adagene Inc.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ADAG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "86-512-87773632",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 138,
+  "download_timestamp": "2025-08-02 07:25:17 UTC"
+}

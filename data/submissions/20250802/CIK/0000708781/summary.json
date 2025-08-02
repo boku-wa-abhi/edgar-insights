@@ -1,0 +1,32 @@
+{
+  "cik": "0000708781",
+  "name": "CASS INFORMATION SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CASS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "431265338",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "314-506-5500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CASS COMMERCIAL CORP",
+      "from": "1996-10-31T05:00:00.000Z",
+      "to": "2001-01-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 06:59:06 UTC"
+}

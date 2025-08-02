@@ -1,0 +1,30 @@
+{
+  "cik": "0001970509",
+  "name": "Haymaker Acquisition Corp. 4",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HYAC",
+    "HYAC-UN",
+    "HYAC-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "2126169600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 53,
+  "download_timestamp": "2025-08-02 07:30:43 UTC"
+}

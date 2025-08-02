@@ -1,0 +1,34 @@
+{
+  "cik": "0001824920",
+  "name": "IonQ, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IONQ",
+    "IONQ-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "852992192",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(301) 298-7997",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "dMY Technology Group, Inc. III",
+      "from": "2020-09-29T04:00:00.000Z",
+      "to": "2021-10-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 432,
+  "download_timestamp": "2025-08-02 07:25:40 UTC"
+}

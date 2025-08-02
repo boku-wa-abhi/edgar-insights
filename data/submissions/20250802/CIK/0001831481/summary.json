@@ -1,0 +1,32 @@
+{
+  "cik": "0001831481",
+  "name": "Sable Offshore Corp.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "853514078",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(713) 579-6106",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Flame Acquisition Corp.",
+      "from": "2020-11-30T05:00:00.000Z",
+      "to": "2024-02-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 289,
+  "download_timestamp": "2025-08-02 07:26:04 UTC"
+}

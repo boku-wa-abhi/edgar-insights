@@ -1,0 +1,47 @@
+{
+  "cik": "0000895531",
+  "name": "Invesco California Value Municipal Income Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "VCV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "367017425",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Invesco Van Kampen California Value Municipal Income Trust",
+      "from": "2010-06-03T04:00:00.000Z",
+      "to": "2012-11-08T05:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN CALIFORNIA VALUE MUNICIPAL INCOME TRUST",
+      "from": "1998-12-29T05:00:00.000Z",
+      "to": "2010-03-31T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN AMERICAN CAPITAL CALIFORNIA VALUE MUNIC INC TRUST",
+      "from": "1996-06-28T04:00:00.000Z",
+      "to": "1998-06-10T04:00:00.000Z"
+    },
+    {
+      "name": "VAN KAMPEN MERRITT CALIFORNIA VALUE MUNICIPAL INCOME TRUST",
+      "from": "1994-06-29T04:00:00.000Z",
+      "to": "1995-12-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 578,
+  "download_timestamp": "2025-08-02 07:02:49 UTC"
+}

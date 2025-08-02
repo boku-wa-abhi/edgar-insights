@@ -1,0 +1,32 @@
+{
+  "cik": "0001357971",
+  "name": "Energy Services of America CORP",
+  "entityType": "operating",
+  "sic": "1623",
+  "sicDescription": "Water, Sewer, Pipeline, Comm & Power Line Construction",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ESOA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "204606266",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(304) 522-3868",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Energy Services Acquisition Corp.",
+      "from": "2006-04-07T04:00:00.000Z",
+      "to": "2008-08-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 668,
+  "download_timestamp": "2025-08-02 07:11:14 UTC"
+}

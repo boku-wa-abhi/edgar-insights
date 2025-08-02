@@ -1,0 +1,28 @@
+{
+  "cik": "0001640043",
+  "name": "Pyxis Tankers Inc.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PXS",
+    "PXSAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "2106560590",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 263,
+  "download_timestamp": "2025-08-02 07:19:27 UTC"
+}

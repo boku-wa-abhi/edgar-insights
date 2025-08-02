@@ -1,0 +1,26 @@
+{
+  "cik": "0000062234",
+  "name": "MARCUS CORP",
+  "entityType": "operating",
+  "sic": "7830",
+  "sicDescription": "Services-Motion Picture Theaters",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MCS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "391139844",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4149051000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:21 UTC"
+}

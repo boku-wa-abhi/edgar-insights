@@ -1,0 +1,32 @@
+{
+  "cik": "0001565025",
+  "name": "AMBEV S.A.",
+  "entityType": "other",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "D5",
+  "stateOfIncorporationDescription": "Brazil",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABEV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "55(11)2122-1414",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "InBev Corporate Holdings Inc.",
+      "from": "2012-12-20T05:00:00.000Z",
+      "to": "2013-03-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 970,
+  "download_timestamp": "2025-08-02 07:17:09 UTC"
+}

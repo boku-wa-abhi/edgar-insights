@@ -1,0 +1,47 @@
+{
+  "cik": "0001091596",
+  "name": "Nuo Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AURX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "233011702",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "832-236-9060",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nuo Therapeutics, Inc",
+      "from": "2014-11-13T05:00:00.000Z",
+      "to": "2014-12-23T05:00:00.000Z"
+    },
+    {
+      "name": "CYTOMEDIX INC",
+      "from": "2000-08-14T04:00:00.000Z",
+      "to": "2014-10-08T04:00:00.000Z"
+    },
+    {
+      "name": "AUTOLOGOUS WOUND THERAPY INC",
+      "from": "2000-04-12T04:00:00.000Z",
+      "to": "2000-04-10T04:00:00.000Z"
+    },
+    {
+      "name": "AUTOLOGOUS WOUND TRERAPY INC",
+      "from": "1999-12-10T05:00:00.000Z",
+      "to": "2000-03-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:46 UTC"
+}

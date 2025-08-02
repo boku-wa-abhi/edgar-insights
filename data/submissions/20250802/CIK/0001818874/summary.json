@@ -1,0 +1,32 @@
+{
+  "cik": "0001818874",
+  "name": "SoFi Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOFI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981547291",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(855) 456-7634",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Social Capital Hedosophia Holdings Corp. V",
+      "from": "2020-07-28T04:00:00.000Z",
+      "to": "2021-05-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 781,
+  "download_timestamp": "2025-08-02 07:25:17 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001077688",
+  "name": "HOOKER FURNISHINGS Corp",
+  "entityType": "operating",
+  "sic": "2510",
+  "sicDescription": "Household Furniture",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "HOFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "540251350",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2766322133",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HOOKER FURNITURE CORP",
+      "from": "1999-02-03T05:00:00.000Z",
+      "to": "2021-09-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:06:27 UTC"
+}

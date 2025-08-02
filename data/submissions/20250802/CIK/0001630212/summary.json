@@ -1,0 +1,32 @@
+{
+  "cik": "0001630212",
+  "name": "Avalon GloboCare Corp.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALBT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471685128",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "732-780-4400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GLOBAL TECHNOLOGIES CORP",
+      "from": "2015-02-19T05:00:00.000Z",
+      "to": "2016-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 300,
+  "download_timestamp": "2025-08-02 07:19:11 UTC"
+}

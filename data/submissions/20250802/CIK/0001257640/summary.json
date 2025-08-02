@@ -1,0 +1,32 @@
+{
+  "cik": "0001257640",
+  "name": "KRONOS WORLDWIDE INC",
+  "entityType": "operating",
+  "sic": "2810",
+  "sicDescription": "Industrial Inorganic Chemicals",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "760294959",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "9722331700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "KRONOS INC",
+      "from": "2003-08-08T04:00:00.000Z",
+      "to": "2003-08-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:12 UTC"
+}

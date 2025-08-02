@@ -1,0 +1,34 @@
+{
+  "cik": "0001635077",
+  "name": "Aclarion, Inc.",
+  "entityType": "operating",
+  "sic": "8071",
+  "sicDescription": "Services-Medical Laboratories",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ACON",
+    "ACONW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "473324725",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "833 275 2266",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nocimed, Inc.",
+      "from": "2015-03-03T05:00:00.000Z",
+      "to": "2021-10-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 234,
+  "download_timestamp": "2025-08-02 07:19:18 UTC"
+}

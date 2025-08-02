@@ -1,0 +1,26 @@
+{
+  "cik": "0000861459",
+  "name": "GRANITE CONSTRUCTION INC",
+  "entityType": "operating",
+  "sic": "1600",
+  "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GVA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "770239383",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8317241011",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:42 UTC"
+}

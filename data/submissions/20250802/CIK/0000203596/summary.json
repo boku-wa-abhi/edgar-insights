@@ -1,0 +1,28 @@
+{
+  "cik": "0000203596",
+  "name": "WESBANCO INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "WV",
+  "stateOfIncorporationDescription": "WV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WSBC",
+    "WSBCP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "550571723",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3042349000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:29 UTC"
+}

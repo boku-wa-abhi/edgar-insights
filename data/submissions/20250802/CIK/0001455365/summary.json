@@ -1,0 +1,32 @@
+{
+  "cik": "0001455365",
+  "name": "COGNITION THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CGTX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "412-481-2210",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COGNITION THERAPUTICS INC",
+      "from": "2009-01-29T05:00:00.000Z",
+      "to": "2010-12-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 252,
+  "download_timestamp": "2025-08-02 07:13:49 UTC"
+}

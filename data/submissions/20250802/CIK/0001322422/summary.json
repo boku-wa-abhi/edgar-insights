@@ -1,0 +1,26 @@
+{
+  "cik": "0001322422",
+  "name": "Hudbay Minerals Inc.",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HBM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980485558",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "416-362-8181",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 518,
+  "download_timestamp": "2025-08-02 07:10:27 UTC"
+}

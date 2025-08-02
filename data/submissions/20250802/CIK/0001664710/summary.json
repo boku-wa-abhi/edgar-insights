@@ -1,0 +1,26 @@
+{
+  "cik": "0001664710",
+  "name": "Keros Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KROS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "811173868",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "617-314-6297",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 426,
+  "download_timestamp": "2025-08-02 07:20:09 UTC"
+}

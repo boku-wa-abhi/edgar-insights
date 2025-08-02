@@ -1,0 +1,41 @@
+{
+  "cik": "0001825452",
+  "name": "Onfolio Holdings, Inc",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ONFO",
+    "ONFOP",
+    "ONFOW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(682) 990-6920",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Onfolio Holdings Inc",
+      "from": "2020-11-24T05:00:00.000Z",
+      "to": "2021-03-12T05:00:00.000Z"
+    },
+    {
+      "name": "Onfolio Holdings, Inc.",
+      "from": "2020-09-23T04:00:00.000Z",
+      "to": "2020-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 135,
+  "download_timestamp": "2025-08-02 07:25:42 UTC"
+}

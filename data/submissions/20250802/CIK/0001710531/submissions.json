@@ -1,0 +1,130 @@
+{
+  "cik": "0001710531",
+  "entityType": "other",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "ownerOrg": "03 Life Sciences",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Bonus Biogroup Ltd.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "addresses": {
+    "mailing": {
+      "street1": "P.O. BOX 15143",
+      "street2": null,
+      "city": "HAIFA",
+      "stateOrCountry": "L3",
+      "zipCode": "3190501",
+      "stateOrCountryDescription": "Israel",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "P.O. BOX 15143",
+      "street2": null,
+      "city": "HAIFA",
+      "stateOrCountry": "L3",
+      "zipCode": "3190501",
+      "stateOrCountryDescription": "Israel",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "972732067100",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-041347",
+        "0001213900-25-030658",
+        "0001213900-25-017908"
+      ],
+      "filingDate": [
+        "2025-05-09",
+        "2025-04-10",
+        "2025-02-27"
+      ],
+      "reportDate": [
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-05-09T16:06:35.000Z",
+        "2025-04-10T20:13:48.000Z",
+        "2025-02-27T20:15:49.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287132",
+        "377-07753",
+        "377-07753"
+      ],
+      "filmNumber": [
+        "25929133",
+        "25828548",
+        "25677910"
+      ],
+      "items": [
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        3786041,
+        3952065,
+        3115591
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0241191-f1_bonus.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001477049",
+  "name": "Sprott Physical Gold Trust",
+  "entityType": "other",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "PHYS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "416-362-7172",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 292,
+  "download_timestamp": "2025-08-02 07:14:22 UTC"
+}

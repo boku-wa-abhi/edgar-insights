@@ -1,0 +1,47 @@
+{
+  "cik": "0000064803",
+  "name": "CVS HEALTH Corp",
+  "entityType": "operating",
+  "sic": "5912",
+  "sicDescription": "Retail-Drug Stores and Proprietary Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CVS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "050494040",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4017651500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CVS CAREMARK CORP",
+      "from": "2006-12-27T05:00:00.000Z",
+      "to": "2014-09-03T04:00:00.000Z"
+    },
+    {
+      "name": "CVS/CAREMARK CORP",
+      "from": "2007-03-23T04:00:00.000Z",
+      "to": "2007-05-08T04:00:00.000Z"
+    },
+    {
+      "name": "CVS CORP",
+      "from": "1997-02-07T05:00:00.000Z",
+      "to": "2007-03-22T04:00:00.000Z"
+    },
+    {
+      "name": "MELVILLE CORP",
+      "from": "1994-03-31T05:00:00.000Z",
+      "to": "1997-01-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:24 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001867066",
+  "name": "Journey Medical Corp",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DERM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "471879539",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "480-434-6670",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 182,
+  "download_timestamp": "2025-08-02 07:28:04 UTC"
+}

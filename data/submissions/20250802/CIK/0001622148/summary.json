@@ -1,0 +1,26 @@
+{
+  "cik": "0001622148",
+  "name": "HIGHLAND GLOBAL ALLOCATION FUND",
+  "entityType": "investment",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HGLB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "916361402",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "214-276-6300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 116,
+  "download_timestamp": "2025-08-02 07:18:58 UTC"
+}

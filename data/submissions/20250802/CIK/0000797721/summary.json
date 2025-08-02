@@ -1,0 +1,26 @@
+{
+  "cik": "0000797721",
+  "name": "VIASAT INC",
+  "entityType": "operating",
+  "sic": "3663",
+  "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "VSAT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330174996",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "760-476-2200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:00:26 UTC"
+}

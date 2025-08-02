@@ -1,0 +1,26 @@
+{
+  "cik": "0000790051",
+  "name": "CARLISLE COMPANIES INC",
+  "entityType": "operating",
+  "sic": "3060",
+  "sicDescription": "Fabricated Rubber Products, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CSL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311168055",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480-781-5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:00:16 UTC"
+}

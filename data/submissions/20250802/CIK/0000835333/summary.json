@@ -1,0 +1,42 @@
+{
+  "cik": "0000835333",
+  "name": "Invesco Municipal Income Opportunities Trust",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0530",
+  "tickers": [
+    "OIA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133473972",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "404-439-3217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MORGAN STANLEY MUNICIPAL INCOME OPPORTUNITIES TRUST",
+      "from": "2002-01-29T05:00:00.000Z",
+      "to": "2010-05-06T04:00:00.000Z"
+    },
+    {
+      "name": "MSDW MUNICIPAL INCOME OPPORTUNITIES TRUST",
+      "from": "1999-01-29T05:00:00.000Z",
+      "to": "2001-07-27T04:00:00.000Z"
+    },
+    {
+      "name": "MUNICIPAL INCOME OPPORTUNITIES TRUST/MA",
+      "from": "1994-07-29T04:00:00.000Z",
+      "to": "1998-10-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 438,
+  "download_timestamp": "2025-08-02 07:01:14 UTC"
+}

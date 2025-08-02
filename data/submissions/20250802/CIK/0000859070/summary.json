@@ -1,0 +1,37 @@
+{
+  "cik": "0000859070",
+  "name": "FIRST COMMUNITY BANKSHARES INC /VA/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FCBC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "550694814",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "3043236300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST COMMUNITY BANCSHARES INC /NV/",
+      "from": "1997-12-10T05:00:00.000Z",
+      "to": "2018-10-16T04:00:00.000Z"
+    },
+    {
+      "name": "FCFT INC",
+      "from": "1996-05-15T04:00:00.000Z",
+      "to": "1997-03-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:39 UTC"
+}

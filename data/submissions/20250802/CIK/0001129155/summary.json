@@ -1,0 +1,26 @@
+{
+  "cik": "0001129155",
+  "name": "MARINE PRODUCTS CORP",
+  "entityType": "operating",
+  "sic": "3730",
+  "sicDescription": "Ship & Boat Building & Repairing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MPX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "582572419",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "404-321-2140",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:39 UTC"
+}

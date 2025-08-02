@@ -1,0 +1,26 @@
+{
+  "cik": "0001116942",
+  "name": "TTM TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "3672",
+  "sicDescription": "Printed Circuit Boards",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1229",
+  "tickers": [
+    "TTMI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911033443",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7143273000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:07:22 UTC"
+}

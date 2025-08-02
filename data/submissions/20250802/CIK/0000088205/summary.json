@@ -1,0 +1,32 @@
+{
+  "cik": "0000088205",
+  "name": "SPX Technologies, Inc.",
+  "entityType": "operating",
+  "sic": "3540",
+  "sicDescription": "Metalworkg Machinery & Equipment",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPXC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "381016240",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "980-474-3700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SPX CORP",
+      "from": "1994-03-25T05:00:00.000Z",
+      "to": "2022-08-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:56 UTC"
+}

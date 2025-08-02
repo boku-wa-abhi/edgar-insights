@@ -1,0 +1,32 @@
+{
+  "cik": "0000104918",
+  "name": "AVISTA CORP",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AVA"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "910462470",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5094890500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WASHINGTON WATER POWER CO",
+      "from": "1994-05-16T04:00:00.000Z",
+      "to": "1998-12-10T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 06:58:20 UTC"
+}

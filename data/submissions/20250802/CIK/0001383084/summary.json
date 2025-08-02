@@ -1,0 +1,32 @@
+{
+  "cik": "0001383084",
+  "name": "INVESCO DB BASE METALS FUND",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DBB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "870778075",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "800-983-0903",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "POWERSHARES DB BASE METALS FUND",
+      "from": "2006-12-26T05:00:00.000Z",
+      "to": "2018-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 343,
+  "download_timestamp": "2025-08-02 07:11:50 UTC"
+}

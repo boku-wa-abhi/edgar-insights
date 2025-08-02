@@ -1,0 +1,32 @@
+{
+  "cik": "0001723128",
+  "name": "Amneal Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(908) 947-3120",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Atlas Holdings, Inc.",
+      "from": "2017-11-21T05:00:00.000Z",
+      "to": "2018-04-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 587,
+  "download_timestamp": "2025-08-02 07:21:58 UTC"
+}

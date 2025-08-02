@@ -1,0 +1,32 @@
+{
+  "cik": "0001283699",
+  "name": "T-Mobile US, Inc.",
+  "entityType": "operating",
+  "sic": "4812",
+  "sicDescription": "Radiotelephone Communications",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TMUS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "200836269",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "800-318-9270",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "METROPCS COMMUNICATIONS INC",
+      "from": "2004-03-23T05:00:00.000Z",
+      "to": "2013-04-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:40 UTC"
+}

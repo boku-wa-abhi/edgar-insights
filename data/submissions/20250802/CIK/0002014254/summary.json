@@ -1,0 +1,28 @@
+{
+  "cik": "0002014254",
+  "name": "FST Corp.",
+  "entityType": "other",
+  "sic": "3949",
+  "sicDescription": "Sporting & Athletic Goods, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "KBSX",
+    "FSTWF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "886-5-276-6171",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 36,
+  "download_timestamp": "2025-08-02 07:32:02 UTC"
+}

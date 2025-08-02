@@ -1,0 +1,26 @@
+{
+  "cik": "0001839586",
+  "name": "District Metals Corp.",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "DMXCF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(604) 628-2669",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 19,
+  "download_timestamp": "2025-08-02 07:26:30 UTC"
+}

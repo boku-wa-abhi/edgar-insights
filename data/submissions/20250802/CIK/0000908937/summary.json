@@ -1,0 +1,47 @@
+{
+  "cik": "0000908937",
+  "name": "SIRIUS XM HOLDINGS INC.",
+  "entityType": "operating",
+  "sic": "4832",
+  "sicDescription": "Radio Broadcasting Stations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SIRI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "383916511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-584-5100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIRIUS XM HOLDINGS INC.",
+      "from": "2012-04-19T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "SIRIUS XM RADIO INC.",
+      "from": "2008-08-05T04:00:00.000Z",
+      "to": "2013-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "SIRIUS SATELLITE RADIO INC",
+      "from": "1999-12-28T05:00:00.000Z",
+      "to": "2008-08-04T04:00:00.000Z"
+    },
+    {
+      "name": "CD RADIO INC",
+      "from": "1996-09-18T04:00:00.000Z",
+      "to": "1999-10-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1008,
+  "download_timestamp": "2025-08-02 07:03:09 UTC"
+}

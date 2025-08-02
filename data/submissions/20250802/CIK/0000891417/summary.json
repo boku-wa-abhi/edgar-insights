@@ -1,0 +1,57 @@
+{
+  "cik": "0000891417",
+  "name": "Nano Magic Inc.",
+  "entityType": "operating",
+  "sic": "3470",
+  "sicDescription": "Coating, Engraving & Allied Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NMGX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "760273345",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "844-273-6462",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nano Magic Holdings Inc.",
+      "from": "2021-03-04T00:00:00.000Z",
+      "to": "2023-02-02T00:00:00.000Z"
+    },
+    {
+      "name": "PEN INC.",
+      "from": "2014-09-02T00:00:00.000Z",
+      "to": "2020-02-26T00:00:00.000Z"
+    },
+    {
+      "name": "Applied Nanotech Holdings, Inc",
+      "from": "2008-07-23T00:00:00.000Z",
+      "to": "2014-08-29T00:00:00.000Z"
+    },
+    {
+      "name": "NANO PROPRIETARY INC",
+      "from": "2007-11-08T00:00:00.000Z",
+      "to": "2008-06-30T00:00:00.000Z"
+    },
+    {
+      "name": "NANO PROPRIETARY  INC",
+      "from": "2003-07-29T00:00:00.000Z",
+      "to": "2007-11-05T00:00:00.000Z"
+    },
+    {
+      "name": "SI DIAMOND TECHNOLOGY INC",
+      "from": "1996-08-07T00:00:00.000Z",
+      "to": "2003-07-01T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:41 UTC"
+}

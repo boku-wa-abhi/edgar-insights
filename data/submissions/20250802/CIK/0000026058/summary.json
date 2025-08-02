@@ -1,0 +1,26 @@
+{
+  "cik": "0000026058",
+  "name": "CTS CORP",
+  "entityType": "operating",
+  "sic": "3672",
+  "sicDescription": "Printed Circuit Boards",
+  "stateOfIncorporation": "IN",
+  "stateOfIncorporationDescription": "IN",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CTS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "350225010",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6305778800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:37 UTC"
+}

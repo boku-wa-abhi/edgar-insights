@@ -1,0 +1,26 @@
+{
+  "cik": "0001972529",
+  "name": "Armlogi Holding Corp.",
+  "entityType": "operating",
+  "sic": "4220",
+  "sicDescription": "Public Warehousing & Storage",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "BTOC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "920483179",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(888) 691-2911",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 81,
+  "download_timestamp": "2025-08-02 07:30:47 UTC"
+}

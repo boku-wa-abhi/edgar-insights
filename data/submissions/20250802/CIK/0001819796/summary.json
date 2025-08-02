@@ -1,0 +1,28 @@
+{
+  "cik": "0001819796",
+  "name": "GCM Grosvenor Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GCMG",
+    "GCMGW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "312-506-6500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 417,
+  "download_timestamp": "2025-08-02 07:25:22 UTC"
+}

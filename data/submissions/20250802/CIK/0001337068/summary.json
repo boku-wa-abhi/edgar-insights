@@ -1,0 +1,26 @@
+{
+  "cik": "0001337068",
+  "name": "Magyar Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6035",
+  "sicDescription": "Savings Institution, Federally Chartered",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "MGYR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "204154978",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "732-249-2438",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 07:10:49 UTC"
+}

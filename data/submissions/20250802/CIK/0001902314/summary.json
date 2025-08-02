@@ -1,0 +1,28 @@
+{
+  "cik": "0001902314",
+  "name": "M-tron Industries, Inc.",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MPTI",
+    "MPTI-WT"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "460457994",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(407) 298-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 201,
+  "download_timestamp": "2025-08-02 07:29:12 UTC"
+}

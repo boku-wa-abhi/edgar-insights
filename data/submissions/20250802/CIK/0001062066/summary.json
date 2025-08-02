@@ -1,0 +1,28 @@
+{
+  "cik": "0001062066",
+  "name": "ALSTOM",
+  "entityType": "other",
+  "sic": "3621",
+  "sicDescription": "Motors & Generators",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ALSMY",
+    "AOMFF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "0033 1 41 49 20 00",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 144,
+  "download_timestamp": "2025-08-02 07:06:01 UTC"
+}

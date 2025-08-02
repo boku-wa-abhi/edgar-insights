@@ -1,0 +1,32 @@
+{
+  "cik": "0001691936",
+  "name": "STRYVE FOODS, INC.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNAX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "871760117",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "646-565-3861",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Andina Acquisition Corp. III",
+      "from": "2016-12-09T05:00:00.000Z",
+      "to": "2021-07-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 474,
+  "download_timestamp": "2025-08-02 07:20:54 UTC"
+}

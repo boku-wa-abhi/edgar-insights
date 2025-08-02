@@ -1,0 +1,44 @@
+{
+  "cik": "0001434601",
+  "name": "Marquie Group, Inc.",
+  "entityType": "operating",
+  "sic": "4832",
+  "sicDescription": "Radio Broadcasting Stations",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "TMGI",
+    "TMGID"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "262091212",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-351-3021",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ZHONG SEN INTERNATIONAL TEA CO",
+      "from": "2019-04-15T04:00:00.000Z",
+      "to": "2019-04-15T04:00:00.000Z"
+    },
+    {
+      "name": "ZHONG SEN INTERNATIONAL TEA Co",
+      "from": "2019-04-15T04:00:00.000Z",
+      "to": "2019-04-15T04:00:00.000Z"
+    },
+    {
+      "name": "MUSIC OF YOUR LIFE INC",
+      "from": "2013-06-17T04:00:00.000Z",
+      "to": "2019-01-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 365,
+  "download_timestamp": "2025-08-02 07:13:12 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001851112",
+  "name": "RISKIFIED LTD.",
+  "entityType": "other",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RSKD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "981342110",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "(203) 300-9264",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 155,
+  "download_timestamp": "2025-08-02 07:27:12 UTC"
+}

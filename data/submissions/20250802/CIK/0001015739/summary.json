@@ -1,0 +1,26 @@
+{
+  "cik": "0001015739",
+  "name": "AWARE INC /MA/",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AWRE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042911026",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "781.382.5160",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:45 UTC"
+}

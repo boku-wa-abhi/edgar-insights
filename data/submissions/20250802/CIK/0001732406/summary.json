@@ -1,0 +1,32 @@
+{
+  "cik": "0001732406",
+  "name": "Grayscale Litecoin Trust (LTC)",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "LTCN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "826868171",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "212 668 1427",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Litecoin Investment Trust",
+      "from": "2018-03-06T05:00:00.000Z",
+      "to": "2018-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 152,
+  "download_timestamp": "2025-08-02 07:22:15 UTC"
+}

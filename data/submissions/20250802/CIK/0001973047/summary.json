@@ -1,0 +1,26 @@
+{
+  "cik": "0001973047",
+  "name": "MARKY CORP.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "MRKY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "320689703",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "18609730746",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 26,
+  "download_timestamp": "2025-08-02 07:30:48 UTC"
+}

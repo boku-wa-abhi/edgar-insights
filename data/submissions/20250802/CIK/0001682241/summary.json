@@ -1,0 +1,32 @@
+{
+  "cik": "0001682241",
+  "name": "Metalpha Technology Holding Ltd",
+  "entityType": "other",
+  "sic": "6799",
+  "sicDescription": "Investors, NEC",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "MATH"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "852 35652920",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Dragon Victory International Ltd",
+      "from": "2016-08-22T04:00:00.000Z",
+      "to": "2022-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 189,
+  "download_timestamp": "2025-08-02 07:20:39 UTC"
+}

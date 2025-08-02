@@ -1,0 +1,37 @@
+{
+  "cik": "0001195739",
+  "name": "NUVEEN NEW YORK AMT-FREE QUALITY MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "NRK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "030487021",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "3129178146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN NEW YORK AMT-FREE MUNICIPAL INCOME FUND",
+      "from": "2012-01-09T05:00:00.000Z",
+      "to": "2016-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "NUVEEN INSURED NEW YORK TAX FREE ADVANTAGE MUNICIPAL FUND",
+      "from": "2002-10-04T04:00:00.000Z",
+      "to": "2011-12-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 504,
+  "download_timestamp": "2025-08-02 07:08:49 UTC"
+}

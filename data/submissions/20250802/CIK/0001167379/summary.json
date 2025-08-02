@@ -1,0 +1,26 @@
+{
+  "cik": "0001167379",
+  "name": "ALCON INC",
+  "entityType": "other",
+  "sic": "3851",
+  "sicDescription": "Ophthalmic Goods",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980205094",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "817 293 0450",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 511,
+  "download_timestamp": "2025-08-02 07:08:23 UTC"
+}

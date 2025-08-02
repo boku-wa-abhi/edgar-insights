@@ -1,0 +1,26 @@
+{
+  "cik": "0001109357",
+  "name": "EXELON CORP",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EXC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "232990190",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8004833220",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:13 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002046117",
+  "name": "Magnitude International Ltd",
+  "entityType": "other",
+  "sic": "1731",
+  "sicDescription": "Electrical Work",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "MAGH"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "65 9139 0001",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:33:09 UTC"
+}

@@ -1,0 +1,100 @@
+{
+  "cik": "0002075310",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Trailblazer Acquisition Corp.",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "152 WEST 57TH STREET, 27TH FLOOR",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10019",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "152 WEST 57TH STREET, 27TH FLOOR",
+      "street2": null,
+      "city": "NEW YORK",
+      "stateOrCountry": "NY",
+      "zipCode": "10019",
+      "stateOrCountryDescription": "NY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "212-621-8777",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-063342"
+      ],
+      "filingDate": [
+        "2025-07-11"
+      ],
+      "reportDate": [
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-11T21:13:08.000Z"
+      ],
+      "act": [
+        "33"
+      ],
+      "form": [
+        "S-1"
+      ],
+      "fileNumber": [
+        "333-288651"
+      ],
+      "filmNumber": [
+        "251119649"
+      ],
+      "items": [
+        ""
+      ],
+      "core_type": [
+        "XBRL"
+      ],
+      "size": [
+        9134197
+      ],
+      "isXBRL": [
+        1
+      ],
+      "isInlineXBRL": [
+        1
+      ],
+      "primaryDocument": [
+        "ea0248430-01.htm"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT"
+      ]
+    },
+    "files": []
+  }
+}

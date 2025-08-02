@@ -1,0 +1,26 @@
+{
+  "cik": "0001871130",
+  "name": "Brookfield Business Corp",
+  "entityType": "other",
+  "sic": "1700",
+  "sicDescription": "Construction - Special Trade Contractors",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BBUC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2124177000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 94,
+  "download_timestamp": "2025-08-02 07:28:13 UTC"
+}

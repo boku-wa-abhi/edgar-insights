@@ -1,0 +1,26 @@
+{
+  "cik": "0001638833",
+  "name": "Surgery Partners, Inc.",
+  "entityType": "operating",
+  "sic": "8062",
+  "sicDescription": "Services-General Medical & Surgical Hospitals, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SGRY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473620923",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "615-234-5900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 727,
+  "download_timestamp": "2025-08-02 07:19:25 UTC"
+}

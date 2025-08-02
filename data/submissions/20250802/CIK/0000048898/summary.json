@@ -1,0 +1,26 @@
+{
+  "cik": "0000048898",
+  "name": "HUBBELL INC",
+  "entityType": "operating",
+  "sic": "3670",
+  "sicDescription": "Electronic Components & Accessories",
+  "stateOfIncorporation": "CT",
+  "stateOfIncorporationDescription": "CT",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HUBB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "060397030",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4758824000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 06:57:07 UTC"
+}

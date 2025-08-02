@@ -1,0 +1,32 @@
+{
+  "cik": "0001796949",
+  "name": "GenFlat Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "GFLT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "843639946",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "615-696-7676",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Healthcare Business Resources, Inc.",
+      "from": "2019-12-16T05:00:00.000Z",
+      "to": "2024-05-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 96,
+  "download_timestamp": "2025-08-02 07:24:26 UTC"
+}

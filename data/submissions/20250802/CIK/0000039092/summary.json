@@ -1,0 +1,26 @@
+{
+  "cik": "0000039092",
+  "name": "FRIEDMAN INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3310",
+  "sicDescription": "Steel Works, Blast Furnaces & Rolling & Finishing Mills",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FRD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "741504405",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "9037583431",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 546,
+  "download_timestamp": "2025-08-02 06:56:55 UTC"
+}

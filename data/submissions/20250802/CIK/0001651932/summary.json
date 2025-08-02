@@ -1,0 +1,37 @@
+{
+  "cik": "0001651932",
+  "name": "Xenous Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "XITO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "870363526",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "603 2181 0150",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "M101 CORP.",
+      "from": "2017-11-15T05:00:00.000Z",
+      "to": "2019-11-20T05:00:00.000Z"
+    },
+    {
+      "name": "Concept Holding Corp.",
+      "from": "2015-09-22T04:00:00.000Z",
+      "to": "2017-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 87,
+  "download_timestamp": "2025-08-02 07:19:49 UTC"
+}

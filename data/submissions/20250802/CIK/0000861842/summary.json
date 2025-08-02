@@ -1,0 +1,32 @@
+{
+  "cik": "0000861842",
+  "name": "CATHAY GENERAL BANCORP",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CATY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954274680",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2136254700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CATHAY BANCORP INC",
+      "from": "1996-08-14T04:00:00.000Z",
+      "to": "2003-10-30T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:01:43 UTC"
+}

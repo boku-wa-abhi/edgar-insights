@@ -1,0 +1,32 @@
+{
+  "cik": "0000006845",
+  "name": "APOGEE ENTERPRISES, INC.",
+  "entityType": "operating",
+  "sic": "3231",
+  "sicDescription": "Glass Products, Made of  Purchased Glass",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0301",
+  "tickers": [
+    "APOG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "410919654",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6128351874",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "APOGEE ENTERPRISES INC",
+      "from": "1994-01-11T05:00:00.000Z",
+      "to": "2011-04-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:09 UTC"
+}

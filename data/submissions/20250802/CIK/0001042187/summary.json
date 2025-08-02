@@ -1,0 +1,37 @@
+{
+  "cik": "0001042187",
+  "name": "YUNHONG GREEN CTI LTD.",
+  "entityType": "operating",
+  "sic": "3060",
+  "sicDescription": "Fabricated Rubber Products, NEC",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YHGJ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "362848943",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8473821000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Yunhong CTI Ltd.",
+      "from": "2020-03-16T04:00:00.000Z",
+      "to": "2023-08-28T04:00:00.000Z"
+    },
+    {
+      "name": "CTI INDUSTRIES CORP",
+      "from": "1997-09-19T04:00:00.000Z",
+      "to": "2020-02-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 869,
+  "download_timestamp": "2025-08-02 07:05:27 UTC"
+}

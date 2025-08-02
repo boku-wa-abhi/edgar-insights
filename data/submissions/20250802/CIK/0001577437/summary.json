@@ -1,0 +1,26 @@
+{
+  "cik": "0001577437",
+  "name": "Ardmore Shipping Corp",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "441-405-7800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 440,
+  "download_timestamp": "2025-08-02 07:17:32 UTC"
+}

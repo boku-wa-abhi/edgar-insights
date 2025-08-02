@@ -1,0 +1,26 @@
+{
+  "cik": "0001169034",
+  "name": "BLACKROCK VIRGINIA MUNICIPAL BOND TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "BHV"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "383645607",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-825-2257",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 361,
+  "download_timestamp": "2025-08-02 07:08:24 UTC"
+}

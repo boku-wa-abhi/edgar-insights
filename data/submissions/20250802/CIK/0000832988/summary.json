@@ -1,0 +1,32 @@
+{
+  "cik": "0000832988",
+  "name": "SIGNET JEWELERS LTD",
+  "entityType": "operating",
+  "sic": "5944",
+  "sicDescription": "Retail-Jewelry Stores",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "SIG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44-207-317-9700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIGNET GROUP PLC",
+      "from": "1997-09-11T04:00:00.000Z",
+      "to": "2008-09-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:01:12 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001852973",
+  "name": "Borealis Foods Inc.",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRLS",
+    "BRLSW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "1 905-278-2200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Oxus Acquisition Corp.",
+      "from": "2021-04-02T04:00:00.000Z",
+      "to": "2024-02-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 154,
+  "download_timestamp": "2025-08-02 07:27:20 UTC"
+}

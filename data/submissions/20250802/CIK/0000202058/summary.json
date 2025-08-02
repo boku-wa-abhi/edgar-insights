@@ -1,0 +1,32 @@
+{
+  "cik": "0000202058",
+  "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0102",
+  "tickers": [
+    "LHX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "340276860",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "3217279100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HARRIS CORP /DE/",
+      "from": "1994-09-09T04:00:00.000Z",
+      "to": "2019-06-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:28 UTC"
+}

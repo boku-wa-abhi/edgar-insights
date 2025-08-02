@@ -1,0 +1,32 @@
+{
+  "cik": "0000882508",
+  "name": "QUICKLOGIC Corp",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1228",
+  "tickers": [
+    "QUIK"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "770188504",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4089904010",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "QUICKLOGIC CORPORATION",
+      "from": "1997-06-09T04:00:00.000Z",
+      "to": "2019-05-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:02:15 UTC"
+}

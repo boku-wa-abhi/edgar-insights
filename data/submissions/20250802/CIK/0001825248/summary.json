@@ -1,0 +1,32 @@
+{
+  "cik": "0001825248",
+  "name": "Franklin BSP Capital Corp",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FRBP"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(212) 588-6700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Franklin BSP Capital L.L.C.",
+      "from": "2020-09-23T04:00:00.000Z",
+      "to": "2020-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 173,
+  "download_timestamp": "2025-08-02 07:25:42 UTC"
+}

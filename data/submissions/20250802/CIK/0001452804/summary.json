@@ -1,0 +1,47 @@
+{
+  "cik": "0001452804",
+  "name": "Retrieve Medical Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "RMHI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "908-800-2880",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PEAK PHARMACEUTICALS, INC.",
+      "from": "2014-12-30T00:00:00.000Z",
+      "to": "2023-03-21T00:00:00.000Z"
+    },
+    {
+      "name": "CANNABIS THERAPY CORP.",
+      "from": "2014-03-25T00:00:00.000Z",
+      "to": "2014-12-29T00:00:00.000Z"
+    },
+    {
+      "name": "FRAC WATER SYSTEMS, INC.",
+      "from": "2013-09-05T00:00:00.000Z",
+      "to": "2014-03-20T00:00:00.000Z"
+    },
+    {
+      "name": "SURF A MOVIE SOLUTIONS INC",
+      "from": "2008-12-29T00:00:00.000Z",
+      "to": "2013-07-29T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 120,
+  "download_timestamp": "2025-08-02 07:13:46 UTC"
+}

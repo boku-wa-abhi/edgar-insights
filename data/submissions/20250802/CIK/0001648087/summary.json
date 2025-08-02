@@ -1,0 +1,34 @@
+{
+  "cik": "0001648087",
+  "name": "AMERICAN REBEL HOLDINGS INC",
+  "entityType": "operating",
+  "sic": "3490",
+  "sicDescription": "Miscellaneous Fabricated Metal Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AREB",
+    "AREBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "473892903",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "833-267-3235",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CUBESCAPE INC",
+      "from": "2015-08-04T04:00:00.000Z",
+      "to": "2017-01-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 303,
+  "download_timestamp": "2025-08-02 07:19:40 UTC"
+}

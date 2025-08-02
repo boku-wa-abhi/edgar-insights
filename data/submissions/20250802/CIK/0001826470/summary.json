@@ -1,0 +1,32 @@
+{
+  "cik": "0001826470",
+  "name": "Petco Health & Wellness Company, Inc.",
+  "entityType": "operating",
+  "sic": "5990",
+  "sicDescription": "Retail-Retail Stores, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "WOOF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "811005932",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "1-858-453-7845",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PET Acquisition LLC",
+      "from": "2020-10-02T04:00:00.000Z",
+      "to": "2021-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 458,
+  "download_timestamp": "2025-08-02 07:25:45 UTC"
+}

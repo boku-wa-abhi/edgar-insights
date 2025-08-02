@@ -1,0 +1,32 @@
+{
+  "cik": "0001579157",
+  "name": "VINCE HOLDING CORP.",
+  "entityType": "operating",
+  "sic": "5600",
+  "sicDescription": "Retail-Apparel & Accessory Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "VNCE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "753264870",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212-515-2600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Apparel Holding Corp.",
+      "from": "2013-07-12T04:00:00.000Z",
+      "to": "2013-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 597,
+  "download_timestamp": "2025-08-02 07:17:35 UTC"
+}

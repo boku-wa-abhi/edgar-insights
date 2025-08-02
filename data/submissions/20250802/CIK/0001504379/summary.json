@@ -1,0 +1,32 @@
+{
+  "cik": "0001504379",
+  "name": "Caesarstone Ltd.",
+  "entityType": "other",
+  "sic": "3281",
+  "sicDescription": "Cut Stone & Stone Products",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CSTE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "972 4 636 4555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CaesarStone Sdot-Yam Ltd.",
+      "from": "2012-02-16T05:00:00.000Z",
+      "to": "2016-05-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 292,
+  "download_timestamp": "2025-08-02 07:15:15 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0000883412",
+  "name": "BLACKROCK MUNIYIELD QUALITY FUND III, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "MYI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223165131",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "800-441-7762",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLACKROCK MUNIYIELD QUALITY FUND III, INC",
+      "from": "2010-11-18T05:00:00.000Z",
+      "to": "2012-10-03T04:00:00.000Z"
+    },
+    {
+      "name": "BLACKROCK MUNIYIELD INSURED FUND, INC",
+      "from": "2007-06-15T04:00:00.000Z",
+      "to": "2010-11-05T04:00:00.000Z"
+    },
+    {
+      "name": "MUNIYIELD INSURED FUND INC",
+      "from": "1994-06-28T04:00:00.000Z",
+      "to": "2007-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 488,
+  "download_timestamp": "2025-08-02 07:02:17 UTC"
+}

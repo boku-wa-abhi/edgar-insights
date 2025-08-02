@@ -1,0 +1,26 @@
+{
+  "cik": "0000080172",
+  "name": "NATIONAL PRESTO INDUSTRIES INC",
+  "entityType": "operating",
+  "sic": "3480",
+  "sicDescription": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NPK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "390494170",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "7158392121",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 671,
+  "download_timestamp": "2025-08-02 06:57:48 UTC"
+}

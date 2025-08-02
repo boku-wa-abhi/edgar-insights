@@ -1,0 +1,28 @@
+{
+  "cik": "0001536787",
+  "name": "ALSOK Co Ltd./ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-238-3128",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Sohgo Security Services Co., Ltd/ADR",
+      "from": "2011-12-09T05:00:00.000Z",
+      "to": "2023-06-27T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 6,
+  "download_timestamp": "2025-08-02 07:16:23 UTC"
+}

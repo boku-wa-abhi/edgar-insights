@@ -1,0 +1,26 @@
+{
+  "cik": "0001857816",
+  "name": "GigaCloud Technology Inc",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GCT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-626-912-8886",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 265,
+  "download_timestamp": "2025-08-02 07:27:39 UTC"
+}

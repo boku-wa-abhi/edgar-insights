@@ -1,0 +1,42 @@
+{
+  "cik": "0001057379",
+  "name": "HACKETT GROUP, INC.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1227",
+  "tickers": [
+    "HCKT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "650750100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "3053758005",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ANSWERTHINK INC",
+      "from": "2000-08-14T04:00:00.000Z",
+      "to": "2008-02-26T05:00:00.000Z"
+    },
+    {
+      "name": "ANSWERTHINK CONSULTING GROUP INC",
+      "from": "1998-10-14T04:00:00.000Z",
+      "to": "2000-04-07T04:00:00.000Z"
+    },
+    {
+      "name": "ANSWER THINK CONSULTING GROUP INC",
+      "from": "1998-05-21T04:00:00.000Z",
+      "to": "1998-05-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 867,
+  "download_timestamp": "2025-08-02 07:05:52 UTC"
+}

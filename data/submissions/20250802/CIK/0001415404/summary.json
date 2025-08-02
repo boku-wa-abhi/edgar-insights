@@ -1,0 +1,32 @@
+{
+  "cik": "0001415404",
+  "name": "EchoStar CORP",
+  "entityType": "operating",
+  "sic": "4899",
+  "sicDescription": "Communications Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SATS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "261232727",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "303-723-1000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "EchoStar Holding CORP",
+      "from": "2007-11-06T05:00:00.000Z",
+      "to": "2008-01-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:12:44 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001466258",
+  "name": "Trane Technologies plc",
+  "entityType": "operating",
+  "sic": "3822",
+  "sicDescription": "Auto Controls For Regulating Residential & Comml Environments",
+  "stateOfIncorporation": "L2",
+  "stateOfIncorporationDescription": "Ireland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "732-652-7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ingersoll-Rand plc",
+      "from": "2009-07-01T04:00:00.000Z",
+      "to": "2020-02-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:14:02 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001739174",
+  "name": "BiomX Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PHGE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "823364020",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "972 723942377",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Chardan Healthcare Acquisition Corp.",
+      "from": "2018-05-04T04:00:00.000Z",
+      "to": "2019-10-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 470,
+  "download_timestamp": "2025-08-02 07:22:30 UTC"
+}

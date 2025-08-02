@@ -1,0 +1,37 @@
+{
+  "cik": "0001782524",
+  "name": "Morgan Stanley Direct Lending Fund",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MSDL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212 761 0380",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Morgan Stanley Direct Lending Fund LLC",
+      "from": "2019-09-26T04:00:00.000Z",
+      "to": "2019-11-25T05:00:00.000Z"
+    },
+    {
+      "name": "Morgan Stanley BDC LLC",
+      "from": "2019-08-09T04:00:00.000Z",
+      "to": "2019-08-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 355,
+  "download_timestamp": "2025-08-02 07:23:51 UTC"
+}

@@ -1,0 +1,47 @@
+{
+  "cik": "0001527728",
+  "name": "RENOVARO INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "RENB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "452259340",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "45 39179840",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "RENOVARO BIOSCIENCES INC.",
+      "from": "2023-06-09T04:00:00.000Z",
+      "to": "2024-02-07T05:00:00.000Z"
+    },
+    {
+      "name": "Enochian Biosciences Inc",
+      "from": "2018-03-06T05:00:00.000Z",
+      "to": "2023-08-01T04:00:00.000Z"
+    },
+    {
+      "name": "DanDrit Biotech USA, Inc.",
+      "from": "2014-02-14T05:00:00.000Z",
+      "to": "2018-02-23T05:00:00.000Z"
+    },
+    {
+      "name": "Putnam Hills Corp.",
+      "from": "2011-08-12T04:00:00.000Z",
+      "to": "2014-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 552,
+  "download_timestamp": "2025-08-02 07:16:02 UTC"
+}

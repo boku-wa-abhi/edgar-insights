@@ -1,0 +1,26 @@
+{
+  "cik": "0002018462",
+  "name": "PicoCELA Inc.",
+  "entityType": "other",
+  "sic": "3640",
+  "sicDescription": "Electric Lighting & Wiring Equipment",
+  "stateOfIncorporation": "M0",
+  "stateOfIncorporationDescription": "Japan",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "PCLA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "81 03-6661-2780",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 45,
+  "download_timestamp": "2025-08-02 07:32:10 UTC"
+}

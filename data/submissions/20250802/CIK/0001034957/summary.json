@@ -1,0 +1,28 @@
+{
+  "cik": "0001034957",
+  "name": "CRESUD INC",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "C1",
+  "stateOfIncorporationDescription": "Argentina",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "CRESY",
+    "CRESW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "00541143237449",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:13 UTC"
+}

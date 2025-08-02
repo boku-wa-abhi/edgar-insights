@@ -1,0 +1,26 @@
+{
+  "cik": "0001338474",
+  "name": "RIDGEWOOD ENERGY Q FUND LLC",
+  "entityType": "operating",
+  "sic": "1382",
+  "sicDescription": "Oil & Gas Field Exploration Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RDWQS"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2014479000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 117,
+  "download_timestamp": "2025-08-02 07:10:51 UTC"
+}

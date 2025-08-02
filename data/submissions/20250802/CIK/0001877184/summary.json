@@ -1,0 +1,26 @@
+{
+  "cik": "0001877184",
+  "name": "KESTRA MEDICAL TECHNOLOGIES, LTD.",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "0430",
+  "tickers": [
+    "KMTS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(425) 279-8002",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 55,
+  "download_timestamp": "2025-08-02 07:28:27 UTC"
+}

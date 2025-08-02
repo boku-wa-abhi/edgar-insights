@@ -1,0 +1,32 @@
+{
+  "cik": "0001748945",
+  "name": "Grayscale Horizen Trust (ZEN)",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "HZEN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "836217411",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-668-1427",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Zen Investment Trust",
+      "from": "2018-08-21T04:00:00.000Z",
+      "to": "2018-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 139,
+  "download_timestamp": "2025-08-02 07:22:46 UTC"
+}

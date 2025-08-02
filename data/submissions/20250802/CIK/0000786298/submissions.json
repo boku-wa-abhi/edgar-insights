@@ -1,0 +1,179 @@
+{
+  "cik": "0000786298",
+  "entityType": "other",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "ownerOrg": "02 Finance",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "FORESIGHT FINANCIAL GROUP INC",
+  "tickers": [
+    "FGFH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "363371610",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "IL",
+  "stateOfIncorporationDescription": "IL",
+  "addresses": {
+    "mailing": {
+      "street1": null,
+      "street2": null,
+      "city": null,
+      "stateOrCountry": null,
+      "zipCode": null,
+      "stateOrCountryDescription": null,
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "100 CHURCH ST",
+      "street2": null,
+      "city": "GERMAN VALLEY",
+      "stateOrCountry": "IL",
+      "zipCode": "61039",
+      "stateOrCountryDescription": "IL",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "8152352500",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0000786298-24-000003",
+        "0001999371-24-002318",
+        "0001387131-23-001954",
+        "0001387131-22-001842",
+        "0001387131-21-002592",
+        "0001387131-20-003419"
+      ],
+      "filingDate": [
+        "2024-08-28",
+        "2024-02-14",
+        "2023-02-14",
+        "2022-02-14",
+        "2021-02-17",
+        "2020-03-30"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-08-28T13:37:45.000Z",
+        "2024-02-14T15:49:47.000Z",
+        "2023-02-14T10:04:50.000Z",
+        "2022-02-14T14:27:53.000Z",
+        "2021-02-17T12:49:30.000Z",
+        "2020-03-30T15:43:46.000Z"
+      ],
+      "act": [
+        "33",
+        "34",
+        "34",
+        "34",
+        "34",
+        "34"
+      ],
+      "form": [
+        "D",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G"
+      ],
+      "fileNumber": [
+        "021-522666",
+        "005-91473",
+        "005-91473",
+        "005-91473",
+        "005-91473",
+        "005-91473"
+      ],
+      "filmNumber": [
+        "241253846",
+        "24637153",
+        "23623823",
+        "22629589",
+        "21643698",
+        "20756729"
+      ],
+      "items": [
+        "06b",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "D",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G/A",
+        "SC 13G"
+      ],
+      "size": [
+        14757,
+        173603,
+        148834,
+        149214,
+        105526,
+        136506
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "xslFormDX01/primary_doc.xml",
+        "fgfh-sc13ga_123123.htm",
+        "fgfh-sc13ga_123122.htm",
+        "fgfh-sc13ga_123121.htm",
+        "fgfh-sc13ga_021621.htm",
+        "fgfh-sc13g_032020.htm"
+      ],
+      "primaryDocDescription": [
+        "",
+        "AMENDMENT TO FORM SC 13G",
+        "AMENDMENT TO FORM SC 13G",
+        "AMENDMENT TO FORM SC 13G",
+        "AMENDMENT TO FORM SC 13G",
+        "ACQUISITION OF BENEFICIAL OWNERSHIP"
+      ]
+    },
+    "files": []
+  }
+}

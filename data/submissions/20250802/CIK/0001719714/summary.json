@@ -1,0 +1,26 @@
+{
+  "cik": "0001719714",
+  "name": "Mereo BioPharma Group plc",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MREO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4403330237300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 391,
+  "download_timestamp": "2025-08-02 07:21:48 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001654126",
+  "name": "ZIM Integrated Shipping Services Ltd.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZIM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972 (4) 865-2000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:19:54 UTC"
+}

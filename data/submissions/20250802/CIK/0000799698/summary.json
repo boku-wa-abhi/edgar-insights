@@ -1,0 +1,32 @@
+{
+  "cik": "0000799698",
+  "name": "LadRx Corp",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LADX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "581642750",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "310-826-5648",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CYTRX CORP",
+      "from": "1995-11-07T05:00:00.000Z",
+      "to": "2022-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:31 UTC"
+}

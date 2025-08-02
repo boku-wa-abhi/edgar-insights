@@ -1,0 +1,28 @@
+{
+  "cik": "0001783036",
+  "name": "NLS Pharmaceutics Ltd.",
+  "entityType": "other",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NLSP",
+    "NLSPW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "41-41-618-80-00",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 313,
+  "download_timestamp": "2025-08-02 07:23:52 UTC"
+}

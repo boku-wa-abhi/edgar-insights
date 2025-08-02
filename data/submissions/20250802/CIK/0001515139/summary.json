@@ -1,0 +1,52 @@
+{
+  "cik": "0001515139",
+  "name": "WASTE ENERGY CORP.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WAST"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "273098487",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "424-570-9446",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "METAWORKS PLATFORMS, INC.",
+      "from": "2022-08-25T04:00:00.000Z",
+      "to": "2024-09-12T04:00:00.000Z"
+    },
+    {
+      "name": "CurrencyWorks Inc.",
+      "from": "2019-09-09T04:00:00.000Z",
+      "to": "2022-08-12T04:00:00.000Z"
+    },
+    {
+      "name": "ICOX INNOVATIONS INC.",
+      "from": "2018-02-15T05:00:00.000Z",
+      "to": "2019-08-13T04:00:00.000Z"
+    },
+    {
+      "name": "AppCoin Innovations Inc.",
+      "from": "2017-08-23T04:00:00.000Z",
+      "to": "2018-02-13T05:00:00.000Z"
+    },
+    {
+      "name": "RedStone Literary Agents, Inc.",
+      "from": "2011-03-30T04:00:00.000Z",
+      "to": "2017-08-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 338,
+  "download_timestamp": "2025-08-02 07:15:37 UTC"
+}

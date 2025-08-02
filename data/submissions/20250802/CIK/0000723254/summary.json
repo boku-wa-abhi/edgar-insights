@@ -1,0 +1,26 @@
+{
+  "cik": "0000723254",
+  "name": "CINTAS CORP",
+  "entityType": "operating",
+  "sic": "2320",
+  "sicDescription": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "CTAS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "311188630",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5134591200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:26 UTC"
+}

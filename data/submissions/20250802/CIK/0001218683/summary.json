@@ -1,0 +1,42 @@
+{
+  "cik": "0001218683",
+  "name": "Mawson Infrastructure Group Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MIGI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "880445167",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "61 02 8624 6130",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wize Pharma, Inc.",
+      "from": "2017-11-21T05:00:00.000Z",
+      "to": "2021-03-16T04:00:00.000Z"
+    },
+    {
+      "name": "OphthaliX, Inc.",
+      "from": "2012-02-09T05:00:00.000Z",
+      "to": "2017-11-14T05:00:00.000Z"
+    },
+    {
+      "name": "DENALI CONCRETE MANAGEMENT INC",
+      "from": "2003-02-18T05:00:00.000Z",
+      "to": "2012-02-06T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 624,
+  "download_timestamp": "2025-08-02 07:08:56 UTC"
+}

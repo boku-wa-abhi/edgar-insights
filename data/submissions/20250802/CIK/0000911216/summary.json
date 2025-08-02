@@ -1,0 +1,32 @@
+{
+  "cik": "0000911216",
+  "name": "PALATIN TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "PTNT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "954078884",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "609-495-2200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "INTERFILM INC",
+      "from": "1996-07-23T04:00:00.000Z",
+      "to": "1996-06-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:15 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001437750",
+  "name": "T-REX Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "TRXA"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "261754034",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954-742-3001",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Trex Acquisition Corp.",
+      "from": "2014-02-11T05:00:00.000Z",
+      "to": "2022-05-23T04:00:00.000Z"
+    },
+    {
+      "name": "Sync2 Networks Corp",
+      "from": "2009-05-27T04:00:00.000Z",
+      "to": "2014-03-10T04:00:00.000Z"
+    },
+    {
+      "name": "Plethora Resources, Inc.",
+      "from": "2008-07-25T04:00:00.000Z",
+      "to": "2009-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 148,
+  "download_timestamp": "2025-08-02 07:13:21 UTC"
+}

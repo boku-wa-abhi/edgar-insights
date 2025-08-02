@@ -1,0 +1,37 @@
+{
+  "cik": "0001435181",
+  "name": "Pharmagreen Biotech Inc.",
+  "entityType": "operating",
+  "sic": "4581",
+  "sicDescription": "Airports, Flying Fields & Airport Terminal Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "PHBI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "980491567",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-803-9404",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Air Transport Group Holdings, Inc.",
+      "from": "2008-11-06T00:00:00.000Z",
+      "to": "2017-02-03T00:00:00.000Z"
+    },
+    {
+      "name": "Azure International, Inc.",
+      "from": "2008-06-02T00:00:00.000Z",
+      "to": "2008-09-02T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 104,
+  "download_timestamp": "2025-08-02 07:13:14 UTC"
+}

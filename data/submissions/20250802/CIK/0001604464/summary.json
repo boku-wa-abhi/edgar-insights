@@ -1,0 +1,26 @@
+{
+  "cik": "0001604464",
+  "name": "Atara Biotherapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ATRA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "460920988",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "805-623-4211",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:18:24 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001632790",
+  "name": "ENERGIZER HOLDINGS, INC.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ENR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364802442",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(314) 985-2000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Energizer SpinCo, Inc.",
+      "from": "2015-02-06T05:00:00.000Z",
+      "to": "2015-07-01T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 830,
+  "download_timestamp": "2025-08-02 07:19:15 UTC"
+}

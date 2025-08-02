@@ -1,0 +1,26 @@
+{
+  "cik": "0000711034",
+  "name": "THUNDER MOUNTAIN GOLD INC",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "THMG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "911031075",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "208-658-1037",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 371,
+  "download_timestamp": "2025-08-02 06:59:08 UTC"
+}

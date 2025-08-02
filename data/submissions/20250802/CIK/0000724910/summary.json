@@ -1,0 +1,32 @@
+{
+  "cik": "0000724910",
+  "name": "NVE CORP /NEW/",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "MN",
+  "stateOfIncorporationDescription": "MN",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "NVEC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "411424202",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "9528299217",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PREMIS CORP",
+      "from": "1995-10-04T04:00:00.000Z",
+      "to": "2000-08-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 794,
+  "download_timestamp": "2025-08-02 06:59:29 UTC"
+}

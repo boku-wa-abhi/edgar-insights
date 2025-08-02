@@ -1,0 +1,47 @@
+{
+  "cik": "0001481504",
+  "name": "XERIANT, INC.",
+  "entityType": "operating",
+  "sic": "3721",
+  "sicDescription": "Aircraft",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "XERI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "271519178",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "561-491-9595",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Banjo & Matilda, Inc.",
+      "from": "2013-11-13T05:00:00.000Z",
+      "to": "2020-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "EASTERN WORLD SOLUTIONS, INC.",
+      "from": "2012-11-16T05:00:00.000Z",
+      "to": "2013-10-01T04:00:00.000Z"
+    },
+    {
+      "name": "Encom Group, Inc.",
+      "from": "2012-04-05T04:00:00.000Z",
+      "to": "2012-11-15T05:00:00.000Z"
+    },
+    {
+      "name": "Eastern World Solutions Inc.",
+      "from": "2010-01-25T05:00:00.000Z",
+      "to": "2012-04-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 175,
+  "download_timestamp": "2025-08-02 07:14:30 UTC"
+}

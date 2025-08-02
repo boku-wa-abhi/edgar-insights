@@ -1,0 +1,26 @@
+{
+  "cik": "0001092699",
+  "name": "SPS COMMERCE INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPSC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "412015127",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "612-435-9400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 949,
+  "download_timestamp": "2025-08-02 07:06:47 UTC"
+}

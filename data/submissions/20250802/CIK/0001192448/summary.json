@@ -1,0 +1,26 @@
+{
+  "cik": "0001192448",
+  "name": "GLAUKOS Corp",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GKOS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "949-367-9600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 907,
+  "download_timestamp": "2025-08-02 07:08:48 UTC"
+}

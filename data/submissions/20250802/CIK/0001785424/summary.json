@@ -1,0 +1,34 @@
+{
+  "cik": "0001785424",
+  "name": "Katapult Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KPLT",
+    "KPLTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "842704291",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "2123701300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FinServ Acquisition Corp.",
+      "from": "2019-09-05T04:00:00.000Z",
+      "to": "2021-06-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 426,
+  "download_timestamp": "2025-08-02 07:23:58 UTC"
+}

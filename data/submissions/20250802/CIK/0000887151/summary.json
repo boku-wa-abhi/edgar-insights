@@ -1,0 +1,42 @@
+{
+  "cik": "0000887151",
+  "name": "Capstone Holding Corp.",
+  "entityType": "operating",
+  "sic": "5030",
+  "sicDescription": "Wholesale-Lumber & Other Construction Materials",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CAPS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "860585310",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7083710660",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Capstone Therapeutics Corp.",
+      "from": "2010-05-25T04:00:00.000Z",
+      "to": "2019-09-25T04:00:00.000Z"
+    },
+    {
+      "name": "ORTHOLOGIC CORP",
+      "from": "1995-02-07T05:00:00.000Z",
+      "to": "2010-05-14T04:00:00.000Z"
+    },
+    {
+      "name": "ORTHOLOGIC CORPORATION",
+      "from": "1994-02-11T05:00:00.000Z",
+      "to": "1994-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 757,
+  "download_timestamp": "2025-08-02 07:02:29 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001818382",
+  "name": "Humacyte, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HUMA",
+    "HUMAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "851763759",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "919-313-9633",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Alpha Healthcare Acquisition Corp.",
+      "from": "2020-08-04T04:00:00.000Z",
+      "to": "2021-08-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 422,
+  "download_timestamp": "2025-08-02 07:25:17 UTC"
+}

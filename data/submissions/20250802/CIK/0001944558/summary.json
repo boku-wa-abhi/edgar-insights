@@ -1,0 +1,26 @@
+{
+  "cik": "0001944558",
+  "name": "Vitesse Energy, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "883617511",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "720.361.2500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 170,
+  "download_timestamp": "2025-08-02 07:30:02 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000932781",
+  "name": "FIRST COMMUNITY CORP /SC/",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FCCO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "571010751",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8032538875",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:03:58 UTC"
+}

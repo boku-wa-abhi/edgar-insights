@@ -1,0 +1,209 @@
+{
+  "cik": "0002039096",
+  "entityType": "other",
+  "sic": "7363",
+  "sicDescription": "Services-Help Supply Services",
+  "ownerOrg": "07 Trade & Services",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "ELC Group Holdings Ltd.",
+  "tickers": [
+    "ELCG"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "0630",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "745 LOR 5 TOA PAYOH, #03-02",
+      "street2": null,
+      "city": "SINGAPORE",
+      "stateOrCountry": "U0",
+      "zipCode": "319455",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "745 LOR 5 TOA PAYOH, #03-02",
+      "street2": null,
+      "city": "SINGAPORE",
+      "stateOrCountry": "U0",
+      "zipCode": "319455",
+      "stateOrCountryDescription": "Singapore",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "(65) 8850 3589",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001641172-25-020962",
+        "0001641172-25-018409",
+        "0001641172-25-016911",
+        "0001641172-25-010760",
+        "0001493152-25-008953",
+        "0001493152-25-004549",
+        "0001493152-25-001843",
+        "0001493152-24-047923"
+      ],
+      "filingDate": [
+        "2025-07-25",
+        "2025-07-09",
+        "2025-06-27",
+        "2025-05-15",
+        "2025-03-04",
+        "2025-02-03",
+        "2025-01-13",
+        "2024-11-27"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-25T15:28:45.000Z",
+        "2025-07-09T20:25:51.000Z",
+        "2025-06-27T20:36:04.000Z",
+        "2025-05-15T19:06:52.000Z",
+        "2025-03-04T11:15:42.000Z",
+        "2025-02-03T11:05:30.000Z",
+        "2025-01-13T11:07:23.000Z",
+        "2024-11-27T14:00:22.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-285524",
+        "333-285524",
+        "333-285524",
+        "333-285524",
+        "333-285524",
+        "377-07577",
+        "377-07577",
+        "377-07577"
+      ],
+      "filmNumber": [
+        "251150099",
+        "251113846",
+        "251087007",
+        "25951745",
+        "25701332",
+        "25580416",
+        "25524651",
+        "241506545"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1",
+        "DRS/A",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        9341224,
+        9339030,
+        9246478,
+        70176593,
+        69308694,
+        69225298,
+        69223041,
+        68085259
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1a.htm",
+        "formf-1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "F-1/A",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

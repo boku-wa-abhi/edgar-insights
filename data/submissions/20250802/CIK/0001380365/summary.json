@@ -1,0 +1,28 @@
+{
+  "cik": "0001380365",
+  "name": "IDEMITSU KOSAN CO., LTD",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "IDKOY",
+    "IDKOF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "521290202",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "81-3-3213-3150",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 43,
+  "download_timestamp": "2025-08-02 07:11:46 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001723788",
+  "name": "Bitwise 10 Crypto Index Fund",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BITW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "823002349",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "415-707-3663",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Bitwise 10 Private Index Fund, LLC",
+      "from": "2018-10-09T04:00:00.000Z",
+      "to": "2019-12-02T05:00:00.000Z"
+    },
+    {
+      "name": "Bitwise HOLD10 Private Index Fund, LLC",
+      "from": "2018-05-21T04:00:00.000Z",
+      "to": "2018-05-21T04:00:00.000Z"
+    },
+    {
+      "name": "Bitwise Hold 10 Private Index Fund, LLC",
+      "from": "2017-11-29T05:00:00.000Z",
+      "to": "2018-05-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 77,
+  "download_timestamp": "2025-08-02 07:21:59 UTC"
+}

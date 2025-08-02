@@ -1,0 +1,28 @@
+{
+  "cik": "0001628171",
+  "name": "Revolution Medicines, Inc.",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RVMD",
+    "RVMDW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "472029180",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-766-3638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 658,
+  "download_timestamp": "2025-08-02 07:19:08 UTC"
+}

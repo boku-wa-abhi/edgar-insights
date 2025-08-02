@@ -1,0 +1,32 @@
+{
+  "cik": "0001462586",
+  "name": "Western Asset Investment Grade Opportunity Trust Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1130",
+  "tickers": [
+    "IGI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-777-0102",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Western Asset Investment Grade Defined Opportunity Trust Inc.",
+      "from": "2009-04-24T04:00:00.000Z",
+      "to": "2024-10-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 336,
+  "download_timestamp": "2025-08-02 07:13:56 UTC"
+}

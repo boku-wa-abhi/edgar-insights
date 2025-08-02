@@ -1,0 +1,239 @@
+{
+  "cik": "0001860160",
+  "entityType": "other",
+  "sic": "3760",
+  "sicDescription": "Guided Missiles & Space Vehicles & Parts",
+  "ownerOrg": "04 Manufacturing",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Firefly Aerospace Inc.",
+  "tickers": [
+    "FLY"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "815194980",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "addresses": {
+    "mailing": {
+      "street1": "1320 ARROW POINT DR",
+      "street2": "SUITE 109",
+      "city": "CEDAR PARK",
+      "stateOrCountry": "TX",
+      "zipCode": "78613",
+      "stateOrCountryDescription": "TX",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "1320 ARROW POINT DR",
+      "street2": "SUITE 109",
+      "city": "CEDAR PARK",
+      "stateOrCountry": "TX",
+      "zipCode": "78613",
+      "stateOrCountryDescription": "TX",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "5122776959",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001193125-25-165856",
+        "0001193125-25-158225",
+        "0000950123-25-006090",
+        "0000950123-25-003556",
+        "0001860160-24-000003",
+        "0001860160-24-000002",
+        "0001860160-24-000001",
+        "0001860160-23-000001",
+        "0001860160-22-000001",
+        "0001860160-21-000001"
+      ],
+      "filingDate": [
+        "2025-07-28",
+        "2025-07-11",
+        "2025-06-20",
+        "2025-04-16",
+        "2024-11-15",
+        "2024-03-01",
+        "2024-03-01",
+        "2023-02-16",
+        "2022-03-29",
+        "2021-05-11"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-28T11:02:51.000Z",
+        "2025-07-11T20:37:40.000Z",
+        "2025-06-20T21:02:15.000Z",
+        "2025-04-16T20:40:42.000Z",
+        "2024-11-15T19:18:49.000Z",
+        "2024-03-01T18:10:20.000Z",
+        "2024-03-01T17:45:28.000Z",
+        "2023-02-16T15:10:31.000Z",
+        "2022-03-29T13:41:22.000Z",
+        "2021-05-10T22:29:06.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "fileNumber": [
+        "333-288646",
+        "333-288646",
+        "377-07908",
+        "377-07908",
+        "021-529565",
+        "021-506507",
+        "021-473619",
+        "021-473619",
+        "021-439349",
+        "021-398867"
+      ],
+      "filmNumber": [
+        "251152918",
+        "251119388",
+        "251062192",
+        "25843274",
+        "241467127",
+        "24708503",
+        "24708376",
+        "23637399",
+        "22777907",
+        "21908958"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b",
+        "06b"
+      ],
+      "core_type": [
+        "S-1/A",
+        "S-1",
+        "DRS/A",
+        "DRS",
+        "D",
+        "D",
+        "D/A",
+        "D",
+        "D",
+        "D"
+      ],
+      "size": [
+        10481520,
+        12882084,
+        12110013,
+        2056334,
+        13356,
+        14291,
+        14160,
+        14649,
+        12850,
+        12652
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "d849748ds1a.htm",
+        "d849748ds1.htm",
+        "filename1.htm",
+        "filename1.htm",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml",
+        "xslFormDX01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "S-1/A",
+        "S-1",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

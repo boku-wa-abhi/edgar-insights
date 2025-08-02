@@ -1,0 +1,26 @@
+{
+  "cik": "0000842717",
+  "name": "BLUE RIDGE BANKSHARES, INC.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "VA",
+  "stateOfIncorporationDescription": "VA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BRBS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "541838100",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "888-331-6521",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 551,
+  "download_timestamp": "2025-08-02 07:01:21 UTC"
+}

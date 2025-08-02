@@ -1,0 +1,26 @@
+{
+  "cik": "0000910267",
+  "name": "TITAN PHARMACEUTICALS INC",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TTNP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943171940",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "6502444990",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:03:12 UTC"
+}

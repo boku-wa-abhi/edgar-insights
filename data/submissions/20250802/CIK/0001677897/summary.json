@@ -1,0 +1,26 @@
+{
+  "cik": "0001677897",
+  "name": "UPAY",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0228",
+  "tickers": [
+    "UPYY"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "371793622",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "9728886052",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 117,
+  "download_timestamp": "2025-08-02 07:20:28 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0002027317",
+  "name": "Curbline Properties Corp.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CURB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "934224532",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "216-755-5500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 68,
+  "download_timestamp": "2025-08-02 07:32:29 UTC"
+}

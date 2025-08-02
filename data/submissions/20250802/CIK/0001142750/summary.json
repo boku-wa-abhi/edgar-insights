@@ -1,0 +1,26 @@
+{
+  "cik": "0001142750",
+  "name": "AMN HEALTHCARE SERVICES INC",
+  "entityType": "operating",
+  "sic": "7363",
+  "sicDescription": "Services-Help Supply Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AMN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "061500476",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8668718519",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:08:00 UTC"
+}

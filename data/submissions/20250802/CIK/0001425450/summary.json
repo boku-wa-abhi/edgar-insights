@@ -1,0 +1,26 @@
+{
+  "cik": "0001425450",
+  "name": "ORTHOPEDIATRICS CORP",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KIDS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "261761833",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "574-268-6379",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 552,
+  "download_timestamp": "2025-08-02 07:13:01 UTC"
+}

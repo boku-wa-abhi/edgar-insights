@@ -1,0 +1,26 @@
+{
+  "cik": "0001758021",
+  "name": "Karat Packaging Inc.",
+  "entityType": "operating",
+  "sic": "3089",
+  "sicDescription": "Plastics Products, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KRT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "832237832",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "6269658882",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 217,
+  "download_timestamp": "2025-08-02 07:23:05 UTC"
+}

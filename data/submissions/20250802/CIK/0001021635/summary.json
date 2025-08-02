@@ -1,0 +1,32 @@
+{
+  "cik": "0001021635",
+  "name": "OGE ENERGY CORP.",
+  "entityType": "operating",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "OK",
+  "stateOfIncorporationDescription": "OK",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OGE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "731481638",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4055533000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OGE ENERGY CORP",
+      "from": "1995-09-29T04:00:00.000Z",
+      "to": "2008-08-05T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:04:53 UTC"
+}

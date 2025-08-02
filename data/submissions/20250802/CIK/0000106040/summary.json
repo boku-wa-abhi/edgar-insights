@@ -1,0 +1,26 @@
+{
+  "cik": "0000106040",
+  "name": "WESTERN DIGITAL CORP",
+  "entityType": "operating",
+  "sic": "3572",
+  "sicDescription": "Computer Storage Devices",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0703",
+  "tickers": [
+    "WDC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "330956711",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9496727000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 06:58:22 UTC"
+}

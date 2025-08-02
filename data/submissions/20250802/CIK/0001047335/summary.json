@@ -1,0 +1,26 @@
+{
+  "cik": "0001047335",
+  "name": "NATIONAL HEALTHCARE CORP",
+  "entityType": "operating",
+  "sic": "8051",
+  "sicDescription": "Services-Skilled Nursing Care Facilities",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NHC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "522057472",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6158902020",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:36 UTC"
+}

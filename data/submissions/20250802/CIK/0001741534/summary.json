@@ -1,0 +1,26 @@
+{
+  "cik": "0001741534",
+  "name": "MDJM LTD",
+  "entityType": "other",
+  "sic": "6531",
+  "sicDescription": "Real Estate Agents & Managers (For Others)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UOKA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "44-01337 829349",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 118,
+  "download_timestamp": "2025-08-02 07:22:33 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000102109",
+  "name": "UNIVERSAL SAFETY PRODUCTS, INC.",
+  "entityType": "operating",
+  "sic": "5065",
+  "sicDescription": "Wholesale-Electronic Parts & Equipment, NEC",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "UUU"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "520898545",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "4103633000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNIVERSAL SECURITY INSTRUMENTS INC",
+      "from": "1995-11-14T05:00:00.000Z",
+      "to": "2025-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 613,
+  "download_timestamp": "2025-08-02 06:58:16 UTC"
+}

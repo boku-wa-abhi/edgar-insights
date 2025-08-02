@@ -1,0 +1,26 @@
+{
+  "cik": "0000091767",
+  "name": "SONOCO PRODUCTS CO",
+  "entityType": "operating",
+  "sic": "2650",
+  "sicDescription": "Paperboard Containers & Boxes",
+  "stateOfIncorporation": "SC",
+  "stateOfIncorporationDescription": "SC",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SON"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "570248420",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8433837000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:00 UTC"
+}

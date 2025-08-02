@@ -1,0 +1,37 @@
+{
+  "cik": "0001630176",
+  "name": "HEALTHY EXTRACTS INC.",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HYEX"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "472594704",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "702-505-0471",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HEALTHLY EXTRACTS INC.",
+      "from": "2021-03-11T05:00:00.000Z",
+      "to": "2021-03-11T05:00:00.000Z"
+    },
+    {
+      "name": "GREY CLOAK TECH INC.",
+      "from": "2015-01-12T05:00:00.000Z",
+      "to": "2021-02-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 179,
+  "download_timestamp": "2025-08-02 07:19:11 UTC"
+}

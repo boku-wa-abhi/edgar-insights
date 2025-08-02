@@ -1,0 +1,26 @@
+{
+  "cik": "0001173382",
+  "name": "CAE INC",
+  "entityType": "other",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "CAE"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "514-341-6780",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 352,
+  "download_timestamp": "2025-08-02 07:08:32 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001889983",
+  "name": "Keen Vision Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KVAC",
+    "KVACU",
+    "KVACW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(203) 609-1394",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 77,
+  "download_timestamp": "2025-08-02 07:28:52 UTC"
+}

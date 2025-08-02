@@ -1,0 +1,32 @@
+{
+  "cik": "0001056943",
+  "name": "PEOPLES FINANCIAL SERVICES CORP.",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "PA",
+  "stateOfIncorporationDescription": "PA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PFIS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "232391852",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "570-346-7741",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PEOPLES FINANCIAL SERVICES CORP/",
+      "from": "1998-11-16T05:00:00.000Z",
+      "to": "2009-04-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:05:50 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001707910",
+  "name": "Reborn Coffee, Inc.",
+  "entityType": "operating",
+  "sic": "5812",
+  "sicDescription": "Retail-Eating  Places",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REBN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474752305",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "714-784-6369",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAPAX INC.",
+      "from": "2017-06-05T04:00:00.000Z",
+      "to": "2018-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 160,
+  "download_timestamp": "2025-08-02 07:21:23 UTC"
+}

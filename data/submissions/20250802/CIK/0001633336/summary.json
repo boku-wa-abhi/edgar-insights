@@ -1,0 +1,28 @@
+{
+  "cik": "0001633336",
+  "name": "Crescent Capital BDC, Inc.",
+  "entityType": "operating",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCAP",
+    "FCRX"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "NYSE"
+  ],
+  "ein": "473162282",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "310-235-5971",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 484,
+  "download_timestamp": "2025-08-02 07:19:15 UTC"
+}

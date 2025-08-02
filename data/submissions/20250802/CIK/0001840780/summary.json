@@ -1,0 +1,34 @@
+{
+  "cik": "0001840780",
+  "name": "Local Bounti Corporation/DE",
+  "entityType": "operating",
+  "sic": "0100",
+  "sicDescription": "Agricultural Production-Crops",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LOCL",
+    "LOCLW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "981584830",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "800-640-4016",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Leo Holdings III Corp.",
+      "from": "2021-01-21T05:00:00.000Z",
+      "to": "2021-11-22T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 465,
+  "download_timestamp": "2025-08-02 07:26:36 UTC"
+}

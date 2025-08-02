@@ -1,0 +1,32 @@
+{
+  "cik": "0001518336",
+  "name": "Dream Homes & Development Corp.",
+  "entityType": "operating",
+  "sic": "1531",
+  "sicDescription": "Operative Builders",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DREM"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "202208821",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "609-693-8881",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Virtual Learning Company, Inc.",
+      "from": "2011-06-02T04:00:00.000Z",
+      "to": "2017-04-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 141,
+  "download_timestamp": "2025-08-02 07:15:46 UTC"
+}

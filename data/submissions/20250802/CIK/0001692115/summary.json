@@ -1,0 +1,26 @@
+{
+  "cik": "0001692115",
+  "name": "Southwest Gas Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "4923",
+  "sicDescription": "Natural Gas Transmisison & Distribution",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SWX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "813881866",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "702-876-7237",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:20:55 UTC"
+}

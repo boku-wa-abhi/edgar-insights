@@ -1,0 +1,32 @@
+{
+  "cik": "0001785680",
+  "name": "Santech Holdings Ltd",
+  "entityType": "other",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "STEC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "8602180133888",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hywin Holdings Ltd.",
+      "from": "2020-08-11T04:00:00.000Z",
+      "to": "2024-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 77,
+  "download_timestamp": "2025-08-02 07:23:59 UTC"
+}

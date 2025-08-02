@@ -1,0 +1,37 @@
+{
+  "cik": "0001227282",
+  "name": "Strata Power Corp",
+  "entityType": "other",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SPOWF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "403-237-5443",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "STRATA OIL & GAS, INC.",
+      "from": "2005-09-12T00:00:00.000Z",
+      "to": "2018-03-30T00:00:00.000Z"
+    },
+    {
+      "name": "STRATABASE INC",
+      "from": "2003-04-22T00:00:00.000Z",
+      "to": "2005-06-10T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 125,
+  "download_timestamp": "2025-08-02 07:09:01 UTC"
+}

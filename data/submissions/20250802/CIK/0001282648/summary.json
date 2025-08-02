@@ -1,0 +1,42 @@
+{
+  "cik": "0001282648",
+  "name": "BATTALION OIL CORP",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BATL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "200700684",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "832-538-0300",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HALCON RESOURCES CORP",
+      "from": "2012-02-09T05:00:00.000Z",
+      "to": "2019-12-17T05:00:00.000Z"
+    },
+    {
+      "name": "RAM ENERGY RESOURCES INC",
+      "from": "2006-01-20T05:00:00.000Z",
+      "to": "2012-01-30T05:00:00.000Z"
+    },
+    {
+      "name": "TREMISIS ENERGY ACQUISITION CORP",
+      "from": "2004-03-12T05:00:00.000Z",
+      "to": "2006-05-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:09:39 UTC"
+}

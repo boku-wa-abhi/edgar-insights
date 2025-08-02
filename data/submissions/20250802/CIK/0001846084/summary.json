@@ -1,0 +1,28 @@
+{
+  "cik": "0001846084",
+  "name": "Global Crossing Airlines Group Inc.",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JETMF",
+    "JETBF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "981350261",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "7867518503",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 177,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

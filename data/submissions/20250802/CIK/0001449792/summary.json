@@ -1,0 +1,32 @@
+{
+  "cik": "0001449792",
+  "name": "PIONEER POWER SOLUTIONS, INC.",
+  "entityType": "operating",
+  "sic": "3612",
+  "sicDescription": "Power, Distribution & Specialty Transformers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PPSI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "212-867-0700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SIERRA CONCEPTS, INC.",
+      "from": "2008-11-14T05:00:00.000Z",
+      "to": "2009-11-17T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 480,
+  "download_timestamp": "2025-08-02 07:13:42 UTC"
+}

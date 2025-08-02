@@ -1,0 +1,32 @@
+{
+  "cik": "0001852131",
+  "name": "Nextracker Inc.",
+  "entityType": "operating",
+  "sic": "3812",
+  "sicDescription": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "NXT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "510-270-2500",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Nextracker LLC",
+      "from": "2022-09-22T04:00:00.000Z",
+      "to": "2022-09-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 335,
+  "download_timestamp": "2025-08-02 07:27:17 UTC"
+}

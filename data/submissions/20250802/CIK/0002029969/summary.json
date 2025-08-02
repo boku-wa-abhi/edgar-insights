@@ -1,0 +1,28 @@
+{
+  "cik": "0002029969",
+  "name": "Virbac SA/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "I0",
+  "stateOfIncorporationDescription": "France",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VBACY",
+    "VRBCF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-6638",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1,
+  "download_timestamp": "2025-08-02 07:32:35 UTC"
+}

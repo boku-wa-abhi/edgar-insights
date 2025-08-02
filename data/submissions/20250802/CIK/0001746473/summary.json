@@ -1,0 +1,26 @@
+{
+  "cik": "0001746473",
+  "name": "PLIANT THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PLRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "474272481",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "650-481-6770",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 373,
+  "download_timestamp": "2025-08-02 07:22:43 UTC"
+}

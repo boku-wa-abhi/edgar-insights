@@ -1,0 +1,47 @@
+{
+  "cik": "0001507605",
+  "name": "MARA Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MARA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "010949984",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(800) 804-1690",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MARATHON DIGITAL HOLDINGS, INC.",
+      "from": "2021-03-16T04:00:00.000Z",
+      "to": "2024-08-14T04:00:00.000Z"
+    },
+    {
+      "name": "Marathon Patent Group, Inc.",
+      "from": "2012-11-05T05:00:00.000Z",
+      "to": "2021-02-19T05:00:00.000Z"
+    },
+    {
+      "name": "American Strategic Minerals Corp",
+      "from": "2011-12-13T05:00:00.000Z",
+      "to": "2013-02-20T05:00:00.000Z"
+    },
+    {
+      "name": "VERVE VENTURES INC",
+      "from": "2010-12-16T05:00:00.000Z",
+      "to": "2011-12-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 954,
+  "download_timestamp": "2025-08-02 07:15:23 UTC"
+}

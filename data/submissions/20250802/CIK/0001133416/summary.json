@@ -1,0 +1,32 @@
+{
+  "cik": "0001133416",
+  "name": "GALECTIN THERAPEUTICS INC",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GALT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043562325",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "678-620-3186",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PRO PHARMACEUTICALS INC",
+      "from": "2001-09-07T04:00:00.000Z",
+      "to": "2011-05-26T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:07:47 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001318605",
+  "name": "Tesla, Inc.",
+  "entityType": "operating",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "TX",
+  "stateOfIncorporationDescription": "TX",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TSLA"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "912197729",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "512-516-8177",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TESLA MOTORS INC",
+      "from": "2005-02-17T05:00:00.000Z",
+      "to": "2017-01-27T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:21 UTC"
+}

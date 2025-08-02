@@ -1,0 +1,26 @@
+{
+  "cik": "0001410636",
+  "name": "American Water Works Company, Inc.",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AWK"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "510063696",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "856-955-4001",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1004,
+  "download_timestamp": "2025-08-02 07:12:35 UTC"
+}

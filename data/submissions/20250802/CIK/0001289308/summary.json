@@ -1,0 +1,26 @@
+{
+  "cik": "0001289308",
+  "name": "EnerSys",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "ENS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "233058564",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(610) 208-1600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:09:50 UTC"
+}

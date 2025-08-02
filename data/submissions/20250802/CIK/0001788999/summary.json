@@ -1,0 +1,37 @@
+{
+  "cik": "0001788999",
+  "name": "Xperi Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XPER"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "834470363",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "4085199100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Xperi, Inc.",
+      "from": "2022-07-12T04:00:00.000Z",
+      "to": "2022-08-05T04:00:00.000Z"
+    },
+    {
+      "name": "TiVo Product HoldCo LLC",
+      "from": "2021-10-12T04:00:00.000Z",
+      "to": "2022-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 213,
+  "download_timestamp": "2025-08-02 07:24:07 UTC"
+}

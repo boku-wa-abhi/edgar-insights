@@ -1,0 +1,32 @@
+{
+  "cik": "0001304161",
+  "name": "Pharma-Bio Serv, Inc.",
+  "entityType": "operating",
+  "sic": "8742",
+  "sicDescription": "Services-Management Consulting Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "PBSV"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "200653570",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "787-278-2709",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LAWRENCE CONSULTING GROUP INC",
+      "from": "2004-09-24T04:00:00.000Z",
+      "to": "2006-02-28T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 508,
+  "download_timestamp": "2025-08-02 07:10:07 UTC"
+}

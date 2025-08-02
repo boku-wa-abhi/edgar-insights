@@ -1,0 +1,32 @@
+{
+  "cik": "0000850027",
+  "name": "EAGLE CAPITAL GROWTH FUND, INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "311274796",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "414-765-1107",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NAIC GROWTH FUND INC",
+      "from": "1996-08-30T04:00:00.000Z",
+      "to": "2008-05-07T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 754,
+  "download_timestamp": "2025-08-02 07:01:30 UTC"
+}

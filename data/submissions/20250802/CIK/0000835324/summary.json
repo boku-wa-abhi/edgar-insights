@@ -1,0 +1,32 @@
+{
+  "cik": "0000835324",
+  "name": "Stock Yards Bancorp, Inc.",
+  "entityType": "operating",
+  "sic": "6022",
+  "sicDescription": "State Commercial Banks",
+  "stateOfIncorporation": "KY",
+  "stateOfIncorporationDescription": "KY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SYBT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "611137529",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5025822571",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "S Y BANCORP INC",
+      "from": "1996-03-28T05:00:00.000Z",
+      "to": "2014-04-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1005,
+  "download_timestamp": "2025-08-02 07:01:14 UTC"
+}

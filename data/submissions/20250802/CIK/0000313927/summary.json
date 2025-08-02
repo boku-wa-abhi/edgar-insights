@@ -1,0 +1,26 @@
+{
+  "cik": "0000313927",
+  "name": "CHURCH & DWIGHT CO INC /DE/",
+  "entityType": "operating",
+  "sic": "2840",
+  "sicDescription": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CHD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "134996950",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "609-806-1200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:58:39 UTC"
+}

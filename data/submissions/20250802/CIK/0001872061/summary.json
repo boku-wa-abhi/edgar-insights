@@ -1,0 +1,28 @@
+{
+  "cik": "0001872061",
+  "name": "Volt Lithium Corp.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "0630",
+  "tickers": [],
+  "exchanges": [],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604 290-7073",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Allied Copper Corp.",
+      "from": "2021-07-12T04:00:00.000Z",
+      "to": "2021-07-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 3,
+  "download_timestamp": "2025-08-02 07:28:15 UTC"
+}

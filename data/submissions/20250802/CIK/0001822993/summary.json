@@ -1,0 +1,28 @@
+{
+  "cik": "0001822993",
+  "name": "Jackson Financial Inc.",
+  "entityType": "operating",
+  "sic": "6311",
+  "sicDescription": "Life Insurance",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JXN",
+    "JXN-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "980486152",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "517-381-5500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 675,
+  "download_timestamp": "2025-08-02 07:25:33 UTC"
+}

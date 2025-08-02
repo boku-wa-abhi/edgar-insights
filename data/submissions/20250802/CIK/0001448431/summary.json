@@ -1,0 +1,26 @@
+{
+  "cik": "0001448431",
+  "name": "OptimizeRx Corp",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OPRX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "261265381",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "248-651-6558",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 969,
+  "download_timestamp": "2025-08-02 07:13:40 UTC"
+}

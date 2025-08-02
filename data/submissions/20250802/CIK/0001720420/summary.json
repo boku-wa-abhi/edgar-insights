@@ -1,0 +1,32 @@
+{
+  "cik": "0001720420",
+  "name": "IBEX Ltd",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "IBEX"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(202)580-6200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "IBEX Holdings Ltd",
+      "from": "2017-11-22T05:00:00.000Z",
+      "to": "2018-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 272,
+  "download_timestamp": "2025-08-02 07:21:50 UTC"
+}

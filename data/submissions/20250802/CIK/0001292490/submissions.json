@@ -1,0 +1,125 @@
+{
+  "cik": "0001292490",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Synbio International, Inc.",
+  "tickers": [
+    "SYIN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "043588066",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "addresses": {
+    "mailing": {
+      "street1": "30 N GOULD ST",
+      "street2": "STE 5835",
+      "city": "SHERIDAN",
+      "stateOrCountry": "WY",
+      "zipCode": "89014",
+      "stateOrCountryDescription": "WY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "30 N GOULD ST",
+      "street2": "STE 5835",
+      "city": "SHERIDAN",
+      "stateOrCountry": "WY",
+      "zipCode": "89014",
+      "stateOrCountryDescription": "WY",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "646-359-4854",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Natural Harmony Foods Inc",
+      "from": "2004-06-01T00:00:00.000Z",
+      "to": "2004-06-01T00:00:00.000Z"
+    }
+  ],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001393905-24-000357",
+        "9999999997-04-024550"
+      ],
+      "filingDate": [
+        "2024-10-22",
+        "2004-06-01"
+      ],
+      "reportDate": [
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2024-10-23T09:35:41.000Z",
+        "2004-06-03T10:01:09.000Z"
+      ],
+      "act": [
+        "33",
+        ""
+      ],
+      "form": [
+        "S-1",
+        "REGDEX"
+      ],
+      "fileNumber": [
+        "333-282783",
+        "021-66041"
+      ],
+      "filmNumber": [
+        "241387959",
+        "04031736"
+      ],
+      "items": [
+        "",
+        "04"
+      ],
+      "core_type": [
+        "S-1",
+        "REGDEX"
+      ],
+      "size": [
+        2621828,
+        1585
+      ],
+      "isXBRL": [
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "synb_s1.htm",
+        "9999999997-04-024550.paper"
+      ],
+      "primaryDocDescription": [
+        "REGISTRATION STATEMENT",
+        "AUTO-GENERATED PAPER DOCUMENT"
+      ]
+    },
+    "files": []
+  }
+}

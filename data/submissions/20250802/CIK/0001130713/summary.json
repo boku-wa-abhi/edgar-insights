@@ -1,0 +1,37 @@
+{
+  "cik": "0001130713",
+  "name": "BEYOND, INC.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BYON"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "870634302",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8019473100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "OVERSTOCK.COM, INC",
+      "from": "2006-02-07T05:00:00.000Z",
+      "to": "2023-11-03T04:00:00.000Z"
+    },
+    {
+      "name": "OVERSTOCK COM INC",
+      "from": "2002-04-05T05:00:00.000Z",
+      "to": "2006-02-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:07:42 UTC"
+}

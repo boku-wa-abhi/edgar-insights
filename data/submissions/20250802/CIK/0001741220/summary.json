@@ -1,0 +1,26 @@
+{
+  "cik": "0001741220",
+  "name": "CW Petroleum Corp",
+  "entityType": "other",
+  "sic": "5172",
+  "sicDescription": "Wholesale-Petroleum & Petroleum Products (No Bulk Stations)",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWPE"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "202765559",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "281-817-8099",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 68,
+  "download_timestamp": "2025-08-02 07:22:31 UTC"
+}

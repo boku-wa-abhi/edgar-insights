@@ -1,0 +1,37 @@
+{
+  "cik": "0001577445",
+  "name": "Odysight.ai Inc.",
+  "entityType": "operating",
+  "sic": "3827",
+  "sicDescription": "Optical Instruments & Lenses",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ODYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "480-659-6404",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ScoutCam Inc.",
+      "from": "2020-01-02T05:00:00.000Z",
+      "to": "2023-06-06T04:00:00.000Z"
+    },
+    {
+      "name": "Intellisense Solutions Inc.",
+      "from": "2013-05-29T04:00:00.000Z",
+      "to": "2019-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 246,
+  "download_timestamp": "2025-08-02 07:17:32 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001048695",
+  "name": "F5, INC.",
+  "entityType": "operating",
+  "sic": "3576",
+  "sicDescription": "Computer Communications Equipment",
+  "stateOfIncorporation": "WA",
+  "stateOfIncorporationDescription": "WA",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "FFIV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911714307",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2062725555",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "F5 NETWORKS, INC.",
+      "from": "2019-07-03T04:00:00.000Z",
+      "to": "2021-11-12T05:00:00.000Z"
+    },
+    {
+      "name": "F5 NETWORKS INC",
+      "from": "1999-06-03T04:00:00.000Z",
+      "to": "2019-05-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:05:38 UTC"
+}

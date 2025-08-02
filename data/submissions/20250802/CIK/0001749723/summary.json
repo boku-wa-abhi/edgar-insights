@@ -1,0 +1,37 @@
+{
+  "cik": "0001749723",
+  "name": "New Fortress Energy Inc.",
+  "entityType": "operating",
+  "sic": "4924",
+  "sicDescription": "Natural Gas Distribution",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NFE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "831482060",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(516) 268-7400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Fortress Energy LLC",
+      "from": "2018-09-17T04:00:00.000Z",
+      "to": "2020-08-04T04:00:00.000Z"
+    },
+    {
+      "name": "NFE Financial Holdings LLC",
+      "from": "2018-08-16T04:00:00.000Z",
+      "to": "2018-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 360,
+  "download_timestamp": "2025-08-02 07:22:46 UTC"
+}

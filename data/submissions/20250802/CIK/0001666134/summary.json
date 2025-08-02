@@ -1,0 +1,26 @@
+{
+  "cik": "0001666134",
+  "name": "BLACKLINE, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BL"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "463354276",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "818-223-9008",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 906,
+  "download_timestamp": "2025-08-02 07:20:10 UTC"
+}

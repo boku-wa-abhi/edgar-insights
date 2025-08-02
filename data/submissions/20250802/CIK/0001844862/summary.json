@@ -1,0 +1,34 @@
+{
+  "cik": "0001844862",
+  "name": "Solid Power, Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SLDP",
+    "SLDPW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "861888095",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(303) 219-0720",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Decarbonization Plus Acquisition Corp III",
+      "from": "2021-02-12T05:00:00.000Z",
+      "to": "2021-12-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 405,
+  "download_timestamp": "2025-08-02 07:26:49 UTC"
+}

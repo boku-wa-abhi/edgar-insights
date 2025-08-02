@@ -1,0 +1,32 @@
+{
+  "cik": "0001618500",
+  "name": "XYLO TECHNOLOGIES LTD",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "XYLO"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "972-3-6899124",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Medigus Ltd.",
+      "from": "2014-09-05T04:00:00.000Z",
+      "to": "2024-04-09T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 594,
+  "download_timestamp": "2025-08-02 07:18:50 UTC"
+}

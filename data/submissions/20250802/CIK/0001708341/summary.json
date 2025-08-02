@@ -1,0 +1,37 @@
+{
+  "cik": "0001708341",
+  "name": "Allied Gaming & Entertainment Inc.",
+  "entityType": "operating",
+  "sic": "7900",
+  "sicDescription": "Services-Amusement & Recreation Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AGAE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "821659427",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(646) 768-4240",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Allied Esports Entertainment, Inc.",
+      "from": "2019-08-15T04:00:00.000Z",
+      "to": "2022-11-23T05:00:00.000Z"
+    },
+    {
+      "name": "Black Ridge Acquisition Corp.",
+      "from": "2017-06-09T04:00:00.000Z",
+      "to": "2019-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 497,
+  "download_timestamp": "2025-08-02 07:21:26 UTC"
+}

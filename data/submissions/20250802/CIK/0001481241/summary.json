@@ -1,0 +1,32 @@
+{
+  "cik": "0001481241",
+  "name": "Performance Shipping Inc.",
+  "entityType": "other",
+  "sic": "4412",
+  "sicDescription": "Deep Sea Foreign Transportation of  Freight",
+  "stateOfIncorporation": "1T",
+  "stateOfIncorporationDescription": "Marshall Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PSHG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "302166002400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Diana Containerships Inc.",
+      "from": "2010-04-15T04:00:00.000Z",
+      "to": "2019-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 605,
+  "download_timestamp": "2025-08-02 07:14:29 UTC"
+}

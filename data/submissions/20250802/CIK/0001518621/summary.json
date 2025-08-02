@@ -1,0 +1,26 @@
+{
+  "cik": "0001518621",
+  "name": "Orchid Island Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ORC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "273269228",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "772-231-1400",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 796,
+  "download_timestamp": "2025-08-02 07:15:47 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000021344",
+  "name": "COCA COLA CO",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "580628465",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "404-676-2121",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1013,
+  "download_timestamp": "2025-08-02 06:56:32 UTC"
+}

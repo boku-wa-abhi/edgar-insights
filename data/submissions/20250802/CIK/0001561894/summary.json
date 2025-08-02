@@ -1,0 +1,32 @@
+{
+  "cik": "0001561894",
+  "name": "HA Sustainable Infrastructure Capital, Inc.",
+  "entityType": "operating",
+  "sic": "6799",
+  "sicDescription": "Investors, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HASI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "461347456",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(410) 571-9860",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+      "from": "2012-11-09T05:00:00.000Z",
+      "to": "2024-07-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 937,
+  "download_timestamp": "2025-08-02 07:17:02 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001710340",
+  "name": "Eton Pharmaceuticals, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ETON"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "371858472",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(847) 787-7361",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 323,
+  "download_timestamp": "2025-08-02 07:21:30 UTC"
+}

@@ -1,0 +1,47 @@
+{
+  "cik": "0001386067",
+  "name": "ALLSPRING GLOBAL DIVIDEND OPPORTUNITY FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "EOD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "208293094",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "857-776-4824",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WELLS FARGO GLOBAL DIVIDEND OPPORTUNITY FUND",
+      "from": "2015-12-17T05:00:00.000Z",
+      "to": "2021-11-09T05:00:00.000Z"
+    },
+    {
+      "name": "WELLS FARGO ADVANTAGE GLOBAL DIVIDEND OPPORTUNITY FUND",
+      "from": "2010-08-23T04:00:00.000Z",
+      "to": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "name": "WELLS FARGO ADVANTAGE GLOBAL OPPORTUNITIES FUND",
+      "from": "2010-07-19T04:00:00.000Z",
+      "to": "2010-07-19T04:00:00.000Z"
+    },
+    {
+      "name": "Evergreen Global Dividend Opportunity Fund",
+      "from": "2007-01-16T05:00:00.000Z",
+      "to": "2010-07-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 435,
+  "download_timestamp": "2025-08-02 07:11:57 UTC"
+}

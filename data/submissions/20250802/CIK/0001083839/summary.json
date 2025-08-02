@@ -1,0 +1,32 @@
+{
+  "cik": "0001083839",
+  "name": "Nuveen Quality Municipal Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "NAD"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364287820",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "312-917-8146",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN DIVIDEND ADVANTAGE MUNICIPAL FUND",
+      "from": "1999-04-16T04:00:00.000Z",
+      "to": "2016-08-31T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 592,
+  "download_timestamp": "2025-08-02 07:06:34 UTC"
+}

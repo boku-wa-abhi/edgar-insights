@@ -1,0 +1,37 @@
+{
+  "cik": "0001018963",
+  "name": "ATI INC",
+  "entityType": "operating",
+  "sic": "3317",
+  "sicDescription": "Steel Pipe & Tubes",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1229",
+  "tickers": [
+    "ATI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "251792394",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4123942800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLEGHENY TECHNOLOGIES INC",
+      "from": "1999-12-13T05:00:00.000Z",
+      "to": "2022-06-22T04:00:00.000Z"
+    },
+    {
+      "name": "ALLEGHENY TELEDYNE INC",
+      "from": "1996-07-17T04:00:00.000Z",
+      "to": "1999-08-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:50 UTC"
+}

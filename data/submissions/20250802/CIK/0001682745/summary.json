@@ -1,0 +1,32 @@
+{
+  "cik": "0001682745",
+  "name": "VERRA MOBILITY Corp",
+  "entityType": "operating",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRRM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "813563824",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "480.443.7000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Gores Holdings II, Inc.",
+      "from": "2016-09-01T04:00:00.000Z",
+      "to": "2018-10-03T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 590,
+  "download_timestamp": "2025-08-02 07:20:40 UTC"
+}

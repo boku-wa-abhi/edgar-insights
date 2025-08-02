@@ -1,0 +1,28 @@
+{
+  "cik": "0000092108",
+  "name": "SOUTHERN CALIFORNIA GAS CO",
+  "entityType": "operating",
+  "sic": "4922",
+  "sicDescription": "Natural Gas Transmission",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOCGP",
+    "SOCGM"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "951240705",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2132441200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 595,
+  "download_timestamp": "2025-08-02 06:58:01 UTC"
+}

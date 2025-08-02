@@ -1,0 +1,32 @@
+{
+  "cik": "0001378325",
+  "name": "CapsoVision, Inc",
+  "entityType": "other",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CV"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "203369494",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(408) 370-4790",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Capso Vision Inc",
+      "from": "2006-10-10T04:00:00.000Z",
+      "to": "2014-02-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 49,
+  "download_timestamp": "2025-08-02 07:11:42 UTC"
+}

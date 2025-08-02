@@ -1,0 +1,37 @@
+{
+  "cik": "0000786035",
+  "name": "LIBERTY ALL STAR GROWTH FUND INC.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ASG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "521452208",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "303.623.2577",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LIBERTY ALL STAR GROWTH FUND INC /MD/",
+      "from": "1996-06-13T04:00:00.000Z",
+      "to": "2007-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "ALLMON CHARLES TRUST INC",
+      "from": "1995-12-06T05:00:00.000Z",
+      "to": "1996-03-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 726,
+  "download_timestamp": "2025-08-02 07:00:12 UTC"
+}

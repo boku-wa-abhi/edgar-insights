@@ -1,0 +1,28 @@
+{
+  "cik": "0001957489",
+  "name": "Able View Global Inc.",
+  "entityType": "other",
+  "sic": "5960",
+  "sicDescription": "Retail-Nonstore Retailers",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ABLV",
+    "ABLVW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "86-185-0177-0425",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 59,
+  "download_timestamp": "2025-08-02 07:30:23 UTC"
+}

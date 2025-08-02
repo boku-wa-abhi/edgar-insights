@@ -1,0 +1,32 @@
+{
+  "cik": "0001397047",
+  "name": "FlexShopper, Inc.",
+  "entityType": "operating",
+  "sic": "7359",
+  "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FPAY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "205456087",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(561) 367-1504",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Anchor Funding Services, Inc.",
+      "from": "2007-04-30T04:00:00.000Z",
+      "to": "2013-10-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 709,
+  "download_timestamp": "2025-08-02 07:12:13 UTC"
+}

@@ -1,0 +1,45 @@
+{
+  "cik": "0001526113",
+  "name": "Global Net Lease, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "NY",
+  "stateOfIncorporationDescription": "NY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GNL",
+    "GNL-PA",
+    "GNL-PB",
+    "GNL-PD",
+    "GNL-PE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "452771978",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(332) 265-2020",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "American Realty Capital Global Trust, Inc.",
+      "from": "2012-08-15T04:00:00.000Z",
+      "to": "2015-04-29T04:00:00.000Z"
+    },
+    {
+      "name": "American Realty Capital Global Daily Net Asset Value Trust, Inc.",
+      "from": "2011-10-27T04:00:00.000Z",
+      "to": "2012-08-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:15:58 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001627272",
+  "name": "OR Royalties Inc.",
+  "entityType": "other",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "A8",
+  "stateOfIncorporationDescription": "Quebec, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "OR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "514-940-0670",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Osisko Gold Royalties LTD",
+      "from": "2014-12-11T05:00:00.000Z",
+      "to": "2025-05-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 364,
+  "download_timestamp": "2025-08-02 07:19:06 UTC"
+}

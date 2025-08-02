@@ -1,0 +1,32 @@
+{
+  "cik": "0001834489",
+  "name": "Genius Sports Ltd",
+  "entityType": "other",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "Y7",
+  "stateOfIncorporationDescription": "Guernsey",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GENI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "44 (0) 20 7851 4060",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Galileo Newco Ltd",
+      "from": "2021-01-15T05:00:00.000Z",
+      "to": "2021-04-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 222,
+  "download_timestamp": "2025-08-02 07:26:13 UTC"
+}

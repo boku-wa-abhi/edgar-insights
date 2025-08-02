@@ -1,0 +1,32 @@
+{
+  "cik": "0001819559",
+  "name": "Western Asset Diversified Income Fund (WDI)",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WDI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "12128056026",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Western Asset Diversified Income Fund",
+      "from": "2020-07-30T04:00:00.000Z",
+      "to": "2024-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 102,
+  "download_timestamp": "2025-08-02 07:25:20 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000768408",
+  "name": "CYANOTECH CORP",
+  "entityType": "operating",
+  "sic": "2833",
+  "sicDescription": "Medicinal Chemicals & Botanical Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "CYAN"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "911206026",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "8083261353",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 857,
+  "download_timestamp": "2025-08-02 07:00:01 UTC"
+}

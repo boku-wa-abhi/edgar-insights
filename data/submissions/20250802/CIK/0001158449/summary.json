@@ -1,0 +1,26 @@
+{
+  "cik": "0001158449",
+  "name": "ADVANCE AUTO PARTS INC",
+  "entityType": "operating",
+  "sic": "5531",
+  "sicDescription": "Retail-Auto & Home Supply Stores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0103",
+  "tickers": [
+    "AAP"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "542049910",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "5403624911",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:08:10 UTC"
+}

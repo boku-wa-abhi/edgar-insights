@@ -1,0 +1,26 @@
+{
+  "cik": "0001933567",
+  "name": "Neuraxis, INC",
+  "entityType": "operating",
+  "sic": "3845",
+  "sicDescription": "Electromedical & Electrotherapeutic Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NRXS"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "455079684",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(812) 689-0791",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 126,
+  "download_timestamp": "2025-08-02 07:29:46 UTC"
+}

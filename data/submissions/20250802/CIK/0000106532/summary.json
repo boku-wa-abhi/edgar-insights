@@ -1,0 +1,26 @@
+{
+  "cik": "0000106532",
+  "name": "WEYCO GROUP INC",
+  "entityType": "operating",
+  "sic": "5130",
+  "sicDescription": "Wholesale-Apparel, Piece Goods & Notions",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WEYS"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "390702200",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "414-908-1600",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:58:22 UTC"
+}

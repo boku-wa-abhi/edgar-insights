@@ -1,0 +1,32 @@
+{
+  "cik": "0001453015",
+  "name": "Ballard Power Systems Inc.",
+  "entityType": "other",
+  "sic": "3620",
+  "sicDescription": "Electrical Industrial Apparatus",
+  "stateOfIncorporation": "Z4",
+  "stateOfIncorporationDescription": "Canada (Federal Level)",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BLDP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "604-454-0900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "7076991 Canada Inc.",
+      "from": "2009-01-02T05:00:00.000Z",
+      "to": "2009-01-02T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 827,
+  "download_timestamp": "2025-08-02 07:13:47 UTC"
+}

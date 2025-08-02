@@ -1,0 +1,26 @@
+{
+  "cik": "0001958713",
+  "name": "NFT Ltd",
+  "entityType": "other",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86-13020144962",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 31,
+  "download_timestamp": "2025-08-02 07:30:25 UTC"
+}

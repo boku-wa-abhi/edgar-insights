@@ -1,0 +1,26 @@
+{
+  "cik": "0001158463",
+  "name": "JETBLUE AIRWAYS CORP",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JBLU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "870617894",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7182867900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:08:10 UTC"
+}

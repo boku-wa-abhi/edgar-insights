@@ -1,0 +1,32 @@
+{
+  "cik": "0001070081",
+  "name": "PTC THERAPEUTICS, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PTCT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043416587",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "9082227000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "PTC THERAPEUTICS INC",
+      "from": "2004-01-02T05:00:00.000Z",
+      "to": "2005-10-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1006,
+  "download_timestamp": "2025-08-02 07:06:14 UTC"
+}

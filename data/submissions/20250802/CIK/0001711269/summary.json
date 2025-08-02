@@ -1,0 +1,32 @@
+{
+  "cik": "0001711269",
+  "name": "Evergy, Inc.",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EVRG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "822733395",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8165562200",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Monarch Energy Holding, Inc.",
+      "from": "2017-07-10T04:00:00.000Z",
+      "to": "2017-11-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 669,
+  "download_timestamp": "2025-08-02 07:21:33 UTC"
+}

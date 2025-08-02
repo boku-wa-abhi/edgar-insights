@@ -1,0 +1,37 @@
+{
+  "cik": "0001001907",
+  "name": "ASTROTECH Corp",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ASTC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "911273737",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5124859530",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ASTROTECH Corp \\WA\\",
+      "from": "2009-03-11T04:00:00.000Z",
+      "to": "2015-08-24T04:00:00.000Z"
+    },
+    {
+      "name": "SPACEHAB INC \\WA\\",
+      "from": "1996-05-09T04:00:00.000Z",
+      "to": "2009-02-25T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:24 UTC"
+}

@@ -1,0 +1,37 @@
+{
+  "cik": "0001739940",
+  "name": "Cigna Group",
+  "entityType": "operating",
+  "sic": "6324",
+  "sicDescription": "Hospital & Medical Service Plans",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CI"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "824991898",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8602266000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Cigna Corp",
+      "from": "2018-12-26T05:00:00.000Z",
+      "to": "2023-02-09T05:00:00.000Z"
+    },
+    {
+      "name": "Halfmoon Parent, Inc.",
+      "from": "2018-05-16T04:00:00.000Z",
+      "to": "2018-12-20T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 938,
+  "download_timestamp": "2025-08-02 07:22:31 UTC"
+}

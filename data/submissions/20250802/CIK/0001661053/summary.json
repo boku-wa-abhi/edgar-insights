@@ -1,0 +1,34 @@
+{
+  "cik": "0001661053",
+  "name": "enVVeno Medical Corp",
+  "entityType": "operating",
+  "sic": "3841",
+  "sicDescription": "Surgical & Medical Instruments & Apparatus",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NVNO",
+    "NVNBW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "330936180",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-261-2900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Hancock Jaffe Laboratories, Inc.",
+      "from": "2015-12-15T05:00:00.000Z",
+      "to": "2021-09-22T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 363,
+  "download_timestamp": "2025-08-02 07:20:05 UTC"
+}

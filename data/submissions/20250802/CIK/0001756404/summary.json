@@ -1,0 +1,34 @@
+{
+  "cik": "0001756404",
+  "name": "Principal Real Asset Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PDSRX",
+    "PDSKX"
+  ],
+  "exchanges": [
+    null,
+    null
+  ],
+  "ein": "832104764",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "5152359328",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Principal Diversified Select Real Asset Fund",
+      "from": "2018-12-14T05:00:00.000Z",
+      "to": "2023-08-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 252,
+  "download_timestamp": "2025-08-02 07:22:59 UTC"
+}

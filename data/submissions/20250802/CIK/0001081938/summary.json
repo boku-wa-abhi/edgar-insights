@@ -1,0 +1,47 @@
+{
+  "cik": "0001081938",
+  "name": "CANNAPHARMARX, INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CPMD"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "274635140",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "949-652-6838",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GOLDEN DRAGON HOLDING CO.",
+      "from": "2010-12-30T05:00:00.000Z",
+      "to": "2014-10-27T04:00:00.000Z"
+    },
+    {
+      "name": "CCVG, INC.",
+      "from": "2011-01-12T05:00:00.000Z",
+      "to": "2011-01-12T05:00:00.000Z"
+    },
+    {
+      "name": "CONCORD VENTURES, INC.",
+      "from": "2007-10-30T04:00:00.000Z",
+      "to": "2010-11-17T05:00:00.000Z"
+    },
+    {
+      "name": "CAVION TECHNOLOGIES INC",
+      "from": "1999-07-29T04:00:00.000Z",
+      "to": "2007-07-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 354,
+  "download_timestamp": "2025-08-02 07:06:30 UTC"
+}

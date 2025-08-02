@@ -1,0 +1,32 @@
+{
+  "cik": "0001162027",
+  "name": "ALLIANCEBERNSTEIN NATIONAL MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "AFB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "2129692124",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ALLIANCE NATIONAL MUNICIPAL INCOME FUND",
+      "from": "2001-11-09T05:00:00.000Z",
+      "to": "2007-05-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 443,
+  "download_timestamp": "2025-08-02 07:08:16 UTC"
+}

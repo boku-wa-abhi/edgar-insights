@@ -1,0 +1,32 @@
+{
+  "cik": "0001393772",
+  "name": "WEED, INC.",
+  "entityType": "operating",
+  "sic": "8731",
+  "sicDescription": "Services-Commercial Physical & Biological Research",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BUDZ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "830452269",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "520-818-8582",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "UNITED MINES INC",
+      "from": "2007-03-14T04:00:00.000Z",
+      "to": "2014-09-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:12:08 UTC"
+}

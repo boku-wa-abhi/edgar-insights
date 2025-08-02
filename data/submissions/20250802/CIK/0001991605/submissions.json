@@ -1,0 +1,209 @@
+{
+  "cik": "0001991605",
+  "entityType": "other",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "ownerOrg": "06 Technology",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Yimutian Inc.",
+  "tickers": [
+    "YMT"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "addresses": {
+    "mailing": {
+      "street1": "6/F, BUIDLING B-6, BLOCK A",
+      "street2": "NO. 66 XIXIAOKOU ROAD, HAIDIAN DISTRICT",
+      "city": "BEIJING",
+      "stateOrCountry": "F4",
+      "zipCode": "100192",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "6/F, BUIDLING B-6, BLOCK A",
+      "street2": "NO. 66 XIXIAOKOU ROAD, HAIDIAN DISTRICT",
+      "city": "BEIJING",
+      "stateOrCountry": "F4",
+      "zipCode": "100192",
+      "stateOrCountryDescription": "China",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "86 10 5708 6561",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001213900-25-069868",
+        "0001213900-25-069791",
+        "0001193805-25-001083",
+        "0001213900-25-066610",
+        "0001213900-25-066568",
+        "0001213900-25-052579",
+        "0000950123-24-000903",
+        "0000950123-23-011296"
+      ],
+      "filingDate": [
+        "2025-07-31",
+        "2025-07-31",
+        "2025-07-23",
+        "2025-07-22",
+        "2025-07-22",
+        "2025-06-09",
+        "2024-02-07",
+        "2023-12-22"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-31T18:27:48.000Z",
+        "2025-07-31T16:26:19.000Z",
+        "2025-07-23T13:14:40.000Z",
+        "2025-07-22T20:01:34.000Z",
+        "2025-07-22T19:10:12.000Z",
+        "2025-06-09T19:18:01.000Z",
+        "2024-02-07T13:08:12.000Z",
+        "2023-12-22T22:13:28.000Z"
+      ],
+      "act": [
+        "34",
+        "33",
+        "33",
+        "33",
+        "34",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "FWP",
+        "F-1/A",
+        "F-6",
+        "F-1/A",
+        "8-A12B",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "fileNumber": [
+        "333-287877",
+        "333-287877",
+        "333-288880",
+        "333-287877",
+        "001-42760",
+        "333-287877",
+        "377-07029",
+        "377-07029"
+      ],
+      "filmNumber": [
+        "251170993",
+        "251170538",
+        "251141815",
+        "251140282",
+        "251140032",
+        "251033753",
+        "24602258",
+        "231510759"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "FWP",
+        "F-1/A",
+        "F-6",
+        "F-1/A",
+        "8-A12B",
+        "F-1",
+        "DRS/A",
+        "DRS"
+      ],
+      "size": [
+        914656,
+        20804772,
+        455257,
+        21012289,
+        18354,
+        17082229,
+        3961809,
+        3960347
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "ea0251049-fwp_yimutian.htm",
+        "ea0240415-07.htm",
+        "e664721_f6-yimutian.htm",
+        "ea0240415-03.htm",
+        "ea0248363-8a12b_yimutian.htm",
+        "ea0240415-01.htm",
+        "filename1.htm",
+        "filename1.htm"
+      ],
+      "primaryDocDescription": [
+        "FREE WRITING PROSPECTUS",
+        "REGISTRATION STATEMENT",
+        "",
+        "REGISTRATION STATEMENT",
+        "REGISTRATION OF CERTAIN CLASSES OF SECURITIES",
+        "REGISTRATION STATEMENT",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001645155",
+  "name": "Webstar Technology Group Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "WY",
+  "stateOfIncorporationDescription": "WY",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WBSR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "371780261",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "8006086344",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 90,
+  "download_timestamp": "2025-08-02 07:19:37 UTC"
+}

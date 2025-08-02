@@ -1,0 +1,26 @@
+{
+  "cik": "0001510295",
+  "name": "Marathon Petroleum Corp",
+  "entityType": "operating",
+  "sic": "2911",
+  "sicDescription": "Petroleum Refining",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MPC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "271284632",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "419-422-2121",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1012,
+  "download_timestamp": "2025-08-02 07:15:28 UTC"
+}

@@ -1,0 +1,39 @@
+{
+  "cik": "0001718405",
+  "name": "HYCROFT MINING HOLDING CORP",
+  "entityType": "operating",
+  "sic": "1040",
+  "sicDescription": "Gold and Silver Ores",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HYMC",
+    "HYMCL"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "822657796",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "7753040260",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "HYCROFT MINING HOLDING CORP",
+      "from": "2020-03-12T04:00:00.000Z",
+      "to": "2025-07-31T04:00:00.000Z"
+    },
+    {
+      "name": "Mudrick Capital Acquisition Corp",
+      "from": "2017-10-04T04:00:00.000Z",
+      "to": "2020-05-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 559,
+  "download_timestamp": "2025-08-02 07:21:47 UTC"
+}

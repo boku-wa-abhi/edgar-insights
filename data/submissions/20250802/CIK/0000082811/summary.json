@@ -1,0 +1,32 @@
+{
+  "cik": "0000082811",
+  "name": "REGAL REXNORD CORP",
+  "entityType": "operating",
+  "sic": "3569",
+  "sicDescription": "General Industrial Machinery & Equipment, NEC",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RRX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "390875718",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6083648800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REGAL BELOIT CORP",
+      "from": "1994-02-14T05:00:00.000Z",
+      "to": "2021-09-28T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:57:51 UTC"
+}

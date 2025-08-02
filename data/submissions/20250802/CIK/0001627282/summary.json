@@ -1,0 +1,32 @@
+{
+  "cik": "0001627282",
+  "name": "CaliberCos Inc.",
+  "entityType": "operating",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CWD"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "480-295-7600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CaliberCo Inc.",
+      "from": "2014-12-05T05:00:00.000Z",
+      "to": "2014-12-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 265,
+  "download_timestamp": "2025-08-02 07:19:06 UTC"
+}

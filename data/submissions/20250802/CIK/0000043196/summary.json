@@ -1,0 +1,39 @@
+{
+  "cik": "0000043196",
+  "name": "GRAY MEDIA, INC",
+  "entityType": "operating",
+  "sic": "4833",
+  "sicDescription": "Television Broadcasting Stations",
+  "stateOfIncorporation": "GA",
+  "stateOfIncorporationDescription": "GA",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GTN",
+    "GTN-A"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "580285030",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "4042668333",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "GRAY TELEVISION INC",
+      "from": "2002-07-30T04:00:00.000Z",
+      "to": "2025-02-24T05:00:00.000Z"
+    },
+    {
+      "name": "GRAY COMMUNICATIONS SYSTEMS INC /GA/",
+      "from": "1996-07-12T04:00:00.000Z",
+      "to": "2002-07-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:57:01 UTC"
+}

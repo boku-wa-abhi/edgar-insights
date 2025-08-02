@@ -1,0 +1,42 @@
+{
+  "cik": "0000873860",
+  "name": "ONITY GROUP INC.",
+  "entityType": "operating",
+  "sic": "6162",
+  "sicDescription": "Mortgage Bankers & Loan Correspondents",
+  "stateOfIncorporation": "FL",
+  "stateOfIncorporationDescription": "FL",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ONIT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "650039856",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "561-682-8000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ONITY GROUP INC.",
+      "from": "2024-06-10T04:00:00.000Z",
+      "to": "2025-07-21T04:00:00.000Z"
+    },
+    {
+      "name": "OCWEN FINANCIAL CORP",
+      "from": "2005-02-04T05:00:00.000Z",
+      "to": "2024-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "OCWEN FINANCIAL Corp",
+      "from": "2005-02-04T05:00:00.000Z",
+      "to": "2024-05-30T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:56 UTC"
+}

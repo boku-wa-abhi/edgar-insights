@@ -1,0 +1,26 @@
+{
+  "cik": "0001362468",
+  "name": "Allegiant Travel CO",
+  "entityType": "operating",
+  "sic": "4512",
+  "sicDescription": "Air Transportation, Scheduled",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ALGT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "204745737",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "702-851-7300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:11:20 UTC"
+}

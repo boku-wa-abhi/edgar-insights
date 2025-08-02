@@ -1,0 +1,26 @@
+{
+  "cik": "0001066684",
+  "name": "THEGLOBE COM INC",
+  "entityType": "operating",
+  "sic": "7310",
+  "sicDescription": "Services-Advertising",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TGLO"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "141782422",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "954 769 5900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 354,
+  "download_timestamp": "2025-08-02 07:06:07 UTC"
+}

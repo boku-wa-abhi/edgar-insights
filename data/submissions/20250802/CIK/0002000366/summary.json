@@ -1,0 +1,28 @@
+{
+  "cik": "0002000366",
+  "name": "Scage Future",
+  "entityType": "other",
+  "sic": "3713",
+  "sicDescription": "Truck & Bus Bodies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "SCAG",
+    "SCAGW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "008613956222991",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 42,
+  "download_timestamp": "2025-08-02 07:31:37 UTC"
+}

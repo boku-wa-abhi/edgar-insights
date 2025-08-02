@@ -1,0 +1,32 @@
+{
+  "cik": "0001417892",
+  "name": "Emeren Group Ltd",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SOL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "925-425-7335",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ReneSola Ltd",
+      "from": "2008-01-09T05:00:00.000Z",
+      "to": "2023-01-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 458,
+  "download_timestamp": "2025-08-02 07:12:47 UTC"
+}

@@ -1,0 +1,33 @@
+{
+  "cik": "0002018293",
+  "name": "RPM Interactive, Inc.",
+  "entityType": "other",
+  "sic": "7990",
+  "sicDescription": "Services-Miscellaneous Amusement & Recreation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": null,
+  "tickers": [],
+  "exchanges": [],
+  "ein": "882940473",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(732) 374-3529",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Dragon Interact, Inc.",
+      "from": "2024-09-30T04:00:00.000Z",
+      "to": "2024-09-30T04:00:00.000Z"
+    },
+    {
+      "name": "Dragon Interactive Corp",
+      "from": "2024-06-06T04:00:00.000Z",
+      "to": "2024-06-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 5,
+  "download_timestamp": "2025-08-02 07:32:08 UTC"
+}

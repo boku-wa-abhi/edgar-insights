@@ -1,0 +1,34 @@
+{
+  "cik": "0001860514",
+  "name": "Roth CH Acquisition Co.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "USCTF",
+    "USTWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "981598442",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(949) 720-7133",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TKB Critical Technologies 1",
+      "from": "2021-05-19T04:00:00.000Z",
+      "to": "2023-09-20T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 165,
+  "download_timestamp": "2025-08-02 07:27:45 UTC"
+}

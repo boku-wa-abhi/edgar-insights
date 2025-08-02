@@ -1,0 +1,32 @@
+{
+  "cik": "0001434621",
+  "name": "LendingTree, Inc.",
+  "entityType": "operating",
+  "sic": "6163",
+  "sicDescription": "Loan Brokers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TREE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "262414818",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "704-541-5351",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tree.com, Inc.",
+      "from": "2008-05-13T04:00:00.000Z",
+      "to": "2014-12-31T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:13:13 UTC"
+}

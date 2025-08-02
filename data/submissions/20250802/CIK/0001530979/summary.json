@@ -1,0 +1,26 @@
+{
+  "cik": "0001530979",
+  "name": "Honest Company, Inc.",
+  "entityType": "operating",
+  "sic": "5961",
+  "sicDescription": "Retail-Catalog & Mail-Order Houses",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HNST"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "900750205",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(310) 917-9199",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 536,
+  "download_timestamp": "2025-08-02 07:16:11 UTC"
+}

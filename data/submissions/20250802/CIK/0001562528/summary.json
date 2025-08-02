@@ -1,0 +1,44 @@
+{
+  "cik": "0001562528",
+  "name": "Franklin BSP Realty Trust, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FBRT",
+    "FBRT-PE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 588-6770",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Benefit Street Partners Realty Trust, Inc.",
+      "from": "2017-02-03T05:00:00.000Z",
+      "to": "2021-10-12T04:00:00.000Z"
+    },
+    {
+      "name": "Realty Finance Trust, Inc.",
+      "from": "2015-02-17T05:00:00.000Z",
+      "to": "2017-01-03T05:00:00.000Z"
+    },
+    {
+      "name": "ARC Realty Finance Trust, Inc.",
+      "from": "2012-11-29T05:00:00.000Z",
+      "to": "2015-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 549,
+  "download_timestamp": "2025-08-02 07:17:04 UTC"
+}

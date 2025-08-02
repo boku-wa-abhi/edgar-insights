@@ -1,0 +1,26 @@
+{
+  "cik": "0001031308",
+  "name": "BENTLEY SYSTEMS INC",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BSY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "953936623",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6104585000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 745,
+  "download_timestamp": "2025-08-02 07:05:08 UTC"
+}

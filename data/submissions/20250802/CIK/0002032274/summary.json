@@ -1,0 +1,26 @@
+{
+  "cik": "0002032274",
+  "name": "Gifts International Holdings Ltd",
+  "entityType": "other",
+  "sic": "5900",
+  "sicDescription": "Retail-Miscellaneous Retail",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "GINT"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(852) 9220 5201",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 9,
+  "download_timestamp": "2025-08-02 07:32:40 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0002019804",
+  "name": "HCM II Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "3443",
+  "sicDescription": "Fabricated Plate Work (Boiler Shops)",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HOND",
+    "HONDU",
+    "HONDW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "981785406",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "203-930-2200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 62,
+  "download_timestamp": "2025-08-02 07:32:13 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001800637",
+  "name": "Agrify Corp",
+  "entityType": "operating",
+  "sic": "0700",
+  "sicDescription": "Agricultural Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AGFY"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "300943453",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "855-420-0020",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 393,
+  "download_timestamp": "2025-08-02 07:24:31 UTC"
+}

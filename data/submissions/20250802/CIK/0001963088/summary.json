@@ -1,0 +1,34 @@
+{
+  "cik": "0001963088",
+  "name": "AtlasClear Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6199",
+  "sicDescription": "Finance Services",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "ATCH",
+    "ATCHW"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "813-257-9366",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Calculator New Pubco, Inc.",
+      "from": "2023-02-14T05:00:00.000Z",
+      "to": "2024-02-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 133,
+  "download_timestamp": "2025-08-02 07:30:31 UTC"
+}

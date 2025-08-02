@@ -1,0 +1,149 @@
+{
+  "cik": "0001983389",
+  "entityType": "other",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "ownerOrg": null,
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "Guyana Gold Corp",
+  "tickers": [
+    "GYGC"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "addresses": {
+    "mailing": {
+      "street1": "370 AMAPOLA AVE",
+      "street2": "SUITE 210",
+      "city": "TORRANCE",
+      "stateOrCountry": "CA",
+      "zipCode": "90501",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "370 AMAPOLA AVE",
+      "street2": "SUITE 210",
+      "city": "TORRANCE",
+      "stateOrCountry": "CA",
+      "zipCode": "90501",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "424-358-1046",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001903596-23-000937",
+        "0001903596-23-000747",
+        "0001903596-23-000745",
+        "0001903596-23-000570"
+      ],
+      "filingDate": [
+        "2023-12-05",
+        "2023-09-25",
+        "2023-09-21",
+        "2023-08-04"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2023-12-04T17:31:08.000Z",
+        "2023-09-22T19:06:22.000Z",
+        "2023-09-21T13:56:49.000Z",
+        "2023-08-03T21:27:18.000Z"
+      ],
+      "act": [
+        "33",
+        "33",
+        "33",
+        "33"
+      ],
+      "form": [
+        "1-A-W",
+        "1-A/A",
+        "1-A/A",
+        "1-A"
+      ],
+      "fileNumber": [
+        "024-12308",
+        "024-12308",
+        "024-12308",
+        "024-12308"
+      ],
+      "filmNumber": [
+        "231464490",
+        "231272749",
+        "231268766",
+        "231141952"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "1-A-W",
+        "1-A/A",
+        "1-A/A",
+        "1-A"
+      ],
+      "size": [
+        6287,
+        783496,
+        1105698,
+        1622110
+      ],
+      "isXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "guyana_1aw.htm",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml",
+        "xsl1-A_X01/primary_doc.xml"
+      ],
+      "primaryDocDescription": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "files": []
+  }
+}

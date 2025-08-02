@@ -1,0 +1,26 @@
+{
+  "cik": "0001793663",
+  "name": "VTEX",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VTEX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Emerging growth company",
+  "phone": "0000000000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 177,
+  "download_timestamp": "2025-08-02 07:24:17 UTC"
+}

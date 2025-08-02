@@ -1,0 +1,32 @@
+{
+  "cik": "0001638290",
+  "name": "MasterCraft Boat Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "3730",
+  "sicDescription": "Ship & Boat Building & Repairing",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "MCFT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "061571747",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "(423) 884-2221",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "MCBC Holdings, Inc.",
+      "from": "2015-05-01T04:00:00.000Z",
+      "to": "2018-11-02T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 517,
+  "download_timestamp": "2025-08-02 07:19:24 UTC"
+}

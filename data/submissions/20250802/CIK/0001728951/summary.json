@@ -1,0 +1,26 @@
+{
+  "cik": "0001728951",
+  "name": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EPRT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "824005693",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6094360619",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 563,
+  "download_timestamp": "2025-08-02 07:22:09 UTC"
+}

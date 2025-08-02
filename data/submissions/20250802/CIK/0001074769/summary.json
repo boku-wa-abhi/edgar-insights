@@ -1,0 +1,37 @@
+{
+  "cik": "0001074769",
+  "name": "NUVEEN NEW YORK QUALITY MUNICIPAL INCOME FUND",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "MA",
+  "stateOfIncorporationDescription": "MA",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "NAN"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "364270661",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8002578787",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "NUVEEN NEW YORK DIVIDEND ADVANTAGE MUNICIPAL FUND",
+      "from": "2000-11-22T05:00:00.000Z",
+      "to": "2016-12-08T05:00:00.000Z"
+    },
+    {
+      "name": "NUVEEN NEW YORK MUNICIPAL ADVANTAGE FUND",
+      "from": "1998-12-07T05:00:00.000Z",
+      "to": "1999-06-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 509,
+  "download_timestamp": "2025-08-02 07:06:22 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001744781",
+  "name": "Niu Technologies",
+  "entityType": "other",
+  "sic": "3711",
+  "sicDescription": "Motor Vehicles & Passenger Car Bodies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NIU"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "861064321899",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 127,
+  "download_timestamp": "2025-08-02 07:22:40 UTC"
+}

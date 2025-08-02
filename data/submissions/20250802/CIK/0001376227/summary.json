@@ -1,0 +1,32 @@
+{
+  "cik": "0001376227",
+  "name": "United States Natural Gas Fund, LP",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "UNG"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "205576760",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "510-522-9600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "United States Gas Fund LP",
+      "from": "2006-10-06T04:00:00.000Z",
+      "to": "2006-10-06T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 530,
+  "download_timestamp": "2025-08-02 07:11:37 UTC"
+}

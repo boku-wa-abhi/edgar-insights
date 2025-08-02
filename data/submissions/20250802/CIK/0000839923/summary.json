@@ -1,0 +1,44 @@
+{
+  "cik": "0000839923",
+  "name": "VODAFONE GROUP PUBLIC LTD CO",
+  "entityType": "other",
+  "sic": "4812",
+  "sicDescription": "Radiotelephone Communications",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "VOD",
+    "VODPF"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "011-44-1635-33251",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "VODAFONE AIRTOUCH PUBLIC LIMITED CO",
+      "from": "1999-06-29T04:00:00.000Z",
+      "to": "2002-07-29T04:00:00.000Z"
+    },
+    {
+      "name": "VODAFONE GROUP PUBLIC LIMITED CO",
+      "from": "1996-09-09T04:00:00.000Z",
+      "to": "1999-04-22T04:00:00.000Z"
+    },
+    {
+      "name": "VODAFONE GROUP PUBLIC LIMITED COMPANY",
+      "from": "1996-05-14T04:00:00.000Z",
+      "to": "1996-05-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:01:18 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0000944075",
+  "name": "SOCKET MOBILE, INC.",
+  "entityType": "operating",
+  "sic": "3571",
+  "sicDescription": "Electronic Computers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SCKT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "943155066",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "5109333000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "SOCKET COMMUNICATIONS INC",
+      "from": "1996-12-02T05:00:00.000Z",
+      "to": "2008-03-13T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:08 UTC"
+}

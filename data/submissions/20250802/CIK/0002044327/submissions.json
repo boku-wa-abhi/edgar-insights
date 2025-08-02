@@ -1,0 +1,224 @@
+{
+  "cik": "0002044327",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "ownerOrg": "",
+  "insiderTransactionForOwnerExists": 0,
+  "insiderTransactionForIssuerExists": 0,
+  "name": "C1 Fund Inc.",
+  "tickers": [
+    "CFND"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "lei": null,
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "fiscalYearEnd": "1231",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "addresses": {
+    "mailing": {
+      "street1": "228 HAMILTON AVENUE",
+      "street2": "3RD FLOOR",
+      "city": "PALO ALTO",
+      "stateOrCountry": "CA",
+      "zipCode": "94301",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": 0,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    },
+    "business": {
+      "street1": "228 HAMILTON AVENUE",
+      "street2": "3RD FLOOR",
+      "city": "PALO ALTO",
+      "stateOrCountry": "CA",
+      "zipCode": "94301",
+      "stateOrCountryDescription": "CA",
+      "isForeignLocation": null,
+      "foreignStateTerritory": null,
+      "country": null,
+      "countryCode": null
+    }
+  },
+  "phone": "510-735-6900",
+  "flags": "",
+  "formerNames": [],
+  "filings": {
+    "recent": {
+      "accessionNumber": [
+        "0001104659-25-070933",
+        "0001104659-25-054318",
+        "0001104659-25-039419",
+        "0001104659-25-021690",
+        "0001104659-25-004939",
+        "0001104659-24-117460",
+        "0001104659-24-116651",
+        "0001104659-24-116635",
+        "0001104659-24-115760"
+      ],
+      "filingDate": [
+        "2025-07-28",
+        "2025-05-29",
+        "2025-04-25",
+        "2025-03-07",
+        "2025-01-21",
+        "2024-11-13",
+        "2024-11-12",
+        "2024-11-12",
+        "2024-11-08"
+      ],
+      "reportDate": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "acceptanceDateTime": [
+        "2025-07-26T01:21:55.000Z",
+        "2025-05-29T21:23:00.000Z",
+        "2025-04-25T20:08:41.000Z",
+        "2025-03-07T20:04:49.000Z",
+        "2025-01-21T22:00:24.000Z",
+        "2024-11-13T16:55:48.000Z",
+        "2024-11-12T17:54:30.000Z",
+        "2024-11-12T17:25:21.000Z",
+        "2024-11-08T19:16:49.000Z"
+      ],
+      "act": [
+        "40,33",
+        "40,33",
+        "40,33",
+        "40,33",
+        "40,33",
+        "33",
+        "40,33",
+        "40",
+        "40"
+      ],
+      "form": [
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "497AD",
+        "N-2",
+        "N-8A/A",
+        "N-8A"
+      ],
+      "fileNumber": [
+        "811-24022,333-283139",
+        "811-24022,333-283139",
+        "811-24022,333-283139",
+        "811-24022,333-283139",
+        "811-24022,333-283139",
+        "333-283139",
+        "811-24022,333-283139",
+        "811-24022",
+        "811-24022"
+      ],
+      "filmNumber": [
+        "251152817,251152816",
+        "251004877,251004876",
+        "25873990,25873989",
+        "25719574,25719573",
+        "25543174,25543173",
+        "241452308",
+        "241446292,241446291",
+        "241446054",
+        "241439518"
+      ],
+      "items": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "core_type": [
+        "XBRL",
+        "XBRL",
+        "XBRL",
+        "N-2/A",
+        "N-2/A",
+        "497AD",
+        "N-2",
+        "N-8A/A",
+        "N-8A"
+      ],
+      "size": [
+        3964155,
+        3571849,
+        3667231,
+        1804647,
+        925274,
+        26200,
+        1162184,
+        28132,
+        11823
+      ],
+      "isXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "isInlineXBRL": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "primaryDocument": [
+        "tm2518508d1_n2a.htm",
+        "tm2512238d3_n2a.htm",
+        "tm2512238d1_n2a.htm",
+        "tm258063d1_n2a.htm",
+        "tm253531d1_n2a.htm",
+        "tm2427547d4_497ad.htm",
+        "tm2427547d1_n2.htm",
+        "tm2427547d3_n8aa.htm",
+        "tm2427547d2_n8a.htm"
+      ],
+      "primaryDocDescription": [
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "N-2/A",
+        "497AD",
+        "N-2",
+        "N-8A/A",
+        "N-8A"
+      ]
+    },
+    "files": []
+  }
+}

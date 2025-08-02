@@ -1,0 +1,26 @@
+{
+  "cik": "0001353226",
+  "name": "STRATS(SM) Trust for Procter & Gamble Securities, Series 2006-1",
+  "entityType": "operating",
+  "sic": "6189",
+  "sicDescription": "Asset-Backed Securities",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "GJR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "7047152337",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 271,
+  "download_timestamp": "2025-08-02 07:11:06 UTC"
+}

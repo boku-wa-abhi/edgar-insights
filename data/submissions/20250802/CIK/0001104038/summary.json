@@ -1,0 +1,32 @@
+{
+  "cik": "0001104038",
+  "name": "VerifyMe, Inc.",
+  "entityType": "operating",
+  "sic": "7373",
+  "sicDescription": "Services-Computer Integrated Systems Design",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRME"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "233023677",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "585-736-9400",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LASERLOCK TECHNOLOGIES INC",
+      "from": "2000-11-13T05:00:00.000Z",
+      "to": "2015-08-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 770,
+  "download_timestamp": "2025-08-02 07:07:05 UTC"
+}

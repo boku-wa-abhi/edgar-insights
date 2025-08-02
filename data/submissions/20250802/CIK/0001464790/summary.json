@@ -1,0 +1,46 @@
+{
+  "cik": "0001464790",
+  "name": "B. Riley Financial, Inc.",
+  "entityType": "operating",
+  "sic": "6282",
+  "sicDescription": "Investment Advice",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RILY",
+    "RILYG",
+    "RILYK",
+    "RILYL",
+    "RILYN",
+    "RILYP",
+    "RILYT",
+    "RILYZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "270223495",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "818-884-3737",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Great American Group, Inc.",
+      "from": "2009-06-01T04:00:00.000Z",
+      "to": "2014-10-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:14:00 UTC"
+}

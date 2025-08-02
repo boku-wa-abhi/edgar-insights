@@ -1,0 +1,32 @@
+{
+  "cik": "0001820144",
+  "name": "Grindr Inc.",
+  "entityType": "operating",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "GRND"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "3107766680",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Tiga Acquisition Corp.",
+      "from": "2020-08-05T04:00:00.000Z",
+      "to": "2022-11-18T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 409,
+  "download_timestamp": "2025-08-02 07:25:25 UTC"
+}

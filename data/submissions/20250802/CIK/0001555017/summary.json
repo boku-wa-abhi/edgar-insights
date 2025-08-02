@@ -1,0 +1,42 @@
+{
+  "cik": "0001555017",
+  "name": "Sky Century Investment, Inc.",
+  "entityType": "operating",
+  "sic": "8741",
+  "sicDescription": "Services-Management Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0831",
+  "tickers": [
+    "SKYI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "455243254",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "205-238-7735",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BAND REP MANAGEMENT, INC.",
+      "from": "2017-02-16T05:00:00.000Z",
+      "to": "2017-04-04T04:00:00.000Z"
+    },
+    {
+      "name": "Band Rep Management, Inc.",
+      "from": "2017-02-16T05:00:00.000Z",
+      "to": "2017-04-04T04:00:00.000Z"
+    },
+    {
+      "name": "SKY CENTURY INVESTMENT INC.",
+      "from": "2016-04-25T04:00:00.000Z",
+      "to": "2016-04-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 52,
+  "download_timestamp": "2025-08-02 07:16:51 UTC"
+}

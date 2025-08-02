@@ -1,0 +1,45 @@
+{
+  "cik": "0001556593",
+  "name": "Rithm Capital Corp.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "RITM",
+    "RITM-PA",
+    "RITM-PB",
+    "RITM-PC",
+    "RITM-PD"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "453449660",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(212) 850-7770",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "New Residential Investment Corp.",
+      "from": "2012-09-18T04:00:00.000Z",
+      "to": "2022-07-08T04:00:00.000Z"
+    },
+    {
+      "name": "Spinco Inc.",
+      "from": "2012-10-23T04:00:00.000Z",
+      "to": "2012-10-23T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 708,
+  "download_timestamp": "2025-08-02 07:16:53 UTC"
+}

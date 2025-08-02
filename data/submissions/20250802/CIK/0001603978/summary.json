@@ -1,0 +1,32 @@
+{
+  "cik": "0001603978",
+  "name": "AQUABOUNTY TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "0900",
+  "sicDescription": "Fishing, Hunting and Trapping",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AQB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "043156167",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "978-648-6000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AquaBounty Technologies, Inc.",
+      "from": "2014-03-31T04:00:00.000Z",
+      "to": "2023-11-07T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 433,
+  "download_timestamp": "2025-08-02 07:18:22 UTC"
+}

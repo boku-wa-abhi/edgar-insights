@@ -1,0 +1,26 @@
+{
+  "cik": "0001953588",
+  "name": "Pan American Energy Corp. (Canada)",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "PAANF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "587-885-5970",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 4,
+  "download_timestamp": "2025-08-02 07:30:16 UTC"
+}

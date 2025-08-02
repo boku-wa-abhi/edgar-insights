@@ -1,0 +1,37 @@
+{
+  "cik": "0000803578",
+  "name": "FIREFLY NEUROSCIENCE, INC.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AIFF"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "541167364",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "888-237-6412",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WAVEDANCER, INC.",
+      "from": "2021-12-16T05:00:00.000Z",
+      "to": "2024-08-12T04:00:00.000Z"
+    },
+    {
+      "name": "INFORMATION ANALYSIS INC",
+      "from": "1995-11-15T05:00:00.000Z",
+      "to": "2021-12-14T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 576,
+  "download_timestamp": "2025-08-02 07:00:34 UTC"
+}

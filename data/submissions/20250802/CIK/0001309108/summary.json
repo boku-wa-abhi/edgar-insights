@@ -1,0 +1,32 @@
+{
+  "cik": "0001309108",
+  "name": "WEX Inc.",
+  "entityType": "operating",
+  "sic": "7389",
+  "sicDescription": "Services-Business Services, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WEX"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "010526993",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(207) 773-8171",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wright Express CORP",
+      "from": "2004-11-23T05:00:00.000Z",
+      "to": "2012-10-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:10:13 UTC"
+}

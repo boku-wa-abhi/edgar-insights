@@ -1,0 +1,32 @@
+{
+  "cik": "0001688126",
+  "name": "Crypto Co",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRCW"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "464212405",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(424) 228-9955",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CROE, INC.",
+      "from": "2016-10-21T04:00:00.000Z",
+      "to": "2017-10-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 230,
+  "download_timestamp": "2025-08-02 07:20:47 UTC"
+}

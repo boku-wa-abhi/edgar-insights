@@ -1,0 +1,26 @@
+{
+  "cik": "0001517413",
+  "name": "Fastly, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FSLY"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "275411834",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-525-3481",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 903,
+  "download_timestamp": "2025-08-02 07:15:45 UTC"
+}

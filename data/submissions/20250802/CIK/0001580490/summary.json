@@ -1,0 +1,42 @@
+{
+  "cik": "0001580490",
+  "name": "I-ON Digital Corp.",
+  "entityType": "operating",
+  "sic": "2082",
+  "sicDescription": "Malt Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IONI"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "463031328",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "866-440-2278",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "I-ON Communications Corp.",
+      "from": "2018-05-07T04:00:00.000Z",
+      "to": "2019-04-03T04:00:00.000Z"
+    },
+    {
+      "name": "Evans Brewing Co Inc.",
+      "from": "2014-04-22T04:00:00.000Z",
+      "to": "2018-03-30T04:00:00.000Z"
+    },
+    {
+      "name": "ALPINE 3 Inc.",
+      "from": "2013-07-03T04:00:00.000Z",
+      "to": "2014-04-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 207,
+  "download_timestamp": "2025-08-02 07:17:39 UTC"
+}

@@ -1,0 +1,28 @@
+{
+  "cik": "0001853816",
+  "name": "Dermata Therapeutics, Inc.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DRMA",
+    "DRMAW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(858)-223-0882",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 296,
+  "download_timestamp": "2025-08-02 07:27:22 UTC"
+}

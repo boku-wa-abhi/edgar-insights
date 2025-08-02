@@ -1,0 +1,32 @@
+{
+  "cik": "0001695295",
+  "name": "HYDROFARM HOLDINGS GROUP, INC.",
+  "entityType": "operating",
+  "sic": "5190",
+  "sicDescription": "Wholesale-Miscellaneous Nondurable Goods",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HYFM"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "814895761",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "707-765-9990",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Innovation Acquisition One Corp",
+      "from": "2017-04-25T04:00:00.000Z",
+      "to": "2018-01-09T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 390,
+  "download_timestamp": "2025-08-02 07:20:59 UTC"
+}

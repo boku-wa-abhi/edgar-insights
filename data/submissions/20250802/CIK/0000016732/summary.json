@@ -1,0 +1,32 @@
+{
+  "cik": "0000016732",
+  "name": "CAMPBELL'S Co",
+  "entityType": "operating",
+  "sic": "2000",
+  "sicDescription": "Food and Kindred Products",
+  "stateOfIncorporation": "NJ",
+  "stateOfIncorporationDescription": "NJ",
+  "fiscalYearEnd": "0803",
+  "tickers": [
+    "CPB"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "210419870",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8563424800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CAMPBELL SOUP CO",
+      "from": "1994-12-14T05:00:00.000Z",
+      "to": "2024-11-12T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:24 UTC"
+}

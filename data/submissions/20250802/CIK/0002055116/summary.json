@@ -1,0 +1,32 @@
+{
+  "cik": "0002055116",
+  "name": "Kestrel Group Ltd",
+  "entityType": "other",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "KG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "981833921",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "441-298-4900",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ranger Bermuda Topco Ltd",
+      "from": "2025-03-10T04:00:00.000Z",
+      "to": "2025-05-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 37,
+  "download_timestamp": "2025-08-02 07:33:23 UTC"
+}

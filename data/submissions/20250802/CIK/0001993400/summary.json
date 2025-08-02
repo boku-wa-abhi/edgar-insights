@@ -1,0 +1,26 @@
+{
+  "cik": "0001993400",
+  "name": "Fatpipe Inc/UT",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "UT",
+  "stateOfIncorporationDescription": "UT",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "FATN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "271113325",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "801-560-2003",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:31:21 UTC"
+}

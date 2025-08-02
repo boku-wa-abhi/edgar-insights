@@ -1,0 +1,28 @@
+{
+  "cik": "0001502292",
+  "name": "Conifer Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "MI",
+  "stateOfIncorporationDescription": "MI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CNFR",
+    "CNFRZ"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "271298795",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(248) 559-0840",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 431,
+  "download_timestamp": "2025-08-02 07:15:11 UTC"
+}

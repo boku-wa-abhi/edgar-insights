@@ -1,0 +1,32 @@
+{
+  "cik": "0001846510",
+  "name": "Soho House & Co Inc.",
+  "entityType": "operating",
+  "sic": "7011",
+  "sicDescription": "Hotels & Motels",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0102",
+  "tickers": [
+    "SHCO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(212) 627-9800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Membership Collective Group Inc.",
+      "from": "2021-02-18T05:00:00.000Z",
+      "to": "2023-03-15T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 234,
+  "download_timestamp": "2025-08-02 07:26:55 UTC"
+}

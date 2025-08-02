@@ -1,0 +1,26 @@
+{
+  "cik": "0001935688",
+  "name": "Legible Inc.",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "A0",
+  "stateOfIncorporationDescription": "Alberta, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LEBGF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "672-514-2665",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 4,
+  "download_timestamp": "2025-08-02 07:29:48 UTC"
+}

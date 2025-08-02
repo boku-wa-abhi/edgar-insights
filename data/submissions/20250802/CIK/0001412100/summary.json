@@ -1,0 +1,30 @@
+{
+  "cik": "0001412100",
+  "name": "Maiden Holdings, Ltd.",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "D0",
+  "stateOfIncorporationDescription": "Bermuda",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MHLA",
+    "MHLD",
+    "MHNC"
+  ],
+  "exchanges": [
+    "NYSE",
+    "Nasdaq",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "(441) 298-4900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 906,
+  "download_timestamp": "2025-08-02 07:12:38 UTC"
+}

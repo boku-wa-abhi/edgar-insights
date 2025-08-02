@@ -1,0 +1,37 @@
+{
+  "cik": "0001447380",
+  "name": "MOBIVITY HOLDINGS CORP.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MFON"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "263439095",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "877-282-7660",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "COMMERCETEL CORP",
+      "from": "2010-10-08T04:00:00.000Z",
+      "to": "2012-08-14T04:00:00.000Z"
+    },
+    {
+      "name": "ARES VENTURES CORP.",
+      "from": "2008-10-20T04:00:00.000Z",
+      "to": "2010-08-16T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 394,
+  "download_timestamp": "2025-08-02 07:13:38 UTC"
+}

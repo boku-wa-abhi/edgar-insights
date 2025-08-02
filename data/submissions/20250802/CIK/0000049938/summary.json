@@ -1,0 +1,26 @@
+{
+  "cik": "0000049938",
+  "name": "IMPERIAL OIL LTD",
+  "entityType": "operating",
+  "sic": "2911",
+  "sicDescription": "Petroleum Refining",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "IMO"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "980017682",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "1-800-567-3776",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 562,
+  "download_timestamp": "2025-08-02 06:57:09 UTC"
+}

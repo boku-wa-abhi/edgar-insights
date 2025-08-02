@@ -1,0 +1,32 @@
+{
+  "cik": "0000765207",
+  "name": "First Bancorp, Inc /ME/",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "ME",
+  "stateOfIncorporationDescription": "ME",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FNLC"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "010404322",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "2075633195",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FIRST NATIONAL LINCOLN CORP /ME/",
+      "from": "1995-11-13T05:00:00.000Z",
+      "to": "2009-05-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:58 UTC"
+}

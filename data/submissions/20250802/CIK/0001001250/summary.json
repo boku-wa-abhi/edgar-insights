@@ -1,0 +1,26 @@
+{
+  "cik": "0001001250",
+  "name": "ESTEE LAUDER COMPANIES INC",
+  "entityType": "operating",
+  "sic": "2844",
+  "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "EL"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "112408943",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2125724200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:04:22 UTC"
+}

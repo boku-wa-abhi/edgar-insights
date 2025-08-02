@@ -1,0 +1,28 @@
+{
+  "cik": "0001786248",
+  "name": "NexPoint Real Estate Finance, Inc.",
+  "entityType": "operating",
+  "sic": "6798",
+  "sicDescription": "Real Estate Investment Trusts",
+  "stateOfIncorporation": "MD",
+  "stateOfIncorporationDescription": "MD",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "NREF",
+    "NREF-PA"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "842178264",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "214-276-6300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 395,
+  "download_timestamp": "2025-08-02 07:24:01 UTC"
+}

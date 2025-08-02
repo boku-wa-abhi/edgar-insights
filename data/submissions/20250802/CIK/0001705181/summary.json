@@ -1,0 +1,32 @@
+{
+  "cik": "0001705181",
+  "name": "Grayscale Ethereum Classic Trust (ETC)",
+  "entityType": "operating",
+  "sic": "6221",
+  "sicDescription": "Commodity Contracts Brokers & Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ETCG"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "826239281",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "212-668-1427",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Ethereum Classic Investment Trust",
+      "from": "2017-04-28T04:00:00.000Z",
+      "to": "2018-12-21T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 61,
+  "download_timestamp": "2025-08-02 07:21:19 UTC"
+}

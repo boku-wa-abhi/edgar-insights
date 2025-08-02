@@ -1,0 +1,26 @@
+{
+  "cik": "0001495153",
+  "name": "MakeMyTrip Ltd",
+  "entityType": "other",
+  "sic": "4700",
+  "sicDescription": "Transportation Services",
+  "stateOfIncorporation": "O4",
+  "stateOfIncorporationDescription": "Mauritius",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "MMYT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "91 124 439 5000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 424,
+  "download_timestamp": "2025-08-02 07:14:54 UTC"
+}

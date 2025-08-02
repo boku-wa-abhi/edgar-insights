@@ -1,0 +1,26 @@
+{
+  "cik": "0002042694",
+  "name": "Primo Brands Corp",
+  "entityType": "operating",
+  "sic": "2080",
+  "sicDescription": "Beverages",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "PRMB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "993483984",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(813) 544-8515",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 136,
+  "download_timestamp": "2025-08-02 07:33:03 UTC"
+}

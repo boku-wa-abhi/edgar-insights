@@ -1,0 +1,34 @@
+{
+  "cik": "0001668717",
+  "name": "Anheuser-Busch InBev SA/NV",
+  "entityType": "other",
+  "sic": "2082",
+  "sicDescription": "Malt Beverages",
+  "stateOfIncorporation": "C9",
+  "stateOfIncorporationDescription": "Belgium",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "BUD",
+    "BUDFF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "32(0)16276018",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Newbelco SA/NV",
+      "from": "2016-03-07T05:00:00.000Z",
+      "to": "2016-10-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 345,
+  "download_timestamp": "2025-08-02 07:20:14 UTC"
+}

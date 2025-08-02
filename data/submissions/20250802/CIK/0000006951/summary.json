@@ -1,0 +1,26 @@
+{
+  "cik": "0000006951",
+  "name": "APPLIED MATERIALS INC /DE",
+  "entityType": "operating",
+  "sic": "3674",
+  "sicDescription": "Semiconductors & Related Devices",
+  "stateOfIncorporation": "DC",
+  "stateOfIncorporationDescription": "DC",
+  "fiscalYearEnd": "1026",
+  "tickers": [
+    "AMAT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "941655526",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "4085635300",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:10 UTC"
+}

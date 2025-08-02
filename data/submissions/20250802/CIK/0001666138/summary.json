@@ -1,0 +1,32 @@
+{
+  "cik": "0001666138",
+  "name": "Atkore Inc.",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "ATKR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "900631463",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7083391610",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Atkore International Group Inc.",
+      "from": "2016-03-04T05:00:00.000Z",
+      "to": "2021-02-11T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 766,
+  "download_timestamp": "2025-08-02 07:20:10 UTC"
+}

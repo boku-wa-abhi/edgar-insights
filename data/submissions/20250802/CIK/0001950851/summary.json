@@ -1,0 +1,26 @@
+{
+  "cik": "0001950851",
+  "name": "Dalu International Group Ltd",
+  "entityType": "other",
+  "sic": "6500",
+  "sicDescription": "Real Estate",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "DLHZ"
+  ],
+  "exchanges": [
+    null
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "8602886266298",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 11,
+  "download_timestamp": "2025-08-02 07:30:11 UTC"
+}

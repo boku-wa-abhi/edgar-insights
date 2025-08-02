@@ -1,0 +1,37 @@
+{
+  "cik": "0001128361",
+  "name": "HOPE BANCORP INC",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "HOPE"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "954849715",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "2136391700",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BBCN BANCORP INC",
+      "from": "2011-12-07T05:00:00.000Z",
+      "to": "2016-07-18T04:00:00.000Z"
+    },
+    {
+      "name": "NARA BANCORP INC",
+      "from": "2000-11-22T05:00:00.000Z",
+      "to": "2011-12-05T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:07:39 UTC"
+}

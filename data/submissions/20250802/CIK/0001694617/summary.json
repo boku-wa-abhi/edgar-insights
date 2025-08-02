@@ -1,0 +1,32 @@
+{
+  "cik": "0001694617",
+  "name": "Royale Energy, Inc.",
+  "entityType": "operating",
+  "sic": "1311",
+  "sicDescription": "Crude Petroleum & Natural Gas",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ROYL"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "814596368",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(619) 881-2800",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Royale Energy Holdings, Inc.",
+      "from": "2017-02-14T05:00:00.000Z",
+      "to": "2018-03-08T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 286,
+  "download_timestamp": "2025-08-02 07:20:59 UTC"
+}

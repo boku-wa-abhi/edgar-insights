@@ -1,0 +1,26 @@
+{
+  "cik": "0000719955",
+  "name": "WILLIAMS SONOMA INC",
+  "entityType": "operating",
+  "sic": "5700",
+  "sicDescription": "Retail-Home Furniture, Furnishings & Equipment Stores",
+  "stateOfIncorporation": "CA",
+  "stateOfIncorporationDescription": "CA",
+  "fiscalYearEnd": "0201",
+  "tickers": [
+    "WSM"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "942203880",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "415-421-7900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 06:59:21 UTC"
+}

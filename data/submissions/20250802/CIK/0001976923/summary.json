@@ -1,0 +1,26 @@
+{
+  "cik": "0001976923",
+  "name": "YOUNEEQAI TECHNICAL SERVICES, INC.",
+  "entityType": "operating",
+  "sic": "7371",
+  "sicDescription": "Services-Computer Programming Services",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "YQAID"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "473905532",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "(250) 216-4275",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 26,
+  "download_timestamp": "2025-08-02 07:30:54 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001233681",
+  "name": "BLACKROCK Ltd DURATION INCOME TRUST",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "BLW"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "200096695",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "888-825-227",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "BLACKROCK LIMITED DURATION INCOME TRUST",
+      "from": "2003-06-20T04:00:00.000Z",
+      "to": "2004-09-29T04:00:00.000Z"
+    },
+    {
+      "name": "BLACKROCK MANAGED DURATION INCOME TRUST",
+      "from": "2003-05-30T04:00:00.000Z",
+      "to": "2003-05-30T04:00:00.000Z"
+    },
+    {
+      "name": "BLACKROCK MANAGED DURATION TRUST",
+      "from": "2003-05-19T04:00:00.000Z",
+      "to": "2003-05-19T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1007,
+  "download_timestamp": "2025-08-02 07:09:08 UTC"
+}

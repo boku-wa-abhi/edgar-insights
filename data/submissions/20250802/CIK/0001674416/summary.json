@@ -1,0 +1,32 @@
+{
+  "cik": "0001674416",
+  "name": "CRISPR Therapeutics AG",
+  "entityType": "operating",
+  "sic": "2836",
+  "sicDescription": "Biological Products, (No Diagnostic Substances)",
+  "stateOfIncorporation": "V8",
+  "stateOfIncorporationDescription": "Switzerland",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRSP"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "473173478",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "6173154600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CRISPR Therapeutics AG",
+      "from": "2016-05-13T04:00:00.000Z",
+      "to": "2025-07-17T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 780,
+  "download_timestamp": "2025-08-02 07:20:23 UTC"
+}

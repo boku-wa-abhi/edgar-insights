@@ -1,0 +1,26 @@
+{
+  "cik": "0001866633",
+  "name": "Consensus Cloud Solutions, Inc.",
+  "entityType": "operating",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CCSI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer",
+  "phone": "3238609200",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 281,
+  "download_timestamp": "2025-08-02 07:28:01 UTC"
+}

@@ -1,0 +1,34 @@
+{
+  "cik": "0001214816",
+  "name": "AXIS CAPITAL HOLDINGS LTD",
+  "entityType": "operating",
+  "sic": "6331",
+  "sicDescription": "Fire, Marine & Casualty Insurance",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AXS",
+    "AXS-PE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(441) 496-2600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AXIS CAPITAL HOLDINGS L",
+      "from": "2003-01-16T05:00:00.000Z",
+      "to": "2003-08-12T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:08:55 UTC"
+}

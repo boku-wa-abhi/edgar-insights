@@ -1,0 +1,28 @@
+{
+  "cik": "0001992818",
+  "name": "ZOOZ Power Ltd.",
+  "entityType": "other",
+  "sic": "3590",
+  "sicDescription": "Misc Industrial & Commercial Machinery & Equipment",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ZOOZ",
+    "ZOOZW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "972-8-6425029",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 86,
+  "download_timestamp": "2025-08-02 07:31:19 UTC"
+}

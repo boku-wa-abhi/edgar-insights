@@ -1,0 +1,26 @@
+{
+  "cik": "0001959224",
+  "name": "Solowin Holdings, Ltd.",
+  "entityType": "other",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "SWIN"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "202-869-0888",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 74,
+  "download_timestamp": "2025-08-02 07:30:27 UTC"
+}

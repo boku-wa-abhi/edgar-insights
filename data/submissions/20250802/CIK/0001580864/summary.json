@@ -1,0 +1,34 @@
+{
+  "cik": "0001580864",
+  "name": "Vroom, Inc.",
+  "entityType": "operating",
+  "sic": "5500",
+  "sicDescription": "Retail-Auto Dealers & Gasoline Stations",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VRM",
+    "VRMWW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "OTC"
+  ],
+  "ein": "901112566",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "646-979-4746",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "AutoAmerica, Inc.",
+      "from": "2013-07-05T04:00:00.000Z",
+      "to": "2014-11-24T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 366,
+  "download_timestamp": "2025-08-02 07:17:41 UTC"
+}

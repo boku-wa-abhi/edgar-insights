@@ -1,0 +1,28 @@
+{
+  "cik": "0001677250",
+  "name": "ZTO Express (Cayman) Inc.",
+  "entityType": "other",
+  "sic": "4210",
+  "sicDescription": "Trucking & Courier Services (No Air)",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "ZTO",
+    "ZTOEF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8621 59139988",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 270,
+  "download_timestamp": "2025-08-02 07:20:28 UTC"
+}

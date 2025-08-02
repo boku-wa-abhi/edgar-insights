@@ -1,0 +1,30 @@
+{
+  "cik": "0000018349",
+  "name": "SYNOVUS FINANCIAL CORP",
+  "entityType": "operating",
+  "sic": "6021",
+  "sicDescription": "National Commercial Banks",
+  "stateOfIncorporation": "X1",
+  "stateOfIncorporationDescription": "United States",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SNV",
+    "SNV-PD",
+    "SNV-PE"
+  ],
+  "exchanges": [
+    "NYSE",
+    "NYSE",
+    "NYSE"
+  ],
+  "ein": "581134883",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7066416500",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1009,
+  "download_timestamp": "2025-08-02 06:56:27 UTC"
+}

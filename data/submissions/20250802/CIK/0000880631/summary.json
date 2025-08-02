@@ -1,0 +1,42 @@
+{
+  "cik": "0000880631",
+  "name": "WisdomTree, Inc.",
+  "entityType": "operating",
+  "sic": "6211",
+  "sicDescription": "Security Brokers, Dealers & Flotation Companies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WT"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "133487784",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "212-801-2080",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WisdomTree Investments, Inc.",
+      "from": "2009-04-03T04:00:00.000Z",
+      "to": "2022-11-04T04:00:00.000Z"
+    },
+    {
+      "name": "INDEX DEVELOPMENT PARTNERS INC",
+      "from": "2002-08-14T04:00:00.000Z",
+      "to": "2006-06-01T04:00:00.000Z"
+    },
+    {
+      "name": "INDIVIDUAL INVESTOR GROUP INC",
+      "from": "1996-07-03T04:00:00.000Z",
+      "to": "2002-06-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1001,
+  "download_timestamp": "2025-08-02 07:02:11 UTC"
+}

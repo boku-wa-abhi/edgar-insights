@@ -1,0 +1,34 @@
+{
+  "cik": "0001666175",
+  "name": "Fortis Inc.",
+  "entityType": "other",
+  "sic": "4911",
+  "sicDescription": "Electric Services",
+  "stateOfIncorporation": "A4",
+  "stateOfIncorporationDescription": "Newfoundland, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "FTS",
+    "FORFF",
+    "FRTSF",
+    "FTPSF",
+    "FTRSF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC",
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "980352146",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "709 737-2800",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 385,
+  "download_timestamp": "2025-08-02 07:20:11 UTC"
+}

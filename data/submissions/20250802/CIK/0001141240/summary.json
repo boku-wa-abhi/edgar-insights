@@ -1,0 +1,32 @@
+{
+  "cik": "0001141240",
+  "name": "LIQUIDMETAL TECHNOLOGIES INC",
+  "entityType": "operating",
+  "sic": "2800",
+  "sicDescription": "Chemicals & Allied Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LQMT"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "330264467",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800-511-3651",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LIQUIDMETAL TECHNOLOGIES",
+      "from": "2001-11-20T05:00:00.000Z",
+      "to": "2003-11-19T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 741,
+  "download_timestamp": "2025-08-02 07:07:58 UTC"
+}

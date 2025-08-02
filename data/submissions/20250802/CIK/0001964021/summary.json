@@ -1,0 +1,34 @@
+{
+  "cik": "0001964021",
+  "name": "noco-noco Inc.",
+  "entityType": "other",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "NCNCF",
+    "NCNWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 6950 3852",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Prime Number Holding Ltd",
+      "from": "2023-02-13T00:00:00.000Z",
+      "to": "2023-08-17T00:00:00.000Z"
+    }
+  ],
+  "filings_count": 80,
+  "download_timestamp": "2025-08-02 07:30:32 UTC"
+}

@@ -1,0 +1,30 @@
+{
+  "cik": "0001879814",
+  "name": "TLGY ACQUISITION CORP",
+  "entityType": "operating",
+  "sic": "2821",
+  "sicDescription": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TLGYF",
+    "TLGUF",
+    "TLGWF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC",
+    "OTC"
+  ],
+  "ein": "981603634",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "302-499-4656",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 201,
+  "download_timestamp": "2025-08-02 07:28:34 UTC"
+}

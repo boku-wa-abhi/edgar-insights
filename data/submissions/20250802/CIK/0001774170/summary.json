@@ -1,0 +1,26 @@
+{
+  "cik": "0001774170",
+  "name": "Powerfleet, Inc.",
+  "entityType": "operating",
+  "sic": "3669",
+  "sicDescription": "Communications Equipment, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "AIOT"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "834366463",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "201-996-9000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 380,
+  "download_timestamp": "2025-08-02 07:23:34 UTC"
+}

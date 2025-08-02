@@ -1,0 +1,32 @@
+{
+  "cik": "0001046257",
+  "name": "Ingredion Inc",
+  "entityType": "operating",
+  "sic": "2040",
+  "sicDescription": "Grain Mill Products",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "INGR"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "223514823",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "7085512600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CORN PRODUCTS INTERNATIONAL INC",
+      "from": "1997-12-17T05:00:00.000Z",
+      "to": "2012-05-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 07:05:35 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0001798458",
+  "name": "Carriage House Event Center, Inc.",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "CO",
+  "stateOfIncorporationDescription": "CO",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CRGH"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "272950800",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "303-730-7939",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 46,
+  "download_timestamp": "2025-08-02 07:24:26 UTC"
+}

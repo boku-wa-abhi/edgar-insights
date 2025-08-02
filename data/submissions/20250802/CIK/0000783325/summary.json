@@ -1,0 +1,32 @@
+{
+  "cik": "0000783325",
+  "name": "WEC ENERGY GROUP, INC.",
+  "entityType": "operating",
+  "sic": "4931",
+  "sicDescription": "Electric & Other Services Combined",
+  "stateOfIncorporation": "WI",
+  "stateOfIncorporationDescription": "WI",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "WEC"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "391391525",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "414-221-2345",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "WISCONSIN ENERGY CORP",
+      "from": "1995-02-28T05:00:00.000Z",
+      "to": "2015-06-29T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1014,
+  "download_timestamp": "2025-08-02 07:00:09 UTC"
+}

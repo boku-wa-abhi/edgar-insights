@@ -1,0 +1,28 @@
+{
+  "cik": "0001158967",
+  "name": "NIDEC CORP",
+  "entityType": "other",
+  "sic": "3621",
+  "sicDescription": "Motors & Generators",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "0331",
+  "tickers": [
+    "NJDCY",
+    "NNDNF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "81759221111",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 561,
+  "download_timestamp": "2025-08-02 07:08:11 UTC"
+}

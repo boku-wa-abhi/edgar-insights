@@ -1,0 +1,42 @@
+{
+  "cik": "0001325964",
+  "name": "Lightwave Logic, Inc.",
+  "entityType": "operating",
+  "sic": "3080",
+  "sicDescription": "Miscellaneous Plastics Products",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "LWLG"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "820497368",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "(720) 340-4949",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "THIRD-ORDER NANOTECHNOLOGIES INC",
+      "from": "2007-04-13T04:00:00.000Z",
+      "to": "2008-02-19T05:00:00.000Z"
+    },
+    {
+      "name": "THIRD-ORDER NANOTECHNOLOIES INC",
+      "from": "2007-02-12T05:00:00.000Z",
+      "to": "2007-02-12T05:00:00.000Z"
+    },
+    {
+      "name": "PSI TEC HOLDINGS INC",
+      "from": "2005-04-27T04:00:00.000Z",
+      "to": "2006-09-08T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 614,
+  "download_timestamp": "2025-08-02 07:10:31 UTC"
+}

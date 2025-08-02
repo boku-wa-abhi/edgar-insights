@@ -1,0 +1,34 @@
+{
+  "cik": "0001896212",
+  "name": "CONDUIT PHARMACEUTICALS INC.",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDT",
+    "CDTTW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "873272543",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "<br>Emerging growth company",
+  "phone": "(646) 491 9132",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Murphy Canyon Acquisition Corp.",
+      "from": "2021-12-09T05:00:00.000Z",
+      "to": "2023-09-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 259,
+  "download_timestamp": "2025-08-02 07:29:02 UTC"
+}

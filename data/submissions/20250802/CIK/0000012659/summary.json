@@ -1,0 +1,26 @@
+{
+  "cik": "0000012659",
+  "name": "H&R BLOCK INC",
+  "entityType": "operating",
+  "sic": "7200",
+  "sicDescription": "Services-Personal Services",
+  "stateOfIncorporation": "MO",
+  "stateOfIncorporationDescription": "MO",
+  "fiscalYearEnd": "0630",
+  "tickers": [
+    "HRB"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "440607856",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "8168543000",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:56:18 UTC"
+}

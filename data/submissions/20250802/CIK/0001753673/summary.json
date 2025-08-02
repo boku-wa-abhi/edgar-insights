@@ -1,0 +1,32 @@
+{
+  "cik": "0001753673",
+  "name": "Scienjoy Holding Corp",
+  "entityType": "operating",
+  "sic": "7374",
+  "sicDescription": "Services-Computer Processing & Data Preparation",
+  "stateOfIncorporation": "D8",
+  "stateOfIncorporationDescription": "Virgin Islands, British",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "SJ"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "(86)0571-88586668",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "Wealthbridge Acquisition Ltd",
+      "from": "2018-09-24T04:00:00.000Z",
+      "to": "2020-05-11T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 271,
+  "download_timestamp": "2025-08-02 07:22:54 UTC"
+}

@@ -1,0 +1,42 @@
+{
+  "cik": "0001140215",
+  "name": "REED'S, INC.",
+  "entityType": "operating",
+  "sic": "2086",
+  "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "REED"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "352177773",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "800 997 3337",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "REED'S INC",
+      "from": "2014-05-14T04:00:00.000Z",
+      "to": "2014-06-16T04:00:00.000Z"
+    },
+    {
+      "name": "REEDS INC",
+      "from": "2002-02-06T05:00:00.000Z",
+      "to": "2014-03-25T04:00:00.000Z"
+    },
+    {
+      "name": "ORIGINAL BEVERAGE CORP /",
+      "from": "2001-10-25T04:00:00.000Z",
+      "to": "2001-10-25T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 940,
+  "download_timestamp": "2025-08-02 07:07:55 UTC"
+}

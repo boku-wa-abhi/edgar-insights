@@ -1,0 +1,32 @@
+{
+  "cik": "0001869601",
+  "name": "Embrace Change Acquisition Corp.",
+  "entityType": "operating",
+  "sic": "6770",
+  "sicDescription": "Blank Checks",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "EMCG",
+    "EMCGR",
+    "EMCGU",
+    "EMCGW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company<br>Emerging growth company",
+  "phone": "(858) 688-4965",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 132,
+  "download_timestamp": "2025-08-02 07:28:10 UTC"
+}

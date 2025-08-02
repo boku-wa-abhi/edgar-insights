@@ -1,0 +1,32 @@
+{
+  "cik": "0000875657",
+  "name": "ULTRALIFE CORP",
+  "entityType": "operating",
+  "sic": "3690",
+  "sicDescription": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "ULBI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "161387013",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Accelerated filer<br>Smaller reporting company",
+  "phone": "3153327100",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ULTRALIFE BATTERIES INC",
+      "from": "1995-10-06T04:00:00.000Z",
+      "to": "2008-06-04T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1003,
+  "download_timestamp": "2025-08-02 07:02:01 UTC"
+}

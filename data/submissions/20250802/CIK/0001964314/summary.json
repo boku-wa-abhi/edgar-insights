@@ -1,0 +1,26 @@
+{
+  "cik": "0001964314",
+  "name": "JBDI Holdings Ltd",
+  "entityType": "other",
+  "sic": "3412",
+  "sicDescription": "Metal Shipping Barrels, Drums, Kegs & Pails",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0531",
+  "tickers": [
+    "JBDI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "65 6861 4150",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 45,
+  "download_timestamp": "2025-08-02 07:30:32 UTC"
+}

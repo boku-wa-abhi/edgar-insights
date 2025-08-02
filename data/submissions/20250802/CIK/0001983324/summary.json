@@ -1,0 +1,28 @@
+{
+  "cik": "0001983324",
+  "name": "Real Messenger Corp",
+  "entityType": "other",
+  "sic": "7370",
+  "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": null,
+  "tickers": [
+    "RMSG",
+    "RMSGW"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Emerging growth company",
+  "phone": "852 9467 1919",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 48,
+  "download_timestamp": "2025-08-02 07:31:04 UTC"
+}

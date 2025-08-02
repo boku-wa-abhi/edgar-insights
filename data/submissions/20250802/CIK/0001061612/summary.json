@@ -1,0 +1,32 @@
+{
+  "cik": "0001061612",
+  "name": "Jackpot Digital Inc.",
+  "entityType": "other",
+  "sic": "7372",
+  "sicDescription": "Services-Prepackaged Software",
+  "stateOfIncorporation": "A1",
+  "stateOfIncorporationDescription": "British Columbia, Canada",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "JPOTF"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "6046810204",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LAS VEGAS FROM HOME COM ENTERTAINMENT INC",
+      "from": "2002-02-14T05:00:00.000Z",
+      "to": "2011-06-21T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 164,
+  "download_timestamp": "2025-08-02 07:05:59 UTC"
+}

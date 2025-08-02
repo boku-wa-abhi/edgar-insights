@@ -1,0 +1,28 @@
+{
+  "cik": "0001987325",
+  "name": "M&G plc/ADR",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "X0",
+  "stateOfIncorporationDescription": "United Kingdom",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "MGPFY",
+    "MGPUF"
+  ],
+  "exchanges": [
+    "OTC",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "212-816-2456",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1,
+  "download_timestamp": "2025-08-02 07:31:10 UTC"
+}

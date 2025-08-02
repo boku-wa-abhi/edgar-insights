@@ -1,0 +1,37 @@
+{
+  "cik": "0001172178",
+  "name": "LIBERTY STAR URANIUM & METALS CORP.",
+  "entityType": "operating",
+  "sic": "1000",
+  "sicDescription": "Metal Mining",
+  "stateOfIncorporation": "NV",
+  "stateOfIncorporationDescription": "NV",
+  "fiscalYearEnd": "0131",
+  "tickers": [
+    "LBSR"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "270019071",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "520-425-1433",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "LIBERTY STAR GOLD CORP",
+      "from": "2004-02-18T05:00:00.000Z",
+      "to": "2007-04-04T04:00:00.000Z"
+    },
+    {
+      "name": "TITANIUM INTELLIGENCE INC",
+      "from": "2002-05-14T04:00:00.000Z",
+      "to": "2004-01-23T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 740,
+  "download_timestamp": "2025-08-02 07:08:30 UTC"
+}

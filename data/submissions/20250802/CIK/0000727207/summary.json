@@ -1,0 +1,32 @@
+{
+  "cik": "0000727207",
+  "name": "Accelerate Diagnostics, Inc",
+  "entityType": "operating",
+  "sic": "3826",
+  "sicDescription": "Laboratory Analytical Instruments",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "AXDXQ"
+  ],
+  "exchanges": [
+    "OTC"
+  ],
+  "ein": "841072256",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "303-863-8088",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "ACCELR8 TECHNOLOGY CORP",
+      "from": "1995-12-15T05:00:00.000Z",
+      "to": "2012-12-26T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:31 UTC"
+}

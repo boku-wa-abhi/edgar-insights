@@ -1,0 +1,32 @@
+{
+  "cik": "0001567569",
+  "name": "First Trust Intermediate Duration Preferred & Income Fund",
+  "entityType": "other",
+  "sic": "",
+  "sicDescription": "",
+  "stateOfIncorporation": "",
+  "stateOfIncorporationDescription": "",
+  "fiscalYearEnd": "1031",
+  "tickers": [
+    "FPF"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "320405071",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "",
+  "phone": "630-765-8000",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "First Trust Intermediate Duration Preferred & Income Trust",
+      "from": "2013-02-01T05:00:00.000Z",
+      "to": "2013-02-04T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 278,
+  "download_timestamp": "2025-08-02 07:17:13 UTC"
+}

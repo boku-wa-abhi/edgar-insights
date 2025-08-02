@@ -1,0 +1,34 @@
+{
+  "cik": "0000818686",
+  "name": "TEVA PHARMACEUTICAL INDUSTRIES LTD",
+  "entityType": "operating",
+  "sic": "2834",
+  "sicDescription": "Pharmaceutical Preparations",
+  "stateOfIncorporation": "L3",
+  "stateOfIncorporationDescription": "Israel",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "TEVA",
+    "TEVJF"
+  ],
+  "exchanges": [
+    "NYSE",
+    "OTC"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "972 (3) 914-8213",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "TEVA PHARMACEUTICAL INDUSTRIES LIMITED",
+      "from": "1996-02-02T05:00:00.000Z",
+      "to": "2001-01-16T05:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 07:00:54 UTC"
+}

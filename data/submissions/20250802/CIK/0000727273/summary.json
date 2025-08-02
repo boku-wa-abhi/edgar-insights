@@ -1,0 +1,34 @@
+{
+  "cik": "0000727273",
+  "name": "CADIZ INC",
+  "entityType": "operating",
+  "sic": "4941",
+  "sicDescription": "Water Supply",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "CDZI",
+    "CDZIP"
+  ],
+  "exchanges": [
+    "Nasdaq",
+    "Nasdaq"
+  ],
+  "ein": "770313235",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer<br>Smaller reporting company",
+  "phone": "213-271-1600",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "CADIZ LAND CO INC",
+      "from": "1994-05-26T04:00:00.000Z",
+      "to": "1998-09-14T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 1000,
+  "download_timestamp": "2025-08-02 06:59:31 UTC"
+}

@@ -1,0 +1,32 @@
+{
+  "cik": "0001507079",
+  "name": "Floor & Decor Holdings, Inc.",
+  "entityType": "operating",
+  "sic": "5211",
+  "sicDescription": "Retail-Lumber & Other Building Materials Dealers",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1225",
+  "tickers": [
+    "FND"
+  ],
+  "exchanges": [
+    "NYSE"
+  ],
+  "ein": "273730271",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "404-471-1634",
+  "flags": "",
+  "formerNames": [
+    {
+      "name": "FDO Holdings, Inc.",
+      "from": "2010-12-07T05:00:00.000Z",
+      "to": "2017-04-10T04:00:00.000Z"
+    }
+  ],
+  "filings_count": 697,
+  "download_timestamp": "2025-08-02 07:15:22 UTC"
+}

@@ -1,0 +1,26 @@
+{
+  "cik": "0000751978",
+  "name": "VICOR CORP",
+  "entityType": "operating",
+  "sic": "3679",
+  "sicDescription": "Electronic Components, NEC",
+  "stateOfIncorporation": "DE",
+  "stateOfIncorporationDescription": "DE",
+  "fiscalYearEnd": "1231",
+  "tickers": [
+    "VICR"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "042742817",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Large accelerated filer",
+  "phone": "(978) 470-2900",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 1002,
+  "download_timestamp": "2025-08-02 06:59:51 UTC"
+}

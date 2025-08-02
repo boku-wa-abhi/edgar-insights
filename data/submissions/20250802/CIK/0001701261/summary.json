@@ -1,0 +1,26 @@
+{
+  "cik": "0001701261",
+  "name": "Farmmi, Inc.",
+  "entityType": "other",
+  "sic": "2033",
+  "sicDescription": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
+  "stateOfIncorporation": "E9",
+  "stateOfIncorporationDescription": "Cayman Islands",
+  "fiscalYearEnd": "0930",
+  "tickers": [
+    "FAMI"
+  ],
+  "exchanges": [
+    "Nasdaq"
+  ],
+  "ein": "000000000",
+  "description": "",
+  "website": "",
+  "investorWebsite": "",
+  "category": "Non-accelerated filer",
+  "phone": "86-0578-82612876",
+  "flags": "",
+  "formerNames": [],
+  "filings_count": 182,
+  "download_timestamp": "2025-08-02 07:21:09 UTC"
+}
