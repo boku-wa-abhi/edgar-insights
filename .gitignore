@@ -131,3 +131,4 @@ dmypy.json
 # Cython debug symbols
 # Add this line to your existing .gitignore
 .venv/
+idea/
