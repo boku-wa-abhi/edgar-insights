@@ -1,8 +1,6 @@
 # SECChronicle
 
 
-
-
 ## Overview
 
 SECChronicle is a full-stack web application that allows users to explore SEC filings for selected stock tickers. It fetches filing data from local storage, summarizes them, and displays them in a timeline format. Users can also download reports in Markdown or PDF format.
