@@ -1,4 +1,4 @@
-# SECChronicle
+# Edgar Insights
 
 ## Overview
 
